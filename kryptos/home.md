@@ -1,8 +1,3 @@
----
-layout: post
-title: Blogging Like a Hacker
----
-
 # KRYPTOS HOME
 
 ### Home - [K0](./kryptosSubParts/K0.md) - [K1](./kryptosSubParts/K1.md) - [K2](./kryptosSubParts/K2.md) - [K3](./kryptosSubParts/K3.md) - [K4](./kryptosSubParts/K4.md) - [K5](./kryptosSubParts/K5.md)
