@@ -1,7 +1,7 @@
 theme: minima
 minima:
   skin: dark
-  version: 2.5.1
+  version: 2.5.2
 
 sass:
   load_paths:
