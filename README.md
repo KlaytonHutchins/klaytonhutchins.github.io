@@ -1,3 +1,3 @@
 # klaytonhutchins.github.io
 
-# [Kryptos](./kryptos/writeups/home.md)
+# [Kryptos](./kryptos/home.md)
