@@ -1,3 +1,10 @@
+---
+---
+
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
+
 /* Default light mode styles */
 body {
   background-color: #ffffff;
