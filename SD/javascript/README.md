@@ -1,4 +1,7 @@
-## JavaScript
+---
+layout: default
+title: JavaScript
+---
 
 ### Topics
 *  [Fundamentals of JavaScript](fundamentals/README.md) 

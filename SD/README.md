@@ -1,4 +1,7 @@
-## JavaScript
+---
+layout: default
+title: Notes / Technologies
+---
 
 ### Topics
 *  [JavaScript](javascript/README.md) 
