@@ -5,4 +5,4 @@
 
 <hr>
 
-[Up](../home.md) | [Next](fundamentals/README.md)
+[Up](../index.md) | [Next](fundamentals/README.md)
