@@ -1,3 +1,3 @@
 
 # [Kryptos](./kryptos/home.md)
-# [SD](./SD/home.md)
+# [SD](./SD/README.md)
