@@ -1,4 +1,7 @@
-## Fundamentals of JavaScript
+---
+layout: default
+title: Fundamentals of JavaScript
+---
 
 ### Objectives
 * Gain functional knowledge of JavaScript syntax.
