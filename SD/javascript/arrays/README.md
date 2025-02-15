@@ -1,4 +1,7 @@
-## Arrays
+---
+layout: default
+title: Arrays
+---
 
 ### Objectives
 * Create and use a JavaScript array.

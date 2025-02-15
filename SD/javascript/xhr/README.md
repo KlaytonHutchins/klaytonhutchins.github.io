@@ -1,4 +1,7 @@
-## XmlHttpRequest (XHR)
+---
+layout: default
+title: XmlHttpRequest (XHR)
+---
 
 ### Objectives
 * Look at how the JavaScript event loop works.

@@ -1,4 +1,7 @@
-## The DOM
+---
+layout: default
+title: The DOM
+---
 
 ### Topics
 *  [Intro to the DOM](introToDom/README.md) 

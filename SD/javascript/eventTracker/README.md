@@ -1,4 +1,7 @@
-## Event Tracker
+---
+layout: default
+title: Event Tracker
+---
 
 ### Overview
 This project is as much about using JSON and SpringREST as it is handling JSON responses with JavaScript.

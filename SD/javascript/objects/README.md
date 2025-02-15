@@ -1,4 +1,7 @@
-## Objects
+---
+layout: default
+title: Objects
+---
 
 ### Objectives
 * Review JS Object Literals.
