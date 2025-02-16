@@ -61,7 +61,7 @@ xhr.send();
 console.log('After send(): ' + xhr.readyState); // 1 => OPENED
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 
 > Modify your `app.js` to print the `readyState` before and after `open` as well as immediately before and after `send`, and refresh the browser.
 >

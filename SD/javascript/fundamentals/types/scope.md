@@ -69,7 +69,7 @@ console.log(name);
 let name;
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > 
 > You will find many examples, tutorials, etc. that use `var`, especially older ones.  For our purposes as we learn JavaScript, using `var` probably won't cause problems in our code or make any difference in our code's logic.
 > 

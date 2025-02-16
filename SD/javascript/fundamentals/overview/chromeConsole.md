@@ -24,7 +24,7 @@ We will see all the feedback, error messages or logged information for our JavaS
 ### Writing JS
 The console can also be used to write live JS to interact with your page in real time. Anything saved to the global scope is accessible in the web console.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. In a Chrome browser, open the DevTools console.  
 > 1. Write the statement `var x = 5;`.
 > 1. Enter just `x` and see what is returned.  

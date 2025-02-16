@@ -83,7 +83,7 @@ arr[2] = 'three';
 arr; // [ 'one', 'two', 'three' ]
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array literal with three strings and store it in `var strings`.
 >    * Use *subscript notation* to access each of the strings and concatenate them.
 >

@@ -72,7 +72,7 @@ You will see many programmers load their scripts at the bottom of the `<body>`.
 
 This is to ensure that the entire HTML document has been loaded by the browser before it tries to execute any of our scripts.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. We are going to be making a number of files while learning JavaScript. For organization sake lets create a directory to store all of our JS code. We currently have an `SD` directory with a `Java` folder. Create a second folder,  `SD/JS`.
 >
 > 1. Create an HTML document called `helloJS.html`.  

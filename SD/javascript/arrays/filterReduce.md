@@ -73,7 +73,7 @@ title: filter, reduce
   ```  
 
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array of numbers named `nums` that stores the values 1-10.  
 >
 > 1. Use `filter()` to return only the numbers from your `nums` array that are even.

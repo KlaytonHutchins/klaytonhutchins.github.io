@@ -48,7 +48,7 @@ arr.push('kiwi'); // 4
 arr; // [1,2,3,'kiwi']
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > * Create a folder ArrayHandsOn in `SD/JS`. Inside of this location create an `array.js` file and an `array.html` file. We will use this file for all of the hands ons in this chapter.
 > * Assign an empty array to a variable named `classmates`.  
 >
@@ -65,7 +65,7 @@ arr.pop(); // 4
 arr; // [1,2,3]
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > * Use `pop()` to store the last name from your `classmates` array into a variable named `last`.  
 >
 > * Use `console.log` to print out `last`, and use another `console.log` to print out the `classmates` array.

@@ -29,7 +29,7 @@ title: indexOf, lastIndexOf
   arr.lastIndexOf('not found'); // -1
   ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create the following array:
     ```javascript  
     let arr = ["Apple", "Banana", "Coconut", "Apple"];

@@ -54,7 +54,7 @@ title: Iterating with forEach and map
   }); // [ 1, 4, 9, 16, 25 ]
   ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array of numbers named `nums` that stores the values 1-10.  
 >
 > 1. Use `forEach` to print out the current index, followed by the number stored there.

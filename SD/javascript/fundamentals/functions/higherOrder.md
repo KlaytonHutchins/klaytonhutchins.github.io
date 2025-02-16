@@ -63,7 +63,7 @@ nums.forEach(isEven);
 We have never seen behavior like this before. 
 * Because functions are considered 'values', no different than a number, string, or object, they can be passed to functions and used in a similar fashion.
 
- ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+ ### Skill Drill
 1. When we define a function and print the value of the assigned name, what do we get?
 
     ```javascript

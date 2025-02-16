@@ -72,7 +72,7 @@ This means that we can select values users enter into our fields with the `value
 
 When a form is empty, the `value` property would be `""`.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a form with two text input fields and a submit button.
 > 1. Assign the input fields default values, e.g. `<input name="fname" value="Jack" />`.
 > 1. Print out the values of those input fields to the console.

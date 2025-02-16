@@ -49,7 +49,7 @@ console.log(data.name); // Bob Dobbs
 console.log(data.email); // bdobbs@gmail.com
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array called `log`.  
 >
 > 1. Create an object called `day1` and assign it properties `date` (String representation of the date), `didWorkout` (boolean), `foodConsumed` (an array of strings),

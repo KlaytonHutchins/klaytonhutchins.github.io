@@ -19,7 +19,7 @@ The worst name in all of programming goes to `NaN`.
 var x = 5/"Banana"; // NaN
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. In the Chrome developers console, practice declaring and initializing variables.
 >
 > 1. Declare a variable `num`.

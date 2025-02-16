@@ -39,7 +39,7 @@ This last property is particularly useful as it contains a reference to the obje
 
 * Now, when the button is clicked, it will change the text on the button to 'This Button Has Been Clicked'
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Add a button to your HTML document that says 'Off'.
 > 1. When the button is clicked, change the text of the button to 'On'.
 > 1. If the button is clicked again, it should toggle back to 'Off'. This process should continue indefinitely.  

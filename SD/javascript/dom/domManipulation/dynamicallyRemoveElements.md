@@ -64,7 +64,7 @@ If you want to remove a full list of items, simply continue removing Elements in
 </html>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an ordered list with 5 `<li>` elements inside of it in your HTML document.
 > 1. Create an event listener for page load.
 > 1. Inside of the callback function, target the entire list of items.
@@ -98,7 +98,7 @@ If you would like to remove the entire Element (not just its children), you can 
 </html>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Look back at our previous Skill Drill example. If you look in the chrome elements tab the `<ol></ol>` is still present in the dom.
 > 1. Alter the code to remove the entire `<ol>` object rather than just its children.
 

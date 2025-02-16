@@ -73,7 +73,7 @@ Let's use these to practice event listeners:
 </html>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > * Refactor your click event from the earlier example to alert the user the button has been clicked.
 
 <hr>

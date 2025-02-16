@@ -67,7 +67,7 @@ title: reverse, sort
     words; // ["Apple", "Banana", "Coconut", "apple"]
     ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array of strings containing 3 proper nouns (capitalized first letters) and 3 which are all lowercase, and store it into a variable `nouns`.  
 >
 > 1. Call the `reverse` function on your `nouns` variable and print out the array.

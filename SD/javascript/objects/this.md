@@ -7,7 +7,7 @@ JavaScript does not have analogous classes to Object Oriented languages.
 
 JavaScript has *objects* and *functions*.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > Technically, a function is just a special type of object.
 
 
@@ -58,7 +58,7 @@ let dog = {
 dog.getFullName(); // Sparky Le Grange
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a variable named `tree`.  
 >
 > 1. Give `tree` an `age` property, and set it equal to some number.  

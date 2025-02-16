@@ -23,7 +23,7 @@ The `Document` interface inherits from the `HTMLDocument` interface, which provi
   * create new HTML elements
   * set up event listeners
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > * In a chrome console, type in `window.document` and see what is returned.
 
 The Document Object Model (DOM), is a tree of objects (see below for an example) that the browser creates.

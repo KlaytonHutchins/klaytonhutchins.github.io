@@ -34,7 +34,7 @@ A language is *Untyped* (where variables are *Dynamically Typed* at runtime) if 
 
 Unfortunately, it is more difficult to catch bugs in a runtime environment, and untyped languages frequently suffer from 'silent' failures which can be difficult to debug.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an `index.html` and `script.js` file. Source the `script.js` file in your html file.
 >
 > 1. Open a browser, and use dev tools to open the Chrome Console. This console is the standard out for browser JavaScript.

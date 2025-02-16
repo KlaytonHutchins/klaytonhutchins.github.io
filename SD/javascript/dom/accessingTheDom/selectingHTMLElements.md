@@ -104,7 +104,7 @@ p
 
 * It is important to note that the items above that look like `Array`s are not actually `Array`s, they are `HTMLCollection`s. These are `Array`-like-objects that can be iterated over, but which do not have access to the the `Array` methods.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an HTML document with the following content
 >    ```html
 >    <body>
@@ -158,12 +158,12 @@ Text Content: SD
 Text Content: SD14
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > Using the same HTML as the previous drill, select the header with text content 'Header 33' and change its value to 'Header 3'.
 
 <hr>
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > The DOM exists for all web pages and we can access these values by using the chrome console. For example, if we navigate to _CNN_ we can locally alter some of the values associated with their site.
 > 1. Open the chrome console, and select the value with class `banner-text`.
 >    ```js

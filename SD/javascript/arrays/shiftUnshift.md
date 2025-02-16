@@ -25,7 +25,7 @@ arr.unshift('kiwi'); // 5
 arr; // ['kiwi',1,2,3,4]
 ```  
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a `classmates` array, that has the string representation of a few of your class' first names inside of it.
 >
 > 1. Use `shift()` to store the first name from your `classmates` array into a variable named `first`.  

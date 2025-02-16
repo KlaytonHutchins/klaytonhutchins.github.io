@@ -50,7 +50,7 @@ console.log(obj.name); // => "value"
 *Subscript Notation* is extremely powerful. It can be used to access properties of objects with the returned values from function calls, as well as make use of property names that would be invalid with *Dot Notation* (although for obvious reasons you should avoid this practice).
 
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Assign `name`, `email`, `age`, `employed`, and `favoriteMovies` (an array of strings) properties to a `person` object.  
 >
 > 1. Push your `person` object into the `people` array.  
@@ -94,7 +94,7 @@ let obj = {};
 obj.name; // => undefined
 ```
 
- ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+ ### Skill++
 We said previously that keys can be Strings or Numbers. If a key is a number it can only be accessed via subscript notation.
 
 ```js

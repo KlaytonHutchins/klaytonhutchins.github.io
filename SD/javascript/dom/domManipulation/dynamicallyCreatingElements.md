@@ -38,12 +38,12 @@ document.body.appendChild(div);
 console.log(div) // <div id='myDiv'></div>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a `<h1>` element using JavaScript.
 > 1. Set the `<h1>` element's `textContent` to "Hello World".
 > 1. Append the element to the body.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > There is also an `insertBefore()` method that allows you to insert a node as the previous sibling of the selected node.
 
 <br>
@@ -76,7 +76,7 @@ items.forEach(function(value, index, array) {
 document.body.appendChild(ul);
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array of your favorite foods.
 > 1. Create a _ordered_ list element using JavaScript.
 > 1. Loop over the array of foods, creating a `<li>` for each food and setting its text content accordingly.
@@ -133,7 +133,7 @@ Forms can be created and appended in the same way as any other elements:
 </body>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a page load event listener.
 > 1. Inside of the events callback function, create a form element using js and assign it a name value.
 > 1. Create two input field elements, one for an email, the other for a password. Append them to the form element.

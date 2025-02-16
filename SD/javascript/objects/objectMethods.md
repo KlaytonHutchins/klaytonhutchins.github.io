@@ -66,7 +66,7 @@ console.log(myObj.makeArray(1,5,2,34,1,67));
 ```
 
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a new object `let myMath`.
 > 1. Assign `myMath` properties like `add(num1,num2)`, `subtract(num1,num2)`, `multiply(num1,num2)` and `divide(num1,num2)`, which return the computed value of each operation.
 > 1. Invoke each potential operation and ensure a result is returned.

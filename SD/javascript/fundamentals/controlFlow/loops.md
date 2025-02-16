@@ -51,7 +51,7 @@ for (let i in intArray) {
 }
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > 
 > To keep these two loops straight, remember:
 > 

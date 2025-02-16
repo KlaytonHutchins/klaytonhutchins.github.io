@@ -33,7 +33,7 @@ The above example illustrates how you can add a 'click' event listener to a `<bu
 
 Inside of that anonymous function is the only place we can write code that will be executed when the event is fired.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Add a button element to your HTML document. Give it a unique id.
 > 1. Add a click event listener to the button. When the button is clicked print out a message to the console.
 > 1. Add a second element `<h1 id="target">Second Element</h1>` to your HTML document.

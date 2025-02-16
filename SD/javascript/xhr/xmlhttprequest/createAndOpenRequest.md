@@ -27,7 +27,7 @@ xhr.open('GET', 'http://someUrl.com/resource', true);
 xhr.open('GET', 'http://someUrl.com/resource', false);
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > We will never send XHR requests synchronously, which would freeze our browser until the request completes.
 > Instead we will usually just omit the third argument to `open`, letting it default to `true` for an asynchronous request.
 

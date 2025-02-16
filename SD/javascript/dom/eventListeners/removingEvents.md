@@ -26,7 +26,7 @@ target.addEventListener('click', callback);
 target.removeEventListener("click", callback);
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an html document with a button element.
 > 1. Assign the button a `click` event that `console.log`s the number of times the button has been clicked. Make sure that the callback function is a named function as opposed to an anonymous one.
 > 1. When the button has been clicked 5 times, remove the event listener.

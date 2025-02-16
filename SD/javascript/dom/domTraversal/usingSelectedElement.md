@@ -65,7 +65,7 @@ Once an HTML element has been selected you can access that element's children, p
 <body>...</body>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > Use the following HTML for this example.
 > ```html
 > <body>

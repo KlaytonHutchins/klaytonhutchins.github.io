@@ -32,7 +32,7 @@ let confirmWindowLoad = function(e) {
 window.addEventListener('load', confirmWindowLoad);
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create two files called eventEx.html and eventEx.js.
 > 1. Create a basic HTML structure in the html file and link to the eventEx.js file.
 > 1. In your `.js` file write an event listener that notifies you when the document has loaded.

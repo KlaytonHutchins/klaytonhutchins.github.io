@@ -41,7 +41,7 @@ Arrow functions do not have their own value of `this`.
 
 * The `this` variable is inherited from the current scope of the arrow function.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create an array `let arr = ["Apple", "Banana", "Coconut", 45, 12, 2, true];`.
 > 1. Use the `.find` method in conjunction with an arrow function to find the element `"Coconut"`. If you do not know how to use the `.find` method take at the documentation [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find).
 

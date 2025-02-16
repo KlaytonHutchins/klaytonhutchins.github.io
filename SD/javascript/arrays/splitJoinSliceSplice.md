@@ -44,7 +44,7 @@ title: split, join, slice, splice
   arr; // [ 'zero', 'one', 'two', 'three' ] => Non-destructive
   ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
   > Remember that assigning an array to a variable assigns a _reference_ to the original array:
   > 
   > ```javascript

@@ -138,7 +138,7 @@ applicationRunner.run();
 applicationRunner.adminPassword // undefined
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a `movieFactory` function expression which takes three parameters, `title`, `year`, `runtime`.  
 >
 > 1. Create setters, getters, and a display function.  

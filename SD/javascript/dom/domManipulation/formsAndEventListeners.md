@@ -32,7 +32,7 @@ If we are adding an event listener to a form and forget to add the `preventDefau
 </body>
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > 1. Create a form with two text input fields and a submit button
 > 1. Assign an event listener to the submit button. Remember, because it is a form submit we have to prevent the default action of the form.
 > 1. When the button is clicked, print out the values the user entered into the text fields.

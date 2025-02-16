@@ -17,7 +17,7 @@ x == 'hello' // true
 x == 'squirrel' // false
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 > Do this drill in the Chrome Console.
 >
 > 1. Create a new string using double quotes, and include single quotes inside of it.
