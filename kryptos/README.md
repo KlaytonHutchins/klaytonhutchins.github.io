@@ -37,8 +37,6 @@ V T T M Z F P K W G D K Z X T J C D I G K U H U A U E K C A R     |   A B C D E 
 Note: The left side of the sculpture (ciphertext) does not align well as a grid due to the font used.
 ```
 
+<hr>
 
-
-
-
-
+[Up](../README.md)

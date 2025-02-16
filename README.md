@@ -3,6 +3,6 @@ layout: default
 title: Home
 ---
 
-# [Kryptos](./kryptos/home.md)
+# [Kryptos](./kryptos/README.md)
 # [SD](./SD/README.md)
 
