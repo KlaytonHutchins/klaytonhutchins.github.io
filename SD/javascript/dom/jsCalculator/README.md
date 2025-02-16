@@ -1,4 +1,7 @@
-# JS Calculator
+---
+layout: default
+title: JS Calculator
+---
 
 ### Introduction
 Now that you have learned JavaScript syntax and been given an introduction to how JavaScript is used in the browser, it is time to apply your skills and get some experience creating a user interface.

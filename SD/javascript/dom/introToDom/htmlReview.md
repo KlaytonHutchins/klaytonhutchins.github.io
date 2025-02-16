@@ -1,4 +1,7 @@
-## HTML Review  
+---
+layout: default
+title: HTML Review  
+---
 
 Access to the DOM allows us to manipulate our existing HTML pages using JavaScript. Using the tools the DOM provides us we can add, remove, and update HTML elements to alter a user's experience. It may seem trivial to review, but truly understanding an HTML element is key to getting the most out of our client-side JS.
 

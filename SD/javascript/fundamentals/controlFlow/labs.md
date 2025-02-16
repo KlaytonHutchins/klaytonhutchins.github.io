@@ -1,4 +1,7 @@
-## Control Flow Lab
+---
+layout: default
+title: Control Flow Lab
+---
 
 Resources for this lab: [resources/labs](resources/labs)
 

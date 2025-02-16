@@ -1,4 +1,7 @@
-## Determine If an Object Is an Array
+---
+layout: default
+title: Determine If an Object Is an Array
+---
 
 JS Arrays are objects.
 

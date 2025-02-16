@@ -1,4 +1,7 @@
-### Loops
+---
+layout: default
+title: Loops
+---
 
 `for`, `do...while` and `while` loop syntax is the same in JS as it is in Java.
 

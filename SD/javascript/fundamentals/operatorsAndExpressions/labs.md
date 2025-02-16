@@ -1,4 +1,7 @@
-## Operators Lab
+---
+layout: default
+title: Operators Lab
+---
 
 Resources for this lab: [resources/labs](resources/labs)
 

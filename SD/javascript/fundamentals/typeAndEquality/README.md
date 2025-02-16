@@ -1,4 +1,7 @@
-## Determining Type and Equality
+---
+layout: default
+title: Determining Type and Equality
+---
 
 ### Topics
 *  [JavaScript Type Conversions](jsTypeConversion.md) 

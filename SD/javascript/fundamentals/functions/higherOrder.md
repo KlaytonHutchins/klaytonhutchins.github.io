@@ -1,4 +1,7 @@
-## Higher Order Functions
+---
+layout: default
+title: Higher Order Functions
+---
 
 > #### higher order function
 > A function that takes a function as an argument or returns a function as a result.

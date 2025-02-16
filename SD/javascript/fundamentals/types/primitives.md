@@ -1,4 +1,7 @@
-## Primitive Datatypes
+---
+layout: default
+title: Primitive Datatypes
+---
 The JavaScript primitive datatypes are:
 
 * Boolean (`true` or `false`)

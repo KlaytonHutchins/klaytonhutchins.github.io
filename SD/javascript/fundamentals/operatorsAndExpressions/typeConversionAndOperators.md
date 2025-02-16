@@ -1,4 +1,7 @@
-## Operators and Expressions
+---
+layout: default
+title: Operators and Expressions
+---
 JavaScript has the same syntax and rules as Java regarding operators and expressions.
 
 We will not take a look at all the expressions available to us as we assume that you attained this knowledge while learning the Java curriculum.

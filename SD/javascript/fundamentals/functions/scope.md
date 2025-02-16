@@ -1,4 +1,7 @@
-## Variable Scope
+---
+layout: default
+title: Variable Scope
+---
 
 Variables declared outside of functions are said to be in the _global scope_. 
 

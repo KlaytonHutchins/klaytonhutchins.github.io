@@ -1,4 +1,7 @@
-## `reverse`, `sort`
+---
+layout: default
+title: reverse, sort
+---
 
 ### `reverse()`
 * Destructive function which reverses the order of elements in an existing array.

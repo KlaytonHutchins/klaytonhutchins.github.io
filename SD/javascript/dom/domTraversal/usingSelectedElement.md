@@ -1,4 +1,7 @@
-## Using a Selected Element to traverse the DOM
+---
+layout: default
+title: Using a Selected Element to traverse the DOM
+---
 
 Once an HTML element has been selected you can access that element's children, parent, and siblings.
 

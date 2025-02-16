@@ -1,4 +1,7 @@
-## Event Object
+---
+layout: default
+title: Event Object
+---
 When an event listener is triggered, the callback function is passed the Event object.
 * You may have noticed that all the examples have `e` passed into their callback functions. JavaScript injects this dependency into any method that represents an event listener.
 

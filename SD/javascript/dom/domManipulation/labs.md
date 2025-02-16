@@ -1,4 +1,7 @@
-## Labs
+---
+layout: default
+title: Labs
+---
 
 1. Create an HTML file named 'manipulate.html', and a JS file named 'manipulate.js'.
 

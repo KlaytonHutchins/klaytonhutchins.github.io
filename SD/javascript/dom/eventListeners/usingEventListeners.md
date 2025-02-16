@@ -1,4 +1,7 @@
-## Using Event Listeners
+---
+layout: default
+title: Using Event Listeners
+---
 There are a large number of events that you can observe and use, a full list can be found on MDN: [Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 

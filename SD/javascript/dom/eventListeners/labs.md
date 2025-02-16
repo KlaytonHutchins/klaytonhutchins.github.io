@@ -1,4 +1,7 @@
-## Labs
+---
+layout: default
+title: Labs
+---
 
 ### Key Logger
 1. Create files named `keylogger.js` and `keylogger.html`.  

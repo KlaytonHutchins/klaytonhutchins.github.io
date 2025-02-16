@@ -1,4 +1,7 @@
-## JavaScript Function Life Cycle
+---
+layout: default
+title: JavaScript Function Life Cycle
+---
 How does JavaScript do this? What happens to a callback when it's invoking function exits the call stack? To answer these questions let's review the entire life cycle of an asynchronous function in the JS runtime:
 
 ```javascript

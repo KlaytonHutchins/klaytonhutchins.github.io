@@ -1,4 +1,7 @@
-## Null & Undefined
+---
+layout: default
+title: Null & Undefined
+---
 `null` represents the absence of a value.
 
 `null` is **not** a default value for a variable. It represents an intentional choice, potentially signifying the absence of data in correctly functioning code.

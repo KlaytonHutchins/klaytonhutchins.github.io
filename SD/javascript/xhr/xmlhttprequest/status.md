@@ -1,4 +1,7 @@
-## Checking the Response Status with the `status` Property
+---
+layout: default
+title: Checking the Response Status with the `status` Property
+---
 
 The `XMLHttpRequest.status` property returns the numerical status code of the response of the XMLHttpRequest. 
 

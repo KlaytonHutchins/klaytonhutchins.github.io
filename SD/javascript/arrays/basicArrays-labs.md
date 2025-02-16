@@ -1,4 +1,7 @@
-## Basic Arrays Lab
+---
+layout: default
+title: Basic Arrays Lab
+---
 
 Resources for this lab: [resources/labs/basicArrays](resources/labs/basicArrays)
 

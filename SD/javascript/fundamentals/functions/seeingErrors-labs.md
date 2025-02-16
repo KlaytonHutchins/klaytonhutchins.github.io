@@ -1,4 +1,7 @@
-## Lab: Seeing Errors
+---
+layout: default
+title: Lab - Seeing Errors
+---
 
 Resources for this lab: [resources/labs/seeingErrors](resources/labs/seeingErrors)
 

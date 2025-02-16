@@ -1,4 +1,7 @@
-## Defining Functions
+---
+layout: default
+title: Defining Functions
+---
 
 Function declarations begin with the `function` keyword and are followed by three components:
 

@@ -1,4 +1,7 @@
-## JavaScript Overview  
+---
+layout: default
+title: JavaScript Overview  
+---
 
 We are on to our next major programming language!
 

@@ -1,4 +1,7 @@
-## `filter`, `reduce`
+---
+layout: default
+title: filter, reduce
+---
 
 ### `filter(func(x,i))`
 * `filter()` returns a subset of an array based on a function you provide. This function should be a predicate (returning `true` or `false`) which the `filter()` will use to build the collection it returns. The function will be passed two values: the first is the value of the current element; the other is the current index.

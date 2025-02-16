@@ -1,4 +1,7 @@
-## Assigning Properties to Objects
+---
+layout: default
+title: Assigning Properties to Objects
+---
 After creation, objects can be assigned additional properties.
 
 This assignment is *Ex Nihilo* (latin for 'from nothing'). That is, you may assign properties to any object as needed.

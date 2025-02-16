@@ -1,4 +1,7 @@
-## Function Parameters
+---
+layout: default
+title: Function Parameters
+---
 
 Function _parameters_ are the names provided in the function definition.
 

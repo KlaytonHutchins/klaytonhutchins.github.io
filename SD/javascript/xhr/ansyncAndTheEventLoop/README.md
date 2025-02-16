@@ -1,4 +1,7 @@
-## Asynchronicity and the Event Loop
+---
+layout: default
+title: Asynchronicity and the Event Loop
+---
 
 ### Objectives
 * Learn how JavaScript handles asynchronous functions.

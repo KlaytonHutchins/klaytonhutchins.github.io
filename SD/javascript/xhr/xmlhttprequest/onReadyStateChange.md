@@ -1,4 +1,7 @@
-## Using `onreadystatechange`
+---
+layout: default
+title: Using `onreadystatechange`
+---
 
 The `XMLHttpRequest.onreadystatechange` property contains the event handler to be called when the `readystatechange` event is fired - that is, every time the `readyState` property of the XMLHttpRequest changes. 
 

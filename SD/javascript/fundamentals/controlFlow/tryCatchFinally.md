@@ -1,4 +1,7 @@
-## `throw`, `try`, `catch` and `finally`
+---
+layout: default
+title: `throw`, `try`, `catch` and `finally`
+---
 The syntax for `try`/`catch` blocks in JavaScript is very similar to Java's. However, as nothing in JavaScript is typed, you are limited to a single catch block (how would JS know to catch one exception vs another?):
 
 ```javascript

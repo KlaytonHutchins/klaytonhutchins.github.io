@@ -1,4 +1,7 @@
-## XMLHttpRequest Object
+---
+layout: default
+title: XMLHttpRequest Object
+---
 
 Literally 'eXtensible Markup Language Hypertext Transfer Protocol Request Object'.
 

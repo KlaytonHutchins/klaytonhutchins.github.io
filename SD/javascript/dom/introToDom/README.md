@@ -1,4 +1,7 @@
-## Intro to the DOM
+---
+layout: default
+title: Intro to the DOM
+---
 
 ### Objectives
 

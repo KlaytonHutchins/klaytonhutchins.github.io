@@ -1,4 +1,7 @@
-## Labs
+---
+layout: default
+title: Labs
+---
 
 1. Create an HTML file named `traverse.html` and a JavaScript file named `traverse.js`.  
 

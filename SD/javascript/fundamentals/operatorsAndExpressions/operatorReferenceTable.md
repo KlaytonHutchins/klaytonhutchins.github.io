@@ -1,4 +1,7 @@
-### Operator Reference Table
+---
+layout: default
+title: Operator Reference Table
+---
 | Operator | Operation | Associativity | Types |
 |:---:|---|:---:|---|
 |++|Pre or post-increment | R | val -> num |

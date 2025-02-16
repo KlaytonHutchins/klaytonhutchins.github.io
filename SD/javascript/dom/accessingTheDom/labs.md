@@ -1,4 +1,7 @@
-## Labs
+---
+layout: default
+title: Labs
+---
 
 1. Create an HTML file named `selecting.html` and a JavaScript file named `selecting.js`.
 

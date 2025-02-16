@@ -1,4 +1,7 @@
-## Datatypes Lab
+---
+layout: default
+title: Datatypes Lab
+---
 
 Resources for this lab: [resources/labs](resources/labs)
 

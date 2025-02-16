@@ -1,4 +1,7 @@
-## Algorithms Lab
+---
+layout: default
+title: Algorithms Lab
+---
 
 Resources for this lab: [resources/labs/algorithms](resources/labs/algorithms)
 

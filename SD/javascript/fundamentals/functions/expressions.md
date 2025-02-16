@@ -1,4 +1,7 @@
-## Function Expressions
+---
+layout: default
+title: Function Expressions
+---
 
 JavaScript functions can be stored as values.
 

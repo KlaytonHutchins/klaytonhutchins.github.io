@@ -1,4 +1,7 @@
-## Variable Hoisting
+---
+layout: default
+title: Variable Hoisting
+---
 
 JavaScript has a very unique behavior regarding variables declared with `var`.
 

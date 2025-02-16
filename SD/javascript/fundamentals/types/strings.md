@@ -1,4 +1,7 @@
-## Strings
+---
+layout: default
+title: Strings
+---
 A string can be defined with either single or double quotes:
 
 ```javascript

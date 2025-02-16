@@ -1,4 +1,7 @@
-## Deploying Spring Boot Apps
+---
+layout: default
+title: Deploying Spring Boot Apps
+---
 
 When we use _Run As..._ | _Spring Boot Application_ in our development environment, Eclipse:
 

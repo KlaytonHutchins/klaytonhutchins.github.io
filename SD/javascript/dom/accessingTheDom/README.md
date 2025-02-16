@@ -1,4 +1,7 @@
-## Accessing the DOM
+---
+layout: default
+title: Accessing the DOM
+---
 
 ### Topics
 *  [Selecting HTML Elements](selectingHTMLElements.md) 

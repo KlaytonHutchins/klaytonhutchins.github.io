@@ -1,4 +1,7 @@
-## Dynamically Creating Elements
+---
+layout: default
+title: Dynamically Creating Elements
+---
 The document object is capable of creating new `HTMLElement` objects programmatically and adding them to the DOM tree.
 
 

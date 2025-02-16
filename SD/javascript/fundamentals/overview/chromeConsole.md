@@ -1,4 +1,7 @@
-## The Chrome Console  
+---
+layout: default
+title: The Chrome Console  
+---
 
 The Chrome console is going to be our primary debugging tool when writing JavaScript. Because it is a non-compiled language, our errors will not be caught prior to trying to execute the code. All of the client side errors that occur, or printouts we include in our code (using `console.log()`), will show up in the Chrome console.
 

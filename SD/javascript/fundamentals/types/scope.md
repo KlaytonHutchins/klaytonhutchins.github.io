@@ -1,4 +1,7 @@
-### Scoping - `let` and `const`
+---
+layout: default
+title: Scoping - `let` and `const`
+---
 
 The `var` keyword is function-scoped in JavaScript and can cause some unexpected behaviors.
 

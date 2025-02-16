@@ -1,4 +1,7 @@
-## Selecting Forms and Form Attributes by Name
+---
+layout: default
+title: Selecting Forms and Form Attributes by Name
+---
 The Document object makes selecting forms easy using the `name` attribute on an HTML form.
 
 When the browser encounters a `<form>` tag as it's rendering the page it will create a "shortcut" variable on the `document` for ease of access.

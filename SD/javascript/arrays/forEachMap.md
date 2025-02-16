@@ -1,4 +1,7 @@
-## Iterating with `forEach` and `map`
+---
+layout: default
+title: Iterating with `forEach` and `map`
+---
 
 ### `forEach(func(value, index, array))`
 * `forEach()` will iterate over each element of an array and apply a provided function to each element as it iterates. The function will be passed three arguments:

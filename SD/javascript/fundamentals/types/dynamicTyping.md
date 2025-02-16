@@ -1,4 +1,7 @@
-## _Untyped_ vs _Typed_
+---
+layout: default
+title: _Untyped_ vs _Typed_
+---
 
 ### *Typed* Languages
 A language is *Typed* (where variables are *Statically Typed* - assigned before runtime) if the type of a reference value is restricted to the type of value it can represent. As an example:

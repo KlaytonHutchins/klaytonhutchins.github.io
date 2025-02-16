@@ -1,4 +1,7 @@
-## Game Logic - Objects Exercise
+---
+layout: default
+title: Game Logic - Objects Exercise
+---
 
 Resources for this lab: [resources/labs/gameLogic](resources/labs/gameLogic)
 

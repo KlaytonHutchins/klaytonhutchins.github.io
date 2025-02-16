@@ -1,4 +1,7 @@
-### `typeof` and Operand Conversion
+---
+layout: default
+title: `typeof` and Operand Conversion
+---
 The `typeof` operator returns a string representation of the type of the provided value.
 
 ```javascript

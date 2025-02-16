@@ -1,4 +1,7 @@
-## Key - Value Pairs
+---
+layout: default
+title: Key - Value Pairs
+---
 > ... hashes, maps, dictionaries, objects...whatever you want to call them
 
 Resources for this lab: [resources/labs/objectsAreKeyValuePairs](resources/labs/objectsAreKeyValuePairs)

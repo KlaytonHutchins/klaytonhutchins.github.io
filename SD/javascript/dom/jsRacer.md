@@ -1,4 +1,7 @@
-## JS Racer
+---
+layout: default
+title: JS Racer
+---
 
 ### Application Overview
 It's time to dip a toe into the world of games. Albeit a very tiny toe.  

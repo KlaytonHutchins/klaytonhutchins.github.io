@@ -1,4 +1,7 @@
-## Object Methods
+---
+layout: default
+title: Object Methods
+---
 **Any** value may be assigned to an object property, including a *function*.
 
 A function that is assigned to a property of an object is referred to as a *method*.

@@ -1,4 +1,7 @@
-## Capture Returned Data with `XMLHttpRequest.responseText`
+---
+layout: default
+title: Capture Returned Data with `XMLHttpRequest.responseText`
+---
 
 The `XMLHttpRequest.responseText` property contains the response to the request as text, or null if the request was unsuccessful or has not yet been sent.
 

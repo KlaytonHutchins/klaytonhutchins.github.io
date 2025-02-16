@@ -1,4 +1,7 @@
-### Document Object Model
+---
+layout: default
+title: Document Object Model
+---
 When a web page is loaded, the browser creates a _Document Object Model_ (DOM) of the page.
 
 The DOM is a programming interface for HTML. It exposes and grants Read/Write access to:

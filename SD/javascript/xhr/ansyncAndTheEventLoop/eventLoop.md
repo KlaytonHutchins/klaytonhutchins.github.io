@@ -1,4 +1,7 @@
-## Heap, Call Stack, Task Queue, and Event Loop
+---
+layout: default
+title: Heap, Call Stack, Task Queue, and Event Loop
+---
 Unlike many other C based languages, JavaScript is single-threaded. While multi-threading is possible, it usually isn't necessary despite JavaScript's thorough use of async functions. This is made possible by a unique runtime environment involving something called the 'Event Loop'.
 
 This is a visual representation of the JavaScript runtime:

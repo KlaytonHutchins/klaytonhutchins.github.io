@@ -1,4 +1,7 @@
-## Identity (`===`) vs Equality (`==`) Operators
+---
+layout: default
+title: Identity (`===`) vs Equality (`==`) Operators
+---
 The `===` operator and `==` operator both evaluate two values and determine if they are the same. However, they use two different definitions of sameness.
 
 The `===` operator (known as the _Strict Equality_ or _Identity_ operator), checks if the two values are identical in the traditional sense.

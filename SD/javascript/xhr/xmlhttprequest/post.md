@@ -1,4 +1,7 @@
-## Sending POST and Other Request Methods
+---
+layout: default
+title: Sending POST and Other Request Methods
+---
 
 You can user XHR to send any of the HTTP request methods.
 

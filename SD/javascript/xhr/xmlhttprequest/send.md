@@ -1,4 +1,7 @@
-## Using `send()`: To Dispatch a XMLHttpRequest
+---
+layout: default
+title: Using `send()`: To Dispatch a XMLHttpRequest
+---
 
 To dispatch an XMLHttpRequest to a server, use the `.send()` method.
 

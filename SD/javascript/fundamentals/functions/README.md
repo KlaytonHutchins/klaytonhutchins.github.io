@@ -1,4 +1,7 @@
-## Functions
+---
+layout: default
+title: Functions
+---
 
 ### Topics
 *  [Defining Functions](definitions.md) 

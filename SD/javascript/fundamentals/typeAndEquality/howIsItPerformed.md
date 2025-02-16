@@ -1,4 +1,7 @@
-## How JS Performs Type Conversion
+---
+layout: default
+title: How JS Performs Type Conversion
+---
 
 ### Implicit Type Conversion in JavaScript
 Similar to Java, JavaScript provides a set of global wrapper objects that the interpreter uses to attempt type conversion behind the scenes.

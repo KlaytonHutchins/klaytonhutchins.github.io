@@ -1,4 +1,7 @@
-## Event Listeners
+---
+layout: default
+title: Event Listeners
+---
 
 ### Objectives
 * Investigate Event Listeners.

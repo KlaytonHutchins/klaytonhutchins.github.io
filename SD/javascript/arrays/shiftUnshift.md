@@ -1,4 +1,7 @@
-## `shift`, `unshift`
+---
+layout: default
+title: shift, unshift
+---
 
 All of these functions are responsible for either adding a item to an existing array, or removing an item from an existing array.
 

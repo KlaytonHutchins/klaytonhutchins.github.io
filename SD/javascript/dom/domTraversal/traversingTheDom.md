@@ -1,4 +1,7 @@
-## Traversing the DOM
+---
+layout: default
+title: Traversing the DOM
+---
 As we saw previously the `window` object has a property, `document`, that represents the tree-like structure of an html document.
 
 We can _traverse_ this tree by navigating up and down its branches.

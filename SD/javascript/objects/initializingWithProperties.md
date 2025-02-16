@@ -1,4 +1,7 @@
-## Initializing an Object Literal with Properties
+---
+layout: default
+title: Initializing an Object Literal with Properties
+---
 Object literals can be assigned properties with values on creation.
 
 Object properties are *key-value pairs*.

@@ -1,4 +1,7 @@
-## To use a semicolon...or not to use a semicolon?
+---
+layout: default
+title: To use a semicolon...or not to use a semicolon?
+---
 *Disclaimer*: this is a subject of near-constant debate. With the belief that some guidelines are better than no guidelines...
 
 ### **DO** Use Semicolons

@@ -1,4 +1,7 @@
-# js Grandma
+---
+layout: default
+title: js Grandma
+---
 ### Introduction / Goals
 Remember *Deaf Grandma*? This is the new and improved version using JavaScript.  
 

@@ -1,4 +1,7 @@
-## Removing Event Listeners
+---
+layout: default
+title: Removing Event Listeners
+---
 If you wish to deactivate an event lister for any reason, there is a method `removeEventListener`.
 
 The only intricacy of `removeEventListener` is that is requires the name of the callback function as an argument.

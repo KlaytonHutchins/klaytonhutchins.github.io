@@ -1,4 +1,7 @@
-## Numbers
+---
+layout: default
+title: Numbers
+---
 In JavaScript there are no 'types' of numbers. However, decimal points do add precision to a degree. 'Integer' (non-decimal) values are accurate up to 15 digits, while decimals are accurate up to 17 digits.
 
 Floating point arithmetic can be inaccurate:

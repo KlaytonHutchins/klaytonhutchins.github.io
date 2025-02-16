@@ -1,4 +1,7 @@
-## Basic Objects Lab
+---
+layout: default
+title: Basic Objects Lab
+---
 
 Resources for this lab: [resources/labs/mage](resources/labs/mage)
 

@@ -1,4 +1,7 @@
-## Dynamic Table
+---
+layout: default
+title: Dynamic Table
+---
 
 1. Create an HTML file named `table.html`, and a JS file named `table.js`.
 

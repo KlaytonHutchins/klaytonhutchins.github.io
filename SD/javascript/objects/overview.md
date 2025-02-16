@@ -1,4 +1,7 @@
-## JavaScript Objects
+---
+layout: default
+title: JavaScript Objects
+---
 
 ### Review
 * What is an object?

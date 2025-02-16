@@ -1,4 +1,7 @@
-## Data Types
+---
+layout: default
+title: Data Types
+---
 
 ### Topics
 *  [_Untyped_ vs _Typed_](dynamicTyping.md) 

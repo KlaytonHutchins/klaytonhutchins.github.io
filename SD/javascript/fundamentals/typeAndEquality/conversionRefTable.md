@@ -1,4 +1,7 @@
-### Automatic Type Conversion Reference
+---
+layout: default
+title: Automatic Type Conversion Reference
+---
 
 |Value   |String   |Number   |Boolean   |Object   |
 |---|---|---|---|---|

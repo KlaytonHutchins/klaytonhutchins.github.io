@@ -1,4 +1,7 @@
-## Listening For Events
+---
+layout: default
+title: Listening For Events
+---
 Event Listeners are methods registered on specific targets. The target of an event listener could be an HTML element, the Document object, or the Window object itself.
 
 These methods dictate behavior that will happen when... a user clicks a button ... the mouse enters a specific area ... etc.

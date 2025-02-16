@@ -1,4 +1,7 @@
-## `isNaN()`
+---
+layout: default
+title: `isNaN()`
+---
 As we have seen, `NaN` is NEVER equal to any other value (including itself).
 
 To evaluate a value and determine if it is not-a-number there is a global method on the Number type `isNaN()`:

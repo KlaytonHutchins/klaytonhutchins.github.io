@@ -1,4 +1,7 @@
-## `alert`, `confirm`, `prompt`
+---
+layout: default
+title: `alert`, `confirm`, `prompt`
+---
 The easiest way to take user input (for now), is to use `alert()`, `confirm()` and `prompt()`. These are methods on the Window object that will create popup windows and either present the user with information or ask for input.
 
 We will eventually be integrating forms, but we haven't learned how to extract data from them yet.

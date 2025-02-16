@@ -1,4 +1,8 @@
-## Array Basics
+---
+layout: default
+title: Array Basics
+---
+
 Array data structures are going to share similar functionality between all languages.
 
 The syntax for a js array is going to look familiar to that of a traditional Java array, the major exception being that they are not typed.

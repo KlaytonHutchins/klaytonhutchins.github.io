@@ -1,4 +1,7 @@
-## Labs
+---
+layout: default
+title: Labs
+---
 
 1. Create two files `xmlhttp.html` and `app.js`.  
 

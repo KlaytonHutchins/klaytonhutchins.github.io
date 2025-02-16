@@ -1,4 +1,7 @@
-## Arrays
+---
+layout: default
+title: Arrays
+---
 Arrays are lists like objects, capable of traversal and mutation operations.
 
 JavaScript arrays are mutable. Neither the length of the array, nor the types of its contents are fixed.

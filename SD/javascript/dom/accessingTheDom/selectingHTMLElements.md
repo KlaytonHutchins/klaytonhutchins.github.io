@@ -1,4 +1,7 @@
-## Selecting HTML Elements
+---
+layout: default
+title: Selecting HTML Elements
+---
 The `Document` makes selecting HTML elements relatively easy.
 
 HTML elements in the DOM can be accessed by:

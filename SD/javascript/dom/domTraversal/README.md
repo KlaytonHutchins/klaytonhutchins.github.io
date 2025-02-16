@@ -1,4 +1,7 @@
-## DOM Traversal
+---
+layout: default
+title: DOM Traversal
+---
 
 ### Objectives
 * Traversing DOM elements with JS.

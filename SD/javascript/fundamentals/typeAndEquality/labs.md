@@ -1,4 +1,7 @@
-### Labs
+---
+layout: default
+title: Labs
+---
 1. Create files named _lab2.js_ and _lab2.html_.
 
 1. Assess the **equality** of the following using the equality operator. Try to think what the result will be before printing the result with `console.log()`:  

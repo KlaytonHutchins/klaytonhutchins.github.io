@@ -1,4 +1,7 @@
-## Revealing Modules
+---
+layout: default
+title: Revealing Modules
+---
 
 JavaScript *Closures* can provide simulated encapsulation.
 

@@ -1,4 +1,7 @@
-## Dynamically Remove Elements
+---
+layout: default
+title: Dynamically Remove Elements
+---
 When a resource is no longer needed you may want to remove it from the DOM, or remove it and replace it with something else.
 
 To remove elements from the DOM we use `Node.removeChild(node)`.

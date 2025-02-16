@@ -1,4 +1,7 @@
-## Conditional Statements
+---
+layout: default
+title: Conditional Statements
+---
 
 ### If statements
 JavaScript `if` statements are identical to their Java counterparts' syntax.

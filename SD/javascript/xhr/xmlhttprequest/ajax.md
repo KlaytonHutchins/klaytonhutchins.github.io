@@ -1,4 +1,7 @@
-## Asynchronous JavaScript and XML (AJAX)
+---
+layout: default
+title: Asynchronous JavaScript and XML (AJAX)
+---
 The term Ajax was coined in 2005.
 
 Ajax allows a web page to request information from a server, receive a response, and update the page without ever refreshing the page.

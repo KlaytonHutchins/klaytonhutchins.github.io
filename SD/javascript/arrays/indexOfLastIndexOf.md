@@ -1,4 +1,7 @@
-## `indexOf`, `lastIndexOf`
+---
+layout: default
+title: indexOf, lastIndexOf
+---
 
 ### `indexOf(value)`
 * Returns the first index of the object being sought, or `-1` if it does not exist in the array. Searches from beginning to end of the array.

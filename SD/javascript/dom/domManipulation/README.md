@@ -1,4 +1,7 @@
-## DOM Manipulation
+---
+layout: default
+title: DOM Manipulation
+---
 
 ### Objectives
 * Select forms and their attributes by name.

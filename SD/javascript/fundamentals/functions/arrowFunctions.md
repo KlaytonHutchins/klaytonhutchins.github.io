@@ -1,4 +1,7 @@
-## Arrow Functions
+---
+layout: default
+title: Arrow Functions
+---
 
 JavaScript has syntax similar to lambda functions in Java.
 

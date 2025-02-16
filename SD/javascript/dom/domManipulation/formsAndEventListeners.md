@@ -1,4 +1,7 @@
-## Forms and Event Listeners
+---
+layout: default
+title: Forms and Event Listeners
+---
 Up until this point we have been using the default form behavior on submission. Namely, when the user submits a form, the data within is submitted as part of a request to some route, and the response dictates what should happen next.
 
 With JavaScript we need to prevent this behavior in order to use the data without refreshing the page.

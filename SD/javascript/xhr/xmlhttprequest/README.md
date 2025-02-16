@@ -1,4 +1,7 @@
-## XmlHttpRequest
+---
+layout: default
+title: XmlHttpRequest
+---
 
 ### Objectives
 * Review Asynchronous JavaScript and XML (AJAX).

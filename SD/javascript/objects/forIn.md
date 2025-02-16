@@ -1,4 +1,7 @@
-## `for...in` loops
+---
+layout: default
+title: `for...in` loops
+---
 The `for...in` loop is used to iterate over the properties of a JS object.
 
 Syntactically, the `for...in` loop is constructed as `for (aliasForProperty in object) {}`. Below is an example of how it can be used.

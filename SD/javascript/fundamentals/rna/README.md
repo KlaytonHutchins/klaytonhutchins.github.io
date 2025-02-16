@@ -1,4 +1,7 @@
-## RNA Transcription
+---
+layout: default
+title: RNA Transcription
+---
 
 Resources for this lab: [resources/](resources/)
 

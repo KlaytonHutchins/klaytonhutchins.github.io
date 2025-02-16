@@ -1,4 +1,7 @@
-## JavaScript Type Conversions
+---
+layout: default
+title: JavaScript Type Conversions
+---
 
 JavaScript tries its best to execute any expression by dynamically converting data types.
 

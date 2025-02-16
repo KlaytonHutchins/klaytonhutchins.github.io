@@ -1,4 +1,7 @@
-## Create and Open the Request
+---
+layout: default
+title: Create and Open the Request
+---
 
 As its name implies, `XMLHttpRequest` is a JavaScript object, and the first step in using it is to create a new instance of it:
 

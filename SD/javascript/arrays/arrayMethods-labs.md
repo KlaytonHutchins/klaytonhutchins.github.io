@@ -1,4 +1,7 @@
-## Array Functions Lab
+---
+layout: default
+title: Array Functions Lab
+---
 
 Resources for this lab: [resources/labs/arrayMethods](resources/labs/arrayMethods)
 

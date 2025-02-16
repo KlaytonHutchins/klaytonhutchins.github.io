@@ -1,4 +1,7 @@
-## Labs 
+---
+layout: default
+title: Labs 
+---
 
 1. Open your `VideoStore` workspace and go into the `VideoStoreREST` project.
 

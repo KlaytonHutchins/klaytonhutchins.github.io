@@ -1,4 +1,7 @@
-## `split`, `join`, `slice`, `splice`
+---
+layout: default
+title: split, join, slice, splice
+---
 
 ### `String.split(separator)`
 * `split(separator)` is a string function which divides a string into an array based on some delimiter.

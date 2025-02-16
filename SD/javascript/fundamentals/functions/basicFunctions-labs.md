@@ -1,4 +1,7 @@
-## Lab: Basic Functions
+---
+layout: default
+title: Lab - Basic Functions
+---
 
 Resources for this lab: [resources/labs/basicFunctions](resources/labs/basicFunctions)
 

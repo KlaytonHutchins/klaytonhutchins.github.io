@@ -1,4 +1,7 @@
-## Declarations
+---
+layout: default
+title: Declarations
+---
 Unlike Java, JavaScript is an untyped language. This means that when declaring variables, you do not have to designate their type.
 
 To declare a JavaScript variable, use the `var` keyword and assign the variable a name.
