@@ -39,4 +39,4 @@ Note: The left side of the sculpture (ciphertext) does not align well as a grid 
 
 <hr>
 
-[Up](../README.md)
+[Up](../index.md)
