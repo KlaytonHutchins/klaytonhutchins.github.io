@@ -1,6 +1,6 @@
 ---
 layout: default
-title: `isNaN()`
+title: isNaN()
 ---
 As we have seen, `NaN` is NEVER equal to any other value (including itself).
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: `this` in JavaScript Objects
+title: this in JavaScript Objects
 ---
 
 JavaScript does not have analogous classes to Object Oriented languages.

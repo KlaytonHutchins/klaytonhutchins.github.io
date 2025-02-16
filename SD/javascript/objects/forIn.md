@@ -1,6 +1,6 @@
 ---
 layout: default
-title: `for...in` loops
+title: for...in loops
 ---
 The `for...in` loop is used to iterate over the properties of a JS object.
 

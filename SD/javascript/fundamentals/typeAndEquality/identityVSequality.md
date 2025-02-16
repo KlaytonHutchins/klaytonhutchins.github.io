@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Identity (`===`) vs Equality (`==`) Operators
+title: Identity (===) vs Equality (==) Operators
 ---
 The `===` operator and `==` operator both evaluate two values and determine if they are the same. However, they use two different definitions of sameness.
 

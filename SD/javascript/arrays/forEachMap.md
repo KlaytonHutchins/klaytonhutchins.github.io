@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Iterating with `forEach` and `map`
+title: Iterating with forEach and map
 ---
 
 ### `forEach(func(value, index, array))`
