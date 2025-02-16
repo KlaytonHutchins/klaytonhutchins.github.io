@@ -4,5 +4,5 @@ title: Home
 ---
 
 # [Kryptos](./kryptos/README.md)
-# [SD](./SD/README.md)
+# [Computer Science Notes](./Notes/README.md)
 
