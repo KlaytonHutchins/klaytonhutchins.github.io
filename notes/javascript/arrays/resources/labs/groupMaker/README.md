@@ -1,4 +1,7 @@
-## Group Maker Exercise
+---
+layout: default
+title: Group Maker Exercise
+---
 
 ### 1 : Create an array literal named `classArray` ...  
 

@@ -1,4 +1,7 @@
-## Array Methods Lab
+---
+layout: default
+title: Array Methods Lab
+---
 ### Introduction / Goals
 This lab will give you experience dealing with JS Array methods,
 as well as isolating scope within functions in your application.  

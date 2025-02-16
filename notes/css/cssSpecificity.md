@@ -107,7 +107,7 @@ The `h2.productTitle` **selector** targets ALL `<h2>` elements that have `class=
 Only the second HTML element will be targeted.
 It is the only HTML element that is both an `h2` element and that has a `class` of `productTitle`.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 >
 > Create an HTML file from the above.
 > Does the output match your expectations?
@@ -156,7 +156,7 @@ This rule selects any list item (`li`) that is inside a `ul` which itself is ins
 In the following HTML snippet, only the `li` on line 5 would match the **selector** above and be set to green.
 The other `li` elements are not inside of a `ul` which itself is inside of a `div`.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 >
 > Create an HTML file from the above.
 > Does the output match your expectations?
@@ -205,7 +205,7 @@ div > ul > li {
 In the following HTML snippet, only the `li` on line 4 would match the **selector** above and be set to green.
 The other `li` elements are not directly inside of a `ul` which itself is directly inside of a `div`.
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill Drill
+> ### Skill Drill
 >
 > Create an HTML file from the above.
 > Does the output match your expectations?
@@ -248,7 +248,7 @@ p {   /* All paragraphs */
 }
 ```
 
-> ### ![Logo](http://skilldistillery.com/downloads/sd_logo.jpg) Skill++
+> ### Skill++
 > IDs will become very important to target elements when we get into JavaScript.
 
 <hr>
