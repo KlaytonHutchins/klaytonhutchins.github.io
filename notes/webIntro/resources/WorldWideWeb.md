@@ -1,4 +1,8 @@
-## The World Wide Web
+---
+layout: default
+title: The World Wide Web
+---
+
 * The World Wide Web was invented in 1989 by programmer Tim Berners-Lee.
   * His project started as a way to simplify collaboration among scientists at particle physics labs around the world.
     * He quickly recognized the global value of this new Internet application.
