@@ -3,6 +3,12 @@ layout: scotus_case
 title: Hamm v. Smith
 ---
 
+Docket: 
+Date: 
+SCOTUS Link: ![https://www.supremecourt.gov/opinions/24pdf/604us1r01_2dq3.pdf](SCOTUS Link)
+Oyez Link: !
+
+
 ### Cases
 *  [Hamm v. Smith](./Hamm_Smith.md)
 *  [Facebook, Inc. v. Amalgamated Bank](FacebookInc_AmalgamatedBank.md)
