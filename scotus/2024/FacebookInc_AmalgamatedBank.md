@@ -4,8 +4,11 @@ title: Facebook, Inc. v. Amalgamated Bank
 ---
 
 Docket:
+
 Date:
+
 SCOTUS Link: [https://www.supremecourt.gov/opinions/24pdf/604us1r02_j4ek.pdf](SCOTUS Link)
+
 Oyez Link: [https://www.oyez.org/cases/2024/23-980](Oyez Link)
 
 
