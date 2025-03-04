@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Preamble to The US Constitution
+title: Article 1 of The US Constitution
 ---
 
 ### Text
@@ -134,7 +134,7 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 #### External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Article_One_of_the_United_States_Constitution)
 
-[National Archives]()
+[Congress](https://constitution.congress.gov/constitution/article-1/)
 
 ---
 
