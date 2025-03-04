@@ -9,8 +9,9 @@ We the People of the United States, in order to form a more perfect Union, estab
 <hr>
 #### External Links
 [Wikipedia](https://en.wikipedia.org/wiki/Preamble_to_the_United_States_Constitution)
+
 [National Archives](https://www.archives.gov/founding-docs/constitution#:~:text=We%20the%20People%20of%20the,for%20the%20United%20States%20of)
 
 <hr>
 
-[Up](../index.md)
+[Up](../README.md)
