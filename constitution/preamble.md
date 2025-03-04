@@ -3,7 +3,7 @@ layout: default
 title: Preamble to The US Constitution
 ---
 
-### Text
+## Text
 We the People of the United States, in order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
 ---
@@ -12,7 +12,7 @@ We the People of the United States, in order to form a more perfect Union, estab
 
 [Congress](https://constitution.congress.gov/constitution/preamble/)
 
-[National Archives](https://www.archives.gov/founding-docs/constitution#:~:text=We%20the%20People%20of%20the,for%20the%20United%20States%20of)
+[National Archives](https://www.archives.gov/founding-docs/constitution)
 
 ---
 

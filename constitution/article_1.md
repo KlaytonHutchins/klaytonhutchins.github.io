@@ -3,8 +3,7 @@ layout: default
 title: Article 1 of The US Constitution
 ---
 
-### Text
----
+## Text
 #### Section 1
 All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
 

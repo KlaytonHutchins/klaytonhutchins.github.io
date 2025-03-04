@@ -3,7 +3,7 @@ layout: default
 title: Amendments to The US Constitution
 ---
 
-### Text
+## Text
 
 ---
 #### External Links

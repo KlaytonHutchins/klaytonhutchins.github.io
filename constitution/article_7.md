@@ -3,8 +3,8 @@ layout: default
 title: Article 7 of The US Constitution
 ---
 
-### Text
-Text Here
+## Text
+The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same.
 
 ---
 #### External Links
