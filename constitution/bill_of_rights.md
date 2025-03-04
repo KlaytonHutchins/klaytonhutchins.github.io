@@ -8,10 +8,10 @@ Text Here
 
 ---
 #### External Links
-[Wikipedia]()
+[Wikipedia](https://en.wikipedia.org/wiki/United_States_Bill_of_Rights)
 
-[National Archives]()
+[Congress (Amendment 1)](https://constitution.congress.gov/constitution/amendment-1/)
 
 ---
 
-[Prev](article_7.md) | [Up](README.md) | [Next](ammendments.md)
+[Prev](article_7.md) | [Up](README.md) | [Next](amendments.md)

@@ -13,7 +13,7 @@ title: Constitution of the United States
 *  [Article 6](./article_6.md)
 *  [Article 7](./article_7.md)
 *  [Bill Of Rights](./bill_of_rights.md)
-*  [Ammendments 10 +](./ammendments.md)
+*  [Amendments 10 +](./amendments.md)
 
 ---
 

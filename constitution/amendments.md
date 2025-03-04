@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ammendments to The US Constitution
+title: Amendments to The US Constitution
 ---
 
 ### Text

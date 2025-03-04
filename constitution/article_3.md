@@ -8,9 +8,9 @@ Text Here
 
 ---
 #### External Links
-[Wikipedia]()
+[Wikipedia](https://en.wikipedia.org/wiki/Article_Three_of_the_United_States_Constitution)
 
-[National Archives]()
+[Congress](https://constitution.congress.gov/constitution/article-3/)
 
 ---
 
