@@ -138,4 +138,4 @@ No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep T
 
 ---
 
-[Up](../README.md)
+[Prev](preamble.md) | [Up](README.md) | [Next](article_2.md)

@@ -45,4 +45,4 @@ The President, Vice President and all civil Officers of the United States, shall
 
 ---
 
-[Up](../README.md)
+[Prev](article_1.md) | [Up](README.md) | [Next](article_3.md)

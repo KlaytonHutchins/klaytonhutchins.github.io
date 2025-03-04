@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Article 2 of The US Constitution
+title: The Bill Of Rights
 ---
 
 ### Text
@@ -14,4 +14,4 @@ Text Here
 
 ---
 
-[Up](../README.md)
+[Prev](article_7.md) | [Up](README.md) | [Next](ammendments.md)

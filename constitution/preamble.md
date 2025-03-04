@@ -16,4 +16,4 @@ We the People of the United States, in order to form a more perfect Union, estab
 
 ---
 
-[Up](../README.md)
+[Prev](README.md) | [Up](README.md) | [Next](article_1.md)

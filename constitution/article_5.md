@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Article 2 of The US Constitution
+title: Article 5 of The US Constitution
 ---
 
 ### Text
@@ -14,4 +14,4 @@ Text Here
 
 ---
 
-[Up](../README.md)
+[Prev](article_4.md) | [Up](README.md) | [Next](article_6.md)
