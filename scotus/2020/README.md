@@ -1,14 +1,22 @@
 ---
 layout: default
-title: Supreme Court of the United States
+title: SCOTUS Term Year 2020
 ---
 
-### Topics
+### Cases
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
 *  []()
 *  []()
 *  []()
 *  []()
 
-<hr>
+---
 
-[Up](../index.md)
+[Prev](../2019/README.md) | [Up](../README.md) | [Next](../2021/README.md)

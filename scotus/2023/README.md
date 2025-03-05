@@ -1,14 +1,22 @@
 ---
 layout: default
-title: Supreme Court of the United States
+title: SCOTUS Term Year 2023
 ---
 
-### Topics
+### Cases
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
+*  []()
 *  []()
 *  []()
 *  []()
 *  []()
 
-<hr>
+---
 
-[Up](../index.md)
+[Prev](../2022/README.md) | [Up](../README.md) | [Next](../2024/README.md)
