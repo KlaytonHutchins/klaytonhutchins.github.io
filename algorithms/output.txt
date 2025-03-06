@@ -1,0 +1,60 @@
+1	12/05/23	22-429	Acheson Hotels, LLC v. Laufer	https://www.supremecourt.gov/opinions/23pdf/601us1r01_q86b.pdf
+2	02/08/24	22-660	Murray v. UBS Securities, LLC	https://www.supremecourt.gov/opinions/23pdf/601us1r02_c07d.pdf
+3	02/08/24	22-846	Department of Agriculture Rural Development Rural Housing Service v. Kirtz	https://www.supremecourt.gov/opinions/23pdf/601us1r03_4gcj.pdf
+4	2/21/24	22-500	Great Lakes Ins. SE v. Raiders Retreat Realty Co.	https://www.supremecourt.gov/opinions/23pdf/601us1r04_4g15.pdf
+5	2/21/24	22-721	McElrath v. Georgia	https://www.supremecourt.gov/opinions/23pdf/601us1r05_1qm2.pdf
+6	03/04/24	23-719	Trump v. Anderson	https://www.supremecourt.gov/opinions/23pdf/601us1r06_a86c.pdf
+7	3/15/24	22-340	Pulsifer v. United States	https://www.supremecourt.gov/opinions/23pdf/601us1r07_19m1.pdf
+8	3/15/24	22-611	Lindke v. Freed	https://www.supremecourt.gov/opinions/23pdf/601us1r08_a8cf.pdf
+9	3/15/24	22-324	O’Connor-Ratcliff v. Garnier	https://www.supremecourt.gov/opinions/23pdf/601us1r09_hgci.pdf
+10	3/19/24	22-666	Wilkinson v. Garland	https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf
+11	3/19/24	22-1178	FBI v. Fikre	https://www.supremecourt.gov/opinions/23pdf/601us1r11_7lh8.pdf
+12	4/12/24	23-51	Bissonnette v. LePage Bakeries Park St., LLC	https://www.supremecourt.gov/opinions/23pdf/601us2r12_7648.pdf
+13	4/12/24	22-1165	Macquarie Infrastructure Corp. v. Moab Partners, L. P.	https://www.supremecourt.gov/opinions/23pdf/601us2r13_8mjp.pdf
+14	4/12/24	22-1074	Sheetz v. El Dorado County	https://www.supremecourt.gov/opinions/23pdf/601us2r14_00m5.pdf
+15	4/16/24	22-913	DeVillier v. Texas	https://www.supremecourt.gov/opinions/23pdf/601us2r15_apl1.pdf
+16	4/16/24	22-888	Rudisill v. McDonough	https://www.supremecourt.gov/opinions/23pdf/601us2r16_2dp3.pdf
+17	4/17/24	22-7386	McIntosh v. United States	https://www.supremecourt.gov/opinions/23pdf/601us2r17_nmio.pdf
+18	4/17/24	22-193	Muldrow v. City of St. Louis	https://www.supremecourt.gov/opinions/23pdf/601us2r18_6j37.pdf
+19	05/09/24	22-1078	Warner Chappell Music, Inc. v. Nealy	https://www.supremecourt.gov/opinions/23pdf/601us2r19_jifl.pdf
+20	05/09/24	22-585	Culley v. Marshall	https://www.supremecourt.gov/opinions/23pdf/601us2r20_09m1.pdf
+21	5/16/24	22-448	Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.	https://www.supremecourt.gov/opinions/23pdf/601us2r21_7648.pdf
+22	5/16/24	22-1218	Smith v. Spizzirri	https://www.supremecourt.gov/opinions/23pdf/601us2r22_o7jq.pdf
+23	5/16/24	23-21	Harrow v. Department of Defense	https://www.supremecourt.gov/opinions/23pdf/601us2r23_khlp.pdf
+24	5/23/24	22-807	Alexander v. South Carolina State Conference of the NAACP	https://www.supremecourt.gov/opinions/23pdf/602us1r24_j4ek.pdf
+25	5/23/24	22-6389	Brown v. United States	https://www.supremecourt.gov/opinions/23pdf/602us1r25_p86b.pdf
+26	5/23/24	23-3	Coinbase v. Suski	https://www.supremecourt.gov/opinions/23pdf/602us1r26_k537.pdf
+27	5/30/24	22-982	Thornell v. Jones	https://www.supremecourt.gov/opinions/23pdf/602us1r27_jhek.pdf
+28	5/30/24	22-842	National Rifle Association of America v. Vullo	https://www.supremecourt.gov/opinions/23pdf/602us1r28_9o6b.pdf
+29	5/30/24	22-529	Cantero v. Bank of America, N. A.	https://www.supremecourt.gov/opinions/23pdf/602us1r29_0861.pdf
+30	06/06/24	23-250	Becerra v. San Carlos Apache Tribe	https://www.supremecourt.gov/opinions/23pdf/602us1r30_g3bi.pdf
+31	06/06/24	23-146	Connelly v. United States	https://www.supremecourt.gov/opinions/23pdf/602us1r31_6537.pdf
+32	06/06/24	22-1079	Truck Insurance Exchange v. Kaiser Gypsum Co.	https://www.supremecourt.gov/opinions/23pdf/602us1r32_2q24.pdf
+33	6/13/24	22-704	Vidal v. Elster	https://www.supremecourt.gov/opinions/23pdf/602us1r33_qqm4.pdf
+34	6/13/24	23-367	Starbucks Corp. v. McKinney	https://www.supremecourt.gov/opinions/23pdf/602us1r34_e29g.pdf
+35	6/13/24	23-235	FDA v. Alliance for Hippocratic Medicine	https://www.supremecourt.gov/opinions/23pdf/602us1r35_h3ci.pdf
+36	6/14/24	22-976	Garland v. Cargill	https://www.supremecourt.gov/opinions/23pdf/602us1r36_k537.pdf
+37	6/14/24	22-674	Campos-Chaves v. Garland	https://www.supremecourt.gov/opinions/23pdf/602us1r37_7khn.pdf
+38	6/14/24	22-1238	United States Trustee v. John Q. Hammons Fall 2006, LLC	https://www.supremecourt.gov/opinions/23pdf/602us1r38_mlho.pdf
+39	6/20/24	23-14	Diaz v. United States	https://www.supremecourt.gov/opinions/23pdf/602us1r39_2b8e.pdf
+40	6/20/24	23-50	Chiaverini v. City of Napoleon	https://www.supremecourt.gov/opinions/23pdf/602us1r40_f20g.pdf
+41	6/20/24	22-800	Moore v. United States	https://www.supremecourt.gov/opinions/23pdf/602us1r41_h3dj.pdf
+42	6/20/24	22-1025	Gonzalez v. Trevino	https://www.supremecourt.gov/opinions/23pdf/602us1r42_l5gm.pdf
+43	6/21/24	22-915	United States v. Rahimi	https://www.supremecourt.gov/opinions/23pdf/602us1r43_p860.pdf
+44	6/21/24	22-899	Smith v. Arizona	https://www.supremecourt.gov/opinions/23pdf/602us1r44_kjfm.pdf
+45	6/21/24	23-370	Erlinger v. United States	https://www.supremecourt.gov/opinions/23pdf/602us1r45_h31i.pdf
+46	6/21/24	23-334	Department of State v. Munoz	https://www.supremecourt.gov/opinions/23pdf/602us1r46_gfbi.pdf
+47	6/21/24	141, Orig.	Texas v. New Mexico	https://www.supremecourt.gov/opinions/23pdf/602us1r47_c07d.pdf
+48	6/26/24	23-108	Snyder v. United States	https://www.supremecourt.gov/opinions/23pdf/603us1r48_g3ci.pdf
+49	6/26/24	23-411	Murthy v. Missouri	https://www.supremecourt.gov/opinions/23pdf/603us1r49_n6io.pdf
+50	6/27/24	22-859	SEC v. Jarkesy	https://www.supremecourt.gov/opinions/23pdf/603us1r50_7kh7.pdf
+51	6/27/24	23-124	Harrington v. Purdue Pharma L.P.	https://www.supremecourt.gov/opinions/23pdf/603us1r51_1b8e.pdf
+52	6/27/24	23A349	Ohio v. Environmental Protection Agency	https://www.supremecourt.gov/opinions/23pdf/603us1r52_d18f.pdf
+53	6/27/24	23-726	Moyle v. United States	https://www.supremecourt.gov/opinions/23pdf/603us1r53_l5gm.pdf
+54	6/28/24	22-451	Loper Bright Enterprises v. Raimondo	https://www.supremecourt.gov/opinions/23pdf/603us1r54_o7jp.pdf
+55	6/28/24	23-5572	Fischer v. United States	https://www.supremecourt.gov/opinions/23pdf/603us1r55_6j36.pdf
+56	6/28/24	23-175	City of Grants Pass v. Johnson	https://www.supremecourt.gov/opinions/23pdf/603us1r56_1bo2.pdf
+57	07/01/24	23-939	Trump v. United States	https://www.supremecourt.gov/opinions/23pdf/603us1r57_6k47.pdf
+58	07/01/24	22-277	Moody v. NetChoice, LLC	https://www.supremecourt.gov/opinions/23pdf/603us1r58_8mj9.pdf
+59	07/01/24	22-1008	Corner Post, Inc. v. Board of Governors	https://www.supremecourt.gov/opinions/23pdf/603us1r59_4fci.pdf
+60	8/16/24	24A78	Department of Education v. Louisiana	https://www.supremecourt.gov/opinions/23pdf/603us1r60_32q3.pdf

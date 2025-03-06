@@ -1,15 +1,15 @@
 ---
 layout: scotus_case
-title: _ v. _
+title: Hamm v. Smith
 ---
 
-Docket: 
+Docket: 141, Orig.
 
-Date: 00 Xxx 20XX
+Date: 21 Jul 2024
 
-[SCOTUS Link]()
+[SCOTUS Link](https://www.supremecourt.gov/opinions/23pdf/602us1r47_c07d.pdf)
 
-[Oyez Link](https://www.oyez.org/cases/20XX/XX-XXX)
+[Oyez Link](https://www.oyez.org/cases/2024/141, Orig.
 
 ---
 
