@@ -29,7 +29,7 @@ public:
                 outFile << "---\nlayout: scotus_case\ntitle: Hamm v. Smith\n---\n\nDocket: " << docketNumber << endl << endl;
                 outFile << "Date: " << stoi(dateFiled.substr(3, 2)) << " " << months[stoi(dateFiled.substr(0, 2))] << " " << dateFiled.substr(6, 4) << endl << endl;
                 outFile << "[SCOTUS Link](" << scotusUrl << ")" << endl << endl;
-                outFile << "[Oyez Link](" << oyezUrl << dateFiled.substr(6, 4) << "/" << docketNumber << endl << endl;
+                outFile << "[Oyez Link](" << oyezUrl << dateFiled.substr(6, 4) << "/" << docketNumber << ")" << endl << endl;
                 outFile << "---" << endl << endl << "[Up](./README.md)";
                 return outFile;
         }
