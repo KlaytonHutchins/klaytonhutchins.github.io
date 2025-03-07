@@ -1,15 +1,23 @@
 #include <iostream>
 #include <fstream>
+#include <curl/curl.h>
 
 using namespace std;
 
-//Change file names here if applicable
+/*******************************************
+           Global Variables Here
+*****************************************8*/
+int yearToAccess = 2023;
 string inFileName = "input.txt";
 string outFileName = "output.txt";
 string oyezUrl = "https://www.oyez.org/cases/";
 // full = https://www.oyez.org/cases/2024/23-167
 // oyezUrl + "2024/23-167";
 string months[] = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
+/*******************************************
+           Global Variables Here
+*****************************************8*/
+
 
 //Node class with previous and next nodes.
 //Member variables are private, must use getter and setter functions.
@@ -29,7 +37,7 @@ public:
                 outFile << "---\nlayout: scotus_case\ntitle: " << fullCaseName << "\n---\n\nDocket: " << docketNumber << endl << endl;
                 outFile << "Date: " << stoi(dateFiled.substr(3, 2)) << " " << months[stoi(dateFiled.substr(0, 2))] << " " << dateFiled.substr(6, 4) << endl << endl;
                 outFile << "[SCOTUS Link](" << scotusUrl << ")" << endl << endl;
-                outFile << "[Oyez Link](" << oyezUrl << dateFiled.substr(6, 4) << "/" << docketNumber << ")" << endl << endl;
+                outFile << "[Oyez Link](" << oyezUrl << yearToAccess << "/" << docketNumber << ")" << endl << endl;
                 outFile << "---" << endl << endl << "[Up](./README.md)";
                 return outFile;
         }
@@ -195,10 +203,12 @@ public:
 */
         ofstream& buildYearReadMe(ofstream& outFile) {
                 Node* curr = tail;
+                outFile << "---\nlayout: default\ntitle: SCOTUS Term Year " << yearToAccess << "\n---\n\n### Cases" << endl;
                 while (curr) {
                         outFile << "*  [" << curr->getCaseName() << "](" << curr->getDocketNum() << ".md)" << endl;
                         curr = curr->getPrev();
                 }
+                outFile << "\n---\n\n[Prev](../" << (yearToAccess - 1) << "/README.md) | [Up](../README.md) | [Next](../" << (yearToAccess + 1) << "/README.md)" << endl;
                 return outFile;
         }
         //Getters and Setters   
@@ -218,7 +228,9 @@ private:
         Node* head;
         Node* tail;
 };
-
+size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream);
+void downloadPDFs(DoublyLL* caseList);
+bool downloadPDF(Node* curr, string& savePath);
 //Helper function to convert text to all lower case
 string toLower(string str) {
         for (size_t i = 0; i < str.length(); i++) {
@@ -227,7 +239,55 @@ string toLower(string str) {
         return str;
 }
 
+size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream) {
+        return fwrite(ptr, size, nmemb, stream);
+}
 
+void downloadPDFs(DoublyLL* caseList) {
+        string saveFolder = "../scotus/" + to_string(yearToAccess) + "/resources/";
+        system(("mkdir -p " + saveFolder).c_str());
+        Node* curr = caseList->getHead();
+        while (curr) {
+                string fileName = saveFolder + curr->getDocketNum() + ".pdf";
+                cout << "Downloading: " << curr->getUrl() << " -> " << fileName << endl;
+                if (downloadPDF(curr, fileName)) {
+                        cout << "Saved: " << fileName << endl;
+                } else {
+                        cerr << "Download failed: " << curr->getUrl() << endl;
+                }
+                curr = curr->getNext();
+        }
+}
+
+bool downloadPDF(Node* curr, string& savePath) {
+        CURL* curl = curl_easy_init();
+        if (!curl) {
+                cerr << "Failed to initialize curl" << endl;
+                return false;
+        }
+        FILE* file = fopen(savePath.c_str(), "wb");
+        if (!file) {
+                cerr << "Failed to open file: " << savePath << endl;
+                curl_easy_cleanup(curl);
+                return false;
+        }
+        curl_easy_setopt(curl, CURLOPT_URL, curr->getUrl().c_str());
+        curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, WriteToFile);
+        curl_easy_setopt(curl, CURLOPT_WRITEDATA, file);
+        curl_easy_setopt(curl, CURLOPT_FOLLOWLOCATION, 1L); // Follow redirects
+
+        CURLcode res = curl_easy_perform(curl);
+        if (res != CURLE_OK) {
+                cerr << "Failed to download: " << curr->getUrl() << " | Error: " << curl_easy_strerror(res) << endl;
+                fclose(file);
+                remove(savePath.c_str()); // Remove incomplete file
+                curl_easy_cleanup(curl);
+                return false;
+        }
+        fclose(file);
+        curl_easy_cleanup(curl);
+        return true;
+}
 
 int main() {
         ifstream inFile;
@@ -243,7 +303,7 @@ int main() {
         }
         inFile.close();
         ofstream outFile;
-        outFile.open("readMe.txt");
+        outFile.open("../scotus/" + to_string(yearToAccess) + "/README.md");
         entryList->buildYearReadMe(outFile);
         outFile.close();
 
@@ -256,6 +316,7 @@ int main() {
                 outFile.close();
                 curr = curr->getNext();
         }
+        downloadPDFs(entryList);
         delete entryList;
         return 0;
 }
