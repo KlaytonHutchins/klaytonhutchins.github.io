@@ -1,6 +1,6 @@
 ---
 layout: scotus_case
-title: Hamm v. Smith
+title: Texas v. New Mexico
 ---
 
 Docket: 141, Orig.
