@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
-# [Kryptos](./kryptos/README.md)
-# [Computer Science Notes](./notes/README.md)
+# [Computer Science Notes](notes/README.md)
+# [Kryptos](kryptos/README.md)
+# [Supreme Court Of The United States](scotus/README.md)
+# [United States Constitution](constitution/README.md)
 
+---
