@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/*@import "{{ site.theme }}";*/
 
-@import
+/*@import
   "minima/skins/{{ site.minima.skin | default: 'auto' }}",
-  "minima/initialize";
+  "minima/initialize";*/
 
 /* Default light mode styles */
 /*body {
