@@ -8,7 +8,7 @@ using namespace std;
            Global Variables Here
 *****************************************8*/
 int yearToAccess = 2023;
-string inFileName = "input.txt";
+string inFileName = "input" + to_string(yearToAccess) + ".txt";
 string outFileName = "output.txt";
 string oyezUrl = "https://www.oyez.org/cases/";
 // full = https://www.oyez.org/cases/2024/23-167
@@ -18,6 +18,14 @@ string months[] = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","
            Global Variables Here
 *****************************************8*/
 
+class Node;
+class DoublyLL;
+
+string toLower(string str);
+string sanitizeFileName(string str);
+size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream);
+void downloadPDFs(DoublyLL* caseList);
+bool downloadPDF(Node* curr, string& savePath);
 
 //Node class with previous and next nodes.
 //Member variables are private, must use getter and setter functions.
@@ -34,11 +42,11 @@ public:
                 prev = nullptr;
         }
         ofstream& buildCasePage(ofstream& outFile) {
-                string myDateFormat = stoi(dateFiled.substr(3, 2)) << " " << months[stoi(dateFiled.substr(0, 2))] << " " << dateFiled.substr(6, 4);
+                string myDateFormat = to_string(stoi(dateFiled.substr(3, 2))) + " " + months[stoi(dateFiled.substr(0, 2))] + " " + dateFiled.substr(6, 4);
                 outFile << "---" << endl << "layout: scotus_case" << endl << "title: " << fullCaseName << endl << "---" << endl << endl;
                 outFile << "| Docket # | Date Decided | SCOTUS Opinion | Oyez |" << endl;
                 outFile << "| " << docketNumber << " | " << myDateFormat << " | [Link](" << scotusUrl << ") | ";
-                outFile << "[Link](" << OyezUrl << yearToAccess << "/" << docketNumber << ") |" << endl << endl;
+                outFile << "[Link](" << oyezUrl << yearToAccess << "/" << docketNumber << ") |" << endl << endl;
                 outFile << "<audio controls>" << endl << "   <source src='./resources/" << docketNumber << ".mp3' type='audio/mpeg'>" << endl << "</audio>";
                 outFile << endl << endl << "<object data='./resources/" << docketNumber << ".pdf' type='application/pdf'></object>" << endl << endl;
                 outFile << "---" << endl << endl << "[Up](./README.md)";
@@ -206,12 +214,14 @@ public:
 */
         ofstream& buildYearReadMe(ofstream& outFile) {
                 Node* curr = tail;
-                outFile << "---\nlayout: default\ntitle: SCOTUS Term Year " << yearToAccess << "\n---\n\n### Cases" << endl;
+                outFile << "---" << endl << "layout: default" << endl << "title: SCOTUS Term Year " << yearToAccess;
+                outFile << endl << "---" << endl << endl << "### Cases" << endl;
                 while (curr) {
-                        outFile << "*  [" << curr->getCaseName() << "](" << curr->getDocketNum() << ".md)" << endl;
+                        outFile << "*  [" << curr->getCaseName() << "](" << sanitizeFileName(curr->getDocketNum()) << ".md)" << endl;
                         curr = curr->getPrev();
                 }
-                outFile << "\n---\n\n[Prev](../" << (yearToAccess - 1) << "/README.md) | [Up](../README.md) | [Next](../" << (yearToAccess + 1) << "/README.md)" << endl;
+                outFile << endl << "---" << endl << endl << "[Prev](../" << (yearToAccess - 1);
+                outFile << "/README.md) | [Up](../README.md) | [Next](../" << (yearToAccess + 1) << "/README.md)" << endl;
                 return outFile;
         }
         //Getters and Setters   
@@ -231,15 +241,22 @@ private:
         Node* head;
         Node* tail;
 };
-size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream);
-void downloadPDFs(DoublyLL* caseList);
-bool downloadPDF(Node* curr, string& savePath);
 //Helper function to convert text to all lower case
 string toLower(string str) {
         for (size_t i = 0; i < str.length(); i++) {
                 str[i] = tolower(str[i]);
         }
         return str;
+}
+
+string sanitizeFileName(string str) {
+        string result = "";
+        for (size_t i = 0; i < str.length(); i++) {
+                if (str != "." && str != "," && str != " ") {
+                        result = result + str[i];
+                } 
+        }
+        return result;
 }
 
 size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream) {
@@ -313,7 +330,7 @@ int main() {
         Node* curr = entryList->getHead();
         string pageName;
         while (curr) {
-                pageName = curr->getDocketNum() + ".md";
+                pageName = "../scotus/" + to_string(yearToAccess) + sanitizeFileName(curr->getDocketNum()) + ".md";
                 outFile.open(pageName);
                 curr->buildCasePage(outFile);
                 outFile.close();
