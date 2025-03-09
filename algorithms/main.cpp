@@ -34,10 +34,13 @@ public:
                 prev = nullptr;
         }
         ofstream& buildCasePage(ofstream& outFile) {
-                outFile << "---\nlayout: scotus_case\ntitle: " << fullCaseName << "\n---\n\nDocket: " << docketNumber << endl << endl;
-                outFile << "Date: " << stoi(dateFiled.substr(3, 2)) << " " << months[stoi(dateFiled.substr(0, 2))] << " " << dateFiled.substr(6, 4) << endl << endl;
-                outFile << "[SCOTUS Link](" << scotusUrl << ")" << endl << endl;
-                outFile << "[Oyez Link](" << oyezUrl << yearToAccess << "/" << docketNumber << ")" << endl << endl;
+                string myDateFormat = stoi(dateFiled.substr(3, 2)) << " " << months[stoi(dateFiled.substr(0, 2))] << " " << dateFiled.substr(6, 4);
+                outFile << "---" << endl << "layout: scotus_case" << endl << "title: " << fullCaseName << endl << "---" << endl << endl;
+                outFile << "| Docket # | Date Decided | SCOTUS Opinion | Oyez |" << endl;
+                outFile << "| " << docketNumber << " | " << myDateFormat << " | [Link](" << scotusUrl << ") | ";
+                outFile << "[Link](" << OyezUrl << yearToAccess << "/" << docketNumber << ") |" << endl << endl;
+                outFile << "<audio controls>" << endl << "   <source src='./resources/" << docketNumber << ".mp3' type='audio/mpeg'>" << endl << "</audio>";
+                outFile << endl << endl << "<object data='./resources/" << docketNumber << ".pdf' type='application/pdf'></object>" << endl << endl;
                 outFile << "---" << endl << endl << "[Up](./README.md)";
                 return outFile;
         }
