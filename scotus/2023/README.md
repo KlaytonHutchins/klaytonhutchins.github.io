@@ -50,7 +50,7 @@ title: SCOTUS Term Year 2023
 *  [Smith v. Arizona](22-899.md)
 *  [Erlinger v. United States](23-370.md)
 *  [Department of State v. Munoz](23-334.md)
-*  [Texas v. New Mexico](141, Orig..md)
+*  [Texas v. New Mexico](141Orig.md)
 *  [Snyder v. United States](23-108.md)
 *  [Murthy v. Missouri](23-411.md)
 *  [SEC v. Jarkesy](22-859.md)

@@ -8,7 +8,7 @@ using namespace std;
            Global Variables Here
 *****************************************8*/
 int yearToAccess = 2023;
-string inFileName = "input" + to_string(yearToAccess) + ".txt";
+string inFileName = to_string(yearToAccess) + "input.txt";
 string outFileName = "output.txt";
 string oyezUrl = "https://www.oyez.org/cases/";
 // full = https://www.oyez.org/cases/2024/23-167
@@ -252,7 +252,7 @@ string toLower(string str) {
 string sanitizeFileName(string str) {
         string result = "";
         for (size_t i = 0; i < str.length(); i++) {
-                if (str != "." && str != "," && str != " ") {
+                if (str[i] != '.' && str[i] != ',' && str[i] != ' ') {
                         result = result + str[i];
                 } 
         }
@@ -268,7 +268,7 @@ void downloadPDFs(DoublyLL* caseList) {
         system(("mkdir -p " + saveFolder).c_str());
         Node* curr = caseList->getHead();
         while (curr) {
-                string fileName = saveFolder + curr->getDocketNum() + ".pdf";
+                string fileName = saveFolder + sanitizeFileName(curr->getDocketNum()) + ".pdf";
                 cout << "Downloading: " << curr->getUrl() << " -> " << fileName << endl;
                 if (downloadPDF(curr, fileName)) {
                         cout << "Saved: " << fileName << endl;
@@ -319,18 +319,20 @@ int main() {
                 getline(inFile, docketNum, '\t');
                 getline(inFile, caseName, '\t');
                 getline(inFile, url, '\n');
+                cout << "Reading " << docketNum << endl;
                 entryList->insertBack(ordNum, date, docketNum, caseName, url);
         }
         inFile.close();
         ofstream outFile;
         outFile.open("../scotus/" + to_string(yearToAccess) + "/README.md");
+        cout << "Building " << to_string(yearToAccess) << " README" << endl;
         entryList->buildYearReadMe(outFile);
         outFile.close();
 
         Node* curr = entryList->getHead();
         string pageName;
         while (curr) {
-                pageName = "../scotus/" + to_string(yearToAccess) + sanitizeFileName(curr->getDocketNum()) + ".md";
+                pageName = "../scotus/" + to_string(yearToAccess) + "/" + sanitizeFileName(curr->getDocketNum()) + ".md";
                 outFile.open(pageName);
                 curr->buildCasePage(outFile);
                 outFile.close();
