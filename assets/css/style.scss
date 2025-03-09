@@ -43,4 +43,8 @@ object {
    margin-top: 20px;
 }
 
+audio {
+   --inline-controls-bar-height: 40px;
+   width: -webkit-fill-available;
+}
 
