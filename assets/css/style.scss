@@ -1,25 +1,25 @@
 ---
 ---
 
-/*@import "{{ site.theme }}";*/
+@import "{{ site.theme }}";
 
-/*@import
+@import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";*/
+  "minima/initialize";
 
 /* Default light mode styles */
-/*body {
+body {
   background-color: #ffffff;
   color: #000000;
-}*/
+}
 
 /* Dark mode styles */
-/*@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   body {
     background-color: #1a1a1a;
     color: #e0e0e0;
   }
-}*/
+}
 
 table {
    width: -webkit-fill-available;
