@@ -3,7 +3,7 @@ layout: default
 title: KRYPTOS HOME
 ---
 
-### Home - [K0](./kryptosSubParts/K0.md) - [K1](./kryptosSubParts/K1.md) - [K2](./kryptosSubParts/K2.md) - [K3](./kryptosSubParts/K3.md) - [K4](./kryptosSubParts/K4.md) - [K5](./kryptosSubParts/K5.md)
+### Home - [K0](./kryptosSubParts/K0.md) - [K1](./kryptosSubParts/K1.md) - [K2](./kryptosSubParts/K2.md) - [K3](./kryptosSubParts/K3.md) - [K4](./kryptosSubParts/K4.md) - [K5](./kryptosSubParts/K5.md) - [Ciphers](./kryptosSubParts/ciphers.md)
 
 ---
 
@@ -44,6 +44,6 @@ Note: The left side of the sculpture (ciphertext) does not align well as a grid 
 
 ![Image](/images/kryptossculpture.jpeg)
 
-<hr>
+---
 
 [Up](../index.md)
