@@ -128,7 +128,7 @@ void reconfigLinks() {
 		getline(inFile, titleStr, '\n');
 		hrefStr = wikiFrontUrl + hrefStr.substr(6, hrefStr.length() - 7);
 		titleStr = titleStr.substr(7, titleStr.length() - 8);
-		outFile << "[" << titleStr << "](" << hrefStr << ")" << endl;
+		outFile << "*  [" << titleStr << "](" << hrefStr << ")" << endl;
 		cout << "Writing " << titleStr << endl;
 	}
 	inFile.close();
