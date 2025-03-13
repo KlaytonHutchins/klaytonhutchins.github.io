@@ -1,8 +1,11 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <curl/curl.h>
 
 using namespace std;
+
+string wikiFrontUrl = "https://en.wikipedia.org/";
 
 string inFileName = "kryptosIn.txt";
 string outFileName = "kryptosOut.txt";
@@ -32,7 +35,13 @@ vector<char> convertToLetters(vector<int> numberVect) {
 //int matr[2][2] = {{14,1},{10,17}};
 //int matr[2][2] = {{19,5},{24,8}};
 
-int main() {
+size_t writeCallback(void* contents, size_t size, size_t nmemb, void* userp) {
+	ofstream* outFile = static_cast<ofstream*>(userp);
+	outFile->write(static_cast<char*>(contents), size * nmemb);
+	return size * nmemb;
+}
+
+void convertToNumsHelper() {
 	cout << "k4numbers vector:" << endl;
 	for (int i = 0; i < k4numbers.size(); i++) {
 		cout << k4numbers[i] << " ";
@@ -45,9 +54,9 @@ int main() {
 	cout << endl;
 }
 
-
-/*
-int main() {
+void matrixMult() {
+	int matr[2][2] = {{14,1},{10,17}};
+	//int matr[2][2] = {{19,5},{24,8}};
 	ifstream inFile;
 	inFile.open(inFileName);
 	
@@ -71,4 +80,62 @@ int main() {
 	inFile.close();
 	outFile.close();
 }
-*/
+
+int scrape() {
+	const string url = "https://en.wikipedia.org/wiki/Category:Classical_ciphers";
+	const string outputFilename = "ciphers.txt";
+
+	CURL* curl;
+	CURLcode res;
+	ofstream outFile(outputFilename);
+
+	if (!outFile.is_open()) {
+		cerr << "Error opening output file!" << endl;
+		return 1;
+	}
+
+	curl = curl_easy_init();
+	if (curl) {
+		curl_easy_setopt(curl, CURLOPT_URL, url.c_str());
+		curl_easy_setopt(curl, CURLOPT_WRITEFUNCTION, writeCallback);
+		curl_easy_setopt(curl, CURLOPT_WRITEDATA, &outFile);
+
+		res = curl_easy_perform(curl);
+
+		if (res != CURLE_OK) {
+			cerr << "curl_easy_perform() failed: " << curl_easy_strerror(res) << endl;
+		} else {
+			cout << "Data successfully fetched and saved to " << outputFilename << endl;
+		}
+
+		curl_easy_cleanup(curl);
+	} else {
+		cerr << "Failed to initialize curl." << endl;
+		return 1;
+	}
+
+	outFile.close();
+	return 0;
+}
+
+void reconfigLinks() {
+	ifstream inFile;
+	ofstream outFile;
+	inFile.open(inFileName);
+	outFile.open(outFileName);
+	string hrefStr, titleStr;
+	while (getline(inFile, hrefStr, ' ')) {
+		getline(inFile, titleStr, '\n');
+		hrefStr = wikiFrontUrl + hrefStr.substr(6, hrefStr.length() - 7);
+		titleStr = titleStr.substr(7, titleStr.length() - 8);
+		outFile << "[" << titleStr << "](" << hrefStr << ")" << endl;
+		cout << "Writing " << titleStr << endl;
+	}
+	inFile.close();
+	outFile.close();
+}
+
+int main() {
+	reconfigLinks();
+}
+

@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <curl/curl.h>
+#include "DoublyLL.cpp"
 
 using namespace std;
 
@@ -18,18 +19,18 @@ string months[] = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","
            Global Variables Here
 *****************************************8*/
 
-class Node;
-class DoublyLL;
+//class Node;
+//class DoublyLL;
 
 string toLower(string str);
 string sanitizeFileName(string str);
 size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream);
-void downloadPDFs(DoublyLL* caseList);
-bool downloadPDF(Node* curr, string& savePath);
+void downloadPDFs(DoublyLL<CaseNode>* caseList);
+bool downloadPDF(CaseNode* curr, string& savePath);
 
 //Node class with previous and next nodes.
 //Member variables are private, must use getter and setter functions.
-class Node {
+/*class Node {
 public:
         //Construct new node with a name
         Node(string ordNum, string date, string docketNum, string caseName, string url) {
@@ -103,13 +104,13 @@ private:
         string scotusUrl;
         Node* next;
         Node* prev;
-};
+};*/
 
 //Doubly Linked List class with private head and tail.
 //Contains:
 //Constructor, Destructor, Getters and Setters.
 //Self Sorting Insert function, Delete function, and Traversal functions.
-class DoublyLL {
+/*class DoublyLL {
 public:
         //Construct new empty Doubly Linked List
         DoublyLL() {
@@ -126,7 +127,7 @@ public:
                 }
         }
         //Insert function
-/*
+
         void insert(string nameToInsert) {
                 Node* newNode = new Node(nameToInsert);
                 if (!head) {  //empty list
@@ -154,7 +155,7 @@ public:
                         }
                 }
         }
-*/
+
         void insertBack(string ordNum, string date, string docketNum, string caseName, string url) {
                 Node* newNode = new Node(ordNum, date, docketNum, caseName, url);
                 if (!head) {  //empty list
@@ -167,7 +168,7 @@ public:
                 }
         }
         //Delete function
-/*
+
         void deleteNode(string nameToDelete) {
                 Node* curr = head;
                 while (curr) {
@@ -189,9 +190,9 @@ public:
                         curr = nextNode;
                 }
         }
-*/
+
         //Traverse function, uses ofstream to pass data back to main
-/*
+
         ofstream& traverseAscending(ofstream& outFile) {
                 Node* curr = head;
                 while (curr) {
@@ -200,9 +201,9 @@ public:
                 }
                 return outFile;
         }
-*/
+
         //Traverse function, uses ofstream to pass data back to main
-/*
+
         ofstream& traverseDescending(ofstream& outFile) {
                 Node* curr = tail;
                 while (curr) {
@@ -211,7 +212,7 @@ public:
                 }
                 return outFile;
         }
-*/
+
         ofstream& buildYearReadMe(ofstream& outFile) {
                 Node* curr = tail;
                 outFile << "---" << endl << "layout: default" << endl << "title: SCOTUS Term Year " << yearToAccess;
@@ -240,7 +241,7 @@ public:
 private:
         Node* head;
         Node* tail;
-};
+};*/
 //Helper function to convert text to all lower case
 string toLower(string str) {
         for (size_t i = 0; i < str.length(); i++) {
@@ -263,10 +264,10 @@ size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream) {
         return fwrite(ptr, size, nmemb, stream);
 }
 
-void downloadPDFs(DoublyLL* caseList) {
+void downloadPDFs(DoublyLL<CaseNode>* caseList) {
         string saveFolder = "../scotus/" + to_string(yearToAccess) + "/resources/";
         system(("mkdir -p " + saveFolder).c_str());
-        Node* curr = caseList->getHead();
+        CaseNode* curr = caseList->getHead();
         while (curr) {
                 string fileName = saveFolder + sanitizeFileName(curr->getDocketNum()) + ".pdf";
                 cout << "Downloading: " << curr->getUrl() << " -> " << fileName << endl;
@@ -279,7 +280,7 @@ void downloadPDFs(DoublyLL* caseList) {
         }
 }
 
-bool downloadPDF(Node* curr, string& savePath) {
+bool downloadPDF(CaseNode* curr, string& savePath) {
         CURL* curl = curl_easy_init();
         if (!curl) {
                 cerr << "Failed to initialize curl" << endl;
@@ -310,6 +311,14 @@ bool downloadPDF(Node* curr, string& savePath) {
 }
 
 int main() {
+        DoublyLL<CaseNode> myList = DoublyLL<CaseNode>();
+        myList.insertBack(new CaseNode("32", "03/23/2023", "24-975", "Klayton v. Selena", "www.website.com"));
+        myList.insertBack(new CaseNode("33", "03/24/2023", "24-976", "Klayton v. Quiche", "www.websites.com"));
+        myList.insertBack(new CaseNode("34", "03/25/2023", "24-977", "Klayton v. Jack", "www.web.com"));
+        myList.insertBack(new CaseNode("35", "03/26/2023", "24-978", "Jack v. Quiche", "www.site.com"));
+        cout << myList.getHead()->getNext()->getDocketNum() << endl;
+
+/*
         ifstream inFile;
         inFile.open(inFileName);
         string ordNum, date, docketNum, caseName, url;
@@ -341,4 +350,5 @@ int main() {
         downloadPDFs(entryList);
         delete entryList;
         return 0;
+*/
 }

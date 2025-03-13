@@ -1,3 +1,14 @@
+---
+layout: default
+title: Ciphers
+---
+
+### [Home](../README.md)
+
+---
+
+### Ciphers:
+
 [Classical cipher](https://en.wikipedia.org//wiki/Classical_cipher)
 [ADFGVX cipher](https://en.wikipedia.org//wiki/ADFGVX_cipher)
 [Affine cipher](https://en.wikipedia.org//wiki/Affine_cipher)
@@ -51,3 +62,7 @@
 [Vigenère cipher](https://en.wikipedia.org//wiki/Vigen%C3%A8re_cipher)
 [Wadsworth&#039;s cipher](https://en.wikipedia.org//wiki/Wadsworth%27s_cipher)
 [Wahlwort](https://en.wikipedia.org//wiki/Wahlwort)
+
+---
+
+[Up](../README.md)
