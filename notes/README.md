@@ -11,4 +11,4 @@ title: Notes / Technologies
 
 <hr>
 
-[Up](../index.md) | [Next](fundamentals/README.md)
+[Up](../index.md) -- [Next](fundamentals/README.md)
