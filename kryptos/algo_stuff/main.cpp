@@ -5,7 +5,7 @@
 
 using namespace std;
 
-string wikiFrontUrl = "https://en.wikipedia.org/";
+string wikiFrontUrl = "https://en.wikipedia.org";
 
 string inFileName = "kryptosIn.txt";
 string outFileName = "kryptosOut.txt";
@@ -141,14 +141,17 @@ void writeCiphersPage() {
 	string hrefStr, titleStr, filenameStr;
         outFile << "---" << endl << "layout: default" << endl << "title: Ciphers" << endl;
         outFile << "---" << endl << endl << headerLinks << endl << endl << "---" << endl << endl;
+	outFile << "| Cipher Name | My Notes | Wiki Link |" << endl;
+	outFile << "|-------------|----------|-----------|" << endl;
 	while (getline(inFile, hrefStr, ' ')) {
 		getline(inFile, titleStr, '\n');
 		hrefStr = wikiFrontUrl + hrefStr.substr(6, hrefStr.length() - 7);
 		titleStr = titleStr.substr(7, titleStr.length() - 8);
 		filenameStr = "./" + sanitizeFileName(titleStr) + ".md";
-		outFile << "*  <button name=\"button\" onclick=\"" << filenameStr << "\" href=\"" << filenameStr << "\">My Notes</button>";
-		outFile << "  <button name=\"button\" onclick=\"" << hrefStr << "\" href=\"" << hrefStr << "\">Wikipedia</button>";
-		outFile << "  " << titleStr << endl;
+		outFile << "| " << titleStr << " | [Notes](" << filenameStr << ") | [Wiki](" << hrefStr << ") |" << endl;
+		//outFile << "*  <button name=\"button\" onclick=\"" << filenameStr << "\" href=\"" << filenameStr << "\">My Notes</button>";
+		//outFile << "  <button name=\"button\" onclick=\"" << hrefStr << "\" href=\"" << hrefStr << "\">Wikipedia</button>";
+		//outFile << "  " << titleStr << endl;
 		//outFile << "*  [" << titleStr << "](" << hrefStr << ")" << endl;
 		newFile.open("../kryptosSubParts/" + sanitizeFileName(titleStr) + ".md");
 		newFile << "---" << endl << "layout: default" << endl << "title: " << titleStr << endl << "---" << endl;

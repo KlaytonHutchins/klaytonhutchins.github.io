@@ -7,59 +7,61 @@ title: Ciphers
 
 ---
 
-*  <button name="button" onclick="./classical_cipher.md" href="./classical_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Classical_cipher" href="https://en.wikipedia.org//wiki/Classical_cipher">Wikipedia</button>  Classical cipher
-*  <button name="button" onclick="./adfgvx_cipher.md" href="./adfgvx_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/ADFGVX_cipher" href="https://en.wikipedia.org//wiki/ADFGVX_cipher">Wikipedia</button>  ADFGVX cipher
-*  <button name="button" onclick="./affine_cipher.md" href="./affine_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Affine_cipher" href="https://en.wikipedia.org//wiki/Affine_cipher">Wikipedia</button>  Affine cipher
-*  <button name="button" onclick="./alberti_cipher.md" href="./alberti_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Alberti_cipher" href="https://en.wikipedia.org//wiki/Alberti_cipher">Wikipedia</button>  Alberti cipher
-*  <button name="button" onclick="./the_alphabet_cipher.md" href="./the_alphabet_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/The_Alphabet_Cipher" href="https://en.wikipedia.org//wiki/The_Alphabet_Cipher">Wikipedia</button>  The Alphabet Cipher
-*  <button name="button" onclick="./alphabetum_kaldeorum.md" href="./alphabetum_kaldeorum.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Alphabetum_Kaldeorum" href="https://en.wikipedia.org//wiki/Alphabetum_Kaldeorum">Wikipedia</button>  Alphabetum Kaldeorum
-*  <button name="button" onclick="./arnold_cipher.md" href="./arnold_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Arnold_Cipher" href="https://en.wikipedia.org//wiki/Arnold_Cipher">Wikipedia</button>  Arnold Cipher
-*  <button name="button" onclick="./Āryabhaṭa_numeration.md" href="./Āryabhaṭa_numeration.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/%C4%80ryabha%E1%B9%ADa_numeration" href="https://en.wikipedia.org//wiki/%C4%80ryabha%E1%B9%ADa_numeration">Wikipedia</button>  Āryabhaṭa numeration
-*  <button name="button" onclick="./atbash.md" href="./atbash.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Atbash" href="https://en.wikipedia.org//wiki/Atbash">Wikipedia</button>  Atbash
-*  <button name="button" onclick="./autokey_cipher.md" href="./autokey_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Autokey_cipher" href="https://en.wikipedia.org//wiki/Autokey_cipher">Wikipedia</button>  Autokey cipher
-*  <button name="button" onclick="./bacon's_cipher.md" href="./bacon's_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Bacon%27s_cipher" href="https://en.wikipedia.org//wiki/Bacon%27s_cipher">Wikipedia</button>  Bacon's cipher
-*  <button name="button" onclick="./beaufort_cipher.md" href="./beaufort_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Beaufort_cipher" href="https://en.wikipedia.org//wiki/Beaufort_cipher">Wikipedia</button>  Beaufort cipher
-*  <button name="button" onclick="./bifid_cipher.md" href="./bifid_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Bifid_cipher" href="https://en.wikipedia.org//wiki/Bifid_cipher">Wikipedia</button>  Bifid cipher
-*  <button name="button" onclick="./book_cipher.md" href="./book_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Book_cipher" href="https://en.wikipedia.org//wiki/Book_cipher">Wikipedia</button>  Book cipher
-*  <button name="button" onclick="./thomas_brierley_grave_cipher.md" href="./thomas_brierley_grave_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Thomas_Brierley_grave_cipher" href="https://en.wikipedia.org//wiki/Thomas_Brierley_grave_cipher">Wikipedia</button>  Thomas Brierley grave cipher
-*  <button name="button" onclick="./caesar_cipher.md" href="./caesar_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Caesar_cipher" href="https://en.wikipedia.org//wiki/Caesar_cipher">Wikipedia</button>  Caesar cipher
-*  <button name="button" onclick="./chaocipher.md" href="./chaocipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Chaocipher" href="https://en.wikipedia.org//wiki/Chaocipher">Wikipedia</button>  Chaocipher
-*  <button name="button" onclick="./copiale_cipher.md" href="./copiale_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Copiale_cipher" href="https://en.wikipedia.org//wiki/Copiale_cipher">Wikipedia</button>  Copiale cipher
-*  <button name="button" onclick="./dryad.md" href="./dryad.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/DRYAD" href="https://en.wikipedia.org//wiki/DRYAD">Wikipedia</button>  DRYAD
-*  <button name="button" onclick="./four_square_cipher.md" href="./four_square_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Four-square_cipher" href="https://en.wikipedia.org//wiki/Four-square_cipher">Wikipedia</button>  Four-square cipher
-*  <button name="button" onclick="./great_cipher.md" href="./great_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Great_Cipher" href="https://en.wikipedia.org//wiki/Great_Cipher">Wikipedia</button>  Great Cipher
-*  <button name="button" onclick="./grille_(cryptography).md" href="./grille_(cryptography).md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Grille_(cryptography)" href="https://en.wikipedia.org//wiki/Grille_(cryptography)">Wikipedia</button>  Grille (cryptography)
-*  <button name="button" onclick="./hill_cipher.md" href="./hill_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Hill_cipher" href="https://en.wikipedia.org//wiki/Hill_cipher">Wikipedia</button>  Hill cipher
-*  <button name="button" onclick="./m_94.md" href="./m_94.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/M-94" href="https://en.wikipedia.org//wiki/M-94">Wikipedia</button>  M-94
-*  <button name="button" onclick="./mlecchita_vikalpa.md" href="./mlecchita_vikalpa.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Mlecchita_vikalpa" href="https://en.wikipedia.org//wiki/Mlecchita_vikalpa">Wikipedia</button>  Mlecchita vikalpa
-*  <button name="button" onclick="./nihilist_cipher.md" href="./nihilist_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Nihilist_cipher" href="https://en.wikipedia.org//wiki/Nihilist_cipher">Wikipedia</button>  Nihilist cipher
-*  <button name="button" onclick="./null_cipher.md" href="./null_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Null_cipher" href="https://en.wikipedia.org//wiki/Null_cipher">Wikipedia</button>  Null cipher
-*  <button name="button" onclick="./pig_latin.md" href="./pig_latin.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Pig_Latin" href="https://en.wikipedia.org//wiki/Pig_Latin">Wikipedia</button>  Pig Latin
-*  <button name="button" onclick="./pigpen_cipher.md" href="./pigpen_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Pigpen_cipher" href="https://en.wikipedia.org//wiki/Pigpen_cipher">Wikipedia</button>  Pigpen cipher
-*  <button name="button" onclick="./playfair_cipher.md" href="./playfair_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Playfair_cipher" href="https://en.wikipedia.org//wiki/Playfair_cipher">Wikipedia</button>  Playfair cipher
-*  <button name="button" onclick="./poem_code.md" href="./poem_code.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Poem_code" href="https://en.wikipedia.org//wiki/Poem_code">Wikipedia</button>  Poem code
-*  <button name="button" onclick="./polyalphabetic_cipher.md" href="./polyalphabetic_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Polyalphabetic_cipher" href="https://en.wikipedia.org//wiki/Polyalphabetic_cipher">Wikipedia</button>  Polyalphabetic cipher
-*  <button name="button" onclick="./polybius_square.md" href="./polybius_square.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Polybius_square" href="https://en.wikipedia.org//wiki/Polybius_square">Wikipedia</button>  Polybius square
-*  <button name="button" onclick="./rail_fence_cipher.md" href="./rail_fence_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Rail_fence_cipher" href="https://en.wikipedia.org//wiki/Rail_fence_cipher">Wikipedia</button>  Rail fence cipher
-*  <button name="button" onclick="./rasterschlüssel_44.md" href="./rasterschlüssel_44.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Rasterschl%C3%BCssel_44" href="https://en.wikipedia.org//wiki/Rasterschl%C3%BCssel_44">Wikipedia</button>  Rasterschlüssel 44
-*  <button name="button" onclick="./reihenschieber.md" href="./reihenschieber.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Reihenschieber" href="https://en.wikipedia.org//wiki/Reihenschieber">Wikipedia</button>  Reihenschieber
-*  <button name="button" onclick="./reservehandverfahren.md" href="./reservehandverfahren.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Reservehandverfahren" href="https://en.wikipedia.org//wiki/Reservehandverfahren">Wikipedia</button>  Reservehandverfahren
-*  <button name="button" onclick="./rot13.md" href="./rot13.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/ROT13" href="https://en.wikipedia.org//wiki/ROT13">Wikipedia</button>  ROT13
-*  <button name="button" onclick="./running_key_cipher.md" href="./running_key_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Running_key_cipher" href="https://en.wikipedia.org//wiki/Running_key_cipher">Wikipedia</button>  Running key cipher
-*  <button name="button" onclick="./scytale.md" href="./scytale.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Scytale" href="https://en.wikipedia.org//wiki/Scytale">Wikipedia</button>  Scytale
-*  <button name="button" onclick="./shackle_code.md" href="./shackle_code.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Shackle_code" href="https://en.wikipedia.org//wiki/Shackle_code">Wikipedia</button>  Shackle code
-*  <button name="button" onclick="./sheshach.md" href="./sheshach.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Sheshach" href="https://en.wikipedia.org//wiki/Sheshach">Wikipedia</button>  Sheshach
-*  <button name="button" onclick="./straddling_checkerboard.md" href="./straddling_checkerboard.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Straddling_checkerboard" href="https://en.wikipedia.org//wiki/Straddling_checkerboard">Wikipedia</button>  Straddling checkerboard
-*  <button name="button" onclick="./substitution_cipher.md" href="./substitution_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Substitution_cipher" href="https://en.wikipedia.org//wiki/Substitution_cipher">Wikipedia</button>  Substitution cipher
-*  <button name="button" onclick="./tabula_recta.md" href="./tabula_recta.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Tabula_recta" href="https://en.wikipedia.org//wiki/Tabula_recta">Wikipedia</button>  Tabula recta
-*  <button name="button" onclick="./tap_code.md" href="./tap_code.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Tap_code" href="https://en.wikipedia.org//wiki/Tap_code">Wikipedia</button>  Tap code
-*  <button name="button" onclick="./transposition_cipher.md" href="./transposition_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Transposition_cipher" href="https://en.wikipedia.org//wiki/Transposition_cipher">Wikipedia</button>  Transposition cipher
-*  <button name="button" onclick="./trifid_cipher.md" href="./trifid_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Trifid_cipher" href="https://en.wikipedia.org//wiki/Trifid_cipher">Wikipedia</button>  Trifid cipher
-*  <button name="button" onclick="./two_square_cipher.md" href="./two_square_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Two-square_cipher" href="https://en.wikipedia.org//wiki/Two-square_cipher">Wikipedia</button>  Two-square cipher
-*  <button name="button" onclick="./vic_cipher.md" href="./vic_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/VIC_cipher" href="https://en.wikipedia.org//wiki/VIC_cipher">Wikipedia</button>  VIC cipher
-*  <button name="button" onclick="./vigenère_cipher.md" href="./vigenère_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Vigen%C3%A8re_cipher" href="https://en.wikipedia.org//wiki/Vigen%C3%A8re_cipher">Wikipedia</button>  Vigenère cipher
-*  <button name="button" onclick="./wadsworth's_cipher.md" href="./wadsworth's_cipher.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Wadsworth%27s_cipher" href="https://en.wikipedia.org//wiki/Wadsworth%27s_cipher">Wikipedia</button>  Wadsworth's cipher
-*  <button name="button" onclick="./wahlwort.md" href="./wahlwort.md">My Notes</button>  <button name="button" onclick="https://en.wikipedia.org//wiki/Wahlwort" href="https://en.wikipedia.org//wiki/Wahlwort">Wikipedia</button>  Wahlwort
+| Cipher Name | My Notes | Wiki Link |
+|-------------|----------|-----------|
+| Classical cipher | [Notes](./classical_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Classical_cipher) |
+| ADFGVX cipher | [Notes](./adfgvx_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/ADFGVX_cipher) |
+| Affine cipher | [Notes](./affine_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Affine_cipher) |
+| Alberti cipher | [Notes](./alberti_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Alberti_cipher) |
+| The Alphabet Cipher | [Notes](./the_alphabet_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/The_Alphabet_Cipher) |
+| Alphabetum Kaldeorum | [Notes](./alphabetum_kaldeorum.md) | [Wiki](https://en.wikipedia.org/wiki/Alphabetum_Kaldeorum) |
+| Arnold Cipher | [Notes](./arnold_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Arnold_Cipher) |
+| Āryabhaṭa numeration | [Notes](./Āryabhaṭa_numeration.md) | [Wiki](https://en.wikipedia.org/wiki/%C4%80ryabha%E1%B9%ADa_numeration) |
+| Atbash | [Notes](./atbash.md) | [Wiki](https://en.wikipedia.org/wiki/Atbash) |
+| Autokey cipher | [Notes](./autokey_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Autokey_cipher) |
+| Bacon's cipher | [Notes](./bacon's_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Bacon%27s_cipher) |
+| Beaufort cipher | [Notes](./beaufort_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Beaufort_cipher) |
+| Bifid cipher | [Notes](./bifid_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Bifid_cipher) |
+| Book cipher | [Notes](./book_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Book_cipher) |
+| Thomas Brierley grave cipher | [Notes](./thomas_brierley_grave_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Thomas_Brierley_grave_cipher) |
+| Caesar cipher | [Notes](./caesar_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Caesar_cipher) |
+| Chaocipher | [Notes](./chaocipher.md) | [Wiki](https://en.wikipedia.org/wiki/Chaocipher) |
+| Copiale cipher | [Notes](./copiale_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Copiale_cipher) |
+| DRYAD | [Notes](./dryad.md) | [Wiki](https://en.wikipedia.org/wiki/DRYAD) |
+| Four-square cipher | [Notes](./four_square_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Four-square_cipher) |
+| Great Cipher | [Notes](./great_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Great_Cipher) |
+| Grille (cryptography) | [Notes](./grille_(cryptography).md) | [Wiki](https://en.wikipedia.org/wiki/Grille_(cryptography)) |
+| Hill cipher | [Notes](./hill_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Hill_cipher) |
+| M-94 | [Notes](./m_94.md) | [Wiki](https://en.wikipedia.org/wiki/M-94) |
+| Mlecchita vikalpa | [Notes](./mlecchita_vikalpa.md) | [Wiki](https://en.wikipedia.org/wiki/Mlecchita_vikalpa) |
+| Nihilist cipher | [Notes](./nihilist_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Nihilist_cipher) |
+| Null cipher | [Notes](./null_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Null_cipher) |
+| Pig Latin | [Notes](./pig_latin.md) | [Wiki](https://en.wikipedia.org/wiki/Pig_Latin) |
+| Pigpen cipher | [Notes](./pigpen_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Pigpen_cipher) |
+| Playfair cipher | [Notes](./playfair_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Playfair_cipher) |
+| Poem code | [Notes](./poem_code.md) | [Wiki](https://en.wikipedia.org/wiki/Poem_code) |
+| Polyalphabetic cipher | [Notes](./polyalphabetic_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Polyalphabetic_cipher) |
+| Polybius square | [Notes](./polybius_square.md) | [Wiki](https://en.wikipedia.org/wiki/Polybius_square) |
+| Rail fence cipher | [Notes](./rail_fence_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Rail_fence_cipher) |
+| Rasterschlüssel 44 | [Notes](./rasterschlüssel_44.md) | [Wiki](https://en.wikipedia.org/wiki/Rasterschl%C3%BCssel_44) |
+| Reihenschieber | [Notes](./reihenschieber.md) | [Wiki](https://en.wikipedia.org/wiki/Reihenschieber) |
+| Reservehandverfahren | [Notes](./reservehandverfahren.md) | [Wiki](https://en.wikipedia.org/wiki/Reservehandverfahren) |
+| ROT13 | [Notes](./rot13.md) | [Wiki](https://en.wikipedia.org/wiki/ROT13) |
+| Running key cipher | [Notes](./running_key_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Running_key_cipher) |
+| Scytale | [Notes](./scytale.md) | [Wiki](https://en.wikipedia.org/wiki/Scytale) |
+| Shackle code | [Notes](./shackle_code.md) | [Wiki](https://en.wikipedia.org/wiki/Shackle_code) |
+| Sheshach | [Notes](./sheshach.md) | [Wiki](https://en.wikipedia.org/wiki/Sheshach) |
+| Straddling checkerboard | [Notes](./straddling_checkerboard.md) | [Wiki](https://en.wikipedia.org/wiki/Straddling_checkerboard) |
+| Substitution cipher | [Notes](./substitution_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Substitution_cipher) |
+| Tabula recta | [Notes](./tabula_recta.md) | [Wiki](https://en.wikipedia.org/wiki/Tabula_recta) |
+| Tap code | [Notes](./tap_code.md) | [Wiki](https://en.wikipedia.org/wiki/Tap_code) |
+| Transposition cipher | [Notes](./transposition_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Transposition_cipher) |
+| Trifid cipher | [Notes](./trifid_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Trifid_cipher) |
+| Two-square cipher | [Notes](./two_square_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Two-square_cipher) |
+| VIC cipher | [Notes](./vic_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/VIC_cipher) |
+| Vigenère cipher | [Notes](./vigenère_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) |
+| Wadsworth's cipher | [Notes](./wadsworth's_cipher.md) | [Wiki](https://en.wikipedia.org/wiki/Wadsworth%27s_cipher) |
+| Wahlwort | [Notes](./wahlwort.md) | [Wiki](https://en.wikipedia.org/wiki/Wahlwort) |
 
 ---
 
