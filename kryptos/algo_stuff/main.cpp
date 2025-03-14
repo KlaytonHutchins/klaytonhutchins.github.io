@@ -132,12 +132,12 @@ string sanitizeFileName(string str) {
 }
 
 void writeCiphersPage() {
-	string headerLinks = "### [Home](../README.md) - [K0](./K0.md) - [K1](./K1.md) - [K2](./K2.md) - [K3](./K3.md) - [K4](./K4.md) - [K5](./K5.md) - Ciphers";
+	string headerLinks = "### [Home](../README.md) - [K0](../K0.md) - [K1](../K1.md) - [K2](../K2.md) - [K3](../K3.md) - [K4](../K4.md) - [K5](../K5.md) - Ciphers";
 	ifstream inFile;
 	ofstream outFile;
 	ofstream newFile;
 	inFile.open(inFileName);
-	outFile.open("../kryptosSubParts/ciphers.md");
+	outFile.open("../ciphers/README.md");
 	string hrefStr, titleStr, filenameStr;
         outFile << "---" << endl << "layout: default" << endl << "title: Ciphers" << endl;
         outFile << "---" << endl << endl << headerLinks << endl << endl << "---" << endl << endl;
@@ -153,8 +153,9 @@ void writeCiphersPage() {
 		//outFile << "  <button name=\"button\" onclick=\"" << hrefStr << "\" href=\"" << hrefStr << "\">Wikipedia</button>";
 		//outFile << "  " << titleStr << endl;
 		//outFile << "*  [" << titleStr << "](" << hrefStr << ")" << endl;
-		newFile.open("../kryptosSubParts/" + sanitizeFileName(titleStr) + ".md");
-		newFile << "---" << endl << "layout: default" << endl << "title: " << titleStr << endl << "---" << endl;
+		newFile.open("../ciphers/" + sanitizeFileName(titleStr) + ".md");
+		newFile << "---" << endl << "layout: default" << endl << "title: " << titleStr << endl << "---" << endl << endl << endl;
+		newFile << "---" << endl << "[Up](./README.md)" << endl;
 		newFile.close();
 	}
 	outFile << endl << "---" << endl << endl << "[Up](../README.md)" <<endl;
