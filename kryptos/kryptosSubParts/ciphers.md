@@ -7,8 +7,6 @@ title: Ciphers
 
 ---
 
-### Ciphers:
-
 *  [Classical cipher](https://en.wikipedia.org//wiki/Classical_cipher)
 *  [ADFGVX cipher](https://en.wikipedia.org//wiki/ADFGVX_cipher)
 *  [Affine cipher](https://en.wikipedia.org//wiki/Affine_cipher)
@@ -19,7 +17,7 @@ title: Ciphers
 *  [Āryabhaṭa numeration](https://en.wikipedia.org//wiki/%C4%80ryabha%E1%B9%ADa_numeration)
 *  [Atbash](https://en.wikipedia.org//wiki/Atbash)
 *  [Autokey cipher](https://en.wikipedia.org//wiki/Autokey_cipher)
-*  [Bacon&#039;s cipher](https://en.wikipedia.org//wiki/Bacon%27s_cipher)
+*  [Bacon's cipher](https://en.wikipedia.org//wiki/Bacon%27s_cipher)
 *  [Beaufort cipher](https://en.wikipedia.org//wiki/Beaufort_cipher)
 *  [Bifid cipher](https://en.wikipedia.org//wiki/Bifid_cipher)
 *  [Book cipher](https://en.wikipedia.org//wiki/Book_cipher)
@@ -60,7 +58,7 @@ title: Ciphers
 *  [Two-square cipher](https://en.wikipedia.org//wiki/Two-square_cipher)
 *  [VIC cipher](https://en.wikipedia.org//wiki/VIC_cipher)
 *  [Vigenère cipher](https://en.wikipedia.org//wiki/Vigen%C3%A8re_cipher)
-*  [Wadsworth&#039;s cipher](https://en.wikipedia.org//wiki/Wadsworth%27s_cipher)
+*  [Wadsworth's cipher](https://en.wikipedia.org//wiki/Wadsworth%27s_cipher)
 *  [Wahlwort](https://en.wikipedia.org//wiki/Wahlwort)
 
 ---

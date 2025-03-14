@@ -118,24 +118,51 @@ int scrape() {
 	return 0;
 }
 
-void reconfigLinks() {
+string sanitizeFileName(string str) {
+        string result = "";
+        char ch;
+	for (size_t i = 0; i < str.length(); i++) {
+		ch = (str[i] >= 'A' && str[i] <= 'Z') ? str[i] + 32 : str[i];
+		if (ch == ' ' || ch == ',' || ch == '.' || ch == '-') {
+			ch = '_';
+		}
+		result += ch;
+        }
+        return result;	
+}
+
+void writeCiphersPage() {
+	string headerLinks = "### [Home](../README.md) - [K0](./K0.md) - [K1](./K1.md) - [K2](./K2.md) - [K3](./K3.md) - [K4](./K4.md) - [K5](./K5.md) - Ciphers";
 	ifstream inFile;
 	ofstream outFile;
+	ofstream newFile;
 	inFile.open(inFileName);
-	outFile.open(outFileName);
-	string hrefStr, titleStr;
+	outFile.open("../kryptosSubParts/ciphers.md");
+	string hrefStr, titleStr, filenameStr;
+        outFile << "---" << endl << "layout: default" << endl << "title: Ciphers" << endl;
+        outFile << "---" << endl << endl << headerLinks << endl << endl << "---" << endl << endl;
 	while (getline(inFile, hrefStr, ' ')) {
 		getline(inFile, titleStr, '\n');
 		hrefStr = wikiFrontUrl + hrefStr.substr(6, hrefStr.length() - 7);
 		titleStr = titleStr.substr(7, titleStr.length() - 8);
-		outFile << "*  [" << titleStr << "](" << hrefStr << ")" << endl;
-		cout << "Writing " << titleStr << endl;
+		filenameStr = "./" + sanitizeFileName(titleStr) + ".md";
+		outFile << "*  <button name=\"button\" onclick=\"" << filenameStr << "\" href=\"" << filenameStr << "\">My Notes</button>";
+		outFile << "  <button name=\"button\" onclick=\"" << hrefStr << "\" href=\"" << hrefStr << "\">Wikipedia</button>";
+		outFile << "  " << titleStr << endl;
+		//outFile << "*  [" << titleStr << "](" << hrefStr << ")" << endl;
+		newFile.open("../kryptosSubParts/" + sanitizeFileName(titleStr) + ".md");
+		newFile << "---" << endl << "layout: default" << endl << "title: " << titleStr << endl << "---" << endl;
+		newFile.close();
 	}
+	outFile << endl << "---" << endl << endl << "[Up](../README.md)" <<endl;
 	inFile.close();
 	outFile.close();
 }
 
 int main() {
-	reconfigLinks();
+	writeCiphersPage();
+	//string test = "Aj,sdf-nk. aGF";
+	//cout << test << endl;
+	//cout << sanitizeFileName(test) << endl;
 }
 
