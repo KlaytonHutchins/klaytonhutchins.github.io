@@ -79,5 +79,5 @@ Floating an element allows subsequent text and inline elements to wrap around it
 
 <hr>
 
-[Prev](cssDisplay.md) | [Up](README.md) | [Next](labs.md)
+[Prev](cssDisplay.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -49,5 +49,5 @@ In the absence of a specific rule, many CSS properties are inherited from _paren
 
 <hr>
 
-[Prev](cssSpecificity.md) | [Up](README.md) | [Next](cssMoreSelectors.md)
+[Prev](cssSpecificity.md) -- [Up](README.md) -- [Next](cssMoreSelectors.md)
 

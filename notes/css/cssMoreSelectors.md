@@ -108,5 +108,5 @@ ol > ul > li:first-child::after {
 
 <hr>
 
-[Prev](cssCascade.md) | [Up](README.md) | [Next](cssBoxModel.md)
+[Prev](cssCascade.md) -- [Up](README.md) -- [Next](cssBoxModel.md)
 

@@ -51,5 +51,5 @@ For a more thorough discussion, watch https://www.youtube.com/watch?v=wmAP2xvNs0
 
 <hr>
 
-[Prev](cssPositionRelative.md) | [Up](README.md) | [Next](cssPositionFixed.md)
+[Prev](cssPositionRelative.md) -- [Up](README.md) -- [Next](cssPositionFixed.md)
 

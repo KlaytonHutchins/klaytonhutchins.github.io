@@ -41,4 +41,4 @@ title: CSS - Cascading Style Sheets
 
 <hr>
 
-[Up](../README.md) | [Next](cssBasics.md)
+[Up](../README.md) -- [Next](cssBasics.md)

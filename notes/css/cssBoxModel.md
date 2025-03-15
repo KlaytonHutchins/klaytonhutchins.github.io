@@ -113,5 +113,5 @@ div, span {
 
 <hr>
 
-[Prev](cssMoreSelectors.md) | [Up](README.md) | [Next](cssPositionRelative.md)
+[Prev](cssMoreSelectors.md) -- [Up](README.md) -- [Next](cssPositionRelative.md)
 

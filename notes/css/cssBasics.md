@@ -100,5 +100,5 @@ This allows HTML files created dynamically by software to read in and apply stat
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](cssSelectors.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](cssSelectors.md)
 

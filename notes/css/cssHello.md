@@ -47,5 +47,5 @@ We will be editing them throughout this section.
 
 <hr>
 
-[Prev](cssSelectors.md) | [Up](README.md) | [Next](cssSpecificity.md)
+[Prev](cssSelectors.md) -- [Up](README.md) -- [Next](cssSpecificity.md)
 

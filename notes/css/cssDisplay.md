@@ -97,5 +97,5 @@ This is used in conjunction with JavaScript to hide and unhide content.
 
 <hr>
 
-[Prev](cssPositionFixed.md) | [Up](README.md) | [Next](cssFloatLeftRight.md)
+[Prev](cssPositionFixed.md) -- [Up](README.md) -- [Next](cssFloatLeftRight.md)
 
