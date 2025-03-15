@@ -1,6 +1,6 @@
 # Kachow Auto Repair
 
-## CSC 131 Project - Spring 2025
+* ## CSC 131 Project - Spring 2025
 
 ---
 
