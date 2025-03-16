@@ -123,5 +123,5 @@ title: split, join, slice, splice
 
 <hr>
 
-[Prev](basicArrays-labs.md) | [Up](README.md) | [Next](forEachMap.md)
+[Prev](basicArrays-labs.md) -- [Up](README.md) -- [Next](forEachMap.md)
 

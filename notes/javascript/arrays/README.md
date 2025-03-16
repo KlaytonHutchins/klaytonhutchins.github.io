@@ -36,4 +36,4 @@ title: Arrays
 
 <hr>
 
-[Up](../README.md) | [Next](arrayBasics.md)
+[Up](../README.md) -- [Next](arrayBasics.md)

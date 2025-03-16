@@ -18,5 +18,5 @@ nope = null; // null
 
 <hr>
 
-[Prev](strings.md) | [Up](README.md) | [Next](arrays.md)
+[Prev](strings.md) -- [Up](README.md) -- [Next](arrays.md)
 

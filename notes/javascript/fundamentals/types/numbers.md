@@ -30,5 +30,5 @@ var x = 5/"Banana"; // NaN
 
 <hr>
 
-[Prev](declarations.md) | [Up](README.md) | [Next](strings.md)
+[Prev](declarations.md) -- [Up](README.md) -- [Next](strings.md)
 

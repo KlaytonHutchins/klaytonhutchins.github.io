@@ -21,5 +21,5 @@ title: Hello World
 
 <hr>
 
-[Prev](htmlBasics.md) | [Up](README.md) | [Next](htmlAttributes.md)
+[Prev](htmlBasics.md) -- [Up](README.md) -- [Next](htmlAttributes.md)
 

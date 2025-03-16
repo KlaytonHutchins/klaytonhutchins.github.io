@@ -158,5 +158,5 @@ let nameArr = [...name];  // ["S", "a", "m", "a", "n", "t", "h", "a"]
 
 <hr>
 
-[Prev](definitions.md) | [Up](README.md) | [Next](expressions.md)
+[Prev](definitions.md) -- [Up](README.md) -- [Next](expressions.md)
 

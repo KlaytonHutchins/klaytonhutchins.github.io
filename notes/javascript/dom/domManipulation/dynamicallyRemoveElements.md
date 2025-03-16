@@ -104,5 +104,5 @@ If you would like to remove the entire Element (not just its children), you can 
 
 <hr>
 
-[Prev](dynamicallyCreatingElements.md) | [Up](README.md) | [Next](labs.md)
+[Prev](dynamicallyCreatingElements.md) -- [Up](README.md) -- [Next](labs.md)
 

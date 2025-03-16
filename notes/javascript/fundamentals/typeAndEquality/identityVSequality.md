@@ -33,5 +33,5 @@ In most situations, it is preferable to use the strict equality operator, as its
 
 <hr>
 
-[Prev](conversionRefTable.md) | [Up](README.md) | [Next](isNaN.md)
+[Prev](conversionRefTable.md) -- [Up](README.md) -- [Next](isNaN.md)
 

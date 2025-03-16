@@ -38,5 +38,5 @@ The server, also using `HTTP`, responds to the request with the data.
 
 <hr>
 
-[Prev](uri.md) | [Up](README.md) | [Next](labs.md)
+[Prev](uri.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -90,5 +90,5 @@ title: Partial CSS Style Rules List
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md)
+[Prev](labs.md) -- [Up](README.md)
 

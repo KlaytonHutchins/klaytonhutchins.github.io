@@ -23,4 +23,4 @@ title: Fundamentals of JavaScript
 
 <hr>
 
-[Up](../README.md) | [Next](overview/README.md)
+[Up](../README.md) -- [Next](overview/README.md)

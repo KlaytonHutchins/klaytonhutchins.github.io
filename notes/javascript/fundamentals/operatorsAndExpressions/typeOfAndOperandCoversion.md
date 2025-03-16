@@ -61,5 +61,5 @@ To convert from one primitive type to another (i.e. string/number), there are gl
 
 <hr>
 
-[Prev](typeConversionAndOperators.md) | [Up](README.md) | [Next](operatorReferenceTable.md)
+[Prev](typeConversionAndOperators.md) -- [Up](README.md) -- [Next](operatorReferenceTable.md)
 

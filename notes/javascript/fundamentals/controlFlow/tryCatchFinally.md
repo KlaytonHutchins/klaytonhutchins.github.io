@@ -84,5 +84,5 @@ try {
 
 <hr>
 
-[Prev](loops.md) | [Up](README.md) | [Next](labs.md)
+[Prev](loops.md) -- [Up](README.md) -- [Next](labs.md)
 

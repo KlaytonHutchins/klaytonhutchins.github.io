@@ -21,5 +21,5 @@ To understand this interaction, let's unravel the XMLHttpRequest object which ti
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](xhrObject.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](xhrObject.md)
 

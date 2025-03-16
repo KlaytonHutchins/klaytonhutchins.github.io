@@ -27,5 +27,5 @@ The `<ul>` element has 3 children, the `<li>`s.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](usingSelectedElement.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](usingSelectedElement.md)
 

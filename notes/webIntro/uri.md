@@ -51,5 +51,5 @@ rtsp://media.example.com:88/videos/somevideo.avi
 
 <hr>
 
-[Prev](clients-and-servers.md) | [Up](README.md) | [Next](http-protocol.md)
+[Prev](clients-and-servers.md) -- [Up](README.md) -- [Next](http-protocol.md)
 

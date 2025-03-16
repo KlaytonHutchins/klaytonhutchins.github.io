@@ -154,5 +154,5 @@ This makes sure the Boot app's embedded tomcat doesn't interfere with the Tomcat
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

@@ -48,5 +48,5 @@ var age; // != var Age;...case-sensitivity
 
 <hr>
 
-[Prev](primitives.md) | [Up](README.md) | [Next](numbers.md)
+[Prev](primitives.md) -- [Up](README.md) -- [Next](numbers.md)
 

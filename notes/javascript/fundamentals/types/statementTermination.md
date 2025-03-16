@@ -68,5 +68,5 @@ title: To use a semicolon...or not to use a semicolon?
 
 <hr>
 
-[Prev](scope.md) | [Up](README.md) | [Next](labs.md)
+[Prev](scope.md) -- [Up](README.md) -- [Next](labs.md)
 

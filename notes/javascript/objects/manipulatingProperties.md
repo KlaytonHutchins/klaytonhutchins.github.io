@@ -126,5 +126,5 @@ arr["0"]; // => "Test"
 
 <hr>
 
-[Prev](initializingWithProperties.md) | [Up](README.md) | [Next](forIn.md)
+[Prev](initializingWithProperties.md) -- [Up](README.md) -- [Next](forIn.md)
 

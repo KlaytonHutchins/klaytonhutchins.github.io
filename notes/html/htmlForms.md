@@ -119,5 +119,5 @@ Code:
 
 <hr>
 
-[Prev](htmlGlossary.md) | [Up](README.md) | [Next](labs.md)
+[Prev](htmlGlossary.md) -- [Up](README.md) -- [Next](labs.md)
 

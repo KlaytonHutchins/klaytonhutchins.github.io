@@ -106,5 +106,5 @@ Yields:
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](htmlHelloWorld.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](htmlHelloWorld.md)
 

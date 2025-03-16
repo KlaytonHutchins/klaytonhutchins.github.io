@@ -39,5 +39,5 @@ window.addEventListener('load', confirmWindowLoad);
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](usingEventListeners.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](usingEventListeners.md)
 

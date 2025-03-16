@@ -33,5 +33,5 @@ xhr.open('GET', 'http://someUrl.com/resource', false);
 
 <hr>
 
-[Prev](xhrObject.md) | [Up](README.md) | [Next](send.md)
+[Prev](xhrObject.md) -- [Up](README.md) -- [Next](send.md)
 

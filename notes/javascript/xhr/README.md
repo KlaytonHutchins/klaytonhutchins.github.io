@@ -16,4 +16,4 @@ title: XmlHttpRequest (XHR)
 
 <hr>
 
-[Up](../README.md) | [Next](ansyncAndTheEventLoop/README.md)
+[Up](../README.md) -- [Next](ansyncAndTheEventLoop/README.md)

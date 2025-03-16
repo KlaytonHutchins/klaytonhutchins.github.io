@@ -23,5 +23,5 @@ This runtime allows function calls to 'run-to-completion' and clear the stack qu
 
 <hr>
 
-[Prev](asynchronicity.md) | [Up](README.md) | [Next](jsFunctionLifeCycle.md)
+[Prev](asynchronicity.md) -- [Up](README.md) -- [Next](jsFunctionLifeCycle.md)
 

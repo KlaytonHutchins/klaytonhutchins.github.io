@@ -67,5 +67,5 @@ false + false // 0 => ''
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](typeOfAndOperandCoversion.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](typeOfAndOperandCoversion.md)
 

@@ -78,5 +78,5 @@ let name;
 
 <hr>
 
-[Prev](hoisting.md) | [Up](README.md) | [Next](statementTermination.md)
+[Prev](hoisting.md) -- [Up](README.md) -- [Next](statementTermination.md)
 

@@ -20,4 +20,5 @@ title: Asynchronicity and the Event Loop
 
 <hr>
 
-[Up](../README.md) | [Next](asynchronicity.md)
+[Up](../README.md) -- [Next](asynchronicity.md)
+

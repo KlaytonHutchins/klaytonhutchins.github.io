@@ -55,5 +55,5 @@ If we specify that an element is `position: relative;`, then the browser treats 
 
 <hr>
 
-[Prev](cssBoxModel.md) | [Up](README.md) | [Next](cssPositionAbsolute.md)
+[Prev](cssBoxModel.md) -- [Up](README.md) -- [Next](cssPositionAbsolute.md)
 

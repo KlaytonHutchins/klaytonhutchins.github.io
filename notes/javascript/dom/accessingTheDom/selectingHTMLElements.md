@@ -181,5 +181,5 @@ Text Content: SD14
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](labs.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](labs.md)
 

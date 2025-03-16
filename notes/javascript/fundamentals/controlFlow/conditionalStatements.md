@@ -50,5 +50,5 @@ switch(num) {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](loops.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](loops.md)
 

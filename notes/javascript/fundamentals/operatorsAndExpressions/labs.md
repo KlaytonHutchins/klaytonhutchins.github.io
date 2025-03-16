@@ -81,5 +81,5 @@ Resources for this lab: [resources/labs](resources/labs)
 
 <hr>
 
-[Prev](operatorReferenceTable.md) | [Up](README.md)
+[Prev](operatorReferenceTable.md) -- [Up](README.md)
 

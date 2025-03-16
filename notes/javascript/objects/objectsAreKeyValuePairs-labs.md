@@ -95,5 +95,5 @@ console.log(formatGithubCommit(commit));
 
 <hr>
 
-[Prev](forIn.md) | [Up](README.md) | [Next](objectMethods.md)
+[Prev](forIn.md) -- [Up](README.md) -- [Next](objectMethods.md)
 

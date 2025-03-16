@@ -16,4 +16,4 @@ title: Intro to the DOM
 
 <hr>
 
-[Up](../README.md) | [Next](documentObjectModel.md)
+[Up](../README.md) -- [Next](documentObjectModel.md)

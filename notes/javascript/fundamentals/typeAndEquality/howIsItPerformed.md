@@ -59,5 +59,5 @@ typeof numGreeting; // => "number"
 
 <hr>
 
-[Prev](jsTypeConversion.md) | [Up](README.md) | [Next](conversionRefTable.md)
+[Prev](jsTypeConversion.md) -- [Up](README.md) -- [Next](conversionRefTable.md)
 

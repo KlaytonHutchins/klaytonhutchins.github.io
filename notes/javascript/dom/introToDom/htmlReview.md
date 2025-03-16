@@ -40,5 +40,5 @@ Assigning these attributes is easy, but understanding their utility and how we c
 
 <hr>
 
-[Prev](documentObjectModel.md) | [Up](README.md)
+[Prev](documentObjectModel.md) -- [Up](README.md)
 

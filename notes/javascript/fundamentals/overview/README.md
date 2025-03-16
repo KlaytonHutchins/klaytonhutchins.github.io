@@ -103,10 +103,9 @@ This is to ensure that the entire HTML document has been loaded by the browser b
 >
 > 1. Open the document again in the browser. You should see the same result.  
 
-<!--
  [The Chrome Console](chromeConsole.md) 
--->
+
 
 <hr>
 
-[Up](../README.md) | [Next](chromeConsole.md)
+[Up](../README.md) -- [Next](chromeConsole.md)

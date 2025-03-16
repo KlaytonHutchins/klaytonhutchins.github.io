@@ -33,4 +33,4 @@ title: Web 101
 
 <hr>
 
-[Up](../README.md) | [Next](internet-basics.md)
+[Up](../README.md) -- [Next](internet-basics.md)

@@ -36,5 +36,5 @@ title: Labs
 
 <hr>
 
-[Prev](usingSelectedElement.md) | [Up](README.md)
+[Prev](usingSelectedElement.md) -- [Up](README.md)
 

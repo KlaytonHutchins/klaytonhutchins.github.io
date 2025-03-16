@@ -143,5 +143,5 @@ Rendered:
 
 <hr>
 
-[Prev](htmlAttributes.md) | [Up](README.md) | [Next](htmlForms.md)
+[Prev](htmlAttributes.md) -- [Up](README.md) -- [Next](htmlForms.md)
 

@@ -17,4 +17,4 @@ title: The DOM
 
 <hr>
 
-[Up](../README.md) | [Next](introToDom/README.md)
+[Up](../README.md) -- [Next](introToDom/README.md)

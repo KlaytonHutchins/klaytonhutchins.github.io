@@ -84,5 +84,5 @@ Once an HTML element has been selected you can access that element's children, p
 
 <hr>
 
-[Prev](traversingTheDom.md) | [Up](README.md) | [Next](labs.md)
+[Prev](traversingTheDom.md) -- [Up](README.md) -- [Next](labs.md)
 

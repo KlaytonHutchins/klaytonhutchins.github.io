@@ -98,5 +98,5 @@ Error: Name fields must not be blank
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](howIsItPerformed.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](howIsItPerformed.md)
 

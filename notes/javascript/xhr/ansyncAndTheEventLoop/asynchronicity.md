@@ -10,5 +10,5 @@ In most programming languages (Java, C#, Ruby etc), this is accomplished with a 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](eventLoop.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](eventLoop.md)
 

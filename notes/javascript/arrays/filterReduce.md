@@ -83,5 +83,5 @@ title: filter, reduce
 
 <hr>
 
-[Prev](indexOfLastIndexOf.md) | [Up](README.md) | [Next](moreArrayMethods-labs.md)
+[Prev](indexOfLastIndexOf.md) -- [Up](README.md) -- [Next](moreArrayMethods-labs.md)
 

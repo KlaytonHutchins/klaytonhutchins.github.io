@@ -47,5 +47,5 @@ Arrow functions do not have their own value of `this`.
 
 <hr>
 
-[Prev](higherOrder.md) | [Up](README.md) | [Next](seeingErrors-labs.md)
+[Prev](higherOrder.md) -- [Up](README.md) -- [Next](seeingErrors-labs.md)
 

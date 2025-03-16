@@ -99,5 +99,5 @@ filter(1,arr); // => [1,11,123];
 
 <hr>
 
-[Prev](moreArrayMethods-labs.md) | [Up](README.md)
+[Prev](moreArrayMethods-labs.md) -- [Up](README.md)
 

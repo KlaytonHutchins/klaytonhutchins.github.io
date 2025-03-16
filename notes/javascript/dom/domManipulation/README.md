@@ -23,4 +23,4 @@ title: DOM Manipulation
 
 <hr>
 
-[Up](../README.md) | [Next](selectingFormsByName.md)
+[Up](../README.md) -- [Next](selectingFormsByName.md)

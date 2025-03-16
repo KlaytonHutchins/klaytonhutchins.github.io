@@ -26,5 +26,5 @@ With the ability to determine if an object is an array, you will reduce your ris
 
 <hr>
 
-[Prev](arrayBasics.md) | [Up](README.md) | [Next](basicArrays-labs.md)
+[Prev](arrayBasics.md) -- [Up](README.md) -- [Next](basicArrays-labs.md)
 

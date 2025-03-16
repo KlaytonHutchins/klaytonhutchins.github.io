@@ -39,5 +39,5 @@ This lab is covered by tests, and these tests will fail until you write the code
 
 <hr>
 
-[Prev](statementTermination.md) | [Up](README.md)
+[Prev](statementTermination.md) -- [Up](README.md)
 

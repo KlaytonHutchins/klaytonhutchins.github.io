@@ -57,5 +57,5 @@ xhr.send(userObjectJson);
 
 <hr>
 
-[Prev](responseText.md) | [Up](README.md) | [Next](labs.md)
+[Prev](responseText.md) -- [Up](README.md) -- [Next](labs.md)
 

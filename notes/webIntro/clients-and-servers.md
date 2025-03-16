@@ -42,5 +42,5 @@ This is the same request-response cycle, just on a single computer.
 
 <hr>
 
-[Prev](internet-basics.md) | [Up](README.md) | [Next](uri.md)
+[Prev](internet-basics.md) -- [Up](README.md) -- [Next](uri.md)
 

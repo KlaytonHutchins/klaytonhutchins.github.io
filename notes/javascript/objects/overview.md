@@ -26,5 +26,5 @@ Methods can perform operations using the data properties of each instance of an 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](creatingObjects.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](creatingObjects.md)
 

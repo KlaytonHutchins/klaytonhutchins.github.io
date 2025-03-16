@@ -11,4 +11,4 @@ title: Control Flow
 
 <hr>
 
-[Up](../README.md) | [Next](conditionalStatements.md)
+[Up](../README.md) -- [Next](conditionalStatements.md)

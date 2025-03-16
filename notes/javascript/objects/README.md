@@ -25,4 +25,4 @@ title: Objects
 
 <hr>
 
-[Up](../README.md) | [Next](overview.md)
+[Up](../README.md) -- [Next](overview.md)

@@ -78,5 +78,5 @@ Let's use these to practice event listeners:
 
 <hr>
 
-[Prev](removingEvents.md) | [Up](README.md) | [Next](eventObject.md)
+[Prev](removingEvents.md) -- [Up](README.md) -- [Next](eventObject.md)
 

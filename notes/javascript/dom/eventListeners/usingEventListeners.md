@@ -68,5 +68,5 @@ The boolean properties `altKey`, `ctrlKey`, `metaKey`, and `shiftKey` indicate w
 
 <hr>
 
-[Prev](listeningForEvents.md) | [Up](README.md) | [Next](removingEvents.md)
+[Prev](listeningForEvents.md) -- [Up](README.md) -- [Next](removingEvents.md)
 

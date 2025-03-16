@@ -65,5 +65,5 @@ let ex3 = function(arr) {
 
 <hr>
 
-[Prev](filterReduce.md) | [Up](README.md) | [Next](algorithms-labs.md)
+[Prev](filterReduce.md) -- [Up](README.md) -- [Next](algorithms-labs.md)
 

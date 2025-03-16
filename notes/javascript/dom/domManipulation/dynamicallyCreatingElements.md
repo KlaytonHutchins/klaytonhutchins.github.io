@@ -143,5 +143,5 @@ Forms can be created and appended in the same way as any other elements:
 
 <hr>
 
-[Prev](formsAndEventListeners.md) | [Up](README.md) | [Next](dynamicallyRemoveElements.md)
+[Prev](formsAndEventListeners.md) -- [Up](README.md) -- [Next](dynamicallyRemoveElements.md)
 

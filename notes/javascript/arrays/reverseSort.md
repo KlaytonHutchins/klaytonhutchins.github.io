@@ -76,5 +76,5 @@ title: reverse, sort
 
 <hr>
 
-[Prev](shiftUnshift.md) | [Up](README.md) | [Next](indexOfLastIndexOf.md)
+[Prev](shiftUnshift.md) -- [Up](README.md) -- [Next](indexOfLastIndexOf.md)
 

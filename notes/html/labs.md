@@ -45,5 +45,5 @@ You should have at least a fundamental understanding of the following HTML eleme
 
 <hr>
 
-[Prev](htmlForms.md) | [Up](README.md)
+[Prev](htmlForms.md) -- [Up](README.md)
 

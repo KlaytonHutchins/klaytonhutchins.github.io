@@ -36,5 +36,5 @@ Once applying the correct amount of tax, return the amount of tax owed.
 
 <hr>
 
-[Prev](seeingErrors-labs.md) | [Up](README.md)
+[Prev](seeingErrors-labs.md) -- [Up](README.md)
 

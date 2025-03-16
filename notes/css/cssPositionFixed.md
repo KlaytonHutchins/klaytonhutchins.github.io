@@ -54,5 +54,5 @@ Scrolling the page doesn't moved the fixed element.
 
 <hr>
 
-[Prev](cssPositionAbsolute.md) | [Up](README.md) | [Next](cssDisplay.md)
+[Prev](cssPositionAbsolute.md) -- [Up](README.md) -- [Next](cssDisplay.md)
 

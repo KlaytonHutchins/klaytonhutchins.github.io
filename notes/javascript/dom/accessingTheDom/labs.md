@@ -21,5 +21,5 @@ title: Labs
 
 <hr>
 
-[Prev](selectingHTMLElements.md) | [Up](README.md)
+[Prev](selectingHTMLElements.md) -- [Up](README.md)
 

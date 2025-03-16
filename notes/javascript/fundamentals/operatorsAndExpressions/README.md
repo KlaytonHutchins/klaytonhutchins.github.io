@@ -11,4 +11,4 @@ title: Operators And Expressions
 
 <hr>
 
-[Up](../README.md) | [Next](typeConversionAndOperators.md)
+[Up](../README.md) -- [Next](typeConversionAndOperators.md)

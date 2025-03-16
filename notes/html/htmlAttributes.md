@@ -52,5 +52,5 @@ An image tag has a source attribute, `src`, that will load an image from the spe
 
 <hr>
 
-[Prev](htmlHelloWorld.md) | [Up](README.md) | [Next](htmlGlossary.md)
+[Prev](htmlHelloWorld.md) -- [Up](README.md) -- [Next](htmlGlossary.md)
 

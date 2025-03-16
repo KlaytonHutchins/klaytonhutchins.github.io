@@ -86,5 +86,5 @@ With the JSON parsed, it can be manipulated as standard JS objects.
 
 <hr>
 
-[Prev](status.md) | [Up](README.md) | [Next](post.md)
+[Prev](status.md) -- [Up](README.md) -- [Next](post.md)
 

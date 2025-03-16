@@ -62,5 +62,5 @@ for (let i in intArray) {
 
 <hr>
 
-[Prev](conditionalStatements.md) | [Up](README.md) | [Next](tryCatchFinally.md)
+[Prev](conditionalStatements.md) -- [Up](README.md) -- [Next](tryCatchFinally.md)
 

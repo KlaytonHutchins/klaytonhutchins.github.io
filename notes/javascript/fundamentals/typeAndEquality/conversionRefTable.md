@@ -20,5 +20,5 @@ title: Automatic Type Conversion Reference
 
 <hr>
 
-[Prev](howIsItPerformed.md) | [Up](README.md) | [Next](identityVSequality.md)
+[Prev](howIsItPerformed.md) -- [Up](README.md) -- [Next](identityVSequality.md)
 

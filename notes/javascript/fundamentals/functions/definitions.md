@@ -43,5 +43,5 @@ The variable `bar` now contains the function `function(){}` as a value.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](parameters.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](parameters.md)
 

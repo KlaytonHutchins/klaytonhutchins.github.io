@@ -13,4 +13,4 @@ title: Determining Type and Equality
 
 <hr>
 
-[Up](../README.md) | [Next](jsTypeConversion.md)
+[Up](../README.md) -- [Next](jsTypeConversion.md)

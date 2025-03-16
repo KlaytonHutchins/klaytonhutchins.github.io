@@ -38,5 +38,5 @@ arr; // ['kiwi',1,2,3,4]
 
 <hr>
 
-[Prev](arrayMethods-labs.md) | [Up](README.md) | [Next](reverseSort.md)
+[Prev](arrayMethods-labs.md) -- [Up](README.md) -- [Next](reverseSort.md)
 

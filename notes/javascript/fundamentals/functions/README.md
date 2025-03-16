@@ -15,4 +15,4 @@ title: Functions
 
 <hr>
 
-[Up](../README.md) | [Next](definitions.md)
+[Up](../README.md) -- [Next](definitions.md)

@@ -26,4 +26,4 @@ title: XmlHttpRequest
 
 <hr>
 
-[Up](../README.md) | [Next](ajax.md)
+[Up](../README.md) -- [Next](ajax.md)

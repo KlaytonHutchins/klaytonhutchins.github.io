@@ -51,5 +51,5 @@ Unfortunately, it is more difficult to catch bugs in a runtime environment, and 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](primitives.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](primitives.md)
 

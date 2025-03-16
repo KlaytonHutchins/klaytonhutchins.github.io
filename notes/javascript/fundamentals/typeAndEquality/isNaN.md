@@ -38,5 +38,5 @@ We can negate the `isNaN()` function if we want to see if a value is a number. W
 
 <hr>
 
-[Prev](identityVSequality.md) | [Up](README.md) | [Next](labs.md)
+[Prev](identityVSequality.md) -- [Up](README.md) -- [Next](labs.md)
 

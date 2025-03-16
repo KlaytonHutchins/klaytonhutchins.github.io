@@ -33,5 +33,5 @@ target.removeEventListener("click", callback);
 
 <hr>
 
-[Prev](usingEventListeners.md) | [Up](README.md) | [Next](acp.md)
+[Prev](usingEventListeners.md) -- [Up](README.md) -- [Next](acp.md)
 

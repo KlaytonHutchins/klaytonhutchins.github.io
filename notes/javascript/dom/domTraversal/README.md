@@ -13,4 +13,4 @@ title: DOM Traversal
 
 <hr>
 
-[Up](../README.md) | [Next](traversingTheDom.md)
+[Up](../README.md) -- [Next](traversingTheDom.md)

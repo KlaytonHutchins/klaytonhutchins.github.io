@@ -26,4 +26,4 @@ title: Event Listeners
 
 <hr>
 
-[Up](../README.md) | [Next](listeningForEvents.md)
+[Up](../README.md) -- [Next](listeningForEvents.md)

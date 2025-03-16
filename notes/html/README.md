@@ -23,4 +23,4 @@ title: HTML Basics
 
 <hr>
 
-[Up](../README.md) | [Next](htmlBasics.md)
+[Up](../README.md) -- [Next](htmlBasics.md)

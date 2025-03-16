@@ -21,5 +21,5 @@ The JavaScript primitive datatypes are:
 
 <hr>
 
-[Prev](dynamicTyping.md) | [Up](README.md) | [Next](declarations.md)
+[Prev](dynamicTyping.md) -- [Up](README.md) -- [Next](declarations.md)
 

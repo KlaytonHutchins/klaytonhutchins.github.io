@@ -32,5 +32,5 @@ Invoke `sayHello` and pass it your name. What is the result?
 
 <hr>
 
-[Prev](arrowFunctions.md) | [Up](README.md) | [Next](basicFunctions-labs.md)
+[Prev](arrowFunctions.md) -- [Up](README.md) -- [Next](basicFunctions-labs.md)
 

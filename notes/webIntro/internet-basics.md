@@ -25,5 +25,5 @@ By following protocols, the devices on each side of the connection know how to i
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](clients-and-servers.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](clients-and-servers.md)
 

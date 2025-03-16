@@ -27,5 +27,5 @@ xhr.send();
 
 <hr>
 
-[Prev](createAndOpenRequest.md) | [Up](README.md) | [Next](get-labs.md)
+[Prev](createAndOpenRequest.md) -- [Up](README.md) -- [Next](get-labs.md)
 

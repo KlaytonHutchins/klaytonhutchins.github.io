@@ -38,5 +38,5 @@ Example of fully formed XMLHttpRequestObject:
 
 <hr>
 
-[Prev](ajax.md) | [Up](README.md) | [Next](createAndOpenRequest.md)
+[Prev](ajax.md) -- [Up](README.md) -- [Next](createAndOpenRequest.md)
 

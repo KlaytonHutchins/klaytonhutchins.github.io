@@ -40,5 +40,5 @@ Complete at least the [Codecademy][Codecademy] exercises, and visit [CSS Meyer R
 
 <hr>
 
-[Prev](cssFloatLeftRight.md) | [Up](README.md) | [Next](cssStyleRulesList.md)
+[Prev](cssFloatLeftRight.md) -- [Up](README.md) -- [Next](cssStyleRulesList.md)
 

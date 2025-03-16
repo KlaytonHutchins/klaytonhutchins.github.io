@@ -37,5 +37,5 @@ The console can also be used to write live JS to interact with your page in real
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

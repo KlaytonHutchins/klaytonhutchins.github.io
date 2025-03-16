@@ -55,5 +55,5 @@ name = "Andrew"
 
 <hr>
 
-[Prev](arrays.md) | [Up](README.md) | [Next](scope.md)
+[Prev](arrays.md) -- [Up](README.md) -- [Next](scope.md)
 

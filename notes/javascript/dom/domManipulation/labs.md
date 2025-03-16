@@ -40,5 +40,5 @@ title: Labs
 
 <hr>
 
-[Prev](dynamicallyRemoveElements.md) | [Up](README.md)
+[Prev](dynamicallyRemoveElements.md) -- [Up](README.md)
 

@@ -99,5 +99,5 @@ We have never seen behavior like this before.
 
 <hr>
 
-[Prev](scope.md) | [Up](README.md) | [Next](arrowFunctions.md)
+[Prev](scope.md) -- [Up](README.md) -- [Next](arrowFunctions.md)
 

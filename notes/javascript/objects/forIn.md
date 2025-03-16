@@ -62,5 +62,6 @@ console.log(data.email); // bdobbs@gmail.com
 
 <hr>
 
-[Prev](manipulatingProperties.md) | [Up](README.md) | [Next](objectsAreKeyValuePairs-labs.md)
+[Prev](manipulatingProperties.md) -- [Up](README.md) -- [Next](objectsAreKeyValuePairs-labs.md)
+
 

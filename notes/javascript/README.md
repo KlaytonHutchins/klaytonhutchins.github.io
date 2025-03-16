@@ -13,4 +13,4 @@ title: JavaScript
 
 <hr>
 
-[Up](../README.md) | [Next](fundamentals/README.md)
+[Up](../README.md) -- [Next](fundamentals/README.md)

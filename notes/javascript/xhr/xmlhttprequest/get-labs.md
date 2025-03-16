@@ -20,5 +20,5 @@ title: Labs
 
 <hr>
 
-[Prev](send.md) | [Up](README.md) | [Next](onReadyStateChange.md)
+[Prev](send.md) -- [Up](README.md) -- [Next](onReadyStateChange.md)
 

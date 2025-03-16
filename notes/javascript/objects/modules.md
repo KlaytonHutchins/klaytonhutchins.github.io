@@ -151,5 +151,5 @@ applicationRunner.adminPassword // undefined
 
 <hr>
 
-[Prev](this.md) | [Up](README.md) | [Next](mage-labs.md)
+[Prev](this.md) -- [Up](README.md) -- [Next](mage-labs.md)
 

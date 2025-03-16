@@ -67,5 +67,5 @@ Now we can clean up our code and not repeat as much by storing `e.target.parentE
 
 <hr>
 
-[Prev](selectingFormsByName.md) | [Up](README.md) | [Next](dynamicallyCreatingElements.md)
+[Prev](selectingFormsByName.md) -- [Up](README.md) -- [Next](dynamicallyCreatingElements.md)
 

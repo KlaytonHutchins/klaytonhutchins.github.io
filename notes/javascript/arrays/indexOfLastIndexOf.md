@@ -41,5 +41,5 @@ title: indexOf, lastIndexOf
 
 <hr>
 
-[Prev](reverseSort.md) | [Up](README.md) | [Next](filterReduce.md)
+[Prev](reverseSort.md) -- [Up](README.md) -- [Next](filterReduce.md)
 

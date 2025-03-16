@@ -91,5 +91,5 @@ console.log(i) // Uncaught ReferenceError: i is not defined
 
 <hr>
 
-[Prev](expressions.md) | [Up](README.md) | [Next](higherOrder.md)
+[Prev](expressions.md) -- [Up](README.md) -- [Next](higherOrder.md)
 

@@ -9,4 +9,4 @@ title: Accessing the DOM
 
 <hr>
 
-[Up](../README.md) | [Next](selectingHTMLElements.md)
+[Up](../README.md) -- [Next](selectingHTMLElements.md)

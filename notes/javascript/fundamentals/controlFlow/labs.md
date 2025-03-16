@@ -84,5 +84,5 @@ Resources for this lab: [resources/labs](resources/labs)
 
 <hr>
 
-[Prev](tryCatchFinally.md) | [Up](README.md)
+[Prev](tryCatchFinally.md) -- [Up](README.md)
 

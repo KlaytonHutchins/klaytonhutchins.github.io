@@ -65,5 +65,5 @@ Use `xhr.status` to anticipate and deal with different server responses.
 
 <hr>
 
-[Prev](onReadyStateChange.md) | [Up](README.md) | [Next](responseText.md)
+[Prev](onReadyStateChange.md) -- [Up](README.md) -- [Next](responseText.md)
 

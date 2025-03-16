@@ -68,4 +68,4 @@ You must include a README.md that describes your program and how to access it on
 
 <hr>
 
-[Up](../README.md) | [Next](bootDeployment.md)
+[Up](../README.md) -- [Next](bootDeployment.md)

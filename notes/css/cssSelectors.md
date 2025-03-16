@@ -95,5 +95,5 @@ To target a ruleset using an ID, precede the ID name with `#`.
 
 <hr>
 
-[Prev](cssBasics.md) | [Up](README.md) | [Next](cssHello.md)
+[Prev](cssBasics.md) -- [Up](README.md) -- [Next](cssHello.md)
 

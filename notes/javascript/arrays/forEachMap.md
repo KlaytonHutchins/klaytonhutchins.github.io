@@ -64,5 +64,5 @@ title: Iterating with forEach and map
 
 <hr>
 
-[Prev](splitJoinSliceSplice.md) | [Up](README.md) | [Next](arrayMethods-labs.md)
+[Prev](splitJoinSliceSplice.md) -- [Up](README.md) -- [Next](arrayMethods-labs.md)
 

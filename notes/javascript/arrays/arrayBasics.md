@@ -72,5 +72,5 @@ arr; // [1,2,3]
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](isItAnArray.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](isItAnArray.md)
 

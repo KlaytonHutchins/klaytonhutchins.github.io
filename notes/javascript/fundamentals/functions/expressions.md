@@ -71,5 +71,5 @@ doMultiplyValues(1,2); // 2
 
 <hr>
 
-[Prev](parameters.md) | [Up](README.md) | [Next](scope.md)
+[Prev](parameters.md) -- [Up](README.md) -- [Next](scope.md)
 

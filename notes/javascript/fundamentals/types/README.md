@@ -18,4 +18,4 @@ title: Data Types
 
 <hr>
 
-[Up](../README.md) | [Next](dynamicTyping.md)
+[Up](../README.md) -- [Next](dynamicTyping.md)

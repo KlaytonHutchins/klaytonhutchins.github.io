@@ -73,5 +73,5 @@ console.log(myObj.makeArray(1,5,2,34,1,67));
 
 <hr>
 
-[Prev](objectsAreKeyValuePairs-labs.md) | [Up](README.md) | [Next](this.md)
+[Prev](objectsAreKeyValuePairs-labs.md) -- [Up](README.md) -- [Next](this.md)
 

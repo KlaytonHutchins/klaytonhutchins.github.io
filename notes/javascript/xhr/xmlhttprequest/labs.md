@@ -107,5 +107,5 @@ title: Labs
 
 <hr>
 
-[Prev](post.md) | [Up](README.md)
+[Prev](post.md) -- [Up](README.md)
 

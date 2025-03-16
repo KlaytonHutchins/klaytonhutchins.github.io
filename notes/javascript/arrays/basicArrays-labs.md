@@ -82,5 +82,5 @@ array.
 
 <hr>
 
-[Prev](isItAnArray.md) | [Up](README.md) | [Next](splitJoinSliceSplice.md)
+[Prev](isItAnArray.md) -- [Up](README.md) -- [Next](splitJoinSliceSplice.md)
 

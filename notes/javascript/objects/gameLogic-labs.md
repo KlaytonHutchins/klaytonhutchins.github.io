@@ -140,5 +140,5 @@ Otherwise move normally.
 
 <hr>
 
-[Prev](mage-labs.md) | [Up](README.md)
+[Prev](mage-labs.md) -- [Up](README.md)
 

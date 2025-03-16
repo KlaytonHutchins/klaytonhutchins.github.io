@@ -34,5 +34,5 @@ let dog = {};
 
 <hr>
 
-[Prev](overview.md) | [Up](README.md) | [Next](initializingWithProperties.md)
+[Prev](overview.md) -- [Up](README.md) -- [Next](initializingWithProperties.md)
 

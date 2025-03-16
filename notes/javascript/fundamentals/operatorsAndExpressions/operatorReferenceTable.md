@@ -28,5 +28,5 @@ title: Operator Reference Table
 
 <hr>
 
-[Prev](typeOfAndOperandCoversion.md) | [Up](README.md) | [Next](labs.md)
+[Prev](typeOfAndOperandCoversion.md) -- [Up](README.md) -- [Next](labs.md)
 

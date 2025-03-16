@@ -28,5 +28,5 @@ title: Labs
 
 <hr>
 
-[Prev](isNaN.md) | [Up](README.md)
+[Prev](isNaN.md) -- [Up](README.md)
 

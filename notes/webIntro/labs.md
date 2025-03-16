@@ -32,5 +32,5 @@ We can use the _Chrome Developer Tools_ to see requests.
 
 <hr>
 
-[Prev](http-protocol.md) | [Up](README.md)
+[Prev](http-protocol.md) -- [Up](README.md)
 

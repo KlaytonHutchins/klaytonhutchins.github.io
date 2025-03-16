@@ -96,5 +96,5 @@ title: Labs
 
 <hr>
 
-[Prev](eventObject.md) | [Up](README.md)
+[Prev](eventObject.md) -- [Up](README.md)
 

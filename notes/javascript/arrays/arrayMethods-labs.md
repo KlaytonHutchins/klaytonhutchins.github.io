@@ -72,5 +72,5 @@ let ex3 = function(arr, spaces) {
 
 <hr>
 
-[Prev](forEachMap.md) | [Up](README.md) | [Next](shiftUnshift.md)
+[Prev](forEachMap.md) -- [Up](README.md) -- [Next](shiftUnshift.md)
 

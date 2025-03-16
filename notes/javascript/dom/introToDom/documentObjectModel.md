@@ -32,5 +32,5 @@ The Document Object Model (DOM), is a tree of objects (see below for an example)
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](htmlReview.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](htmlReview.md)
 

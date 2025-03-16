@@ -42,5 +42,5 @@ let fruit = {
 
 <hr>
 
-[Prev](creatingObjects.md) | [Up](README.md) | [Next](manipulatingProperties.md)
+[Prev](creatingObjects.md) -- [Up](README.md) -- [Next](manipulatingProperties.md)
 

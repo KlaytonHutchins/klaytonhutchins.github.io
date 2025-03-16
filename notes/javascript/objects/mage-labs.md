@@ -86,5 +86,5 @@ The opponent has 2 properties :
 
 <hr>
 
-[Prev](modules.md) | [Up](README.md) | [Next](gameLogic-labs.md)
+[Prev](modules.md) -- [Up](README.md) -- [Next](gameLogic-labs.md)
 

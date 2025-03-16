@@ -47,5 +47,5 @@ This last property is particularly useful as it contains a reference to the obje
 
 <hr>
 
-[Prev](acp.md) | [Up](README.md) | [Next](labs.md)
+[Prev](acp.md) -- [Up](README.md) -- [Next](labs.md)
 

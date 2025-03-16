@@ -56,5 +56,5 @@ log('synchronous end');` is removed from the call stack.
 
 <hr>
 
-[Prev](eventLoop.md) | [Up](README.md)
+[Prev](eventLoop.md) -- [Up](README.md)
 

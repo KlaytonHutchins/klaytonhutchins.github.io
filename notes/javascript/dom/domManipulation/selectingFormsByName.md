@@ -79,5 +79,5 @@ When a form is empty, the `value` property would be `""`.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](formsAndEventListeners.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](formsAndEventListeners.md)
 

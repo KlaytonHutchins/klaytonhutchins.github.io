@@ -56,5 +56,5 @@ var greetingTemplate = `Hello my name is ${fname} ${lname}`;
 
 <hr>
 
-[Prev](numbers.md) | [Up](README.md) | [Next](nullAndUndefined.md)
+[Prev](numbers.md) -- [Up](README.md) -- [Next](nullAndUndefined.md)
 

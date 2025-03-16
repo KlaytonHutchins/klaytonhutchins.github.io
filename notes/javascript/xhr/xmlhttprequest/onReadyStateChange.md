@@ -72,5 +72,5 @@ console.log('After send(): ' + xhr.readyState); // 1 => OPENED
 
 <hr>
 
-[Prev](get-labs.md) | [Up](README.md) | [Next](status.md)
+[Prev](get-labs.md) -- [Up](README.md) -- [Next](status.md)
 

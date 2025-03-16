@@ -97,5 +97,5 @@ arr; // [ 'one', 'two', 'three' ]
 
 <hr>
 
-[Prev](nullAndUndefined.md) | [Up](README.md) | [Next](hoisting.md)
+[Prev](nullAndUndefined.md) -- [Up](README.md) -- [Next](hoisting.md)
 
