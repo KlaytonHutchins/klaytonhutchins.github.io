@@ -19,4 +19,4 @@ title: SCOTUS Term Year 2019
 
 ---
 
-[Prev](../2018/README.md) | [Up](../README.md) | [Next](../2020/README.md)
+[Prev](../2018/README.md) -- [Up](../README.md) -- [Next](../2020/README.md)

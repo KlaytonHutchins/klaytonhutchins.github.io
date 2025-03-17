@@ -23,4 +23,5 @@ title: SCOTUS Term Year 2024
 
 ---
 
-[Prev](../2023/README.md) | [Up](../README.md) | [Next](../README.md)
+[Prev](../2023/README.md) -- [Up](../README.md) -- [Next](../README.md)
+

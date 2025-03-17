@@ -19,4 +19,4 @@ title: SCOTUS Term Year 2022
 
 ---
 
-[Prev](../2021/README.md) | [Up](../README.md) | [Next](../2023/README.md)
+[Prev](../2021/README.md) -- [Up](../README.md) -- [Next](../2023/README.md)
