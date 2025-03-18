@@ -1,26 +1,13 @@
 #include <iostream>
 #include <fstream>
+#include <sstream>
 #include <curl/curl.h>
+#include "Nodes.h"
 #include "DoublyLL.cpp"
 
 using namespace std;
 
-/*******************************************
-           Global Variables Here
-*****************************************8*/
-int yearToAccess = 2023;
-string inFileName = to_string(yearToAccess) + "input.txt";
-string outFileName = "output.txt";
-string oyezUrl = "https://www.oyez.org/cases/";
-// full = https://www.oyez.org/cases/2024/23-167
-// oyezUrl + "2024/23-167";
-string months[] = {"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
-/*******************************************
-           Global Variables Here
-*****************************************8*/
-
-//class Node;
-//class DoublyLL;
+int theYear = 2023;
 
 string toLower(string str);
 string sanitizeFileName(string str);
@@ -28,221 +15,6 @@ size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream);
 void downloadPDFs(DoublyLL<CaseNode>* caseList);
 bool downloadPDF(CaseNode* curr, string& savePath);
 
-//Node class with previous and next nodes.
-//Member variables are private, must use getter and setter functions.
-/*class Node {
-public:
-        //Construct new node with a name
-        Node(string ordNum, string date, string docketNum, string caseName, string url) {
-                ordinalNumber = ordNum;
-                dateFiled = date;
-                docketNumber = docketNum;
-                fullCaseName = caseName;
-                scotusUrl = url;
-                next = nullptr;
-                prev = nullptr;
-        }
-        ofstream& buildCasePage(ofstream& outFile) {
-                string myDateFormat = to_string(stoi(dateFiled.substr(3, 2))) + " " + months[stoi(dateFiled.substr(0, 2))] + " " + dateFiled.substr(6, 4);
-                outFile << "---" << endl << "layout: scotus_case" << endl << "title: " << fullCaseName << endl << "---" << endl << endl;
-                outFile << "| Docket # | Date Decided | SCOTUS Opinion | Oyez |" << endl;
-                outFile << "| " << docketNumber << " | " << myDateFormat << " | [Link](" << scotusUrl << ") | ";
-                outFile << "[Link](" << oyezUrl << yearToAccess << "/" << docketNumber << ") |" << endl << endl;
-                outFile << "<audio controls>" << endl << "   <source src='./resources/" << docketNumber << ".mp3' type='audio/mpeg'>" << endl << "</audio>";
-                outFile << endl << endl << "<object data='./resources/" << docketNumber << ".pdf' type='application/pdf'></object>" << endl << endl;
-                outFile << "---" << endl << endl << "[Up](./README.md)";
-                return outFile;
-        }
-        //Getters and Setters
-        void setOrdNum(string n) {
-                ordinalNumber = n;
-        }
-        string getOrdNum() {
-                return ordinalNumber;
-        }
-        void setDate(string n) {
-                dateFiled = n;
-        }
-        string getDate() {
-                return dateFiled;
-        }
-        void setDocketNum(string n) {
-                docketNumber = n;
-        }
-        string getDocketNum() {
-                return docketNumber;
-        }
-        void setCaseName(string n) {
-                fullCaseName = n;
-        }
-        string getCaseName() {
-                return fullCaseName;
-        }
-        void setUrl(string n) {
-                scotusUrl = n;
-        }
-        string getUrl() {
-                return scotusUrl;
-        }
-        void setNext(Node* n) {
-                next = n;
-        }
-        Node* getNext() {
-                return next;
-        }
-        void setPrev(Node* p) {
-                prev = p;
-        }
-        Node* getPrev() {     
-                return prev;
-        }
-private:
-        string ordinalNumber;
-        string dateFiled;
-        string docketNumber;
-        string fullCaseName;
-        string scotusUrl;
-        Node* next;
-        Node* prev;
-};*/
-
-//Doubly Linked List class with private head and tail.
-//Contains:
-//Constructor, Destructor, Getters and Setters.
-//Self Sorting Insert function, Delete function, and Traversal functions.
-/*class DoublyLL {
-public:
-        //Construct new empty Doubly Linked List
-        DoublyLL() {
-                head = nullptr;
-                tail = nullptr;
-        }
-        //Destructor
-        ~DoublyLL() {
-                Node* curr = head;
-                while (curr) {
-                        Node* tempNext = curr->getNext();
-                        delete curr;
-                        curr = tempNext;
-                }
-        }
-        //Insert function
-
-        void insert(string nameToInsert) {
-                Node* newNode = new Node(nameToInsert);
-                if (!head) {  //empty list
-                        head = newNode;
-                        tail = newNode;
-                } else if (nameToInsert < head->getName()) {  //insert at head
-                        newNode->setNext(head);
-                        head->setPrev(newNode);
-                        head = newNode;
-                } else if (nameToInsert > tail->getName()) {  //insert at tail
-                        newNode->setPrev(tail);
-                        tail->setNext(newNode);
-                        tail = newNode;
-                } else {  //insert somewhere in the middle of the list
-                        Node* curr = head;
-                        while(curr) {  //loop through list to find insertion point
-                                if (nameToInsert < curr->getName()) {  //insert before curr
-                                        newNode->setNext(curr);
-                                        newNode->setPrev(curr->getPrev());
-                                        curr->getPrev()->setNext(newNode);
-                                        curr->setPrev(newNode);
-                                        break;
-                                }
-                                curr = curr->getNext();
-                        }
-                }
-        }
-
-        void insertBack(string ordNum, string date, string docketNum, string caseName, string url) {
-                Node* newNode = new Node(ordNum, date, docketNum, caseName, url);
-                if (!head) {  //empty list
-                        head = newNode;
-                        tail = newNode;
-                } else {
-                        newNode->setPrev(tail);
-                        tail->setNext(newNode);
-                        tail = newNode;
-                }
-        }
-        //Delete function
-
-        void deleteNode(string nameToDelete) {
-                Node* curr = head;
-                while (curr) {
-                        Node* nextNode = curr->getNext();
-                        if (curr->getName() == nameToDelete) {
-                                if (curr->getPrev()) {  //if curr != head
-                                        curr->getPrev()->setNext(curr->getNext());
-                                } else {  //curr == head, reassign head to the second node
-                                        head = curr->getNext();
-                                }
-                                if (curr->getNext()) {  //if curr != tail
-                                        curr->getNext()->setPrev(curr->getPrev());
-                                } else {  //deleting tail, reassign tail to its previous node
-                                        tail = curr->getPrev();
-                                }
-                                delete curr;
-                                break;  //comment out if expecting duplicates and want to delete all instances
-                        }
-                        curr = nextNode;
-                }
-        }
-
-        //Traverse function, uses ofstream to pass data back to main
-
-        ofstream& traverseAscending(ofstream& outFile) {
-                Node* curr = head;
-                while (curr) {
-                        outFile << curr->getName() << endl;
-                        curr = curr->getNext();
-                }
-                return outFile;
-        }
-
-        //Traverse function, uses ofstream to pass data back to main
-
-        ofstream& traverseDescending(ofstream& outFile) {
-                Node* curr = tail;
-                while (curr) {
-                        outFile << curr->getName() << endl;
-                        curr = curr->getPrev();
-                }
-                return outFile;
-        }
-
-        ofstream& buildYearReadMe(ofstream& outFile) {
-                Node* curr = tail;
-                outFile << "---" << endl << "layout: default" << endl << "title: SCOTUS Term Year " << yearToAccess;
-                outFile << endl << "---" << endl << endl << "### Cases" << endl;
-                while (curr) {
-                        outFile << "*  [" << curr->getCaseName() << "](" << sanitizeFileName(curr->getDocketNum()) << ".md)" << endl;
-                        curr = curr->getPrev();
-                }
-                outFile << endl << "---" << endl << endl << "[Prev](../" << (yearToAccess - 1);
-                outFile << "/README.md) | [Up](../README.md) | [Next](../" << (yearToAccess + 1) << "/README.md)" << endl;
-                return outFile;
-        }
-        //Getters and Setters   
-        void setHead(Node* h) {
-                head = h;
-        }
-        Node* getHead() {
-                return head;
-        }
-        void setTail(Node* t) {
-                tail = t;
-        }
-        Node* getTail() {
-                return tail;
-        }
-private:
-        Node* head;
-        Node* tail;
-};*/
-//Helper function to convert text to all lower case
 string toLower(string str) {
         for (size_t i = 0; i < str.length(); i++) {
                 str[i] = tolower(str[i]);
@@ -265,7 +37,7 @@ size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream) {
 }
 
 void downloadPDFs(DoublyLL<CaseNode>* caseList) {
-        string saveFolder = "../scotus/" + to_string(yearToAccess) + "/resources/";
+        string saveFolder = "../scotus/" + to_string(theYear) + "/resources/";
         system(("mkdir -p " + saveFolder).c_str());
         CaseNode* curr = caseList->getHead();
         while (curr) {
@@ -311,44 +83,61 @@ bool downloadPDF(CaseNode* curr, string& savePath) {
 }
 
 int main() {
-        DoublyLL<CaseNode> myList = DoublyLL<CaseNode>();
-        myList.insertBack(new CaseNode("32", "03/23/2023", "24-975", "Klayton v. Selena", "www.website.com"));
-        myList.insertBack(new CaseNode("33", "03/24/2023", "24-976", "Klayton v. Quiche", "www.websites.com"));
-        myList.insertBack(new CaseNode("34", "03/25/2023", "24-977", "Klayton v. Jack", "www.web.com"));
-        myList.insertBack(new CaseNode("35", "03/26/2023", "24-978", "Jack v. Quiche", "www.site.com"));
-        cout << myList.getHead()->getNext()->getDocketNum() << endl;
+//        DoublyLL<CaseNode> myList = DoublyLL<CaseNode>();
+//        myList.insertBack(new CaseNode("32", "03/23/2023", "24-975", "Klayton v. Selena", "www.website.com"));
+//        myList.insertBack(new CaseNode("33", "03/24/2023", "24-976", "Klayton v. Quiche", "www.websites.com"));
+//        myList.insertBack(new CaseNode("34", "03/25/2023", "24-977", "Klayton v. Jack", "www.web.com"));
+//        myList.insertBack(new CaseNode("35", "03/26/2023", "24-978", "Jack v. Quiche", "www.site.com"));
+//        cout << myList.getHead()->getNext()->getDocketNum() << endl;
 
-/*
+
         ifstream inFile;
-        inFile.open(inFileName);
-        string ordNum, date, docketNum, caseName, url;
-        DoublyLL* entryList = new DoublyLL;
-        while (getline(inFile, ordNum, '\t')) {
-                getline(inFile, date, '\t');
-                getline(inFile, docketNum, '\t');
-                getline(inFile, caseName, '\t');
-                getline(inFile, url, '\n');
-                cout << "Reading " << docketNum << endl;
-                entryList->insertBack(ordNum, date, docketNum, caseName, url);
+//        inFile.open(inFileName);
+        inFile.open("2023input.txt");
+//        string ordNum, date, docketNum, caseName, url;
+        DoublyLL<CaseNode>* entryList = new DoublyLL<CaseNode>();
+        string str;
+        while (getline(inFile, str, '\n')) {
+                  //CaseNode::CaseNode(sstream& inputStr)
+                  stringstream sstr(str);
+                  entryList->insertBack(new CaseNode(sstr));
+//                getline(inFile, date, '\t');
+//                getline(inFile, docketNum, '\t');
+//                getline(inFile, caseName, '\t');
+//                getline(inFile, url, '\n');
+//                cout << "Reading " << docketNum << endl;
+//                entryList->insertBack(ordNum, date, docketNum, caseName, url);
         }
-        inFile.close();
+        
+        inFile.close();/*
         ofstream outFile;
         outFile.open("../scotus/" + to_string(yearToAccess) + "/README.md");
         cout << "Building " << to_string(yearToAccess) << " README" << endl;
         entryList->buildYearReadMe(outFile);
-        outFile.close();
+        outFile.close();*/
 
-        Node* curr = entryList->getHead();
-        string pageName;
-        while (curr) {
-                pageName = "../scotus/" + to_string(yearToAccess) + "/" + sanitizeFileName(curr->getDocketNum()) + ".md";
-                outFile.open(pageName);
-                curr->buildCasePage(outFile);
-                outFile.close();
+        CaseNode* curr = entryList->getHead();
+        //string pageName;
+//        cout << curr->getOrdNum() << " " << curr->getDate();
+//        cout << " " << curr->getDocketNum() << " " << curr->getCaseName();
+//        cout << " " << curr->getUrl() << endl;
+        cout << "size: " << entryList->getSize() << endl;
+        int count = 2;
+        while (curr && count > 0) {
+                cout << curr->getOrdNum() << endl;
+                cout << curr->getDate() << endl;
+                cout << curr->getDocketNum() << endl;
+                cout << curr->getCaseName() << endl;
+                cout << curr->getUrl() << endl;
+//                pageName = "../scotus/" + to_string(yearToAccess) + "/" + sanitizeFileName(curr->getDocketNum()) + ".md";
+//                outFile.open(pageName);
+//                curr->buildCasePage(outFile);
+//                outFile.close();
                 curr = curr->getNext();
+                count--;
         }
-        downloadPDFs(entryList);
+//        downloadPDFs(entryList);
         delete entryList;
         return 0;
-*/
+
 }
