@@ -8,7 +8,9 @@ title: Notes / Technologies
 *  [HTML Intro](html/README.md)
 *  [CSS Intro](css/README.md)
 *  [JavaScript](javascript/README.md) 
+
 ---
+
 *  [Variables, assignment statements, and sequences](arc/0012.md)
 *  [Conditions and conditional statements](arc/0013.md)
 *  [Loops](arc/0016.md)
