@@ -57,7 +57,6 @@ title: Notes / Technologies
 *  [Defining a "session"](arc/0409.md)
 *  [Student-centric generative AI](arc/0412.md)
 *  [GitHub Markdown OER for students](arc/0414.md)
-*  [Basic Guide to Audio/Video Use in STEM Classrooms](arc/0415.md)
 *  [Computer Information Science (CIS) as a prospect career choice](arc/0416.md)
 *  [Time Budgeting and Management for College Students](arc/0417.md)
 *  [A Student’s Guide to Gen-AI](arc/0418.md)
