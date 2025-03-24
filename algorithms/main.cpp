@@ -282,9 +282,9 @@ DoublyLL<Case>* generateListFromHtml(string inFilename) {
 			newCase->setUrl(extractHrefFromLinkLine(str));
 			newCase->setCaseName(extractCaseNameFromLinkLine(str));
 
-			getline(inFile, str, '\n');
+			//getline(inFile, str, '\n');
 			// trash
-			getline(inFile, str, '\n');
+			//getline(inFile, str, '\n');
 			// trash
 			cases->insertFront(new Node<Case>(newCase));
 		}
