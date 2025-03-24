@@ -64,7 +64,3 @@ title: SCOTUS Term Year 2023
 *  [Moody v. NetChoice, LLC](22-277.md)
 *  [Corner Post, Inc. v. Board of Governors](22-1008.md)
 *  [Department of Education v. Louisiana](24A78.md)
-
----
-
-[Prev](../2022/README.md) -- [Up](../README.md) -- [Next](../2024/README.md)
