@@ -91,7 +91,6 @@ title: Federalist Papers
 | 83. | [The Judiciary Continued in Relation to Trial by Jury](./.md)                                                                             | Hamilton             | From McLEAN's Edition           | ??                         |
 | 84. | [Certain General and Miscellaneous Objections to the Constitution Considered and Answered](./.md)                                         | Hamilton             | From McLEAN's Edition           | ??                         |
 | 85. | [Concluding Remarks](./.md)                                                                                                               | Hamilton             | From McLEAN's Edition           | ??                         |
-|-----|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------|----------------------------|
 
 ---
 
