@@ -1,0 +1,55 @@
+---
+---
+
+/*@import "{{ site.theme }}";*/
+
+/*@import
+  "minima/skins/{{ site.minima.skin | default: 'auto' }}",
+  "minima/initialize";*/
+
+/* Default light mode styles */
+/*body {
+  background-color: #ffffff;
+  color: #000000;
+}*/
+
+/* Dark mode styles */
+/*@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+  }
+}*/
+
+a:visited {
+   color: rgb(0,0,238);
+}
+
+table {
+   width: -webkit-fill-available;
+   text-align: left;
+   border-collapse: collapse;
+}
+
+table, th, td {
+   border-style: solid;
+   border-color: white;
+   border-width: 1px;
+}
+
+object {
+   width: 50vw;
+   height: 50vh;
+   margin-left: 15vw;
+   border-color: gray;
+   border-width: 1px;
+   border-style: solid;
+   margin-top: 20px;
+}
+
+audio {
+   --inline-controls-bar-height: 40px;
+   width: -webkit-fill-available;
+   margin-top: 20px;
+}
+
