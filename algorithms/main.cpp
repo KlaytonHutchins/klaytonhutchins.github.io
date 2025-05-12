@@ -39,9 +39,11 @@ string sanitizeFileName(string str) {
         for (size_t i = 0; i < str.length(); i++) {
                 if (str[i] != '.' && str[i] != ',' && str[i] != ' ') {
                         result = result + str[i];
-                } 
+                } else if (str[i] == ' ') {
+			result = result + '-';
+		} 
         }
-        return result;
+        return toLower(result);
 }
 
 size_t WriteToFile(void* ptr, size_t size, size_t nmemb, FILE* stream) {
@@ -172,8 +174,7 @@ void downloadMp3s(DoublyLL<Case>* caseList, string theYear) {
                 string fileName = saveFolder + sanitizeFileName(curr->getData()->getDocketNum()) + ".mp3";
                 cout << "Downloading: " << curr->getData()->getDocketNum() << " -> " << fileName << endl;
 		// https://www.supremecourt.gov/media/audio/mp3files/23-7809.mp3
-		string url = "https://www.supremecourt.gov/media/audio/mp3files/" + curr->getData()->getDocketNum() + ".mp3";
-                // string url = "https://api.oyez.org/case_media/oral_argument_audio/" + "25480" + "/download";
+		string url = "https://www.supremecourt.gov/media/audio/mp3files/" + sanitizeFileName(curr->getData()->getDocketNum()) + ".mp3";
 		if (downloadMp3(url, fileName)) {
                         //cout << "Saved: " << fileName << endl;
                 } else {

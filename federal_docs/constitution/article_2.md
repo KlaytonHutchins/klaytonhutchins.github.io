@@ -35,7 +35,9 @@ He shall from time to time give to the Congress Information of the State of the 
 The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors.
 
 ---
+
 #### External Links
+
 [Wikipedia](https://en.wikipedia.org/wiki/Article_Two_of_the_United_States_Constitution)
 
 [Congress](https://constitution.congress.gov/constitution/article-2/)
