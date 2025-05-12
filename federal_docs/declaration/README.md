@@ -65,11 +65,32 @@ We hold these truths to be self-evident, that all men are created equal, that th
 
 * He has excited domestic insurrections amongst us, and has endeavoured to bring on the inhabitants of our frontiers, the merciless Indian Savages, whose known rule of warfare, is an undistinguished destruction of all ages, sexes and conditions.
 
-* In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.
+In every stage of these Oppressions We have Petitioned for Redress in the most humble terms: Our repeated Petitions have been answered only by repeated injury. A Prince, whose character is thus marked by every act which may define a Tyrant, is unfit to be the ruler of a free people.
 
 Nor have We been wanting in attentions to our Brittish brethren. We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us. We have reminded them of the circumstances of our emigration and settlement here. We have appealed to their native justice and magnanimity, and we have conjured them by the ties of our common kindred to disavow these usurpations, which, would inevitably interrupt our connections and correspondence. They too have been deaf to the voice of justice and of consanguinity. We must, therefore, acquiesce in the necessity, which denounces our Separation, and hold them, as we hold the rest of mankind, Enemies in War, in Peace Friends.
 
 We, therefore, the Representatives of the united States of America, in General Congress, Assembled, appealing to the Supreme Judge of the world for the rectitude of our intentions, do, in the Name, and by Authority of the good People of these Colonies, solemnly publish and declare, That these United Colonies are, and of Right ought to be Free and Independent States; that they are Absolved from all Allegiance to the British Crown, and that all political connection between them and the State of Great Britain, is and ought to be totally dissolved; and that as Free and Independent States, they have full Power to levy War, conclude Peace, contract Alliances, establish Commerce, and to do all other Acts and Things which Independent States may of right do. And for the support of this Declaration, with a firm reliance on the protection of divine Providence, we mutually pledge to each other our Lives, our Fortunes and our sacred Honor.
+
+|-|-|-|-|-|-|
+| Georgia | North Carolina | Massachusetts | Pennsylvania | New York | New Hampshire |
+| Button Gwinnett | William Hooper | John Hancock | Robert Morris | William Floyd | Josiah Bartlett |
+| Lyman Hall | Joseph Hewes | Maryland | Benjamin Rush | Philip Livingston | William Whipple |
+| George Walton | John Penn | Samuel Chase | Benjamin Franklin | Francis Lewis | Massachusetts |
+| | South Carolina | William Paca | John Morton | Lewis Morris | Samuel Adams |
+| | Edward Rutledge | Thomas Stone | George Clymer | New Jersey | John Adams |
+| | Thomas Heyward, Jr. | Charles Carroll of Carrollton | James Smith | Richard Stockton | Robert Treat Paine |
+| | Thomas Lynch, Jr. | Virginia | George Taylor | John Witherspoon | Elbridge Gerry |
+| | Arthur Middleton | George Wythe | James Wilson | Francis Hopkinson | Rhode Island |
+| | | Richard Henry Lee | George Ross | John Hart | Stephen Hopkins |
+| | | Thomas Jefferson | Delaware | Abraham Clark | William Ellery |
+| | | Benjamin Harrison | Caesar Rodney | | Connecticut |
+| | | Thomas Nelson, Jr. | George Read | | Roger Sherman |
+| | | Francis Lightfoot Lee | Thomas McKean | | Samuel Huntington |
+| | | Carter Braxton | | | William Williams |
+| | | | | | Oliver Wolcott |
+| | | | | | New Hampshire |
+| | | | | | Matthew Thornton |
+|-|-|-|-|-|-|
 
 ---
 
