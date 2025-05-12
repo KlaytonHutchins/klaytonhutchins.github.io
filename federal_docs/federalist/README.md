@@ -1,19 +1,97 @@
 ---
 layout: default
-title: Constitution of the United States
+title: Federalist Papers
 ---
 
-### Section
-*  [Preamble](./preamble.md)
-*  [Article 1](./article_1.md)
-*  [Article 2](./article_2.md)
-*  [Article 3](./article_3.md)
-*  [Article 4](./article_4.md)
-*  [Article 5](./article_5.md)
-*  [Article 6](./article_6.md)
-*  [Article 7](./article_7.md)
-*  [Bill Of Rights](./bill_of_rights.md)
-*  [Amendments 11 +](./amendments.md)
+### List
+| No. | Title                                                                                                                                     | Author               | Publication                     | Date                       |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------|----------------------------|
+| 1.  | [General Introduction](./.md)                                                                                                             | Hamilton             | For the Independent Journal     | ??                         |
+| 2.  | [Concerning Dangers from Foreign Force and Influence](./.md)                                                                              | Jay                  | For the Independent Journal     | ??                         |
+| 3.  | [The Same Subject Continued: Concerning Dangers from Foreign Force and Influence](./.md)                                                  | Jay                  | For the Independent Journal     | ??                         |
+| 4.  | [The Same Subject Continued: Concerning Dangers from Foreign Force and Influence](./.md)                                                  | Jay                  | For the Independent Journal     | ??                         |
+| 5.  | [The Same Subject Continued: Concerning Dangers from Foreign Force and Influence](./.md)                                                  | Jay                  | For the Independent Journal     | ??                         |
+| 6.  | [Concerning Dangers from Dissensions Between the States](./.md)                                                                           | Hamilton             | For the Independent Journal     | ??                         |
+| 7.  | [The Same Subject Continued: Concerning Dangers from Dissensions Between the States](./.md)                                               | Hamilton             | For the Independent Journal     | ??                         |
+| 8.  | [The Consequences of Hostilities Between the States](./.md)                                                                               | Hamilton             | From the New York Packet        | Tuesday, November 20, 1787 |
+| 9.  | [The Union as a Safeguard Against Domestic Faction and Insurrection](./.md)                                                               | Hamilton             | For the Independent Journal     | ??                         |
+| 10. | [The Same Subject Continued: The Union as a Safeguard Against Domestic Faction and Insurrection](./.md)                                   | Madison              | From the New York Packet        | Friday, November 27, 1787  |
+| 11. | [The Utility of the Union in Respect to Commercial Relations and a Navy](./.md)                                                           | Hamilton             | For the Independent Journal     | ??                         |
+| 12. | [The Utility of the Union in Respect to Revenue](./.md)                                                                                   | Hamilton             | From the New York Packet        | Tuesday, November 27, 1787 |
+| 13. | [Advantage of the Union in Respect to Economy in Government](./.md)                                                                       | Hamilton             | For the Independent Journal     | ??                         |
+| 14. | [Objections to the Proposed Constitution from Extent of Territory Answered](./.md)                                                        | Madison              | From the New York Packet        | Friday, November 30, 1787  |
+| 15. | [The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                                             | Hamilton             | For the Independent Journal     | ??                         |
+| 16. | [The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                 | Hamilton             | From the New York Packet        | Tuesday, December 4, 1787  |
+| 17. | [The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                 | Hamilton             | For the Independent Journal     | ??                         |
+| 18. | [The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                 | Hamilton and Madison | For the Independent Journal     | ??                         |
+| 19. | [The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                 | Hamilton and Madison | For the Independent Journal     | ??                         |
+| 20. | [The Same Subject Continued: The Insufficiency of the Present Confederation to Preserve the Union](./.md)                                 | Hamilton and Madison | From the New York Packet        | Tuesday, December 11, 1787 |
+| 21. | [Other Defects of the Present Confederation](./.md)                                                                                       | Hamilton             | For the Independent Journal     | ??                         |
+| 22. | [The Same Subject Continued: Other Defects of the Present Confederation](./.md)                                                           | Hamilton             | From the New York Packet        | Friday, December 14, 1787  |
+| 23. | [The Necessity of a Government as Energetic as the One Proposed to the Preservation of the Union](./.md)                                  | Hamilton             | From the New York Packet        | Tuesday, December 17, 1787 |
+| 24. | [The Powers Necessary to the Common Defense Further Considered](./.md)                                                                    | Hamilton             | For the Independent Journal     | ??                         |
+| 25. | [The Same Subject Continued: The Powers Necessary to the Common Defense Further Considered](./.md)                                        | Hamilton             | From the New York Packet        | Friday, December 21, 1787  |
+| 26. | [The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered](./.md)                                     | Hamilton             | For the Independent Journal     | ??                         |
+| 27. | [The Same Subject Continued: The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered](./.md)         | Hamilton             | From the New York Packet        | Tuesday, December 25, 1787 |
+| 28. | [The Same Subject Continued: The Idea of Restraining the Legislative Authority in Regard to the Common Defense Considered](./.md)         | Hamilton             | For the Independent Journal     | ??                         |
+| 29. | [Concerning the Militia](./.md)                                                                                                           | Hamilton             | From the Daily Advertiser       | Thursday, January 10, 1788 |
+| 30. | [Concerning the General Power of Taxation](./.md)                                                                                         | Hamilton             | From the New York Packet        | Friday, December 28, 1787  |
+| 31. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | From the New York Packet        | Tuesday, January 1, 1788   |
+| 32. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | From the Daily Advertiser       | Thursday, January 3, 1788  |
+| 33. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | From the Daily Advertiser       | Thursday, January 3, 1788  |
+| 34. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | From the New York Packet        | Friday, January 4, 1788    |
+| 35. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | For the Independent Journal     | ??                         |
+| 36. | [The Same Subject Continued: Concerning the Power of Taxation](./.md)                                                                     | Hamilton             | From the New York Packet        | Tuesday, January 8, 1788   |
+| 37. | [Concerning the Difficulties of the Convention in Devising a Proper Form of Government](./.md)                                            | Madison              | From the Daily Advertiser       | Friday, January 11, 1788   |
+| 38. | [Incoherence of the Objections to the New Plan Exposed](./.md)                                                                            | Madison              | From the New York Packet        | Tuesday, January 15, 1788  |
+| 39. | [Conformity of the Plan to Republican Principles](./.md)                                                                                  | Madison              | For the Independent Journal     | ??                         |
+| 40. | [The Powers of the Convention to Form a Mixed Government Examined and Sustained](./.md)                                                   | Madison              | From the New York Packet        | Friday, January 18, 1788   |
+| 41. | [General View of the Powers Conferred by the Constitution](./.md)                                                                         | Madison              | For the Independent Journal     | ??                         |
+| 42. | [The Powers Conferred by the Constitution Further Considered](./.md)                                                                      | Madison              | From the New York Packet        | Tuesday, January 22, 1788  |
+| 43. | [The Same Subject Continued: The Powers Conferred by the Constitution Further Considered](./.md)                                          | Madison              | For the Independent Journal     | ??                         |
+| 44. | [Restrictions on the Authority of the Several States](./.md)                                                                              | Madison              | From the New York Packet        | Friday, January 25, 1788   |
+| 45. | [The Alleged Danger From the Powers of the Union to the State Governments Considered](./.md)                                              | Madison              | For the Independent Journal     | ??                         |
+| 46. | [The Influence of the State and Federal Governments Compared](./.md)                                                                      | Madison              | From the New York Packet        | Tuesday, January 29, 1788  |
+| 47. | [The Particular Structure of the New Government and Distribution of Power Among Its Different Parts](./.md)                               | Madison              | From the New York Packet        | Friday, February 1, 1788   |
+| 48. | [These Departments Should Not Be So Far Separated as to Have No Constitutional Control Over Each Other](./.md)                            | Madison              | From the New York Packet        | Friday, February 1, 1788   |
+| 49. | [Method of Guarding Against the Encroachments of Any One Department of Government by Appealing to the People Through a Convention](./.md) | Hamilton or Madison  | From the New York Packet        | Tuesday, February 5, 1788  |
+| 50. | [Periodic Appeals to the People Considered](./.md)                                                                                        | Hamilton or Madison  | From the New York Packet        | Tuesday, February 5, 1788  |
+| 51. | [The Structure of the Government Must Furnish the Proper Checks and Balances Between the Different Departments](./.md)                    | Hamilton or Madison  | From the New York Packet        | Friday, February 8, 1788   |
+| 52. | [The House of Representatives](./.md)                                                                                                     | Hamilton or Madison  | From the New York Packet        | Friday, February 8, 1788   |
+| 53. | [The Same Subject Continued: The House of Representatives](./.md)                                                                         | Hamilton or Madison  | From the New York Packet        | Tuesday, February 12, 1788 |
+| 54. | [The Apportionment of Members Among States](./.md)                                                                                        | Hamilton or Madison  | From the New York Packet        | Tuesday, February 12, 1788 |
+| 55. | [The Total Number of the House of Representatives](./.md)                                                                                 | Hamilton or Madison  | From the New York Packet        | Friday, February 15, 1788  |
+| 56. | [The Same Subject Continued: The Total Number of the House of Representatives](./.md)                                                     | Hamilton or Madison  | From the New York Packet        | Tuesday, February 19, 1788 |
+| 57. | [The Alleged Tendency of the Plan to Elevate the Few at the Expense of the Many Considered in Connection with Representation](./.md)      | Hamilton or Madison  | From the New York Packet        | Tuesday, February 19, 1788 |
+| 58. | [Objection that the Number of Members Will Not Be Augmented as the Progress of Population Demands Considered](./.md)                      | Madison              | ??                              | ??                         |
+| 59. | [Concerning the Power of Congress to Regulate the Election of Members](./.md)                                                             | Hamilton             | From the New York Packet        | Friday, February 22, 1788  |
+| 60. | [The Same Subject Continued: Concerning the Power of Congress to Regulate the Election of Members](./.md)                                 | Hamilton             | From the New York Packet        | Tuesday, February 26, 1788 |
+| 61. | [The Same Subject Continued: Concerning the Power of Congress to Regulate the Election of Members](./.md)                                 | Hamilton             | From the New York Packet        | Tuesday, February 26, 1788 |
+| 62. | [The Senate](./.md)                                                                                                                       | Hamilton or Madison  | For the Independent Journal     | ??                         |
+| 63. | [The Senate Continued](./.md)                                                                                                             | Hamilton or Madison  | For the Independent Journal     | ??                         |
+| 64. | [The Powers of the Senate](./.md)                                                                                                         | Jay                  | From the New York Packet        | Friday, March 7, 1788      |
+| 65. | [The Powers of the Senate Continued](./.md)                                                                                               | Hamilton             | From the New York Packet        | Friday, March 7, 1788      |
+| 66. | [Objections to the Power of the Senate To Set as a Court for Impeachments Further Considered](./.md)                                      | Hamilton             | From the New York Packet        | Tuesday, March 11, 1788    |
+| 67. | [The Executive Department](./.md)                                                                                                         | Hamilton             | From the New York Packet        | Tuesday, March 11, 1788    |
+| 68. | [The Mode of Electing the President](./.md)                                                                                               | Hamilton             | From the New York Packet        | Friday, March 14, 1788     |
+| 69. | [The Real Character of the Executive](./.md)                                                                                              | Hamilton             | From the New York Packet        | Friday, March 14, 1788     |
+| 70. | [The Executive Department Further Considered](./.md)                                                                                      | Hamilton             | From the New York Packet        | Friday, March 14, 1788     |
+| 71. | [The Duration in Office of the Executive](./.md)                                                                                          | Hamilton             | From the New York Packet        | Tuesday, March 18, 1788    |
+| 72. | [The Same Subject Continued, and Re-Eligibility of the Executive Considered](./.md)                                                       | Hamilton             | From the New York Packet        | Friday, March 21, 1788     |
+| 73. | [The Provision for Support of the Executive, and the Veto Power](./.md)                                                                   | Hamilton             | From the New York Packet        | Friday, March 21, 1788     |
+| 74. | [The Command of the Military and Naval Forces, and the Pardoning Power of the Executive](./.md)                                           | Hamilton             | From the New York Packet        | Tuesday, March 25, 1788    |
+| 75. | [The Treaty Making Power of the Executive](./.md)                                                                                         | Hamilton             | For the Independent Journal     | ??                         |
+| 76. | [The Appointing Power of the Executive](./.md)                                                                                            | Hamilton             | From the New York Packet        | Tuesday, April 1, 1788     |
+| 77. | [The Appointing Power Continued and Other Powers of the Executive Considered](./.md)                                                      | Hamilton             | From the New York Packet        | Friday, April 4, 1788      |
+| 78. | [The Judiciary Department](./.md)                                                                                                         | Hamilton             | From McLEAN's Edition, New York | ??                         |
+| 79. | [The Judiciary Continued](./.md)                                                                                                          | Hamilton             | From McLEAN's Edition, New York | ??                         |
+| 80. | [The Powers of the Judiciary](./.md)                                                                                                      | Hamilton             | From McLEAN's Edition, New York | ??                         |
+| 81. | [The Judiciary Continued, and the Distribution of Judicial Authority](./.md)                                                              | Hamilton             | From McLEAN's Edition           | ??                         |
+| 82. | [The Judiciary Continued](./.md)                                                                                                          | Hamilton             | From McLEAN's Edition           | ??                         |
+| 83. | [The Judiciary Continued in Relation to Trial by Jury](./.md)                                                                             | Hamilton             | From McLEAN's Edition           | ??                         |
+| 84. | [Certain General and Miscellaneous Objections to the Constitution Considered and Answered](./.md)                                         | Hamilton             | From McLEAN's Edition           | ??                         |
+| 85. | [Concluding Remarks](./.md)                                                                                                               | Hamilton             | From McLEAN's Edition           | ??                         |
+|-----|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------|----------------------------|
 
 ---
 
