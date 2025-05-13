@@ -14,4 +14,4 @@ The Ratification of the Conventions of nine States, shall be sufficient for the 
 
 ---
 
-[Prev](article_6.md) | [Up](README.md) | [Next](bill_of_rights.md)
+[Prev](article_6.md) -- [Up](README.md) -- [Next](bill_of_rights.md)

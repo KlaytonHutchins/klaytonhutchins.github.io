@@ -44,4 +44,4 @@ The President, Vice President and all civil Officers of the United States, shall
 
 ---
 
-[Prev](article_1.md) | [Up](README.md) | [Next](article_3.md)
+[Prev](article_1.md) -- [Up](README.md) -- [Next](article_3.md)

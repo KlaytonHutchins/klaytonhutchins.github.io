@@ -30,4 +30,4 @@ The United States shall guarantee to every State in this Union a Republican Form
 
 ---
 
-[Prev](article_3.md) | [Up](README.md) | [Next](article_5.md)
+[Prev](article_3.md) -- [Up](README.md) -- [Next](article_5.md)

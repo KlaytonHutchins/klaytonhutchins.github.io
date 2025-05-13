@@ -18,4 +18,4 @@ The Senators and Representatives before mentioned, and the Members of the severa
 
 ---
 
-[Prev](article_5.md) | [Up](README.md) | [Next](article_7.md)
+[Prev](article_5.md) -- [Up](README.md) -- [Next](article_7.md)

@@ -27,4 +27,4 @@ The Congress shall have Power to declare the Punishment of Treason, but no Attai
 
 ---
 
-[Prev](article_2.md) | [Up](README.md) | [Next](article_4.md)
+[Prev](article_2.md) -- [Up](README.md) -- [Next](article_4.md)

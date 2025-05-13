@@ -42,4 +42,4 @@ The powers not delegated to the United States by the Constitution, nor prohibite
 
 ---
 
-[Prev](article_7.md) | [Up](README.md) | [Next](amendments.md)
+[Prev](article_7.md) -- [Up](README.md) -- [Next](amendments.md)

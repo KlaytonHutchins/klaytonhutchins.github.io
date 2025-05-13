@@ -127,4 +127,4 @@ No law, varying the compensation for the services of the Senators and Representa
 
 ---
 
-[Prev](bill_of_rights.md) | [Up](README.md) | [Next](README.md)
+[Prev](bill_of_rights.md) -- [Up](README.md) -- [Next](README.md)

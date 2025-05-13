@@ -14,4 +14,4 @@ The Congress, whenever two thirds of both Houses shall deem it necessary, shall 
 
 ---
 
-[Prev](article_4.md) | [Up](README.md) | [Next](article_6.md)
+[Prev](article_4.md) -- [Up](README.md) -- [Next](article_6.md)
