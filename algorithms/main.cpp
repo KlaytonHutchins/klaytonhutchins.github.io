@@ -318,8 +318,79 @@ void writeCasePages(DoublyLL<Case>* casesForTermYear, string termYear) {
         }
 }
 
+bool processFile(const std::string& inputFileName, const std::string& outputFileName, int num) {
+    std::ifstream inputFile(inputFileName);
+    std::ofstream outputFile(outputFileName);
+    
+    if (!inputFile.is_open() || !outputFile.is_open()) {
+        return false; // Failed to open files
+    }
+    
+    char currentChar = 0;
+    char prevChar = 0;
+    bool prevWasNewline = false;
+    outputFile << "---\nlayout: default\ntitle: Anti-Federalist No. " + to_string(num) + "\n---\n\n## Text\n\n";
+    while (inputFile.get(currentChar)) {
+        if (currentChar == '\n') {
+            if (prevWasNewline) {
+                // Two consecutive newlines - print both
+                outputFile << '\n' << '\n';
+                prevWasNewline = false;
+            } else {
+                // First newline encountered - remember it but don't print yet
+                prevWasNewline = true;
+            }
+        } else {
+            // If we had a single newline before, replace it with space
+            if (prevWasNewline) {
+                outputFile << ' ';
+                prevWasNewline = false;
+            }
+            // Print current character
+            outputFile << currentChar;
+        }
+        
+        prevChar = currentChar;
+    }
+    outputFile << "\n\n---\n#### External Links\n\n---\n\n[Prev](" + to_string(num-1) + ".md) -- [Up](README.md) -- [Next](" + to_string(num+1) + ".md)";
+    
+    inputFile.close();
+    outputFile.close();
+    return true;
+}
+
 int main() {
-	for (int i = 2016; i < (theYear + 1); i++) {
+	string baseFileName = "../federal_docs/antifederalist/";
+	for (int i = 3; i < 86; i++) {
+		cout << to_string(i) << endl;
+		string fullInFileName = baseFileName + "texts/" + to_string(i) + ".txt";
+		string fullOutFileName = baseFileName + to_string(i) + ".md";
+//		ifstream inFile(fullInFileName);
+//		ofstream outFile(fullOutFileName);
+		processFile(fullInFileName, fullOutFileName, i);
+		//read character from in file
+/*		char currChar = '\0';
+		char prevChar = '\0';
+		while (inFile.get(currChar)) {
+			if (currChar == '\n' && prevChar == '\n') {
+				outFile << endl << endl;
+				//prevChar = currChar;
+                        	//currChar = inFile.get();
+			} else if ((currChar == '\n' && prevChar != '\n') || (currChar != '\n' && prevChar == '\n')) {
+				outFile << ' ';
+			} else {
+				outFile << currChar;
+			}
+			prevChar = currChar;
+			currChar = inFile.get();
+		}
+*/
+		//print character to out file
+//		inFile.close();
+//		outFile.close();
+		// create text file with name
+	}
+	/*for (int i = 2016; i < (theYear + 1); i++) {
 		cout << "Year: " << to_string(i) << endl;
 		// download pdfs, get html, create linked list, write year file, write case file
 		string url = "https://www.supremecourt.gov/opinions/slipopinion/" + to_string(i - 2000);;
@@ -338,6 +409,6 @@ int main() {
 		//downloadMp3s(cases, to_string(i));
 		//cout << "        MP3s" << endl;
 	}
-	remove("tempHtml.txt");
+	remove("tempHtml.txt");*/
 }
 
