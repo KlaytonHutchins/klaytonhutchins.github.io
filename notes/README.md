@@ -11,6 +11,11 @@ title: Notes / Technologies
 
 ---
 
+*  [Data Structures](data_structures/README.md)
+*  [Sorting Algorithms](sorting_algorithms/README.md)
+
+---
+
 *  [Variables, assignment statements, and sequences](arc/0012.md)
 *  [Conditions and conditional statements](arc/0013.md)
 *  [Loops](arc/0016.md)
