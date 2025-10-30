@@ -282,7 +282,9 @@ DoublyLL<Case>* generateListFromHtml(string inFilename) {
 			// caseName = second part;
 			newCase->setUrl(extractHrefFromLinkLine(str));
 			newCase->setCaseName(extractCaseNameFromLinkLine(str));
-
+			if (newCase->getOrdNum() == "" || newCase->getDate() == "" || newCase->getDocketNum() == "" || newCase->getUrl() == "" || newCase->getCaseName() == "") {
+				cout << "Empty field: " << newCase->print() << endl;
+			}
 			//getline(inFile, str, '\n');
 			// trash
 			//getline(inFile, str, '\n');
