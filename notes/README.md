@@ -27,8 +27,6 @@ title: Notes / Technologies
 *  [Number Systems](numberSystems/README.md)
 *  [Open Educational Resources](openEducationalResources/README.md)
 *  [Programming Fundamentals](programmingFundamentals/README.md)
-*  [Study Skills](studySkills/README.md)
-*  [Miscellaneous](miscellaneous/README.md)
 
 ---
 
