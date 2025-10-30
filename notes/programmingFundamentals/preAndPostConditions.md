@@ -402,5 +402,5 @@ while (c) // line n+d+1
 
 <hr>
 
-[Prev](blockStatement.md) -- [Up](README.md)
+[Prev](loops.md) -- [Up](README.md) -- [Next](nestedStatements.md)
 

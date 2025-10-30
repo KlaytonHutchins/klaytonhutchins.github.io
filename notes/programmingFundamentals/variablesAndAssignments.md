@@ -228,5 +228,5 @@ In other words, a cell in the table has a value only if a variable is assigned t
 
 <hr>
 
-[Prev](syntaxAndMetaSyntax.md) -- [Up](README.md) -- [Next](conditionalStatements.md)
+[Up](README.md) -- [Next](syntaxAndMetaSyntax.md)
 

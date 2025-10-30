@@ -192,5 +192,5 @@ This is similar to defining a sequence recursively, where the base case is a sin
 
 <hr>
 
-[Up](README.md) -- [Next](variablesAndAssignments.md)
+[Prev](variablesAndAssignments.md) -- [Up](README.md) -- [Next](blockStatement.md)
 

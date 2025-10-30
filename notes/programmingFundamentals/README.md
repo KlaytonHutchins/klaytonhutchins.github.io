@@ -5,19 +5,19 @@ title: Programming Fundamentals
 
 ### Topics
 
+*  [Variables and Assignments](variablesAndAssignments.md)
+
+*  [Syntax and Meta-Syntax](syntaxAndMetaSyntax.md)
+
 *  [Block Statement](blockStatement.md)
 
 *  [Conditional Statements](conditionalStatements.md)
 
 *  [Loops](loops.md)
 
-*  [Nested Statements](nestedStatements.md)
-
 *  [Pre and Post Conditions](preAndPostConditions.md)
 
-*  [Syntax and Meta-Syntax](syntaxAndMetaSyntax.md)
-
-*  [Variables and Assignments](variablesAndAssignments.md)
+*  [Nested Statements](nestedStatements.md)
 
 <hr>
 
