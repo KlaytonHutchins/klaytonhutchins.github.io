@@ -5,13 +5,13 @@ title: Computer Architecture
 
 ### Topics
 
-*  [Clocked Circuits](clockedCircuits.md)
+*  [Transistor to Logic Gate](transistorToLogicGate.md)
 
 *  [D-Flipflop and Memory Devices](dFlipflopAndMemoryDevices.md)
 
-*  [Tracking Circuit Changes](trackingCircuitChanges.md)
+*  [Clocked Circuits](clockedCircuits.md)
 
-*  [Transistor to Logic Gate](transistorToLogicGate.md)
+*  [Tracking Circuit Changes](trackingCircuitChanges.md)
 
 <hr>
 

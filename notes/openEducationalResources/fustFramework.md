@@ -182,3 +182,5 @@ In the second scenario, what if the OER developers make significant revisions af
 
 [Prev](creativeCommonsInOer.md) -- [Up](README.md)
 
+---
+

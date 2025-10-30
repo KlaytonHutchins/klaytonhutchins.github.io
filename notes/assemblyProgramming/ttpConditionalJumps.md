@@ -69,5 +69,5 @@ cont:     // continuation point
 
 <hr>
 
-[Prev](ttpProgramming.md) -- [Up](README.md) -- [Next](tracingTtpExecution.md)
+[Prev](tracingTtpExecution.md) -- [Up](README.md) -- [Next](compilingControlStructures.md)
 

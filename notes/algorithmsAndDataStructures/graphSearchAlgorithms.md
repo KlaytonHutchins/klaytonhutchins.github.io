@@ -224,5 +224,5 @@ f-. 0 .-> f
 
 <hr>
 
-[Prev](algorithmDesignAndPseudocode.md) -- [Up](README.md)
+[Prev](asymptoticNotations.md) -- [Up](README.md)
 

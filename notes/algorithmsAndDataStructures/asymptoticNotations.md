@@ -302,5 +302,5 @@ If $f(n)$ is the time complexity of an algorithm,
 
 <hr>
 
-[Prev](arraySearchAlgorithms.md) -- [Up](README.md) -- [Next](algorithmDesignAndPseudocode.md)
+[Prev](arraySearchAlgorithms.md) -- [Up](README.md) -- [Next](graphSearchAlgorithms.md)
 

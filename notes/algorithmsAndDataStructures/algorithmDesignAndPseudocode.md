@@ -64,5 +64,5 @@ understanding concepts.
 
 <hr>
 
-[Prev](asymptoticNotations.md) -- [Up](README.md) -- [Next](graphSearchAlgorithms.md)
+[Up](README.md) -- [Next](introToArrays.md)
 

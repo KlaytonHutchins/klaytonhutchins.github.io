@@ -628,5 +628,5 @@ What is the truth table of the expression $((p) \Rightarrow (q)) \vee (r)$?
 
 <hr>
 
-[Up](README.md) -- [Next](propositionalLogic.md)
+[Up](README.md) -- [Next](basicSetNotations.md)
 

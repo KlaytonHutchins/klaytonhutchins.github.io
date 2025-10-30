@@ -92,5 +92,5 @@ Validate the response using the following resources, include the validation in t
 
 <hr>
 
-[Prev](studentsGuideToGenAi.md) -- [Up](README.md) -- [Next](customGptEducationalTool.md)
+[Prev](studentCentricGenAi.md) -- [Up](README.md) -- [Next](customGptEducationalTool.md)
 

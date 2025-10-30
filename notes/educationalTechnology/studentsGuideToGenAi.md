@@ -53,5 +53,5 @@ If the answer to the question in the litmus test is "yes", then the use Gen-AI t
 
 <hr>
 
-[Prev](studentCentricGenAi.md) -- [Up](README.md) -- [Next](customGptInstructions.md)
+[Prev](githubMarkdownOerForStudents.md) -- [Up](README.md) -- [Next](studentCentricGenAi.md)
 

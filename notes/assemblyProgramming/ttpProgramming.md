@@ -107,5 +107,5 @@ jmpi func
 
 <hr>
 
-[Prev](installingRiverSpider.md) -- [Up](README.md) -- [Next](ttpConditionalJumps.md)
+[Prev](ttpArchitecture.md) -- [Up](README.md) -- [Next](tracingTtpExecution.md)
 

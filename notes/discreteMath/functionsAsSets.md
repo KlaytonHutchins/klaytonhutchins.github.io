@@ -250,5 +250,5 @@ You can [view the actual ChatGPT prompt](https://chatgpt.com/share/46091f1e-6132
 
 <hr>
 
-[Prev](advancedSetNotations.md) -- [Up](README.md) -- [Next](injectionSurjectionBijection.md)
+[Prev](propositionalLogic.md) -- [Up](README.md) -- [Next](injectionSurjectionBijection.md)
 

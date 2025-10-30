@@ -7,13 +7,13 @@ title: Open Educational Resources
 
 *  [Copyright Law](copyrightLaw.md)
 
-*  [Creative Commons in OER](creativeCommonsInOer.md)
+*  [History of Creative Commons](historyOfCreativeCommons.md)
 
 *  [Creative Commons Licensing](creativeCommonsLicensing.md)
 
-*  [Fust Framework](fustFramework.md)
+*  [Creative Commons in OER](creativeCommonsInOer.md)
 
-*  [History of Creative Commons](historyOfCreativeCommons.md)
+*  [Fust Framework](fustFramework.md)
 
 <hr>
 

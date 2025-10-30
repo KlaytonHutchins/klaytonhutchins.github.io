@@ -5,29 +5,29 @@ title: Discrete Math
 
 ### Topics
 
-*  [Advanced Set Notations](advancedSetNotations.md)
-
-*  [Aleph Null](alephNull.md)
+*  [Boolean Operators](booleanOperators.md)
 
 *  [Basic Set Notations](basicSetNotations.md)
 
-*  [Boolean Operators](booleanOperators.md)
+*  [Quantifiers](quantifiers.md)
 
-*  [Counting and Combinatorics](countingCombinatorics.md)
+*  [Set Notations with Quantifiers](setNotationsWithQuantifiers.md)
+
+*  [Advanced Set Notations](advancedSetNotations.md)
+
+*  [Propositional Logic](propositionalLogic.md)
 
 *  [Functions as Sets](functionsAsSets.md)
 
 *  [Injection, Surjection, and Bijection](injectionSurjectionBijection.md)
 
-*  [Propositional Logic](propositionalLogic.md)
+*  [Relations](relations.md)
 
-*  [Quantifiers](quantifiers.md)
+*  [Counting and Combinatorics](countingCombinatorics.md)
 
 *  [Recursive Summation Operators](recursiveSummationOperators.md)
 
-*  [Relations](relations.md)
-
-*  [Set Notations with Quantifiers](setNotationsWithQuantifiers.md)
+*  [Aleph Null](alephNull.md)
 
 <hr>
 

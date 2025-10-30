@@ -297,5 +297,5 @@ $|\\{2,4,6,8\\}|=4$.
 
 <hr>
 
-[Prev](propositionalLogic.md) -- [Up](README.md) -- [Next](quantifiers.md)
+[Prev](booleanOperators.md) -- [Up](README.md) -- [Next](quantifiers.md)
 

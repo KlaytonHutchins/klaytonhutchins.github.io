@@ -795,5 +795,5 @@ the given facts.
 
 <hr>
 
-[Prev](booleanOperators.md) -- [Up](README.md) -- [Next](basicSetNotations.md)
+[Prev](advancedSetNotations.md) -- [Up](README.md) -- [Next](functionsAsSets.md)
 

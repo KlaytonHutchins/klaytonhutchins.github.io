@@ -133,5 +133,5 @@ flowchart TD;
 
 <hr>
 
-[Prev](markdownGithubOer.md) -- [Up](README.md) -- [Next](studentCentricGenAi.md)
+[Prev](markdownGithubOer.md) -- [Up](README.md) -- [Next](studentsGuideToGenAi.md)
 

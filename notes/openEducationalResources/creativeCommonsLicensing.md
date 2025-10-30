@@ -39,3 +39,5 @@ In general, the rules of whether a CC licensed work can be adapted, remixed, or 
 
 [Prev](historyOfCreativeCommons.md) -- [Up](README.md) -- [Next](creativeCommonsInOer.md)
 
+---
+

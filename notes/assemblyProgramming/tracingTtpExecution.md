@@ -92,5 +92,5 @@ Another great feature that is more advanced is "Search using regular expressions
 
 <hr>
 
-[Prev](ttpConditionalJumps.md) -- [Up](README.md) -- [Next](compilingControlStructures.md)
+[Prev](ttpProgramming.md) -- [Up](README.md) -- [Next](ttpConditionalJumps.md)
 

@@ -114,5 +114,5 @@ The allocation and deallocation of stack locations for local variables is the re
 
 <hr>
 
-[Up](README.md) -- [Next](ttpArchitecture.md)
+[Prev](installingRiverSpider.md) -- [Up](README.md) -- [Next](ttpArchitecture.md)
 

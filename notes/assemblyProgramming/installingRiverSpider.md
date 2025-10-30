@@ -74,5 +74,5 @@ in Windows without installing a Linux VM.
 
 <hr>
 
-[Prev](ttpArchitecture.md) -- [Up](README.md) -- [Next](ttpProgramming.md)
+[Up](README.md) -- [Next](ttpGeneralDescription.md)
 

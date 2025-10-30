@@ -160,5 +160,5 @@ title: "Student-centric generative AI"
 
 <hr>
 
-[Prev](githubMarkdownOerForStudents.md) -- [Up](README.md) -- [Next](studentsGuideToGenAi.md)
+[Prev](studentsGuideToGenAi.md) -- [Up](README.md) -- [Next](customGptInstructions.md)
 

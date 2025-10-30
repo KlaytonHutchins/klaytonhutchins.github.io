@@ -90,5 +90,5 @@ title: "A more hair-splitting way to define set notations"
 
 <hr>
 
-[Prev](setNotationsWithQuantifiers.md) -- [Up](README.md) -- [Next](functionsAsSets.md)
+[Prev](setNotationsWithQuantifiers.md) -- [Up](README.md) -- [Next](propositionalLogic.md)
 

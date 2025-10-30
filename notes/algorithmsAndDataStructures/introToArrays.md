@@ -217,5 +217,5 @@ re-trace.
 
 <hr>
 
-[Up](README.md) -- [Next](arraySearchAlgorithms.md)
+[Prev](algorithmDesignAndPseudocode.md) -- [Up](README.md) -- [Next](arraySearchAlgorithms.md)
 
