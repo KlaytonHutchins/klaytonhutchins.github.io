@@ -23,21 +23,21 @@ title: Notes / Technologies
 
 ---
 
-*  [Algorithms and Data Structures](algorithmsAndDataStructures/README.md)
+*  [Number Systems](numberSystems/README.md)
 
-*  [Assembly Programming](assemblyProgramming/README.md)
-
-*  [Computer Architecture](computerArchitecture/README.md)
+*  [Programming Fundamentals](programmingFundamentals/README.md)
 
 *  [Discrete Math](discreteMath/README.md)
 
+*  [Algorithms and Data Structures](algorithmsAndDataStructures/README.md)
+
+*  [Computer Architecture](computerArchitecture/README.md)
+
+*  [Assembly Programming](assemblyProgramming/README.md)
+
 *  [Educational Technology](educationalTechnology/README.md)
 
-*  [Number Systems](numberSystems/README.md)
-
 *  [Open Educational Resources](openEducationalResources/README.md)
-
-*  [Programming Fundamentals](programmingFundamentals/README.md)
 
 ---
 
