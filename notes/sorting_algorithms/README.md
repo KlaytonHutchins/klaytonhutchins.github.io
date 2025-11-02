@@ -5,24 +5,29 @@ title: Sorting Algorithms
 
 ### List of Algorithms
 
+*  [Bubble Sort](bubble.md) - O(n²)
 
-*  [Bubble Sort](bubble.md)
+*  [Selection Sort](selection.md) - O(n²)
 
-*  [Insertion Sort](insertion.md)
+*  [Insertion Sort](insertion.md) - O(n²)
 
-*  [Selection Sort](selection.md)
+*  [Shell Sort](shell.md) - O(n log n) to O(n²)
 
-*  [Shell Sort](shell.md)
+*  [Merge Sort](merge.md) - O(n log n)
 
-*  [Merge Sort](merge.md)
+*  [Quick Sort](quick.md) - O(n log n) average
 
-*  [Quick Sort](quick.md)
+*  [Heap Sort](heap.md) - O(n log n)
 
-*  [Tree Sort](tree.md)
+*  [Tim Sort](timsort.md) - O(n log n)
 
-*  [Heap Sort](heap.md)
+*  [Tree Sort](tree.md) - O(n log n) average
 
-*  [Radix Sort](radix.md)
+*  [Counting Sort](counting.md) - O(n+k)
+
+*  [Bucket Sort](bucket.md) - O(n+k)
+
+*  [Radix Sort](radix.md) - O(d·n)
 
 ---
 
