@@ -120,5 +120,5 @@ public class JDBCStockDAOImpl implements StockDAO {
 
 <hr>
 
-[Prev](dao.md) | [Up](README.md) | [Next](changing-implementation.md)
+[Prev](dao.md) -- [Up](README.md) -- [Next](changing-implementation.md)
 

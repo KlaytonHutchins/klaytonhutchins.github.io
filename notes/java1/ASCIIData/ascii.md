@@ -49,5 +49,5 @@ ASCII codes represent:
 
 <hr>
 
-[Prev](standards.md) | [Up](README.md) | [Next](unicode.md)
+[Prev](standards.md) --[Up](README.md) --[Next](unicode.md)
 

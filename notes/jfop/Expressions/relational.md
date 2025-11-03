@@ -32,5 +32,5 @@ Relational operators can be used with variables, literals, or combinations of th
 
 <hr>
 
-[Prev](arithmetic.md) | [Up](README.md) | [Next](logical.md)
+[Prev](arithmetic.md) -- [Up](README.md) -- [Next](logical.md)
 

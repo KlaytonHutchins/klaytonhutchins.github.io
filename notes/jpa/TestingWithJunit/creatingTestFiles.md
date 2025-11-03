@@ -74,5 +74,5 @@ Create individual `@Test` methods to verify your mappings result in values in li
 
 <hr>
 
-[Prev](setupTesting.md) | [Up](README.md) | [Next](runningTestsWithGradle.md)
+[Prev](setupTesting.md) -- [Up](README.md) -- [Next](runningTestsWithGradle.md)
 

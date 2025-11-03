@@ -14,4 +14,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](mainMethod.md)
+[Up](../README.md) -- [Next](mainMethod.md)

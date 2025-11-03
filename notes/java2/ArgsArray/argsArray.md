@@ -66,5 +66,5 @@ Eclipse creates a for loop for the nearest array it sees, which happens to be `a
 
 <hr>
 
-[Prev](mainMethod.md) | [Up](README.md) | [Next](handlingArguments.md)
+[Prev](mainMethod.md) -- [Up](README.md) -- [Next](handlingArguments.md)
 

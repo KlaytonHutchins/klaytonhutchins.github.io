@@ -30,5 +30,5 @@ We almost always use the short-circuit operators `&&` and `||` in logical expres
 
 <hr>
 
-[Prev](logical.md) | [Up](README.md) | [Next](associativity.md)
+[Prev](logical.md) -- [Up](README.md) -- [Next](associativity.md)
 

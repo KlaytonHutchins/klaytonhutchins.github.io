@@ -77,5 +77,5 @@ We no longer need to write directly to the response using `PrintWriter.println()
 
 <hr>
 
-[Prev](jsp-intro.md) | [Up](README.md) | [Next](web-inf.md)
+[Prev](jsp-intro.md) -- [Up](README.md) -- [Next](web-inf.md)
 

@@ -73,5 +73,5 @@ See the problem? The right side of the `&&` mistakenly uses the `=` operator, wh
 
 <hr>
 
-[Prev](relational.md) | [Up](README.md) | [Next](shortcircuit.md)
+[Prev](relational.md) -- [Up](README.md) -- [Next](shortcircuit.md)
 

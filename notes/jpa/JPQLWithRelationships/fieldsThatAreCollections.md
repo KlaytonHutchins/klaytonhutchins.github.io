@@ -162,5 +162,5 @@ This query would result in you having a `Film` object with all of its scalar typ
 
 <hr>
 
-[Prev](fieldsThatAreObjects.md) | [Up](README.md) | [Next](labs.md)
+[Prev](fieldsThatAreObjects.md) -- [Up](README.md) -- [Next](labs.md)
 

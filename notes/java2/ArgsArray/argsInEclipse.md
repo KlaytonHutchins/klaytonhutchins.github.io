@@ -22,5 +22,5 @@ You can pass command line arguments without switching to a terminal from Eclipse
 
 <hr>
 
-[Prev](handlingArguments.md) | [Up](README.md) | [Next](labs.md)
+[Prev](handlingArguments.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -15,5 +15,5 @@
 
 <hr>
 
-[Prev](argsInEclipse.md) | [Up](README.md)
+[Prev](argsInEclipse.md) -- [Up](README.md)
 

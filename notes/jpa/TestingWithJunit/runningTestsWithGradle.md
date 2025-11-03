@@ -53,5 +53,5 @@ You can have Gradle run tests without doing a build by running the `verification
 
 <hr>
 
-[Prev](creatingTestFiles.md) | [Up](README.md) | [Next](labs.md)
+[Prev](creatingTestFiles.md) -- [Up](README.md) -- [Next](labs.md)
 

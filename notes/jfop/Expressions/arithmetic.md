@@ -67,5 +67,5 @@ For example, if `radius` is 2.5, the operands are derived in the order 1-6:
 
 <hr>
 
-[Prev](assignment.md) | [Up](README.md) | [Next](relational.md)
+[Prev](assignment.md) -- [Up](README.md) -- [Next](relational.md)
 

@@ -24,5 +24,5 @@ So, if b is 10 and c is 25, is the final result true or false?
 
 <hr>
 
-[Prev](precedence.md) | [Up](README.md) | [Next](labs.md)
+[Prev](precedence.md) -- [Up](README.md) -- [Next](labs.md)
 

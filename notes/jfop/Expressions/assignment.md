@@ -42,5 +42,5 @@ The value 9 is assigned to x, and the _result_ of that evaluation is assigned to
 
 <hr>
 
-[Prev](evaluation.md) | [Up](README.md) | [Next](arithmetic.md)
+[Prev](evaluation.md) -- [Up](README.md) -- [Next](arithmetic.md)
 

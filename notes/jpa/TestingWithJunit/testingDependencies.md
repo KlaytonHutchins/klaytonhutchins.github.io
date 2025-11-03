@@ -38,5 +38,5 @@ Testing our entities will ensure that we have properly configured our JPA enviro
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](setupTesting.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](setupTesting.md)
 

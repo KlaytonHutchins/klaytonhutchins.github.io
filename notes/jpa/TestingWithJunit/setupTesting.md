@@ -40,5 +40,5 @@ When tests run, Hibernate will want a logging configuration file, _log4j.propert
 
 <hr>
 
-[Prev](testingDependencies.md) | [Up](README.md) | [Next](creatingTestFiles.md)
+[Prev](testingDependencies.md) -- [Up](README.md) -- [Next](creatingTestFiles.md)
 

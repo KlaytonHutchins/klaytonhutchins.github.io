@@ -20,5 +20,5 @@ We can ensure we are not sending any raw JSP by putting JSPs in `WEB-INF/` (or i
 
 <hr>
 
-[Prev](using-jsp.md) | [Up](README.md) | [Next](mvc.md)
+[Prev](using-jsp.md) -- [Up](README.md) -- [Next](mvc.md)
 

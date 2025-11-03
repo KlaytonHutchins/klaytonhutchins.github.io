@@ -49,5 +49,5 @@ As we modify `ShowMe.java` in Eclipse and save, Eclipse compiles our changes and
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](argsArray.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](argsArray.md)
 

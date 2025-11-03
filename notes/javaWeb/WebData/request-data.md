@@ -84,5 +84,5 @@ We often use HTML forms to send `POST` data.
 
 <hr>
 
-[Prev](request-headers.md) | [Up](README.md) | [Next](forms.md)
+[Prev](request-headers.md) -- [Up](README.md) -- [Next](forms.md)
 
