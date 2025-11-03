@@ -44,11 +44,11 @@ An image tag has a source attribute, `src`, that will load an image from the spe
 
 ```html
 <img src="myPicture.jpg"/>
-<img src="http://skilldistillery.com/wp-content/uploads/2016/02/skilldistillery_website.png"/>
+<img src="https://via.placeholder.com/350x150"/>
 ```
 
-> ### Skill++
-> When we get into JavaScript you will see that we can create our own custom element attributes to store any additional information we think is important.
+### Practice Exercise
+When we get into JavaScript you will see that we can create our own custom element attributes to store any additional information we think is important.
 
 <hr>
 
