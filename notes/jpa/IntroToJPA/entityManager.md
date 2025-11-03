@@ -84,5 +84,5 @@ public class CustomerClient {
 
 <hr>
 
-[Prev](mappingFields.md) | [Up](README.md) | [Next](labs.md)
+[Prev](mappingFields.md) -- [Up](README.md) -- [Next](labs.md)
 

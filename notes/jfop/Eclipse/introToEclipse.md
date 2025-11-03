@@ -65,5 +65,5 @@ The Eclipse Foundation comes out with a new major release every June.  The relea
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](installingEclipse.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](installingEclipse.md)
 

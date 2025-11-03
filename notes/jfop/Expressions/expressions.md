@@ -31,5 +31,5 @@ There are several types of expressions:
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](evaluation.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](evaluation.md)
 

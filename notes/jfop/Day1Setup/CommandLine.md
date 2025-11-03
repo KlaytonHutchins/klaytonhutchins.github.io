@@ -47,5 +47,5 @@ ls
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

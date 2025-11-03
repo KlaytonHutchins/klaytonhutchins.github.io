@@ -11,5 +11,5 @@ This set of labs is short, but will be used in subsequent chapters to use other 
 
 <hr>
 
-[Prev](object.md) | [Up](README.md)
+[Prev](object.md) -- [Up](README.md)
 

@@ -58,5 +58,5 @@ An `abstract` class is not required to declare any `abstract` methods.
 
 <hr>
 
-[Prev](abstractClasses.md) | [Up](README.md) | [Next](usingAbstractClasses.md)
+[Prev](abstractClasses.md) -- [Up](README.md) -- [Next](usingAbstractClasses.md)
 

@@ -99,5 +99,5 @@ test for *Film* to verify your new associations work. Also create a JUnit test t
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](addAndRemove.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](addAndRemove.md)
 

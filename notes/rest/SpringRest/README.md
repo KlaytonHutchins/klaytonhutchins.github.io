@@ -16,4 +16,4 @@ Spring Rest is an annotation based web framework that simplifies the process of 
 
 <hr>
 
-[Up](../README.md) | [Next](dependencies.md)
+[Up](../README.md) -- [Next](dependencies.md)

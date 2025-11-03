@@ -81,5 +81,5 @@ Field shadowing is where a local variable name _in a method_ has the same name a
 
 <hr>
 
-[Prev](casting-precedence.md) | [Up](README.md) | [Next](labs.md)
+[Prev](casting-precedence.md) -- [Up](README.md) -- [Next](labs.md)
 

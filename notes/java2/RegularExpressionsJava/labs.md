@@ -22,5 +22,5 @@
 
 <hr>
 
-[Prev](stringmethods.md) | [Up](README.md)
+[Prev](stringmethods.md) -- [Up](README.md)
 

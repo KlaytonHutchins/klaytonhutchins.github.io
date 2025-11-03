@@ -21,5 +21,5 @@ Strings have a number of backslash escape sequences such as `\t` (tab) and `\b` 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](pattern.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](pattern.md)
 

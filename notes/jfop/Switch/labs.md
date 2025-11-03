@@ -23,5 +23,5 @@ These labs are designed to use a `switch` statement.
 
 <hr>
 
-[Prev](switch-when.md) | [Up](README.md)
+[Prev](switch-when.md) -- [Up](README.md)
 

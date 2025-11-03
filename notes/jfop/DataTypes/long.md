@@ -34,5 +34,5 @@ int littleNum = 1L; // WILL NOT COMPILE
 
 <hr>
 
-[Prev](floating-point.md) | [Up](README.md) | [Next](switch.md)
+[Prev](floating-point.md) -- [Up](README.md) -- [Next](switch.md)
 

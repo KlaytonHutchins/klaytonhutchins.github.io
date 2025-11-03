@@ -59,5 +59,5 @@ System.out.println(numElements);   // 2
 
 <hr>
 
-[Prev](parameterized-types.md) | [Up](README.md) | [Next](replacing-inserting-removing.md)
+[Prev](parameterized-types.md) -- [Up](README.md) -- [Next](replacing-inserting-removing.md)
 

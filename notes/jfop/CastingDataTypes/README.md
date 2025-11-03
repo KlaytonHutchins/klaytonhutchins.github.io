@@ -17,4 +17,4 @@ In this chapter we will discuss converting primitive data into other data types.
 
 <hr>
 
-[Up](../README.md) | [Next](implicit.md)
+[Up](../README.md) -- [Next](implicit.md)

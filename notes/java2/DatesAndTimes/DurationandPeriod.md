@@ -58,5 +58,5 @@ The `toString` for both `Duration` and `Period` starts with `P` (for period), fo
 
 <hr>
 
-[Prev](LocalDateTime.md) | [Up](README.md) | [Next](DateTimeFormatter.md)
+[Prev](LocalDateTime.md) -- [Up](README.md) -- [Next](DateTimeFormatter.md)
 

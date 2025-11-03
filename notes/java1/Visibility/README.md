@@ -12,4 +12,4 @@ In this chapter we will use _inheritance_ to design classes based on other class
 
 <hr>
 
-[Up](../README.md) | [Next](visibility.md)
+[Up](../README.md) -- [Next](visibility.md)

@@ -17,5 +17,5 @@ An array allows us to have a single variable that points to multiple pieces of d
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](array.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](array.md)
 

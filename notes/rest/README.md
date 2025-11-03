@@ -11,4 +11,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](IntroToREST/README.md)
+[Up](../README.md) -- [Next](IntroToREST/README.md)

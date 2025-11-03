@@ -65,5 +65,5 @@ For uni-directional, the non-owning side of the relationship remains unchanged.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](biDirectionalManyToOne.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](biDirectionalManyToOne.md)
 

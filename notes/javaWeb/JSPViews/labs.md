@@ -23,5 +23,5 @@ Now we will change a servlet to display different JSP's depending on what it fin
 
 <hr>
 
-[Prev](mvc.md) | [Up](README.md)
+[Prev](mvc.md) -- [Up](README.md)
 

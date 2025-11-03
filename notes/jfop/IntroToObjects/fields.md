@@ -34,5 +34,5 @@ Fields can be defined above, between, and below the method definitions, but are 
 
 <hr>
 
-[Prev](state-behavior.md) | [Up](README.md) | [Next](static.md)
+[Prev](state-behavior.md) -- [Up](README.md) -- [Next](static.md)
 

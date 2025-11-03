@@ -24,5 +24,5 @@ Each type should have its own package, `com.example.bootmvc.controllers` and `co
 
 <hr>
 
-[Prev](integratingSpringBootAndJPA.md) | [Up](README.md) | [Next](multiProject.md)
+[Prev](integratingSpringBootAndJPA.md) -- [Up](README.md) -- [Next](multiProject.md)
 

@@ -45,5 +45,5 @@ isOddOrEven(12.5);   // WON'T COMPILE - must be an int
 
 <hr>
 
-[Prev](using-return.md) | [Up](README.md) | [Next](parameters2.md)
+[Prev](using-return.md) -- [Up](README.md) -- [Next](parameters2.md)
 

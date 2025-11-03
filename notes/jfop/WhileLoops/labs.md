@@ -36,5 +36,5 @@ If an exercise below requires using your solution from a previous chapter, copy-
 
 <hr>
 
-[Prev](break-continue.md) | [Up](README.md)
+[Prev](break-continue.md) -- [Up](README.md)
 

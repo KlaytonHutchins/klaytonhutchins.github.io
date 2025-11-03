@@ -24,5 +24,5 @@ An _object_ is an individual thing in the program created using a `class` and th
 
 <hr>
 
-[Prev](classes.md) | [Up](README.md) | [Next](references.md)
+[Prev](classes.md) -- [Up](README.md) -- [Next](references.md)
 

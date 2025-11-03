@@ -22,5 +22,5 @@ Later we will see that you can override the loading strategy on an individual qu
 
 <hr>
 
-[Prev](addAndRemove.md) | [Up](README.md) | [Next](labs.md)
+[Prev](addAndRemove.md) -- [Up](README.md) -- [Next](labs.md)
 

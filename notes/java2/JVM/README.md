@@ -12,4 +12,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](javaVirtualMachine.md)
+[Up](../README.md) -- [Next](javaVirtualMachine.md)

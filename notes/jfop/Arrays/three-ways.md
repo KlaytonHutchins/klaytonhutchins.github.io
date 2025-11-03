@@ -22,5 +22,5 @@ String[] states = new String[] {"Alabama", "Arkansas"};
 
 <hr>
 
-[Prev](passing.md) | [Up](README.md) | [Next](labs.md)
+[Prev](passing.md) -- [Up](README.md) -- [Next](labs.md)
 

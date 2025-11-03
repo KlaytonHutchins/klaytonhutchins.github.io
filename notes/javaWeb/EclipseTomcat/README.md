@@ -11,4 +11,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](tomcatSetup.md)
+[Up](../README.md) -- [Next](tomcatSetup.md)

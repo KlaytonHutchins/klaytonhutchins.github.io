@@ -69,5 +69,5 @@ System.out.println( i == j );      // true or false?
 
 <hr>
 
-[Prev](comparingWrappers.md) | [Up](README.md) | [Next](floatDouble.md)
+[Prev](comparingWrappers.md) -- [Up](README.md) -- [Next](floatDouble.md)
 

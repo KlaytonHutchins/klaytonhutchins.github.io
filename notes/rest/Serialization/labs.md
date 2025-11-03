@@ -72,5 +72,5 @@ Including the Jackson jars, which we discussed earlier, automatically maps retur
 
 <hr>
 
-[Prev](recursiveJson.md) | [Up](README.md)
+[Prev](recursiveJson.md) -- [Up](README.md)
 

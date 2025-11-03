@@ -49,5 +49,5 @@ An `if` statement's body may not execute. Because `x` is a variable, and variabl
 
 <hr>
 
-[Prev](if.md) | [Up](README.md) | [Next](codeblock.md)
+[Prev](if.md) -- [Up](README.md) -- [Next](codeblock.md)
 

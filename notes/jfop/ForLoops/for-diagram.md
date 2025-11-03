@@ -11,5 +11,5 @@ for (i = 0; i < 20; i++){
 
 <hr>
 
-[Prev](for.md) | [Up](README.md) | [Next](for-parts.md)
+[Prev](for.md) -- [Up](README.md) -- [Next](for-parts.md)
 

@@ -35,5 +35,5 @@ The resulting relationships will give you access to all the data from these thre
 
 <hr>
 
-[Prev](associationClasses.md) | [Up](README.md) | [Next](labs.md)
+[Prev](associationClasses.md) -- [Up](README.md) -- [Next](labs.md)
 

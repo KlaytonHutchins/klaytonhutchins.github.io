@@ -45,5 +45,5 @@ A response to a client begins `PROTOCOL_VERSION RESPONSE_CODE REASON`
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](request-headers.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](request-headers.md)
 

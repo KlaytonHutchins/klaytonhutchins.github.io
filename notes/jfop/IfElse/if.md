@@ -48,5 +48,5 @@ Java is not one of these languages. The condition **must** evaluate to a `boolea
 
 <hr>
 
-[Prev](flow.md) | [Up](README.md) | [Next](if-details.md)
+[Prev](flow.md) -- [Up](README.md) -- [Next](if-details.md)
 

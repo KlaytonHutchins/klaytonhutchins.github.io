@@ -19,4 +19,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](exceptionsIntro.md)
+[Up](../README.md) -- [Next](exceptionsIntro.md)

@@ -85,5 +85,5 @@ Up to this point we haven't interacted with a database using Spring REST. Rememb
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](addressShowRoute.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](addressShowRoute.md)
 

@@ -36,5 +36,5 @@ public final class Float extends Number implements Comparable<Float> {
 
 <hr>
 
-[Prev](autoboxing.md) | [Up](README.md) | [Next](integerTypes.md)
+[Prev](autoboxing.md) -- [Up](README.md) -- [Next](integerTypes.md)
 

@@ -10,5 +10,5 @@ We will look at how characters are represented in memory.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](ascii.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](ascii.md)
 

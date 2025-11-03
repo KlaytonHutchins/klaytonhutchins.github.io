@@ -75,5 +75,5 @@ If two imported packages define a class with the same name, we still have to ful
 
 <hr>
 
-[Prev](packageNames.md) | [Up](README.md) | [Next](staticImports.md)
+[Prev](packageNames.md) -- [Up](README.md) -- [Next](staticImports.md)
 

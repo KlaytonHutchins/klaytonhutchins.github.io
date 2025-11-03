@@ -12,4 +12,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](hateoas.md)
+[Up](../README.md) -- [Next](hateoas.md)

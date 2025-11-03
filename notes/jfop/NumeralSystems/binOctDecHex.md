@@ -111,5 +111,5 @@ To use this, the data is broken into groups of _six_ bits - a six-bit number can
 
 <hr>
 
-[Prev](positionalNotation.md) | [Up](README.md) | [Next](javaLiterals.md)
+[Prev](positionalNotation.md) -- [Up](README.md) -- [Next](javaLiterals.md)
 

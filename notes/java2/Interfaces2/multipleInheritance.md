@@ -93,5 +93,5 @@ Java requires this ambiguity to be resolved before compilation - the code above 
 
 <hr>
 
-[Prev](defaultMethods.md) | [Up](README.md) | [Next](labs.md)
+[Prev](defaultMethods.md) -- [Up](README.md) -- [Next](labs.md)
 

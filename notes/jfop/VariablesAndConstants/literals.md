@@ -20,5 +20,5 @@ A `char` literal appears between a pair of single quotes (`'`), and a `String` l
 
 <hr>
 
-[Prev](rules.md) | [Up](README.md) | [Next](assign.md)
+[Prev](rules.md) -- [Up](README.md) -- [Next](assign.md)
 

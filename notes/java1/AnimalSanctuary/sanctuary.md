@@ -91,5 +91,5 @@ When you have this working, challenge yourself with the stretch goals:
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](menu.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](menu.md)
 

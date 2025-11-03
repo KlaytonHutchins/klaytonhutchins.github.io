@@ -61,5 +61,5 @@ Color nope = Color.valueOf("PURPLE"); // IllegalArgumentException
 
 <hr>
 
-[Prev](using.md) | [Up](README.md) | [Next](enum-members.md)
+[Prev](using.md) -- [Up](README.md) -- [Next](enum-members.md)
 

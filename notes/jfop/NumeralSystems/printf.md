@@ -77,5 +77,5 @@ System.out.printf("%1$+8d in hexadecimal is 0x%1$04x and in binary is %2$s.%n", 
 
 <hr>
 
-[Prev](javaLiterals.md) | [Up](README.md) | [Next](labs.md)
+[Prev](javaLiterals.md) -- [Up](README.md) -- [Next](labs.md)
 

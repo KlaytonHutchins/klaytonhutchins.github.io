@@ -52,5 +52,5 @@ Fields, methods, and constructors can be declared with additional _visibility mo
 
 <hr>
 
-[Prev](heap-image.md) | [Up](README.md)
+[Prev](heap-image.md) -- [Up](README.md)
 

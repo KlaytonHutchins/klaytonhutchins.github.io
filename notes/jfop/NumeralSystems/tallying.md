@@ -21,5 +21,5 @@ We also need a better way to record if there was nothing to count besides the ab
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](positionalNotation.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](positionalNotation.md)
 

@@ -14,4 +14,4 @@ The project is divided into three parts:
 
 <hr>
 
-[Up](../README.md) | [Next](sanctuary.md)
+[Up](../README.md) -- [Next](sanctuary.md)

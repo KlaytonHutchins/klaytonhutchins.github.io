@@ -103,5 +103,5 @@ public class InputReaderExample {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](FileObject.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](FileObject.md)
 

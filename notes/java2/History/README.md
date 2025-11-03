@@ -20,4 +20,4 @@ Run this stubbed application to make sure all files are in place.  Review all of
 
 <hr>
 
-[Up](../README.md) | [Next](datesTimes.md)
+[Up](../README.md) -- [Next](datesTimes.md)

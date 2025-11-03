@@ -61,5 +61,5 @@ Implicit type conversion is sometimes called _coercion_.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](promotion.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](promotion.md)
 

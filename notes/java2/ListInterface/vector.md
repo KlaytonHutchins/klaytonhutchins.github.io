@@ -24,5 +24,5 @@ The predecessor to `ArrayList` is `Vector`.
 
 <hr>
 
-[Prev](linkedlist.md) | [Up](README.md) | [Next](list-and-class.md)
+[Prev](linkedlist.md) -- [Up](README.md) -- [Next](list-and-class.md)
 

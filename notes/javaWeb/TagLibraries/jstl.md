@@ -32,5 +32,5 @@ We can combine the tags with JSP EL to change what our pages display.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](conditionals.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](conditionals.md)
 

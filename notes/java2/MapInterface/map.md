@@ -47,5 +47,5 @@ Map<Integer, Album> albums; // A Map of Integer keys and Album values
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](hashmap.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](hashmap.md)
 

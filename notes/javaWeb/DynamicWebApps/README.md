@@ -18,4 +18,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](dynamic.md)
+[Up](../README.md) -- [Next](dynamic.md)

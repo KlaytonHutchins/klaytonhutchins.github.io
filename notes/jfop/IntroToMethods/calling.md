@@ -36,5 +36,5 @@ Another word for "call" is "invoke."
 
 <hr>
 
-[Prev](method-def.md) | [Up](README.md) | [Next](main.md)
+[Prev](method-def.md) -- [Up](README.md) -- [Next](main.md)
 

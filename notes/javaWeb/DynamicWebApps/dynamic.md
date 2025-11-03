@@ -48,5 +48,5 @@ Creating a Dynamic Web Project is much like creating a Java Project, with additi
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](maven.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](maven.md)
 

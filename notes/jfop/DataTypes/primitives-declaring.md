@@ -25,5 +25,5 @@ if (x > 2_500_000_000) { // WILL NOT COMPILE
 
 <hr>
 
-[Prev](types-matter.md) | [Up](README.md) | [Next](floating-point.md)
+[Prev](types-matter.md) -- [Up](README.md) -- [Next](floating-point.md)
 

@@ -50,5 +50,5 @@ Subsequent replacement and append methods can refer to the first matched string 
 
 <hr>
 
-[Prev](matcher.md) | [Up](README.md) | [Next](stringmethods.md)
+[Prev](matcher.md) -- [Up](README.md) -- [Next](stringmethods.md)
 

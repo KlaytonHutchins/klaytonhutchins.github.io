@@ -15,4 +15,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](namespaces.md)
+[Up](../README.md) -- [Next](namespaces.md)

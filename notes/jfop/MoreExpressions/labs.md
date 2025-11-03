@@ -14,5 +14,5 @@
 
 <hr>
 
-[Prev](ternaryOperator.md) | [Up](README.md)
+[Prev](ternaryOperator.md) -- [Up](README.md)
 

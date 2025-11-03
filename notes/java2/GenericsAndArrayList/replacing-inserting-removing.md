@@ -66,5 +66,5 @@ The size of the `ArrayList` decreases by one - there is no empty space at the en
 
 <hr>
 
-[Prev](adding-getting.md) | [Up](README.md) | [Next](array-vs-arraylist.md)
+[Prev](adding-getting.md) -- [Up](README.md) -- [Next](array-vs-arraylist.md)
 

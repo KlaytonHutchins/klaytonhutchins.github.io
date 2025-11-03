@@ -96,5 +96,5 @@ Spring will automatically convert the JSON request body to the POJO type of the 
 
 <hr>
 
-[Prev](json.md) | [Up](README.md) | [Next](recursiveJson.md)
+[Prev](json.md) -- [Up](README.md) -- [Next](recursiveJson.md)
 

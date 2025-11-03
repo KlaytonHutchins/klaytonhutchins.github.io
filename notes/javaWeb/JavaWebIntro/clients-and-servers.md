@@ -46,5 +46,5 @@ The name _localhost_ is used by a client (like a web browser) on your computer t
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](webapps.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](webapps.md)
 

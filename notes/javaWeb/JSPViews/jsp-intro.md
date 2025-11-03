@@ -36,5 +36,5 @@ JSP files are processed by the web container, not by the client browser.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](using-jsp.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](using-jsp.md)
 

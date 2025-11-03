@@ -35,5 +35,5 @@ A program has the instructions that tell the computer what we need done. Each ti
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](programming-process.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](programming-process.md)
 

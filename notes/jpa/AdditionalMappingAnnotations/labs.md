@@ -37,5 +37,5 @@
 
 <hr>
 
-[Prev](enumerated.md) | [Up](README.md)
+[Prev](enumerated.md) -- [Up](README.md)
 

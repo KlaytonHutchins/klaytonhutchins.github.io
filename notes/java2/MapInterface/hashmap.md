@@ -89,5 +89,5 @@ Remember:
 
 <hr>
 
-[Prev](map.md) | [Up](README.md) | [Next](map-classes.md)
+[Prev](map.md) -- [Up](README.md) -- [Next](map-classes.md)
 

@@ -72,4 +72,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](GenericsAndArrayList/README.md)
+[Up](../README.md) -- [Next](GenericsAndArrayList/README.md)

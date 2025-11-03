@@ -51,5 +51,5 @@ Notice how the inner loop's control variable "starts over," i.e., gets re-initia
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](for-each.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](for-each.md)
 

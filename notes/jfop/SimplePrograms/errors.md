@@ -15,5 +15,5 @@ _Runtime errors_ are generated when you execute (run) your program.
 
 <hr>
 
-[Prev](programming-language.md) | [Up](README.md) | [Next](input-and-output.md)
+[Prev](programming-language.md) -- [Up](README.md) -- [Next](input-and-output.md)
 

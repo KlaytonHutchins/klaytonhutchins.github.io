@@ -37,5 +37,5 @@ Any time you have a number of related data items that are all of the same type a
 
 <hr>
 
-[Prev](array.md) | [Up](README.md) | [Next](creating.md)
+[Prev](array.md) -- [Up](README.md) -- [Next](creating.md)
 

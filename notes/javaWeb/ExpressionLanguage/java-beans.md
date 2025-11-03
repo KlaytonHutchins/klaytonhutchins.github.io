@@ -42,5 +42,5 @@ These properties correspond to the Java class's getter methods.
 
 <hr>
 
-[Prev](el-model.md) | [Up](README.md) | [Next](el-ops.md)
+[Prev](el-model.md) -- [Up](README.md) -- [Next](el-ops.md)
 

@@ -56,5 +56,5 @@ Once created, the `char` values stored inside a `String` cannot be changed - tha
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](theStringPool.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](theStringPool.md)
 

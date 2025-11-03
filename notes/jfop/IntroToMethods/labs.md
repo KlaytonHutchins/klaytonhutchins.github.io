@@ -30,5 +30,5 @@ A complete solution is listed after all steps.
 
 <hr>
 
-[Prev](why.md) | [Up](README.md)
+[Prev](why.md) -- [Up](README.md)
 

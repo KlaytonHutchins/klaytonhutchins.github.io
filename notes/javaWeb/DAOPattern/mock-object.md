@@ -65,5 +65,5 @@ We most often use mock objects in JUnit tests, and put them in the same director
 
 <hr>
 
-[Prev](changing-implementation.md) | [Up](README.md)
+[Prev](changing-implementation.md) -- [Up](README.md)
 

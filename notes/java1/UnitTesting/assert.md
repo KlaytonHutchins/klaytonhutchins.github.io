@@ -78,5 +78,5 @@ Many `assert` methods are overloaded to add a custom `String` message as the fir
 
 <hr>
 
-[Prev](test-methods.md) | [Up](README.md) | [Next](before-after.md)
+[Prev](test-methods.md) -- [Up](README.md) -- [Next](before-after.md)
 

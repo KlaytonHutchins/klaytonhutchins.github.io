@@ -37,5 +37,5 @@ public interface Predicate <T> {
 
 <hr>
 
-[Prev](lambdaSelection.md) | [Up](README.md) | [Next](StandardFunctionalInterfaces.md)
+[Prev](lambdaSelection.md) -- [Up](README.md) -- [Next](StandardFunctionalInterfaces.md)
 

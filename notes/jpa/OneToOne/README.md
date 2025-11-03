@@ -10,4 +10,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](oneToOne.md)
+[Up](../README.md) -- [Next](oneToOne.md)

@@ -18,5 +18,5 @@ System.out.println(variable); // Output: A
 
 <hr>
 
-[Prev](primitives-memory.md) | [Up](README.md) | [Next](primitives-declaring.md)
+[Prev](primitives-memory.md) -- [Up](README.md) -- [Next](primitives-declaring.md)
 

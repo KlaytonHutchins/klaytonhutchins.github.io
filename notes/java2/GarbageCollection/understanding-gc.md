@@ -81,5 +81,5 @@ The rest of the example:
 
 <hr>
 
-[Prev](finalize.md) | [Up](README.md) | [Next](labs.md)
+[Prev](finalize.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -117,5 +117,5 @@ public class StackOverflowError extends VirtualMachineError { /*...*/ }
 
 <hr>
 
-[Prev](handlingExceptions-labs.md) | [Up](README.md) | [Next](throw.md)
+[Prev](handlingExceptions-labs.md) -- [Up](README.md) -- [Next](throw.md)
 

@@ -26,4 +26,4 @@ This chapter explains some of the details of Java interfaces, including inherita
 
 <hr>
 
-[Up](../README.md) | [Next](intro.md)
+[Up](../README.md) -- [Next](intro.md)

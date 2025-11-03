@@ -77,5 +77,5 @@ public class ConstantsTester {
 
 <hr>
 
-[Prev](intro.md) | [Up](README.md) | [Next](interfaceInheritance.md)
+[Prev](intro.md) -- [Up](README.md) -- [Next](interfaceInheritance.md)
 

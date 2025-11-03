@@ -60,5 +60,5 @@ static void defaultAccessMethod() {
 
 <hr>
 
-[Prev](instance-fields.md) | [Up](README.md) | [Next](encapsulation.md)
+[Prev](instance-fields.md) -- [Up](README.md) -- [Next](encapsulation.md)
 

@@ -54,5 +54,5 @@ The previous example declares `i` inside of the loop, but we don't have to.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](for-diagram.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](for-diagram.md)
 

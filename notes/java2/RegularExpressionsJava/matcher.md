@@ -56,5 +56,5 @@ The `reset()` method sets the starting search position to the first character in
 
 <hr>
 
-[Prev](pattern.md) | [Up](README.md) | [Next](groups.md)
+[Prev](pattern.md) -- [Up](README.md) -- [Next](groups.md)
 

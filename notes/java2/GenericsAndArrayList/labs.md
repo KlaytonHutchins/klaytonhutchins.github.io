@@ -35,5 +35,5 @@ In these labs we will use `ArrayList` to store and retrieve data, and as the int
 
 <hr>
 
-[Prev](arraylist-size.md) | [Up](README.md)
+[Prev](arraylist-size.md) -- [Up](README.md)
 

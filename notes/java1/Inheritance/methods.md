@@ -32,5 +32,5 @@ Reference: https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
 
 <hr>
 
-[Prev](fields.md) | [Up](README.md) | [Next](fields-and-methods-labs.md)
+[Prev](fields.md) -- [Up](README.md) -- [Next](fields-and-methods-labs.md)
 

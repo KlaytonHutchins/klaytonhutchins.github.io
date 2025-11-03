@@ -30,5 +30,5 @@ Before discussing other collections in Java, recall these facts about arrays.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](arraylist.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](arraylist.md)
 

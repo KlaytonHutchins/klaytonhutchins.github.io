@@ -44,5 +44,5 @@ and maximum ids instead of hard-coding them into the query String.
 
 <hr>
 
-[Prev](queryParams.md) | [Up](README.md)
+[Prev](queryParams.md) -- [Up](README.md)
 

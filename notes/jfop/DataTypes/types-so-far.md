@@ -19,5 +19,5 @@ In this chapter we will look at four more data types, and how Java stores them i
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](memory.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](memory.md)
 

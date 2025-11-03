@@ -60,5 +60,5 @@ We'll stay in the _Java_ perspective for this part of the program.
 
 <hr>
 
-[Prev](startingAProject.md) | [Up](README.md) | [Next](javaEditor.md)
+[Prev](startingAProject.md) -- [Up](README.md) -- [Next](javaEditor.md)
 

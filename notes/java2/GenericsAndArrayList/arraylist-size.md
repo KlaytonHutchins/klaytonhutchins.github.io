@@ -39,5 +39,5 @@ We can change the capacity of the internal array with two methods.
 
 <hr>
 
-[Prev](array-vs-arraylist.md) | [Up](README.md) | [Next](labs.md)
+[Prev](array-vs-arraylist.md) -- [Up](README.md) -- [Next](labs.md)
 

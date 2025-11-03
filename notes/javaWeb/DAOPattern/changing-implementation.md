@@ -42,5 +42,5 @@ In the future, we could change _which_ DAO implementation we use, and thus _wher
 
 <hr>
 
-[Prev](dao-implementation.md) | [Up](README.md) | [Next](mock-object.md)
+[Prev](dao-implementation.md) -- [Up](README.md) -- [Next](mock-object.md)
 

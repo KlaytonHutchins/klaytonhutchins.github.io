@@ -51,5 +51,5 @@ Data structures like `HashMap` use the `hashCode` method of _key_ objects in the
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](buckets.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](buckets.md)
 

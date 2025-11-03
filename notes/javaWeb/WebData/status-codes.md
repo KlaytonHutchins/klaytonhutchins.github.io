@@ -30,5 +30,5 @@ Resource: [Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616
 
 <hr>
 
-[Prev](get-vs-post.md) | [Up](README.md) | [Next](servlet-data.md)
+[Prev](get-vs-post.md) -- [Up](README.md) -- [Next](servlet-data.md)
 

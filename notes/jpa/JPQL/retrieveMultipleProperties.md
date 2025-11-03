@@ -28,5 +28,5 @@ Notice that the second argument to `createQuery` is now `Object[].class` and the
 
 <hr>
 
-[Prev](queryingForProperties.md) | [Up](README.md) | [Next](queryParams.md)
+[Prev](queryingForProperties.md) -- [Up](README.md) -- [Next](queryParams.md)
 

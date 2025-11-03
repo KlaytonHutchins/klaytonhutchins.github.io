@@ -27,5 +27,5 @@ For now, just know that this `equals` method evaluates to a `boolean`; it has to
 
 <hr>
 
-[Prev](nesting.md) | [Up](README.md) | [Next](labs.md)
+[Prev](nesting.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -48,5 +48,5 @@ Number n    =    new Double(1.0);
 
 <hr>
 
-[Prev](abstractMethods.md) | [Up](README.md) | [Next](labs.md)
+[Prev](abstractMethods.md) -- [Up](README.md) -- [Next](labs.md)
 

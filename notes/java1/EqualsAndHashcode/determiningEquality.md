@@ -92,5 +92,5 @@ You don't necessarily have to include all instance fields in your `equals` metho
 
 <hr>
 
-[Prev](definingEquals.md) | [Up](README.md) | [Next](hashCode.md)
+[Prev](definingEquals.md) -- [Up](README.md) -- [Next](hashCode.md)
 

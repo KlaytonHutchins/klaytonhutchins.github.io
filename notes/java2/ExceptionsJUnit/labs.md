@@ -15,5 +15,5 @@ In these labs we will write test cases in existing test classes. Our test cases 
 
 <hr>
 
-[Prev](trycatch-exceptions.md) | [Up](README.md)
+[Prev](trycatch-exceptions.md) -- [Up](README.md)
 

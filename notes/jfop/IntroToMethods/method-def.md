@@ -57,5 +57,5 @@ When a program uses, or _calls_ the `printManyAsterisks` method, three lines of 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](calling.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](calling.md)
 

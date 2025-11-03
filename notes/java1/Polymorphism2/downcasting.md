@@ -48,5 +48,5 @@ if (p instanceof Employee) {
 
 <hr>
 
-[Prev](casting.md) | [Up](README.md) | [Next](casting-precedence.md)
+[Prev](casting.md) -- [Up](README.md) -- [Next](casting-precedence.md)
 

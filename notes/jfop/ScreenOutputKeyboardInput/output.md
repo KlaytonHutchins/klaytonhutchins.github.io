@@ -14,5 +14,5 @@ The simplest way a program can communicate with its user is to print data on the
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](formatting.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](formatting.md)
 

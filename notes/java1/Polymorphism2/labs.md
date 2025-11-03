@@ -36,5 +36,5 @@ We will be adding to the `vehicles.Vehicle` hierarchy in this lab. If you did no
 
 <hr>
 
-[Prev](instance-hiding.md) | [Up](README.md)
+[Prev](instance-hiding.md) -- [Up](README.md)
 

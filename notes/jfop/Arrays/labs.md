@@ -52,5 +52,5 @@ index = (int)(Math.random() * 20);
 
 <hr>
 
-[Prev](three-ways.md) | [Up](README.md)
+[Prev](three-ways.md) -- [Up](README.md)
 

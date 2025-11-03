@@ -36,5 +36,5 @@ The executable code can use other class files that are known to the compiler. (D
 
 <hr>
 
-[Prev](programming.md) | [Up](README.md) | [Next](programming-language.md)
+[Prev](programming.md) -- [Up](README.md) -- [Next](programming-language.md)
 

@@ -58,5 +58,5 @@ The `String` class provides methods that use regular expressions.
 
 <hr>
 
-[Prev](groups.md) | [Up](README.md) | [Next](labs.md)
+[Prev](groups.md) -- [Up](README.md) -- [Next](labs.md)
 

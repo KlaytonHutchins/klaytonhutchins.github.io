@@ -20,5 +20,5 @@ Launch Eclipse.  In the _Select a directory as a workspace_ dialog, change the _
 
 <hr>
 
-[Prev](installingEclipse.md) | [Up](README.md) | [Next](startingAProject.md)
+[Prev](installingEclipse.md) -- [Up](README.md) -- [Next](startingAProject.md)
 

@@ -39,5 +39,5 @@ One very useful method that all `Collection`s have is `addAll`.
 
 <hr>
 
-[Prev](sortedset-treeset.md) | [Up](README.md) | [Next](labs.md)
+[Prev](sortedset-treeset.md) -- [Up](README.md) -- [Next](labs.md)
 

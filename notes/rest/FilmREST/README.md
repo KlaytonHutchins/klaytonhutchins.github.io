@@ -12,4 +12,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](addressListRoute.md)
+[Up](../README.md) -- [Next](addressListRoute.md)

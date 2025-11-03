@@ -12,5 +12,5 @@ When the loop finishes, the program picks up after the loop.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](while.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](while.md)
 

@@ -105,5 +105,5 @@ public class Dog {
 
 <hr>
 
-[Prev](entityClass.md) | [Up](README.md) | [Next](entityManager.md)
+[Prev](entityClass.md) -- [Up](README.md) -- [Next](entityManager.md)
 

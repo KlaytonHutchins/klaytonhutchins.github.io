@@ -12,4 +12,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](drawing-objects.md)
+[Up](../README.md) -- [Next](drawing-objects.md)

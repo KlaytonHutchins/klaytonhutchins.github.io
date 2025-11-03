@@ -55,5 +55,5 @@ Returns `true` if this list contains no elements.
 
 <hr>
 
-[Prev](list.md) | [Up](README.md) | [Next](linkedlist.md)
+[Prev](list.md) -- [Up](README.md) -- [Next](linkedlist.md)
 

@@ -57,5 +57,5 @@ Run the program and follow the method calls.
 
 <hr>
 
-[Prev](pass-by-value.md) | [Up](README.md) | [Next](labs.md)
+[Prev](pass-by-value.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -79,5 +79,5 @@ catch (Exception e) {  // WILL NOT COMPILE: Syntax error.
 
 <hr>
 
-[Prev](exceptionSubclass.md) | [Up](README.md) | [Next](labs.md)
+[Prev](exceptionSubclass.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -27,5 +27,5 @@ Each test still needs the `@Test` annotation.
 
 <hr>
 
-[Prev](junit5.md) | [Up](README.md) | [Next](before-and-after.md)
+[Prev](junit5.md) -- [Up](README.md) -- [Next](before-and-after.md)
 

@@ -52,5 +52,5 @@ However, assigning a new reference to the method parameter does not affect the o
 
 <hr>
 
-[Prev](iterating.md) | [Up](README.md) | [Next](three-ways.md)
+[Prev](iterating.md) -- [Up](README.md) -- [Next](three-ways.md)
 

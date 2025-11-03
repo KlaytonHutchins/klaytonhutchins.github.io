@@ -10,5 +10,5 @@ Sets can only contain unique elements. In these labs we will examine and use thi
 
 <hr>
 
-[Prev](collection.md) | [Up](README.md)
+[Prev](collection.md) -- [Up](README.md)
 

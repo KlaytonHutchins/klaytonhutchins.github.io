@@ -107,5 +107,5 @@ List<String> results =
 
 <hr>
 
-[Prev](review.md) | [Up](README.md) | [Next](fieldsThatAreCollections.md)
+[Prev](review.md) -- [Up](README.md) -- [Next](fieldsThatAreCollections.md)
 

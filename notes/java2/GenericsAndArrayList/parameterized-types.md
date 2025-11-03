@@ -83,5 +83,5 @@ Creating an instance of a generic type is generally known as a _parameterized ty
 
 <hr>
 
-[Prev](arraylist.md) | [Up](README.md) | [Next](adding-getting.md)
+[Prev](arraylist.md) -- [Up](README.md) -- [Next](adding-getting.md)
 

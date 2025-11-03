@@ -23,5 +23,5 @@ A disabled breakpoint will not pause the program.
 
 <hr>
 
-[Prev](debug-perspective.md) | [Up](README.md) | [Next](variables.md)
+[Prev](debug-perspective.md) -- [Up](README.md) -- [Next](variables.md)
 

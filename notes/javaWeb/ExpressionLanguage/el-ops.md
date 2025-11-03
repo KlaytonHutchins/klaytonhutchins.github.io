@@ -28,5 +28,5 @@ The EL is very forgiving. It will convert the variable to the correct type based
 
 <hr>
 
-[Prev](java-beans.md) | [Up](README.md) | [Next](labs.md)
+[Prev](java-beans.md) -- [Up](README.md) -- [Next](labs.md)
 

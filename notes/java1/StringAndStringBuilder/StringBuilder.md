@@ -56,5 +56,5 @@ In Java's earlier days, programmers used the `StringBuffer` class to build dynam
 
 <hr>
 
-[Prev](StringMethods.md) | [Up](README.md) | [Next](StringBuilderMethods.md)
+[Prev](StringMethods.md) -- [Up](README.md) -- [Next](StringBuilderMethods.md)
 

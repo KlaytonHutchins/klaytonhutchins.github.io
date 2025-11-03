@@ -91,5 +91,5 @@ public class Address {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](labs.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](labs.md)
 

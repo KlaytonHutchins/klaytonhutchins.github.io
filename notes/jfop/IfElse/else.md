@@ -45,5 +45,5 @@ The `if` and `else` are _mutually exclusive_. This means when one set of stateme
 
 <hr>
 
-[Prev](elseif.md) | [Up](README.md) | [Next](nesting.md)
+[Prev](elseif.md) -- [Up](README.md) -- [Next](nesting.md)
 

@@ -40,5 +40,5 @@ Set<String> animals = new TreeSet<>(comp);
 
 <hr>
 
-[Prev](SortingwithComparable.md) | [Up](README.md) | [Next](SortingLists.md)
+[Prev](SortingwithComparable.md) -- [Up](README.md) -- [Next](SortingLists.md)
 

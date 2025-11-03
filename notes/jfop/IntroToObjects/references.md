@@ -52,5 +52,5 @@ Sphere otherSphereRef = sph; // Now otherSphereRef refers to the object sphRef r
 
 <hr>
 
-[Prev](object-creation.md) | [Up](README.md) | [Next](state-behavior.md)
+[Prev](object-creation.md) -- [Up](README.md) -- [Next](state-behavior.md)
 

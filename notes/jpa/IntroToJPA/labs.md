@@ -166,5 +166,5 @@ Client classes will be created in the  `JPAVideoStore/com.example.jpavideostore.
 
 <hr>
 
-[Prev](entityManager.md) | [Up](README.md)
+[Prev](entityManager.md) -- [Up](README.md)
 

@@ -12,4 +12,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](statusCodes.md)
+[Up](../README.md) -- [Next](statusCodes.md)

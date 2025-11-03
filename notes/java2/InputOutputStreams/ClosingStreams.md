@@ -75,5 +75,5 @@ Implementors of `AutoCloseable` can take advantage of _try-with-resources_ synta
 
 <hr>
 
-[Prev](PrintWriterClass.md) | [Up](README.md) | [Next](labs.md)
+[Prev](PrintWriterClass.md) -- [Up](README.md) -- [Next](labs.md)
 

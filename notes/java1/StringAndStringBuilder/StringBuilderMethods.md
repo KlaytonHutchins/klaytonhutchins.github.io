@@ -148,5 +148,5 @@ String s = new StringBuilder("world").insert(0, "hello ").toString();
 
 <hr>
 
-[Prev](StringBuilder.md) | [Up](README.md) | [Next](toString.md)
+[Prev](StringBuilder.md) -- [Up](README.md) -- [Next](toString.md)
 

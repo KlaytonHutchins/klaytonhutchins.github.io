@@ -57,5 +57,5 @@ A character that would otherwise be an RE metacharacter can be escaped with a ba
 
 <hr>
 
-[Prev](options.md) | [Up](README.md) | [Next](assertions.md)
+[Prev](options.md) -- [Up](README.md) -- [Next](assertions.md)
 

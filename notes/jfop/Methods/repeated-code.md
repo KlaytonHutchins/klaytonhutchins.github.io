@@ -50,5 +50,5 @@ We will refactor this class to print the header with a method.
 
 <hr>
 
-[Prev](review.md) | [Up](README.md) | [Next](return.md)
+[Prev](review.md) -- [Up](README.md) -- [Next](return.md)
 

@@ -42,5 +42,5 @@ String title = ((Employee) person).getTitle();
 
 <hr>
 
-[Prev](downcasting.md) | [Up](README.md) | [Next](instance-hiding.md)
+[Prev](downcasting.md) -- [Up](README.md) -- [Next](instance-hiding.md)
 

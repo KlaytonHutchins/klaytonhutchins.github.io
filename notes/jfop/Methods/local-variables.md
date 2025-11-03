@@ -31,5 +31,5 @@ A parameter is like a local variable because its scope is also the method's curl
 
 <hr>
 
-[Prev](parameters2.md) | [Up](README.md) | [Next](pass-by-value.md)
+[Prev](parameters2.md) -- [Up](README.md) -- [Next](pass-by-value.md)
 

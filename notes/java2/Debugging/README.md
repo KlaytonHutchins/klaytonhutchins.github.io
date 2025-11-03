@@ -20,4 +20,4 @@ In this chapter we will look at ways to find errors in our code, including the E
 
 <hr>
 
-[Up](../README.md) | [Next](bugs.md)
+[Up](../README.md) -- [Next](bugs.md)

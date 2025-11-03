@@ -24,5 +24,5 @@ Note: we do not need to Export a WAR file when deploying to the Tomcat server ru
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md)
+[Prev](labs.md) -- [Up](README.md)
 

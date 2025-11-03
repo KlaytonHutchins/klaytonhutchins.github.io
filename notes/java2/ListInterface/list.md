@@ -20,5 +20,5 @@ Since `List` is an interface, we instantiate an implementing class.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](list-methods.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](list-methods.md)
 

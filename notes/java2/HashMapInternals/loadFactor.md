@@ -53,5 +53,5 @@ Note: Whatever initial capacity you provide, `HashMap` will use the next highest
 
 <hr>
 
-[Prev](mapEntry.md) | [Up](README.md) | [Next](labs.md)
+[Prev](mapEntry.md) -- [Up](README.md) -- [Next](labs.md)
 

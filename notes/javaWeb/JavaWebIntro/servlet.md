@@ -64,5 +64,5 @@ This object creation happens on _every_ request from browser to server.
 
 <hr>
 
-[Prev](java-webapp.md) | [Up](README.md) | [Next](servlet-labs.md)
+[Prev](java-webapp.md) -- [Up](README.md) -- [Next](servlet-labs.md)
 

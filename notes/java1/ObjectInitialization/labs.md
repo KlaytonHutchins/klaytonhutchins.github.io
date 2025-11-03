@@ -26,5 +26,5 @@ We will be changing `ParkingLot` to improve encapsulation and implement some bes
 
 <hr>
 
-[Prev](private-methods.md) | [Up](README.md)
+[Prev](private-methods.md) -- [Up](README.md)
 

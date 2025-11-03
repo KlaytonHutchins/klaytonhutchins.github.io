@@ -117,5 +117,5 @@ public class ExampleClass {
 
 <hr>
 
-[Prev](drawing-objects.md) | [Up](README.md) | [Next](has-a.md)
+[Prev](drawing-objects.md) -- [Up](README.md) -- [Next](has-a.md)
 

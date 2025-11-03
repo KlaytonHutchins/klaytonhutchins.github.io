@@ -41,5 +41,5 @@ planets.sort(new PlanetReverseDiameterComparator());
 
 <hr>
 
-[Prev](SortingwithComparator.md) | [Up](README.md) | [Next](SortingMaps.md)
+[Prev](SortingwithComparator.md) -- [Up](README.md) -- [Next](SortingMaps.md)
 

@@ -59,5 +59,5 @@ System.out.println(b);         // -128
 
 <hr>
 
-[Prev](int-promotion.md) | [Up](README.md) | [Next](casting-hints.md)
+[Prev](int-promotion.md) -- [Up](README.md) -- [Next](casting-hints.md)
 

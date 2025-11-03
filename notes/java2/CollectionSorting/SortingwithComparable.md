@@ -55,5 +55,5 @@ Many of the Java SE library classes implement `Comparable`, including `String` a
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](SortingwithComparator.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](SortingwithComparator.md)
 

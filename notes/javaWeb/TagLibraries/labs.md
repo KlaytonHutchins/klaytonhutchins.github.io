@@ -14,5 +14,5 @@ In this lab we will use JSTL and JSP to display information on a page. We will c
 
 <hr>
 
-[Prev](escaping.md) | [Up](README.md)
+[Prev](escaping.md) -- [Up](README.md)
 

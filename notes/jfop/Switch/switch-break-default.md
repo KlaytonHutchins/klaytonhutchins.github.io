@@ -69,5 +69,5 @@ switch(42) {
 
 <hr>
 
-[Prev](switch.md) | [Up](README.md) | [Next](switch-when.md)
+[Prev](switch.md) -- [Up](README.md) -- [Next](switch-when.md)
 

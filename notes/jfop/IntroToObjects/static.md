@@ -95,5 +95,5 @@ double rad = Sphere3.radius;  // WILL NOT COMPILE
 
 <hr>
 
-[Prev](fields.md) | [Up](README.md) | [Next](objects-used.md)
+[Prev](fields.md) -- [Up](README.md) -- [Next](objects-used.md)
 

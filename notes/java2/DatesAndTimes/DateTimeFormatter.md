@@ -104,5 +104,5 @@ LocalDateTime dt2 = LocalDateTime.parse(dtStr2, dateTimeFmt);
 
 <hr>
 
-[Prev](DurationandPeriod.md) | [Up](README.md) | [Next](labs.md)
+[Prev](DurationandPeriod.md) -- [Up](README.md) -- [Next](labs.md)
 

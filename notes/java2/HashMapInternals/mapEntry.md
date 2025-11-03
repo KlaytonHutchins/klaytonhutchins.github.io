@@ -42,5 +42,5 @@ The more entries in a bucket, the less efficient retrieval becomes.
 
 <hr>
 
-[Prev](buckets.md) | [Up](README.md) | [Next](loadFactor.md)
+[Prev](buckets.md) -- [Up](README.md) -- [Next](loadFactor.md)
 

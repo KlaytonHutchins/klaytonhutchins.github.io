@@ -70,5 +70,5 @@ private void printWithdrawalReceipt(Account acct, double amount)
 
 <hr>
 
-[Prev](Throwable.md) | [Up](README.md) | [Next](exceptionSubclass.md)
+[Prev](Throwable.md) -- [Up](README.md) -- [Next](exceptionSubclass.md)
 

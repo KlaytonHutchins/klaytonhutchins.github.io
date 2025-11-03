@@ -108,5 +108,5 @@ public class CustomerDAOImpl implements CustomerDAO {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](update.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](update.md)
 

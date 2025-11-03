@@ -48,5 +48,5 @@ System.out.println(month.getDisplayName(TextStyle.FULL, Locale.getDefault())
 
 <hr>
 
-[Prev](temporalData.md) | [Up](README.md) | [Next](LocalTime.md)
+[Prev](temporalData.md) -- [Up](README.md) -- [Next](LocalTime.md)
 

@@ -22,4 +22,4 @@ This chapter is an overview of Java interfaces. We will go into more detail in l
 
 <hr>
 
-[Up](../README.md) | [Next](interfaces.md)
+[Up](../README.md) -- [Next](interfaces.md)

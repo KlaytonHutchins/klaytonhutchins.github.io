@@ -30,4 +30,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](EclipseTomcat/README.md)
+[Up](../README.md) -- [Next](EclipseTomcat/README.md)

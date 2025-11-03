@@ -34,5 +34,5 @@ When instantiating a subclass, only one object is built in memory.
 
 <hr>
 
-[Prev](super-rules.md) | [Up](README.md) | [Next](labs.md)
+[Prev](super-rules.md) -- [Up](README.md) -- [Next](labs.md)
 

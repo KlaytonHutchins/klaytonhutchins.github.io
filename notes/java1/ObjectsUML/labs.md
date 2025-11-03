@@ -45,5 +45,5 @@ These labs require writing on paper or a whiteboard.
 
 <hr>
 
-[Prev](has-a.md) | [Up](README.md)
+[Prev](has-a.md) -- [Up](README.md)
 

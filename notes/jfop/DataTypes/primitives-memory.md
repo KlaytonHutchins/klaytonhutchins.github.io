@@ -20,5 +20,5 @@ Note that `char` is part of the Integer family. This means we can treat it as a 
 
 <hr>
 
-[Prev](primitives.md) | [Up](README.md) | [Next](types-matter.md)
+[Prev](primitives.md) -- [Up](README.md) -- [Next](types-matter.md)
 

@@ -115,5 +115,5 @@ You can also add provider specific configuration here.
 
 <hr>
 
-[Prev](dependencies.md) | [Up](README.md) | [Next](entityClass.md)
+[Prev](dependencies.md) -- [Up](README.md) -- [Next](entityClass.md)
 

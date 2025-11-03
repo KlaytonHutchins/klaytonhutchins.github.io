@@ -30,5 +30,5 @@ In pass-by-reference programming languages, assigning new data to a method param
 
 <hr>
 
-[Prev](local-variables.md) | [Up](README.md) | [Next](overloading.md)
+[Prev](local-variables.md) -- [Up](README.md) -- [Next](overloading.md)
 

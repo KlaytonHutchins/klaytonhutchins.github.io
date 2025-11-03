@@ -25,4 +25,4 @@ The release of JUnit version 5 included many features and changes, which we will
 
 <hr>
 
-[Up](../README.md) | [Next](junit5.md)
+[Up](../README.md) -- [Next](junit5.md)

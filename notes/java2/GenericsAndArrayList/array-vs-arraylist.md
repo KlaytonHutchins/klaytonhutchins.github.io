@@ -57,5 +57,5 @@ for (String string : list) {
 
 <hr>
 
-[Prev](replacing-inserting-removing.md) | [Up](README.md) | [Next](arraylist-size.md)
+[Prev](replacing-inserting-removing.md) -- [Up](README.md) -- [Next](arraylist-size.md)
 

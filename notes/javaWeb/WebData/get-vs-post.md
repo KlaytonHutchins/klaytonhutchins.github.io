@@ -35,5 +35,5 @@ A `GET` request should have no new side effects no matter how many times the req
 
 <hr>
 
-[Prev](forms.md) | [Up](README.md) | [Next](status-codes.md)
+[Prev](forms.md) -- [Up](README.md) -- [Next](status-codes.md)
 

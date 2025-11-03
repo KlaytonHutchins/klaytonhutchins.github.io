@@ -55,5 +55,5 @@ int[] ints = {0, 1, 2, };  // ints has only three elements
 
 <hr>
 
-[Prev](access.md) | [Up](README.md) | [Next](iterating.md)
+[Prev](access.md) -- [Up](README.md) -- [Next](iterating.md)
 

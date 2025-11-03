@@ -115,5 +115,5 @@ Let's go over a brief overview of what Spring-MVC is:
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](introToREST.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](introToREST.md)
 

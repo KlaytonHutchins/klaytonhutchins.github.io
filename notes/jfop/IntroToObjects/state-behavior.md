@@ -57,5 +57,5 @@ We call methods using the reference and `.` operator, but with a method call.
 
 <hr>
 
-[Prev](references.md) | [Up](README.md) | [Next](fields.md)
+[Prev](references.md) -- [Up](README.md) -- [Next](fields.md)
 

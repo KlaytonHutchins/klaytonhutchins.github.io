@@ -34,5 +34,5 @@ In these labs we will use Maps to store and then retrieve data.
 
 <hr>
 
-[Prev](map-when.md) | [Up](README.md)
+[Prev](map-when.md) -- [Up](README.md)
 

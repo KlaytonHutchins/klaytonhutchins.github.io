@@ -13,4 +13,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](hashCode.md)
+[Up](../README.md) -- [Next](hashCode.md)

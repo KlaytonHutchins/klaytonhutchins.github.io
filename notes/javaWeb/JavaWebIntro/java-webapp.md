@@ -27,5 +27,5 @@ Image resources can be returned as-is, just like HTML files.
 
 <hr>
 
-[Prev](webapps.md) | [Up](README.md) | [Next](servlet.md)
+[Prev](webapps.md) -- [Up](README.md) -- [Next](servlet.md)
 

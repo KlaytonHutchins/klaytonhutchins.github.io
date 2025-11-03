@@ -14,5 +14,5 @@
 
 <hr>
 
-[Prev](output.md) | [Up](README.md)
+[Prev](output.md) -- [Up](README.md)
 

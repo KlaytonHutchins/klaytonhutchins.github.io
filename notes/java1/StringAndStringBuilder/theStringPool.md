@@ -80,5 +80,5 @@ The `intern` method attempts to place a `String` into the String Pool at runtime
 
 <hr>
 
-[Prev](String.md) | [Up](README.md) | [Next](StringMethods.md)
+[Prev](String.md) -- [Up](README.md) -- [Next](StringMethods.md)
 

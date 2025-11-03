@@ -49,5 +49,5 @@ Book b = new Book(17, "Godel, Escher, Bach", new Author(3, "Douglas", "Hofstadte
 
 <hr>
 
-[Prev](restEndpoints.md) | [Up](README.md)
+[Prev](restEndpoints.md) -- [Up](README.md)
 

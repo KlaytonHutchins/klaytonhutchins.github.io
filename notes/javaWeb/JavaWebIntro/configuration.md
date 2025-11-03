@@ -49,5 +49,5 @@ In Eclipse, Java files belong in a _Source Folder_, named `src/main/java` by def
 
 <hr>
 
-[Prev](servlet-labs.md) | [Up](README.md) | [Next](webxml.md)
+[Prev](servlet-labs.md) -- [Up](README.md) -- [Next](webxml.md)
 

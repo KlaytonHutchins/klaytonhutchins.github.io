@@ -33,5 +33,5 @@ public Sphere3(double r){
 
 <hr>
 
-[Prev](constructor.md) | [Up](README.md) | [Next](heap.md)
+[Prev](constructor.md) -- [Up](README.md) -- [Next](heap.md)
 

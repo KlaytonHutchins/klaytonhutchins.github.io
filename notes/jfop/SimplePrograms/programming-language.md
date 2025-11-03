@@ -13,5 +13,5 @@ When you compile your program, the compiler is checking your use of keywords and
 
 <hr>
 
-[Prev](programming-process.md) | [Up](README.md) | [Next](errors.md)
+[Prev](programming-process.md) -- [Up](README.md) -- [Next](errors.md)
 

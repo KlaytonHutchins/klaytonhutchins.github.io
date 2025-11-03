@@ -17,4 +17,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](el.md)
+[Up](../README.md) -- [Next](el.md)

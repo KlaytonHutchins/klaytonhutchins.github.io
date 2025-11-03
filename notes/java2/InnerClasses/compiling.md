@@ -37,5 +37,5 @@ We don't use the name `Outer$Inner` in our code.
 
 <hr>
 
-[Prev](InstanceInitializers.md) | [Up](README.md) | [Next](labs.md)
+[Prev](InstanceInitializers.md) -- [Up](README.md) -- [Next](labs.md)
 

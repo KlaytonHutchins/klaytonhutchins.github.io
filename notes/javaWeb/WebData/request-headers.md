@@ -72,5 +72,5 @@ Content-Length: 100                                                             
 
 <hr>
 
-[Prev](request-response.md) | [Up](README.md) | [Next](request-data.md)
+[Prev](request-response.md) -- [Up](README.md) -- [Next](request-data.md)
 

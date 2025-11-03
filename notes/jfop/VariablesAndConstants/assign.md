@@ -57,5 +57,5 @@ System.out.println(thisYearBA);
 
 <hr>
 
-[Prev](literals.md) | [Up](README.md) | [Next](output.md)
+[Prev](literals.md) -- [Up](README.md) -- [Next](output.md)
 

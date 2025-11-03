@@ -20,4 +20,4 @@ In this chapter we will be doing more with arrays.
 
 <hr>
 
-[Up](../README.md) | [Next](arrays.md)
+[Up](../README.md) -- [Next](arrays.md)

@@ -30,5 +30,5 @@ float fl = 1;  // int promoted to float
 
 <hr>
 
-[Prev](implicit.md) | [Up](README.md) | [Next](int-promotion.md)
+[Prev](implicit.md) -- [Up](README.md) -- [Next](int-promotion.md)
 

@@ -49,5 +49,5 @@ else if (canDrive) { //does not follow if statement
 
 <hr>
 
-[Prev](codeblock.md) | [Up](README.md) | [Next](else.md)
+[Prev](codeblock.md) -- [Up](README.md) -- [Next](else.md)
 

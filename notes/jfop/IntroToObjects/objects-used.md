@@ -42,5 +42,5 @@ The `System` class has a `static` field `out`, which has a method `println`.
 
 <hr>
 
-[Prev](static.md) | [Up](README.md) | [Next](labs.md)
+[Prev](static.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -40,5 +40,5 @@ public class Product {
 
 <hr>
 
-[Prev](determiningEquality.md) | [Up](README.md) | [Next](labs.md)
+[Prev](determiningEquality.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -17,4 +17,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](booleanVariables.md)
+[Up](../README.md) -- [Next](booleanVariables.md)

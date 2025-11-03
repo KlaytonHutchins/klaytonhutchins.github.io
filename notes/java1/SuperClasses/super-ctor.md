@@ -68,5 +68,5 @@ This is a special method call, just like `this()`, which allows us to pass data 
 
 <hr>
 
-[Prev](super.md) | [Up](README.md) | [Next](super-rules.md)
+[Prev](super.md) -- [Up](README.md) -- [Next](super-rules.md)
 

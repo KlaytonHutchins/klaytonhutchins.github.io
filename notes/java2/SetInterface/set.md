@@ -56,5 +56,5 @@ while (it.hasNext()) {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](hashset-linkedhashset.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](hashset-linkedhashset.md)
 

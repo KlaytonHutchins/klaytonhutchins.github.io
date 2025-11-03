@@ -13,5 +13,5 @@ Start simple and go a step at a time.
 
 <hr>
 
-[Prev](task1.md) | [Up](README.md)
+[Prev](task1.md) -- [Up](README.md)
 

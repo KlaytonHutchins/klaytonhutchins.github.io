@@ -35,5 +35,5 @@ It is eligible after line `9`.
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md) | [Next](lab2-solution.md)
+[Prev](labs.md) -- [Up](README.md) -- [Next](lab2-solution.md)
 

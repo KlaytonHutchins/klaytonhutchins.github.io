@@ -106,5 +106,5 @@ Using the `Sphere` class as a blueprint, we can create several `Sphere` objects.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](object-creation.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](object-creation.md)
 

@@ -81,5 +81,5 @@ Now we will create another Dynamic Web Application to display a randomly generat
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md)
+[Prev](labs.md) -- [Up](README.md)
 

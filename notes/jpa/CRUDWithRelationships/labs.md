@@ -31,5 +31,5 @@
 
 <hr>
 
-[Prev](cascading.md) | [Up](README.md)
+[Prev](cascading.md) -- [Up](README.md)
 

@@ -20,5 +20,5 @@ The `addFilm` and `removeFilm` methods are not necessary, but will make manipula
 
 <hr>
 
-[Prev](biDirectionalManyToOne.md) | [Up](README.md) | [Next](labs.md)
+[Prev](biDirectionalManyToOne.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -44,5 +44,5 @@
 
 <hr>
 
-[Prev](fieldsThatAreCollections.md) | [Up](README.md)
+[Prev](fieldsThatAreCollections.md) -- [Up](README.md)
 

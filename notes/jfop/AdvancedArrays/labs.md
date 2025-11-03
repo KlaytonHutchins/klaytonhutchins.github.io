@@ -28,5 +28,5 @@ We will now use use multidimensional arrays to group and use data.
 
 <hr>
 
-[Prev](varargs.md) | [Up](README.md)
+[Prev](varargs.md) -- [Up](README.md)
 

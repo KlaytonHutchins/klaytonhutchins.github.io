@@ -43,5 +43,5 @@ else {
 
 <hr>
 
-[Prev](else.md) | [Up](README.md) | [Next](stringcomparison.md)
+[Prev](else.md) -- [Up](README.md) -- [Next](stringcomparison.md)
 

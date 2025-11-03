@@ -31,5 +31,5 @@ for (char[] row : board) {
 
 <hr>
 
-[Prev](for.md) | [Up](README.md) | [Next](shortcuts.md)
+[Prev](for.md) -- [Up](README.md) -- [Next](shortcuts.md)
 

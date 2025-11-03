@@ -23,5 +23,5 @@ To load existing Eclipse projects into your workspace, choose _File_ | _Import..
 
 <hr>
 
-[Prev](shortcutKeys.md) | [Up](README.md)
+[Prev](shortcutKeys.md) -- [Up](README.md)
 

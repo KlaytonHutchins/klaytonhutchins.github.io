@@ -53,5 +53,5 @@ The compiler will _check_ the **calling method** and require that it either:
 
 <hr>
 
-[Prev](Exception.md) | [Up](README.md) | [Next](handlingExceptions-labs.md)
+[Prev](Exception.md) -- [Up](README.md) -- [Next](handlingExceptions-labs.md)
 

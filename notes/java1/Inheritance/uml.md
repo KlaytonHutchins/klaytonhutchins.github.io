@@ -96,5 +96,5 @@ If the following statements were **not** true, then `Employee` should **not** ex
 
 <hr>
 
-[Prev](final.md) | [Up](README.md) | [Next](fields.md)
+[Prev](final.md) -- [Up](README.md) -- [Next](fields.md)
 

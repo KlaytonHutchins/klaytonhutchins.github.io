@@ -38,5 +38,5 @@ Default methods allow the author of an interface to add new methods without brea
 
 <hr>
 
-[Prev](staticMethods.md) | [Up](README.md) | [Next](multipleInheritance.md)
+[Prev](staticMethods.md) -- [Up](README.md) -- [Next](multipleInheritance.md)
 

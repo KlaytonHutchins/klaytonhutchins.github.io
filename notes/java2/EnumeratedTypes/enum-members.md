@@ -87,5 +87,5 @@ The constructor cannot be declared `public` or `protected`.
 
 <hr>
 
-[Prev](enum-methods.md) | [Up](README.md) | [Next](labs.md)
+[Prev](enum-methods.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -43,5 +43,5 @@ To format a date, use the `<fmt:formatDate>` tag.
 
 <hr>
 
-[Prev](map-iteration.md) | [Up](README.md) | [Next](escaping.md)
+[Prev](map-iteration.md) -- [Up](README.md) -- [Next](escaping.md)
 

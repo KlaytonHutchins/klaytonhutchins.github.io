@@ -39,5 +39,5 @@ With Postman you can:
 
 <hr>
 
-[Prev](dependencies.md) | [Up](README.md) | [Next](restController.md)
+[Prev](dependencies.md) -- [Up](README.md) -- [Next](restController.md)
 

@@ -91,5 +91,5 @@ Values follow the ISO-8601 standard for representation of dates and times.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](LocalDate.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](LocalDate.md)
 

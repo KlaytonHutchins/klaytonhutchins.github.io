@@ -36,5 +36,5 @@ This is a pen and paper or whiteboard drill.
 
 <hr>
 
-[Prev](foreach.md) | [Up](README.md) | [Next](varargs.md)
+[Prev](foreach.md) -- [Up](README.md) -- [Next](varargs.md)
 

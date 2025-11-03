@@ -41,5 +41,5 @@ Note: these are similar to the `while` loop drills, but do not copy-paste soluti
 
 <hr>
 
-[Prev](scope.md) | [Up](README.md) | [Next](infinite.md)
+[Prev](scope.md) -- [Up](README.md) -- [Next](infinite.md)
 

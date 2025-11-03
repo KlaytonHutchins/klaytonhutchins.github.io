@@ -22,5 +22,5 @@ _Output_ involves taking the results of the process and sending it somewhere (to
 
 <hr>
 
-[Prev](errors.md) | [Up](README.md) | [Next](labs.md)
+[Prev](errors.md) -- [Up](README.md) -- [Next](labs.md)
 

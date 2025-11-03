@@ -36,5 +36,5 @@ We have a list route working that returns all the addresses in our database. But
 
 <hr>
 
-[Prev](addressListRoute.md) | [Up](README.md) | [Next](addressCreateRoute.md)
+[Prev](addressListRoute.md) -- [Up](README.md) -- [Next](addressCreateRoute.md)
 

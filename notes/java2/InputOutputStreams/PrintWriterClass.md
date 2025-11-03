@@ -52,5 +52,5 @@ The various output methods don't throw `IOException`, though constructors might.
 
 <hr>
 
-[Prev](BufferedReader.md) | [Up](README.md) | [Next](ClosingStreams.md)
+[Prev](BufferedReader.md) -- [Up](README.md) -- [Next](ClosingStreams.md)
 

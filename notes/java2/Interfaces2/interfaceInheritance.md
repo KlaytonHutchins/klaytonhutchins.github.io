@@ -140,5 +140,5 @@ public class SwampCooler extends Appliance implements WaterDevice {
 
 <hr>
 
-[Prev](fields.md) | [Up](README.md) | [Next](staticMethods.md)
+[Prev](fields.md) -- [Up](README.md) -- [Next](staticMethods.md)
 

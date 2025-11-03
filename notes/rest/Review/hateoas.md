@@ -190,5 +190,5 @@ Note that using HATEOAS completely changes the nature of client-side development
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](richardsonMaturityModel.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](richardsonMaturityModel.md)
 

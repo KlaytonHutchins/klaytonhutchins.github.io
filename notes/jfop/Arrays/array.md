@@ -13,5 +13,5 @@ The first index in an array is `0`.
 
 <hr>
 
-[Prev](variables.md) | [Up](README.md) | [Next](declaring.md)
+[Prev](variables.md) -- [Up](README.md) -- [Next](declaring.md)
 

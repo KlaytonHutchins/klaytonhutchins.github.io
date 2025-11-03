@@ -103,5 +103,5 @@ compareIt(planets, new Comparator<Planet>() {
 
 <hr>
 
-[Prev](AnonymousClasses.md) | [Up](README.md) | [Next](InstanceInitializers.md)
+[Prev](AnonymousClasses.md) -- [Up](README.md) -- [Next](InstanceInitializers.md)
 

@@ -65,5 +65,5 @@ These labs have us working with Java's wrapper classes to demonstrate their util
 
 <hr>
 
-[Prev](Boolean.md) | [Up](README.md)
+[Prev](Boolean.md) -- [Up](README.md)
 

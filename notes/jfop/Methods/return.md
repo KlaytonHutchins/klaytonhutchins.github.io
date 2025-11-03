@@ -52,5 +52,5 @@ This method **must** return an `int`. The compiler sees that it only returns a v
 
 <hr>
 
-[Prev](repeated-code.md) | [Up](README.md) | [Next](using-return.md)
+[Prev](repeated-code.md) -- [Up](README.md) -- [Next](using-return.md)
 

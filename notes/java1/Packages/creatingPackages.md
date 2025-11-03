@@ -63,5 +63,5 @@ One of the many tasks an IDE like Eclipse handles for us is automatically managi
 
 <hr>
 
-[Prev](introPackages.md) | [Up](README.md) | [Next](packageNames.md)
+[Prev](introPackages.md) -- [Up](README.md) -- [Next](packageNames.md)
 

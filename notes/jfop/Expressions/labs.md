@@ -39,5 +39,5 @@ Some useful formulas:
 
 <hr>
 
-[Prev](precedence-order.md) | [Up](README.md)
+[Prev](precedence-order.md) -- [Up](README.md)
 

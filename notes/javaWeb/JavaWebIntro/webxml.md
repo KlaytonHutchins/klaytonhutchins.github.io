@@ -76,5 +76,5 @@ The requested URL `hello` is mapped to `<url-pattern>/hello</url-pattern>`.
 
 <hr>
 
-[Prev](configuration.md) | [Up](README.md) | [Next](labs.md)
+[Prev](configuration.md) -- [Up](README.md) -- [Next](labs.md)
 

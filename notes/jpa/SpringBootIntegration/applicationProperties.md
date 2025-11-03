@@ -68,5 +68,5 @@ spring.datasource.dbcp2.time-between-eviction-runs-millis=1
 
 <hr>
 
-[Prev](controller.md) | [Up](README.md) | [Next](labs.md)
+[Prev](controller.md) -- [Up](README.md) -- [Next](labs.md)
 

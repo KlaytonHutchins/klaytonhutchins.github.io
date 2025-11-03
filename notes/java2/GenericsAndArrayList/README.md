@@ -16,4 +16,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](arrays.md)
+[Up](../README.md) -- [Next](arrays.md)

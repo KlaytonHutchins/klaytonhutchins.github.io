@@ -18,4 +18,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](instance-fields.md)
+[Up](../README.md) -- [Next](instance-fields.md)

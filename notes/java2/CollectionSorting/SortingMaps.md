@@ -94,5 +94,5 @@ for (String abbrev : keys) {
 
 <hr>
 
-[Prev](SortingLists.md) | [Up](README.md) | [Next](ArraysClass.md)
+[Prev](SortingLists.md) -- [Up](README.md) -- [Next](ArraysClass.md)
 

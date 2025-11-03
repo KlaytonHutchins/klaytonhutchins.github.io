@@ -62,5 +62,5 @@
 
 <hr>
 
-[Prev](objects-used.md) | [Up](README.md)
+[Prev](objects-used.md) -- [Up](README.md)
 

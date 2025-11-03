@@ -45,5 +45,5 @@ With a `Map`, we simply provide the key, and are given the value.
 
 <hr>
 
-[Prev](map-classes.md) | [Up](README.md) | [Next](labs.md)
+[Prev](map-classes.md) -- [Up](README.md) -- [Next](labs.md)
 

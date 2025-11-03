@@ -46,5 +46,5 @@ This will be true for any field that is lazily loaded by default.
 
 <hr>
 
-[Prev](addressCreateRoute.md) | [Up](README.md)
+[Prev](addressCreateRoute.md) -- [Up](README.md)
 

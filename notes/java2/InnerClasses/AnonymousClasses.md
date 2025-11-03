@@ -87,5 +87,5 @@ public class Outer3 {
 
 <hr>
 
-[Prev](LocalClasses.md) | [Up](README.md) | [Next](anonymousAndInterfaces.md)
+[Prev](LocalClasses.md) -- [Up](README.md) -- [Next](anonymousAndInterfaces.md)
 

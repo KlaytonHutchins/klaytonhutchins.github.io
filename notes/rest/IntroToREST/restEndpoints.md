@@ -25,5 +25,5 @@ You are not required to implement HATEOAS when creating a REST API.
 
 <hr>
 
-[Prev](introToREST.md) | [Up](README.md) | [Next](representations.md)
+[Prev](introToREST.md) -- [Up](README.md) -- [Next](representations.md)
 

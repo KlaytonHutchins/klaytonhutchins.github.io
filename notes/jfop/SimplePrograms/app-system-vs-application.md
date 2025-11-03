@@ -20,5 +20,5 @@ _Application programs_ are the programs we write on the user side. We want to us
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md)
+[Prev](labs.md) -- [Up](README.md)
 

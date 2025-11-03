@@ -22,5 +22,5 @@ You can also use `<c:forEach>` to iterate over Maps.
 
 <hr>
 
-[Prev](list-iteration.md) | [Up](README.md) | [Next](formatting.md)
+[Prev](list-iteration.md) -- [Up](README.md) -- [Next](formatting.md)
 

@@ -90,5 +90,5 @@ The servlet does not know which implementation class it uses, only that it calls
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](dao-implementation.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](dao-implementation.md)
 

@@ -22,5 +22,5 @@ There is already a `labs` package in the project for this chapter.
 
 <hr>
 
-[Prev](switch.md) | [Up](README.md)
+[Prev](switch.md) -- [Up](README.md)
 

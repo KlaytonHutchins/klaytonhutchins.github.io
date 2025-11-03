@@ -82,5 +82,5 @@ Now every instance will have a `cars` array, even though we don't initialize it 
 
 <hr>
 
-[Prev](init-static.md) | [Up](README.md) | [Next](order-of-init.md)
+[Prev](init-static.md) -- [Up](README.md) -- [Next](order-of-init.md)
 

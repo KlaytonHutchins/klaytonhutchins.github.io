@@ -16,5 +16,5 @@ We will focus on the _class diagram_, which shows how things in a system relate 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](class-diagram.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](class-diagram.md)
 

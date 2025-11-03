@@ -22,5 +22,5 @@ System.out.println(isGreater);  // true
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](booleanExpressions.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](booleanExpressions.md)
 

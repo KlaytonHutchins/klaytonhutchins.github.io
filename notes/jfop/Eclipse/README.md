@@ -34,4 +34,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](introToEclipse.md)
+[Up](../README.md) -- [Next](introToEclipse.md)

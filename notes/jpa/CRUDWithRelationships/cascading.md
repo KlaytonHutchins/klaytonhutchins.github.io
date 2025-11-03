@@ -58,5 +58,5 @@ public class Rental {
 
 <hr>
 
-[Prev](persistingMultipleElements.md) | [Up](README.md) | [Next](labs.md)
+[Prev](persistingMultipleElements.md) -- [Up](README.md) -- [Next](labs.md)
 

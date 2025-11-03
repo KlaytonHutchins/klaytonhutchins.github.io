@@ -82,5 +82,5 @@ String[] nope = req.getParameterValues("interestssss");
 
 <hr>
 
-[Prev](status-codes.md) | [Up](README.md) | [Next](labs.md)
+[Prev](status-codes.md) -- [Up](README.md) -- [Next](labs.md)
 

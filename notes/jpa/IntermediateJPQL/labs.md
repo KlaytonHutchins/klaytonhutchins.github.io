@@ -8,5 +8,5 @@
 
 <hr>
 
-[Prev](group.md) | [Up](README.md)
+[Prev](group.md) -- [Up](README.md)
 

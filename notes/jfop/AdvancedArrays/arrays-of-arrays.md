@@ -33,5 +33,5 @@ int[] oned, twod[], threed[][];
 
 <hr>
 
-[Prev](returning-arrays.md) | [Up](README.md) | [Next](accessing.md)
+[Prev](returning-arrays.md) -- [Up](README.md) -- [Next](accessing.md)
 

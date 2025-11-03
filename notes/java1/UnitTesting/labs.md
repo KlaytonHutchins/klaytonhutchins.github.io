@@ -39,5 +39,5 @@ In this set of labs we will create JUnit test cases and use Test-Driven Developm
 
 <hr>
 
-[Prev](tdd.md) | [Up](README.md)
+[Prev](tdd.md) -- [Up](README.md)
 

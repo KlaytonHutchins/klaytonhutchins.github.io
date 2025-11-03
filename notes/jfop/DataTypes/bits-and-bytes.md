@@ -39,5 +39,5 @@ You can piece together how the names relate.
 
 <hr>
 
-[Prev](memory.md) | [Up](README.md) | [Next](binary-math.md)
+[Prev](memory.md) -- [Up](README.md) -- [Next](binary-math.md)
 

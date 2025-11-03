@@ -54,5 +54,5 @@ Direction can be uni-directional or bi-directional. For direction it is best to 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](accessingMultipleTables.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](accessingMultipleTables.md)
 

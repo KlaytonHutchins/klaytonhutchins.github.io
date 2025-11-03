@@ -95,5 +95,5 @@ The description displays when the test case is run.
 
 <hr>
 
-[Prev](before-and-after.md) | [Up](README.md) | [Next](assertions.md)
+[Prev](before-and-after.md) -- [Up](README.md) -- [Next](assertions.md)
 

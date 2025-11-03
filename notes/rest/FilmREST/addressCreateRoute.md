@@ -26,5 +26,5 @@ We can now retrieve all addresses and a single address by its id. Now lets try t
 
 <hr>
 
-[Prev](addressShowRoute.md) | [Up](README.md) | [Next](filmListRoute.md)
+[Prev](addressShowRoute.md) -- [Up](README.md) -- [Next](filmListRoute.md)
 

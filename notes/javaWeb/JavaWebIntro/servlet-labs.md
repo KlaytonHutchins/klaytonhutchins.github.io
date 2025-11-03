@@ -29,5 +29,5 @@ In this lab we will change the output of an existing dynamic webapp and deploy i
 
 <hr>
 
-[Prev](servlet.md) | [Up](README.md) | [Next](configuration.md)
+[Prev](servlet.md) -- [Up](README.md) -- [Next](configuration.md)
 

@@ -46,5 +46,5 @@ Check your class structure against this UML diagram.
 
 <hr>
 
-[Prev](methods.md) | [Up](README.md)
+[Prev](methods.md) -- [Up](README.md)
 

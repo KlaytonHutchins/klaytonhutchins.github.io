@@ -19,4 +19,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](enum.md)
+[Up](../README.md) -- [Next](enum.md)

@@ -24,5 +24,5 @@ In these labs we will practice using `equals` and `hashCode`.
 
 <hr>
 
-[Prev](hashCode.md) | [Up](README.md)
+[Prev](hashCode.md) -- [Up](README.md)
 

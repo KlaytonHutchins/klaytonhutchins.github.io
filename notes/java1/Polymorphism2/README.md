@@ -14,4 +14,4 @@ In this chapter we will continue learning about _polymorphism_, using the _IS-A_
 
 <hr>
 
-[Up](../README.md) | [Next](casting.md)
+[Up](../README.md) -- [Next](casting.md)

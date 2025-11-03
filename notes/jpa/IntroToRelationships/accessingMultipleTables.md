@@ -51,5 +51,5 @@ This is what we will explore next.
 
 <hr>
 
-[Prev](relationships.md) | [Up](README.md)
+[Prev](relationships.md) -- [Up](README.md)
 

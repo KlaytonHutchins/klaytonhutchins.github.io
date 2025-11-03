@@ -49,5 +49,5 @@ For more complex conditionals, use the `<c:choose>` tag.
 
 <hr>
 
-[Prev](jstl.md) | [Up](README.md) | [Next](list-iteration.md)
+[Prev](jstl.md) -- [Up](README.md) -- [Next](list-iteration.md)
 

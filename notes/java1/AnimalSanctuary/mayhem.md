@@ -38,5 +38,5 @@ Leon the Lion
 
 <hr>
 
-[Prev](menu.md) | [Up](README.md)
+[Prev](menu.md) -- [Up](README.md)
 

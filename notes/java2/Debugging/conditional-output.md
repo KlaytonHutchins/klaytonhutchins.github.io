@@ -58,5 +58,5 @@ public static void debug(String msg) {
 
 <hr>
 
-[Prev](manual-output.md) | [Up](README.md) | [Next](debugger.md)
+[Prev](manual-output.md) -- [Up](README.md) -- [Next](debugger.md)
 

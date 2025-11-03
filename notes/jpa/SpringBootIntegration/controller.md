@@ -86,5 +86,5 @@ Spring Boot finds your controller by component-scanning the application's base p
 
 <hr>
 
-[Prev](springBootAndJPA.md) | [Up](README.md) | [Next](applicationProperties.md)
+[Prev](springBootAndJPA.md) -- [Up](README.md) -- [Next](applicationProperties.md)
 

@@ -32,5 +32,5 @@ In the `Packages` project use _File_ | _New_ | _Package_ to create a package nam
 
 <hr>
 
-[Prev](creatingPackages.md) | [Up](README.md) | [Next](imports.md)
+[Prev](creatingPackages.md) -- [Up](README.md) -- [Next](imports.md)
 

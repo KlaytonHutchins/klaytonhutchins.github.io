@@ -36,5 +36,5 @@ public enum Color {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](enum-details.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](enum-details.md)
 

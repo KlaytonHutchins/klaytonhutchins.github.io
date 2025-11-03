@@ -82,5 +82,5 @@ System.out.println(thisZonedDateTime);
 
 <hr>
 
-[Prev](LocalTime.md) | [Up](README.md) | [Next](DurationandPeriod.md)
+[Prev](LocalTime.md) -- [Up](README.md) -- [Next](DurationandPeriod.md)
 

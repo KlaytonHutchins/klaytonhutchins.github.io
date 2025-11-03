@@ -22,5 +22,5 @@ The `eclipse.ini` file, in the Eclipse install directory, has startup options th
 
 <hr>
 
-[Prev](introToEclipse.md) | [Up](README.md) | [Next](workspaces.md)
+[Prev](introToEclipse.md) -- [Up](README.md) -- [Next](workspaces.md)
 

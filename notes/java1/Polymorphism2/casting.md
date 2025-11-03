@@ -56,5 +56,5 @@ When we use a `Person` reference, we can only call `Person` methods - even thoug
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](downcasting.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](downcasting.md)
 

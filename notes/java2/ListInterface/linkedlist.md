@@ -51,5 +51,5 @@ Recall that `ArrayList` maintains an internal array.
 
 <hr>
 
-[Prev](list-methods.md) | [Up](README.md) | [Next](vector.md)
+[Prev](list-methods.md) -- [Up](README.md) -- [Next](vector.md)
 

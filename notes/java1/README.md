@@ -45,4 +45,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](Packages/README.md)
+[Up](../README.md) -- [Next](Packages/README.md)

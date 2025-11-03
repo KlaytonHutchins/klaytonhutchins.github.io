@@ -70,5 +70,5 @@ If you use `this()` in a constructor, it must be the first statement.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](init-static.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](init-static.md)
 

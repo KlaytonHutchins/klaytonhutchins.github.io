@@ -91,5 +91,5 @@ Runnable rTimed = new Runnable() {
 
 <hr>
 
-[Prev](anonymousAndInterfaces.md) | [Up](README.md) | [Next](compiling.md)
+[Prev](anonymousAndInterfaces.md) -- [Up](README.md) -- [Next](compiling.md)
 

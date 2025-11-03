@@ -17,5 +17,5 @@ In this set of labs we will continue to use the `Drawable` interface from the [`
 
 <hr>
 
-[Prev](multipleInheritance.md) | [Up](README.md)
+[Prev](multipleInheritance.md) -- [Up](README.md)
 

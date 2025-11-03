@@ -116,5 +116,5 @@ strList = new ArrayList<>();
 
 <hr>
 
-[Prev](arrays.md) | [Up](README.md) | [Next](parameterized-types.md)
+[Prev](arrays.md) -- [Up](README.md) -- [Next](parameterized-types.md)
 

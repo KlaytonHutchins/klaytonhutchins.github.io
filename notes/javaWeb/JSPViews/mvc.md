@@ -35,5 +35,5 @@ This three-layered architecture is the _Model-View-Controller_ design pattern.
 
 <hr>
 
-[Prev](web-inf.md) | [Up](README.md) | [Next](labs.md)
+[Prev](web-inf.md) -- [Up](README.md) -- [Next](labs.md)
 

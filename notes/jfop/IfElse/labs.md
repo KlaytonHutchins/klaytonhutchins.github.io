@@ -26,5 +26,5 @@ These labs require conditional logic. Refer to this section's content for exampl
 
 <hr>
 
-[Prev](stringcomparison.md) | [Up](README.md)
+[Prev](stringcomparison.md) -- [Up](README.md)
 

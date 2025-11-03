@@ -14,5 +14,5 @@
 
 <hr>
 
-[Prev](javaSpec.md) | [Up](README.md)
+[Prev](javaSpec.md) -- [Up](README.md)
 

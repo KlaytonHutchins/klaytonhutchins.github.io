@@ -29,4 +29,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](String.md)
+[Up](../README.md) -- [Next](String.md)

@@ -28,5 +28,5 @@ if (condition) {
 
 <hr>
 
-[Prev](if-details.md) | [Up](README.md) | [Next](elseif.md)
+[Prev](if-details.md) -- [Up](README.md) -- [Next](elseif.md)
 

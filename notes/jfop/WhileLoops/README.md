@@ -21,4 +21,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](looping.md)
+[Up](../README.md) -- [Next](looping.md)

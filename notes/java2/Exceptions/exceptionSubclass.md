@@ -123,5 +123,5 @@ public class SubClass2 extends SuperClass{
 
 <hr>
 
-[Prev](throw.md) | [Up](README.md) | [Next](finally.md)
+[Prev](throw.md) -- [Up](README.md) -- [Next](finally.md)
 

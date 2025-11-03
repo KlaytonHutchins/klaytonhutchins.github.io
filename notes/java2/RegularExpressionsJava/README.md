@@ -22,4 +22,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](regexJava.md)
+[Up](../README.md) -- [Next](regexJava.md)

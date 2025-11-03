@@ -44,5 +44,5 @@ System.out.println( integerObj.equals(longObj) ); // false, even though both hav
 
 <hr>
 
-[Prev](wrapperMethods.md) | [Up](README.md) | [Next](autoboxing.md)
+[Prev](wrapperMethods.md) -- [Up](README.md) -- [Next](autoboxing.md)
 

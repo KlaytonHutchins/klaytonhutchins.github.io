@@ -28,5 +28,5 @@
 
 <hr>
 
-[Prev](oneToOne.md) | [Up](README.md)
+[Prev](oneToOne.md) -- [Up](README.md)
 

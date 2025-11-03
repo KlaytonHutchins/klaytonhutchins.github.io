@@ -111,5 +111,5 @@ Like any block, a `try` or a `catch` creates a _scope_.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](Exception.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](Exception.md)
 

@@ -41,5 +41,5 @@ We will change the `Car` class to use better encapsulation, and then fix a test 
 
 <hr>
 
-[Prev](this.md) | [Up](README.md)
+[Prev](this.md) -- [Up](README.md)
 

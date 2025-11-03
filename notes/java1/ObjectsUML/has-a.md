@@ -62,5 +62,5 @@ Options for multiplicity are listed below.
 
 <hr>
 
-[Prev](class-diagram.md) | [Up](README.md) | [Next](labs.md)
+[Prev](class-diagram.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -67,5 +67,5 @@ We can chain a call to `getResultList` on the _TypedQuery_ object to get a _List
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](queryingForProperties.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](queryingForProperties.md)
 

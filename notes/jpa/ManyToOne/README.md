@@ -11,4 +11,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](uniDirectionalManyToOne.md)
+[Up](../README.md) -- [Next](uniDirectionalManyToOne.md)

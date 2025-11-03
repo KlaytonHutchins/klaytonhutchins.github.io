@@ -50,5 +50,5 @@ The last task is to create a method to calculate the registration fee for any ve
 
 <hr>
 
-[Prev](override-rules.md) | [Up](README.md)
+[Prev](override-rules.md) -- [Up](README.md)
 

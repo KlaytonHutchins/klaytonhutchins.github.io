@@ -28,5 +28,5 @@
 
 <hr>
 
-[Prev](tomcatSetup.md) | [Up](README.md)
+[Prev](tomcatSetup.md) -- [Up](README.md)
 

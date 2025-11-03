@@ -19,5 +19,5 @@ The takeaway: all data is stored in memory as 0's and 1's.
 
 <hr>
 
-[Prev](types-so-far.md) | [Up](README.md) | [Next](bits-and-bytes.md)
+[Prev](types-so-far.md) -- [Up](README.md) -- [Next](bits-and-bytes.md)
 

@@ -27,5 +27,5 @@ int x1, x2, y1, y2;
 
 <hr>
 
-[Prev](types.md) | [Up](README.md) | [Next](rules.md)
+[Prev](types.md) -- [Up](README.md) -- [Next](rules.md)
 

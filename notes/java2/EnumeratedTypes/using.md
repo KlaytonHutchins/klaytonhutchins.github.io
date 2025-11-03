@@ -62,5 +62,5 @@ displayRGBValue(c);
 
 <hr>
 
-[Prev](enum-details.md) | [Up](README.md) | [Next](enum-methods.md)
+[Prev](enum-details.md) -- [Up](README.md) -- [Next](enum-methods.md)
 

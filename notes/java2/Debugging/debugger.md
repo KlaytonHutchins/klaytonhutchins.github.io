@@ -20,5 +20,5 @@ You can then _step_ through the program from where it paused.
 
 <hr>
 
-[Prev](conditional-output.md) | [Up](README.md) | [Next](eclipse-debugger.md)
+[Prev](conditional-output.md) -- [Up](README.md) -- [Next](eclipse-debugger.md)
 

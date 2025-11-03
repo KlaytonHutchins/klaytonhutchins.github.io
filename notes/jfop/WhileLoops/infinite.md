@@ -29,5 +29,5 @@ int x = 0; // WILL NOT COMPILE, Unreachable code.
 
 <hr>
 
-[Prev](do-while.md) | [Up](README.md) | [Next](break-continue.md)
+[Prev](do-while.md) -- [Up](README.md) -- [Next](break-continue.md)
 

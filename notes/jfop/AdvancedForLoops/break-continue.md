@@ -46,5 +46,5 @@ Output: `55 105 99 71`
 
 <hr>
 
-[Prev](for-each.md) | [Up](README.md) | [Next](labs.md)
+[Prev](for-each.md) -- [Up](README.md) -- [Next](labs.md)
 

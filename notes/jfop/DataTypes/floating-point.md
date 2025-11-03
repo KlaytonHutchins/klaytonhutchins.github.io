@@ -48,5 +48,5 @@ float f8 = 0761F;    // octal number with F
 
 <hr>
 
-[Prev](primitives-declaring.md) | [Up](README.md) | [Next](long.md)
+[Prev](primitives-declaring.md) -- [Up](README.md) -- [Next](long.md)
 

@@ -93,4 +93,4 @@ If you get a zero on the project, you can upgrade to a score of .5 if you turn i
 
 <hr>
 
-[Up](../README.md) | [Next](gettingStarted.md)
+[Up](../README.md) -- [Next](gettingStarted.md)

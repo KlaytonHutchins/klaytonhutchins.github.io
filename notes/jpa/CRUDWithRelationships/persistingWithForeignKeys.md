@@ -48,5 +48,5 @@ em.getTransaction().commit();
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](persistingMultipleElements.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](persistingMultipleElements.md)
 

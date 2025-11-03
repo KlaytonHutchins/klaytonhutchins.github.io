@@ -51,5 +51,5 @@ The `@ResponseBody` annotation changes the way Spring handles a controller metho
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](testing.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](testing.md)
 

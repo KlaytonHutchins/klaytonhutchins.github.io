@@ -97,5 +97,5 @@ In this drill you will be creating methods in `TextConverterTests` to test the `
 
 <hr>
 
-[Prev](test-class.md) | [Up](README.md) | [Next](assert.md)
+[Prev](test-class.md) -- [Up](README.md) -- [Next](assert.md)
 

@@ -89,5 +89,5 @@ Your application's database must be deployed and accessible on the server before
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

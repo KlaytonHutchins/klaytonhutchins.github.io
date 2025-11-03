@@ -103,5 +103,5 @@ Resource: https://docs.oracle.com/javase/specs/jls/se8/html/jls-15.html#jls-15.1
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](super-ctor.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](super-ctor.md)
 

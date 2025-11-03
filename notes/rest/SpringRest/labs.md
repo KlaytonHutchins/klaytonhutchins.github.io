@@ -8,5 +8,5 @@
 
 <hr>
 
-[Prev](mappingRequests.md) | [Up](README.md)
+[Prev](mappingRequests.md) -- [Up](README.md)
 

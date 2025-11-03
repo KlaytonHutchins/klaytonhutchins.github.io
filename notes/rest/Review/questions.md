@@ -16,5 +16,5 @@
 
 <hr>
 
-[Prev](richardsonMaturityModel.md) | [Up](README.md)
+[Prev](richardsonMaturityModel.md) -- [Up](README.md)
 

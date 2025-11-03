@@ -77,4 +77,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](Day1Setup/README.md)
+[Up](../README.md) -- [Next](Day1Setup/README.md)

@@ -12,4 +12,4 @@ This chapter focuses on using JUnit to test that methods throw Exceptions when e
 
 <hr>
 
-[Up](../README.md) | [Next](test-exceptions.md)
+[Up](../README.md) -- [Next](test-exceptions.md)

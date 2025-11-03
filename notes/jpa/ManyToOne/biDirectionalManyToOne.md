@@ -44,5 +44,5 @@ public class Language {
 
 <hr>
 
-[Prev](uniDirectionalManyToOne.md) | [Up](README.md) | [Next](addAndRemove.md)
+[Prev](uniDirectionalManyToOne.md) -- [Up](README.md) -- [Next](addAndRemove.md)
 

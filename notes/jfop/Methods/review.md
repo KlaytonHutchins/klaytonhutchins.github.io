@@ -32,5 +32,5 @@ We are going to call a single method several times.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](repeated-code.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](repeated-code.md)
 

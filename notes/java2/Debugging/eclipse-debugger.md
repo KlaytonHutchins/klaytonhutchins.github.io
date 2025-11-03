@@ -22,5 +22,5 @@ This takes you to a set of views for debugging.
 
 <hr>
 
-[Prev](debugger.md) | [Up](README.md) | [Next](debug-perspective.md)
+[Prev](debugger.md) -- [Up](README.md) -- [Next](debug-perspective.md)
 

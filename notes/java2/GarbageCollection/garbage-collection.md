@@ -43,5 +43,5 @@ This harms the application's _throughput_ and _responsiveness_.
 
 <hr>
 
-[Prev](objects-heap.md) | [Up](README.md) | [Next](gc-strategies.md)
+[Prev](objects-heap.md) -- [Up](README.md) -- [Next](gc-strategies.md)
 

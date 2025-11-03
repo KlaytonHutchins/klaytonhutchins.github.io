@@ -88,4 +88,4 @@ The user can enter any number of words (a sentence/paragraph), and it will be di
 
 <hr>
 
-[Up](../README.md) | [Next](pig_latin.md)
+[Up](../README.md) -- [Next](pig_latin.md)

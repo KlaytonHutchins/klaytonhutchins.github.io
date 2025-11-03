@@ -36,5 +36,5 @@ You are going to be writing a number of request handlers in the `FilmController`
 
 <hr>
 
-[Prev](applicationProperties.md) | [Up](README.md)
+[Prev](applicationProperties.md) -- [Up](README.md)
 

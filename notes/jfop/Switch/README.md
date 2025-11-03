@@ -13,4 +13,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](switch.md)
+[Up](../README.md) -- [Next](switch.md)

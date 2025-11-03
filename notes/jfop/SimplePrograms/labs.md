@@ -55,5 +55,5 @@ So, don't worry if you don't finish all, or even most, of the labs in the time a
 
 <hr>
 
-[Prev](input-and-output.md) | [Up](README.md) | [Next](app-system-vs-application.md)
+[Prev](input-and-output.md) -- [Up](README.md) -- [Next](app-system-vs-application.md)
 

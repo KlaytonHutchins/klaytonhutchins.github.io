@@ -36,5 +36,5 @@ If you want to _format_ your data, you must put the blanks, tabs, and newlines o
 
 <hr>
 
-[Prev](output.md) | [Up](README.md) | [Next](stringoutput.md)
+[Prev](output.md) -- [Up](README.md) -- [Next](stringoutput.md)
 

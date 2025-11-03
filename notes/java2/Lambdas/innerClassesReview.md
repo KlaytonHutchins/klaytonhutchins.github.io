@@ -84,5 +84,5 @@ public class PrintSortedPlanets {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](innerClassesAndLambdas.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](innerClassesAndLambdas.md)
 

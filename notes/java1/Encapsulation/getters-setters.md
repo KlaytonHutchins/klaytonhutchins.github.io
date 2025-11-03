@@ -71,5 +71,5 @@ Getter and setter methods have conventions for how we define them.
 
 <hr>
 
-[Prev](encapsulation.md) | [Up](README.md) | [Next](this.md)
+[Prev](encapsulation.md) -- [Up](README.md) -- [Next](this.md)
 

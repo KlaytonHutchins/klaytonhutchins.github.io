@@ -18,4 +18,4 @@ In this chapter, we will learn more about objects, such as better ways to use th
 
 <hr>
 
-[Up](../README.md) | [Next](intro.md)
+[Up](../README.md) -- [Next](intro.md)

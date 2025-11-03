@@ -16,4 +16,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](associationClasses.md)
+[Up](../README.md) -- [Next](associationClasses.md)

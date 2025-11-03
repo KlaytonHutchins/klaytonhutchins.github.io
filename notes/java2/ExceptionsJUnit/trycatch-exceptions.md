@@ -42,5 +42,5 @@ public void test_withdrawException_removes_amount_from_balance() {
 
 <hr>
 
-[Prev](test-exceptions.md) | [Up](README.md) | [Next](labs.md)
+[Prev](test-exceptions.md) -- [Up](README.md) -- [Next](labs.md)
 

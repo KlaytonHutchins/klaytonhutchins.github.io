@@ -18,5 +18,5 @@
 
 <hr>
 
-[Prev](eagerAndLazy.md) | [Up](README.md)
+[Prev](eagerAndLazy.md) -- [Up](README.md)
 

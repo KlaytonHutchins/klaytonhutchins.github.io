@@ -79,5 +79,5 @@ public boolean equals(Object obj) {
 
 <hr>
 
-[Prev](objectEquals.md) | [Up](README.md) | [Next](determiningEquality.md)
+[Prev](objectEquals.md) -- [Up](README.md) -- [Next](determiningEquality.md)
 

@@ -28,4 +28,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](whatIsJPA.md)
+[Up](../README.md) -- [Next](whatIsJPA.md)

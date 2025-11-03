@@ -97,4 +97,4 @@ Once we've verified these software installs, we'll  [Set Up the Initial Developm
 
 <hr>
 
-[Up](../README.md) | [Next](CommandLine.md)
+[Up](../README.md) -- [Next](CommandLine.md)

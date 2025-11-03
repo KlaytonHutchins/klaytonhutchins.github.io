@@ -32,5 +32,5 @@ Parentheses define _groups_, which allow:
 
 <hr>
 
-[Prev](1-labs.md) | [Up](README.md) | [Next](2-labs.md)
+[Prev](1-labs.md) -- [Up](README.md) -- [Next](2-labs.md)
 

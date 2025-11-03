@@ -16,5 +16,5 @@ For this lab we will accept user input and use information about the ASCII chara
 
 <hr>
 
-[Prev](unicode.md) | [Up](README.md)
+[Prev](unicode.md) -- [Up](README.md)
 

@@ -73,5 +73,5 @@ We'll also move away from simple package names like `examples` and `labs`, and d
 
 <hr>
 
-[Prev](staticImports.md) | [Up](README.md)
+[Prev](staticImports.md) -- [Up](README.md)
 

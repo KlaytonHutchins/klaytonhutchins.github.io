@@ -75,5 +75,5 @@ A subclass cannot see a `private` field or call a `private` method.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](getters-setters.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](getters-setters.md)
 

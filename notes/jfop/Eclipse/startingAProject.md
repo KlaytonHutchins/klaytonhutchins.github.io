@@ -38,5 +38,5 @@ System.out.println("Hello, Eclipse!");
 
 <hr>
 
-[Prev](workspaces.md) | [Up](README.md) | [Next](editorsViewsAndPerspectives.md)
+[Prev](workspaces.md) -- [Up](README.md) -- [Next](editorsViewsAndPerspectives.md)
 

@@ -75,5 +75,5 @@ public static void main(String... args){
 
 <hr>
 
-[Prev](shortcuts.md) | [Up](README.md) | [Next](labs.md)
+[Prev](shortcuts.md) -- [Up](README.md) -- [Next](labs.md)
 

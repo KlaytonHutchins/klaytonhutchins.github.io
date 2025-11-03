@@ -22,5 +22,5 @@ As a developer, you should know the exact bounds for a `byte`. Also know that th
 
 <hr>
 
-[Prev](msb.md) | [Up](README.md) | [Next](primitives-memory.md)
+[Prev](msb.md) -- [Up](README.md) -- [Next](primitives-memory.md)
 

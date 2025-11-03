@@ -86,5 +86,5 @@ public class Outer2 {
 
 <hr>
 
-[Prev](MemberClasses.md) | [Up](README.md) | [Next](AnonymousClasses.md)
+[Prev](MemberClasses.md) -- [Up](README.md) -- [Next](AnonymousClasses.md)
 

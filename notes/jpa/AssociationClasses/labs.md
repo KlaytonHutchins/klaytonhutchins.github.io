@@ -24,5 +24,5 @@
 
 <hr>
 
-[Prev](mappingOptions.md) | [Up](README.md)
+[Prev](mappingOptions.md) -- [Up](README.md)
 

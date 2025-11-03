@@ -131,5 +131,5 @@ PlanetTester planetTester = p -> p.getDiameter() > 40_000;
 
 <hr>
 
-[Prev](lambdaTranslation.md) | [Up](README.md) | [Next](lambdaSelection.md)
+[Prev](lambdaTranslation.md) -- [Up](README.md) -- [Next](lambdaSelection.md)
 

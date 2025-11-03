@@ -83,5 +83,5 @@ public interface PlanetTester {
 
 <hr>
 
-[Prev](lambdaSyntax.md) | [Up](README.md) | [Next](predicate.md)
+[Prev](lambdaSyntax.md) -- [Up](README.md) -- [Next](predicate.md)
 

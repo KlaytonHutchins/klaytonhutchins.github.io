@@ -25,5 +25,5 @@
 
 <hr>
 
-[Prev](delete.md) | [Up](README.md)
+[Prev](delete.md) -- [Up](README.md)
 

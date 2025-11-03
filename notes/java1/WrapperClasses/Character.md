@@ -27,5 +27,5 @@ A `Character` object encapsulates a single Unicode `char` value.
 
 <hr>
 
-[Prev](integerTypes.md) | [Up](README.md) | [Next](Boolean.md)
+[Prev](integerTypes.md) -- [Up](README.md) -- [Next](Boolean.md)
 

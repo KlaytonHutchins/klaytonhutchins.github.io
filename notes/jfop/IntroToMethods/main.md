@@ -22,5 +22,5 @@ Error: Main method not found in class MyClass, please define the main method as:
 
 <hr>
 
-[Prev](calling.md) | [Up](README.md) | [Next](why.md)
+[Prev](calling.md) -- [Up](README.md) -- [Next](why.md)
 

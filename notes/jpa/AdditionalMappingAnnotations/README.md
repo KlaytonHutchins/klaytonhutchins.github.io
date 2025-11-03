@@ -16,4 +16,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](generatedValue.md)
+[Up](../README.md) -- [Next](generatedValue.md)

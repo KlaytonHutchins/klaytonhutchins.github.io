@@ -103,5 +103,5 @@ Reference: https://docs.oracle.com/javase/tutorial/java/IandI/override.html
 
 <hr>
 
-[Prev](override-annotation.md) | [Up](README.md) | [Next](override-labs.md)
+[Prev](override-annotation.md) -- [Up](README.md) -- [Next](override-labs.md)
 

@@ -53,5 +53,5 @@ b += i;
 
 <hr>
 
-[Prev](promotion.md) | [Up](README.md) | [Next](casting.md)
+[Prev](promotion.md) -- [Up](README.md) -- [Next](casting.md)
 

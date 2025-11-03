@@ -17,5 +17,5 @@ This process is called _garbage collection_.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](garbage-collection.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](garbage-collection.md)
 

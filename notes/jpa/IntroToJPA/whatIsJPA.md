@@ -87,5 +87,5 @@ The classes, interfaces, and annotations that we will use to interact with our d
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](dependencies.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](dependencies.md)
 

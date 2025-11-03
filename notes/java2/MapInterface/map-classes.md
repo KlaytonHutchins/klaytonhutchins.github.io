@@ -30,5 +30,5 @@ Two other implementation classes will maintain an ordering of the _keys_.
 
 <hr>
 
-[Prev](hashmap.md) | [Up](README.md) | [Next](map-when.md)
+[Prev](hashmap.md) -- [Up](README.md) -- [Next](map-when.md)
 

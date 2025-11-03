@@ -21,5 +21,5 @@ In this lab we will add our own servlet to the web application, and change the e
 
 <hr>
 
-[Prev](webxml.md) | [Up](README.md) | [Next](war.md)
+[Prev](webxml.md) -- [Up](README.md) -- [Next](war.md)
 

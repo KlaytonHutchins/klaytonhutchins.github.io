@@ -36,5 +36,5 @@ For a full list of status codes look at the following resources.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](httpServlet.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](httpServlet.md)
 

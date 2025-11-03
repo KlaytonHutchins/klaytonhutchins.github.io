@@ -71,5 +71,5 @@ Don't feel guilty for using `"Hello" + " World"` in your code, but consider `Str
 
 <hr>
 
-[Prev](StringBuilderMethods.md) | [Up](README.md) | [Next](labs.md)
+[Prev](StringBuilderMethods.md) -- [Up](README.md) -- [Next](labs.md)
 

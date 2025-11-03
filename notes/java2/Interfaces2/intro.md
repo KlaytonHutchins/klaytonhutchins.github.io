@@ -48,5 +48,5 @@ for (int i = 0; i < gear.length; i++) {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](fields.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](fields.md)
 

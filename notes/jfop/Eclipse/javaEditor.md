@@ -40,5 +40,5 @@ As you type, the Jave Editor tries to anticipate your intentions and provide cod
 
 <hr>
 
-[Prev](editorsViewsAndPerspectives.md) | [Up](README.md) | [Next](shortcutKeys.md)
+[Prev](editorsViewsAndPerspectives.md) -- [Up](README.md) -- [Next](shortcutKeys.md)
 

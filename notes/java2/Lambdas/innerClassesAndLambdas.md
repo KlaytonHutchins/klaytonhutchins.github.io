@@ -36,5 +36,5 @@ A lambda is not a class, but it can replace certain inner classes.
 
 <hr>
 
-[Prev](innerClassesReview.md) | [Up](README.md) | [Next](lambdaTranslation.md)
+[Prev](innerClassesReview.md) -- [Up](README.md) -- [Next](lambdaTranslation.md)
 

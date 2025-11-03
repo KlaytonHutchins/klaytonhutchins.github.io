@@ -22,5 +22,5 @@
 
 <hr>
 
-[Prev](quantifiers.md) | [Up](README.md) | [Next](grouping.md)
+[Prev](quantifiers.md) -- [Up](README.md) -- [Next](grouping.md)
 

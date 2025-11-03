@@ -24,5 +24,5 @@ The `String` method `public String substring(int beginIndex, int endIndex)` retu
 
 <hr>
 
-[Prev](exceptions.md) | [Up](README.md)
+[Prev](exceptions.md) -- [Up](README.md)
 

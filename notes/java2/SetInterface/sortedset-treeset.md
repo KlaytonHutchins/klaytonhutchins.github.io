@@ -27,5 +27,5 @@
 
 <hr>
 
-[Prev](iterator.md) | [Up](README.md) | [Next](collection.md)
+[Prev](iterator.md) -- [Up](README.md) -- [Next](collection.md)
 

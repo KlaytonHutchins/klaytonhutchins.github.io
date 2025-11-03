@@ -22,5 +22,5 @@ How can you remember what can't be used?
 
 <hr>
 
-[Prev](long.md) | [Up](README.md) | [Next](labs.md)
+[Prev](long.md) -- [Up](README.md) -- [Next](labs.md)
 

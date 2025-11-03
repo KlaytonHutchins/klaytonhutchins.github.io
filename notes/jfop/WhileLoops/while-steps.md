@@ -22,5 +22,5 @@ If the _condition_ never becomes false, we end up in an "infinite loop".
 
 <hr>
 
-[Prev](while-detailed.md) | [Up](README.md) | [Next](scope.md)
+[Prev](while-detailed.md) -- [Up](README.md) -- [Next](scope.md)
 

@@ -64,5 +64,5 @@ public class Werewolf extends Person, Wolf {
 
 <hr>
 
-[Prev](inheritance.md) | [Up](README.md) | [Next](final.md)
+[Prev](inheritance.md) -- [Up](README.md) -- [Next](final.md)
 

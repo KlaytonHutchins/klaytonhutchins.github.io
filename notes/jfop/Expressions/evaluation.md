@@ -21,5 +21,5 @@ Evaluating is about getting a result.
 
 <hr>
 
-[Prev](expressions.md) | [Up](README.md) | [Next](assignment.md)
+[Prev](expressions.md) -- [Up](README.md) -- [Next](assignment.md)
 

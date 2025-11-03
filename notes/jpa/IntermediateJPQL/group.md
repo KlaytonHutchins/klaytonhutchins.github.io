@@ -29,5 +29,5 @@ List<Object[]> results = em.createQuery(query, Object[].class).getResultList();
 
 <hr>
 
-[Prev](aggregates.md) | [Up](README.md) | [Next](labs.md)
+[Prev](aggregates.md) -- [Up](README.md) -- [Next](labs.md)
 

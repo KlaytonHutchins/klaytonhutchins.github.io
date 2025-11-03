@@ -13,5 +13,5 @@ In order for the collection's `contains` method to work properly your class must
 
 <hr>
 
-[Prev](manyToMany.md) | [Up](README.md) | [Next](eagerAndLazy.md)
+[Prev](manyToMany.md) -- [Up](README.md) -- [Next](eagerAndLazy.md)
 

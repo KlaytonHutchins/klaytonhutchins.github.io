@@ -20,5 +20,5 @@ In this set of labs we will modify our application to maintain and display a run
 
 <hr>
 
-[Prev](el-ops.md) | [Up](README.md)
+[Prev](el-ops.md) -- [Up](README.md)
 

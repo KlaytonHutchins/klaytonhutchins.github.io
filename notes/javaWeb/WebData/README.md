@@ -33,4 +33,4 @@ We can send data to our Web Applications. In this chapter, we will learn how.
 
 <hr>
 
-[Up](../README.md) | [Next](request-response.md)
+[Up](../README.md) -- [Next](request-response.md)

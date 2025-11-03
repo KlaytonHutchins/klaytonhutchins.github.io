@@ -25,5 +25,5 @@ The types we will focus on are:
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](variables.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](variables.md)
 

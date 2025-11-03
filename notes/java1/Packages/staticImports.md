@@ -63,5 +63,5 @@ Remember, `import static` imports `static` members of a single class. `import` i
 
 <hr>
 
-[Prev](imports.md) | [Up](README.md) | [Next](labs.md)
+[Prev](imports.md) -- [Up](README.md) -- [Next](labs.md)
 

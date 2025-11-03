@@ -42,5 +42,5 @@ for (int i=0; i <= 10; i+=1){
 
 <hr>
 
-[Prev](for-body.md) | [Up](README.md) | [Next](for-when.md)
+[Prev](for-body.md) -- [Up](README.md) -- [Next](for-when.md)
 

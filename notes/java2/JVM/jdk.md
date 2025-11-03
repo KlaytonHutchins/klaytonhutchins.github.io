@@ -25,5 +25,5 @@ The JDK includes several other features for developers:
 
 <hr>
 
-[Prev](jre.md) | [Up](README.md) | [Next](javaSpec.md)
+[Prev](jre.md) -- [Up](README.md) -- [Next](javaSpec.md)
 

@@ -15,5 +15,5 @@ In these labs we will use the `List` interface with implementation classes.
 
 <hr>
 
-[Prev](list-and-class.md) | [Up](README.md)
+[Prev](list-and-class.md) -- [Up](README.md)
 

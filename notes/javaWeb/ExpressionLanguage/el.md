@@ -18,5 +18,5 @@ We do not have to add any dependencies to enable EL.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](el-model.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](el-model.md)
 

@@ -131,5 +131,5 @@ public class TestInner {
 
 <hr>
 
-[Prev](InnerClasses.md) | [Up](README.md) | [Next](LocalClasses.md)
+[Prev](InnerClasses.md) -- [Up](README.md) -- [Next](LocalClasses.md)
 

@@ -23,5 +23,5 @@ In this lab you will build a JUnit test class for each of the entities we create
 
 <hr>
 
-[Prev](runningTestsWithGradle.md) | [Up](README.md)
+[Prev](runningTestsWithGradle.md) -- [Up](README.md)
 

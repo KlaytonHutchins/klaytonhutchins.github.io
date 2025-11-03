@@ -15,5 +15,5 @@ Solutions: `DatesAndTimes/com.example.datesandtimes.solutions.labs`
 
 <hr>
 
-[Prev](DateTimeFormatter.md) | [Up](README.md)
+[Prev](DateTimeFormatter.md) -- [Up](README.md)
 

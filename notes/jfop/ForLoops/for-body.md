@@ -77,5 +77,5 @@ for (int i = 0, j = 1; i + j < 12; i++, j++){
 
 <hr>
 
-[Prev](for-parts.md) | [Up](README.md) | [Next](break-continue.md)
+[Prev](for-parts.md) -- [Up](README.md) -- [Next](break-continue.md)
 

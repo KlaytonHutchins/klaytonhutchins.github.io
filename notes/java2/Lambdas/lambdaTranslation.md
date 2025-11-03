@@ -59,5 +59,5 @@ public class PrintSortedPlanetsLambda {
 
 <hr>
 
-[Prev](innerClassesAndLambdas.md) | [Up](README.md) | [Next](lambdaSyntax.md)
+[Prev](innerClassesAndLambdas.md) -- [Up](README.md) -- [Next](lambdaSyntax.md)
 

@@ -38,5 +38,5 @@ Where is `main`?
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](task2.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](task2.md)
 

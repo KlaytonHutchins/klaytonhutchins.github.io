@@ -183,5 +183,5 @@ System.out.println(true + null); // WILL NOT COMPILE
 
 <hr>
 
-[Prev](theStringPool.md) | [Up](README.md) | [Next](StringBuilder.md)
+[Prev](theStringPool.md) -- [Up](README.md) -- [Next](StringBuilder.md)
 

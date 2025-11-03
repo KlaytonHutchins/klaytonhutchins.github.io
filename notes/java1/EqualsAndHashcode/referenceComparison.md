@@ -50,5 +50,5 @@ The `String` class provides the `equals()` method to allow comparison of the _co
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](objectEquals.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](objectEquals.md)
 

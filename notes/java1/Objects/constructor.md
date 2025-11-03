@@ -73,5 +73,5 @@ A constructor with no parameters defined is sometimes called a _no-arg_ construc
 
 <hr>
 
-[Prev](intro.md) | [Up](README.md) | [Next](default-ctor.md)
+[Prev](intro.md) -- [Up](README.md) -- [Next](default-ctor.md)
 

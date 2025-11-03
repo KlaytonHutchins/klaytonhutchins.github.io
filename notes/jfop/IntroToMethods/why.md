@@ -10,5 +10,5 @@ Methods allow us to make our code shorter, more readable, and more maintainable.
 
 <hr>
 
-[Prev](main.md) | [Up](README.md) | [Next](labs.md)
+[Prev](main.md) -- [Up](README.md) -- [Next](labs.md)
 

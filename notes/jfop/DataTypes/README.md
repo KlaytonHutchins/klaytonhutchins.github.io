@@ -22,4 +22,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](types-so-far.md)
+[Up](../README.md) -- [Next](types-so-far.md)

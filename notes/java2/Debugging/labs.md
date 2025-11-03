@@ -22,5 +22,5 @@
 
 <hr>
 
-[Prev](controls.md) | [Up](README.md)
+[Prev](controls.md) -- [Up](README.md)
 

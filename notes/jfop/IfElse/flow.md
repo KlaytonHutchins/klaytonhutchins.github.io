@@ -15,5 +15,5 @@ The most basic conditional is the `if` statement.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](if.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](if.md)
 

@@ -100,5 +100,5 @@ Note: even though the `private` superclass fields exist in memory for the object
 
 <hr>
 
-[Prev](visibility.md) | [Up](README.md) | [Next](getters-setters-labs.md)
+[Prev](visibility.md) -- [Up](README.md) -- [Next](getters-setters-labs.md)
 

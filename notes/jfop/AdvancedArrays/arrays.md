@@ -36,5 +36,5 @@ PopStar[] sync = new PopStar[5];
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](returning-arrays.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](returning-arrays.md)
 

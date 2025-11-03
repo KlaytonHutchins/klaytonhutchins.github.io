@@ -16,5 +16,5 @@
 
 <hr>
 
-[Prev](labs.md) | [Up](README.md)
+[Prev](labs.md) -- [Up](README.md)
 

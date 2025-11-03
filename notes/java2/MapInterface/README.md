@@ -15,4 +15,4 @@ Another member of the Java Collections Framework is the `Map` interface.
 
 <hr>
 
-[Up](../README.md) | [Next](map.md)
+[Up](../README.md) -- [Next](map.md)

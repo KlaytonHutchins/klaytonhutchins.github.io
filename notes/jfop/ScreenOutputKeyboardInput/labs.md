@@ -48,5 +48,5 @@
 
 <hr>
 
-[Prev](input.md) | [Up](README.md)
+[Prev](input.md) -- [Up](README.md)
 

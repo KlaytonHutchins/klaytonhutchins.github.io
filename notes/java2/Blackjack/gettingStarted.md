@@ -14,5 +14,5 @@ The actual 'game logic' associated with testing scores, deciding when you can an
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

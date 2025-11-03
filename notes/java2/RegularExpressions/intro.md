@@ -38,5 +38,5 @@ RE patterns are by design compact, terse, and very precise.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](options.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](options.md)
 

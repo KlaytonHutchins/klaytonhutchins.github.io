@@ -84,5 +84,5 @@ public class CoffeeMaker extends KitchenAppliance implements Switchable, Fillabl
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](declaringInterfaces.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](declaringInterfaces.md)
 

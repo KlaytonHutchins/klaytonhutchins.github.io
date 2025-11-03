@@ -76,5 +76,5 @@ public class BootMvcVideoStoreApplication {
 
 <hr>
 
-[Prev](dao.md) | [Up](README.md) | [Next](controller.md)
+[Prev](dao.md) -- [Up](README.md) -- [Next](controller.md)
 

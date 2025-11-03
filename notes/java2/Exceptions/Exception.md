@@ -154,5 +154,5 @@ If an unhandled exception propagates all the way to `main`, the JVM will print t
 
 <hr>
 
-[Prev](exceptionsIntro.md) | [Up](README.md) | [Next](checkedExceptions.md)
+[Prev](exceptionsIntro.md) -- [Up](README.md) -- [Next](checkedExceptions.md)
 

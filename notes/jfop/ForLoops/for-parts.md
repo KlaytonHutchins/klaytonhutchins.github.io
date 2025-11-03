@@ -33,5 +33,5 @@ for (initialization; termination condition; increment)
 
 <hr>
 
-[Prev](for-diagram.md) | [Up](README.md) | [Next](for-body.md)
+[Prev](for-diagram.md) -- [Up](README.md) -- [Next](for-body.md)
 

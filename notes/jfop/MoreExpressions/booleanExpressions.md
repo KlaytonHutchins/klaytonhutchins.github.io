@@ -29,5 +29,5 @@ private static boolean booleanMethod() {
 
 <hr>
 
-[Prev](booleanVariables.md) | [Up](README.md) | [Next](operatorAssign.md)
+[Prev](booleanVariables.md) -- [Up](README.md) -- [Next](operatorAssign.md)
 

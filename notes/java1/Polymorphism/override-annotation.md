@@ -65,5 +65,5 @@ This annotation keeps us from accidentally _overloading_ a method, which could l
 
 <hr>
 
-[Prev](override.md) | [Up](README.md) | [Next](override-rules.md)
+[Prev](override.md) -- [Up](README.md) -- [Next](override-rules.md)
 

@@ -51,5 +51,5 @@ Every class can override `Object`'s implementation of `equals`.
 
 <hr>
 
-[Prev](referenceComparison.md) | [Up](README.md) | [Next](definingEquals.md)
+[Prev](referenceComparison.md) -- [Up](README.md) -- [Next](definingEquals.md)
 

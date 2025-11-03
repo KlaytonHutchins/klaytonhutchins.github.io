@@ -14,5 +14,5 @@ One of the oldest debugging techniques is to comment out code.
 
 <hr>
 
-[Prev](bugs.md) | [Up](README.md) | [Next](manual-output.md)
+[Prev](bugs.md) -- [Up](README.md) -- [Next](manual-output.md)
 

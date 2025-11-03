@@ -22,5 +22,5 @@ We will explore abstract classes, and create a class hierarchy where common fiel
 
 <hr>
 
-[Prev](usingAbstractClasses.md) | [Up](README.md)
+[Prev](usingAbstractClasses.md) -- [Up](README.md)
 

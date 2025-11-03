@@ -19,5 +19,5 @@ One of the worst things you can do is push code that you have not tested. It doe
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](build-deploy.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](build-deploy.md)
 

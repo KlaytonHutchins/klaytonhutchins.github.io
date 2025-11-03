@@ -84,5 +84,5 @@ The purpose of an abstract class is to be extended.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](abstractMethods.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](abstractMethods.md)
 

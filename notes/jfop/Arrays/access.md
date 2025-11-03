@@ -45,5 +45,5 @@ The array operator has the highest precedence. That means when Java sees you are
 
 <hr>
 
-[Prev](defaults.md) | [Up](README.md) | [Next](initializing.md)
+[Prev](defaults.md) -- [Up](README.md) -- [Next](initializing.md)
 

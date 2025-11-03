@@ -131,5 +131,5 @@ We can change the elements of `finalArr`, but we cannot make the field `finalArr
 
 <hr>
 
-[Prev](order-of-init.md) | [Up](README.md) | [Next](private-methods.md)
+[Prev](order-of-init.md) -- [Up](README.md) -- [Next](private-methods.md)
 

@@ -208,5 +208,5 @@ Whenever we have a bi-directional relationship set up with our JPA mappings, we 
 
 <hr>
 
-[Prev](javaAndJson.md) | [Up](README.md) | [Next](labs.md)
+[Prev](javaAndJson.md) -- [Up](README.md) -- [Next](labs.md)
 

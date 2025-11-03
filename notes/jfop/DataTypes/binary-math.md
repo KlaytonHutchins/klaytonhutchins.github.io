@@ -102,5 +102,5 @@ For the number `-15`:
 
 <hr>
 
-[Prev](bits-and-bytes.md) | [Up](README.md) | [Next](msb.md)
+[Prev](bits-and-bytes.md) -- [Up](README.md) -- [Next](msb.md)
 

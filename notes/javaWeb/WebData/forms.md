@@ -91,5 +91,5 @@ Character created.
 
 <hr>
 
-[Prev](request-data.md) | [Up](README.md) | [Next](get-vs-post.md)
+[Prev](request-data.md) -- [Up](README.md) -- [Next](get-vs-post.md)
 

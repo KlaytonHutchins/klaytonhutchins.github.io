@@ -72,5 +72,5 @@ API: `/api/v1/books`
 
 <hr>
 
-[Prev](httpServlet.md) | [Up](README.md)
+[Prev](httpServlet.md) -- [Up](README.md)
 

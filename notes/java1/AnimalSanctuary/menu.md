@@ -17,5 +17,5 @@ Add a menu to allow users to:
 
 <hr>
 
-[Prev](sanctuary.md) | [Up](README.md) | [Next](mayhem.md)
+[Prev](sanctuary.md) -- [Up](README.md) -- [Next](mayhem.md)
 

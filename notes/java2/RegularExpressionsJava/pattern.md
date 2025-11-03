@@ -61,5 +61,5 @@ To set regex options, use `Pattern.compile(String regex, int flags)`
 
 <hr>
 
-[Prev](regexJava.md) | [Up](README.md) | [Next](matcher.md)
+[Prev](regexJava.md) -- [Up](README.md) -- [Next](matcher.md)
 

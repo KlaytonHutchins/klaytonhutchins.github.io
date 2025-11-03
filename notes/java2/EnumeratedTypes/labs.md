@@ -28,5 +28,5 @@
 
 <hr>
 
-[Prev](enum-members.md) | [Up](README.md)
+[Prev](enum-members.md) -- [Up](README.md)
 

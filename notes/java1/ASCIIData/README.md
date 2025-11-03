@@ -18,4 +18,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](standards.md)
+[Up](../README.md) -- [Next](standards.md)

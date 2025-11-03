@@ -21,5 +21,5 @@ If the garbage collector calls `finalize` on an object but fails to garbage coll
 
 <hr>
 
-[Prev](gc-strategies.md) | [Up](README.md) | [Next](understanding-gc.md)
+[Prev](gc-strategies.md) -- [Up](README.md) -- [Next](understanding-gc.md)
 

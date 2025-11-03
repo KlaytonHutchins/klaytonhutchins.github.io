@@ -92,5 +92,5 @@ System.out.println( i == j );      // true or false?
 
 <hr>
 
-[Prev](floatDouble.md) | [Up](README.md) | [Next](Character.md)
+[Prev](floatDouble.md) -- [Up](README.md) -- [Next](Character.md)
 

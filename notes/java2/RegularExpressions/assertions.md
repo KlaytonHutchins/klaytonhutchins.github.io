@@ -31,5 +31,5 @@ Also called _anchors_ or even _zero-width assertions_, these specify a _position
 
 <hr>
 
-[Prev](wildcards.md) | [Up](README.md) | [Next](quantifiers.md)
+[Prev](wildcards.md) -- [Up](README.md) -- [Next](quantifiers.md)
 

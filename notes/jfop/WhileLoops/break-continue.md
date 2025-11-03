@@ -65,5 +65,5 @@ while (j <= 10) {
 
 <hr>
 
-[Prev](infinite.md) | [Up](README.md) | [Next](labs.md)
+[Prev](infinite.md) -- [Up](README.md) -- [Next](labs.md)
 

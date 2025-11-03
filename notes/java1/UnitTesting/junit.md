@@ -24,5 +24,5 @@ JUnit is included in Eclipse, so we can run our test class and see if our method
 
 <hr>
 
-[Prev](build-deploy.md) | [Up](README.md) | [Next](test-class.md)
+[Prev](build-deploy.md) -- [Up](README.md) -- [Next](test-class.md)
 

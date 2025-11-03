@@ -42,5 +42,5 @@ This parameterization allows you to easily use user-entered input in queries, wh
 
 <hr>
 
-[Prev](retrieveMultipleProperties.md) | [Up](README.md) | [Next](labs.md)
+[Prev](retrieveMultipleProperties.md) -- [Up](README.md) -- [Next](labs.md)
 

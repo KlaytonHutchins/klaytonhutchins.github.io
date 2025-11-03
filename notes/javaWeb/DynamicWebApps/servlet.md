@@ -53,5 +53,5 @@ The final step is to add your servlet and mapping to `web.xml`, before `</web-ap
 
 <hr>
 
-[Prev](maven.md) | [Up](README.md) | [Next](labs.md)
+[Prev](maven.md) -- [Up](README.md) -- [Next](labs.md)
 

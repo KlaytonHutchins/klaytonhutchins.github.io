@@ -35,5 +35,5 @@ However, sometimes the join table contains additional data that does not belong 
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](mappingOptions.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](mappingOptions.md)
 

@@ -100,5 +100,5 @@ While the wrapper classes have constructors, these are deprecated starting in Ja
 
 <hr>
 
-[Prev](wrapperClasses.md) | [Up](README.md) | [Next](comparingWrappers.md)
+[Prev](wrapperClasses.md) -- [Up](README.md) -- [Next](comparingWrappers.md)
 

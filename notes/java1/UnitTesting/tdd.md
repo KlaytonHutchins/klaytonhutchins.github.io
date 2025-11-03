@@ -30,5 +30,5 @@ This drill uses the TDD process. __Do not__ add functionality to each `TextConve
 
 <hr>
 
-[Prev](before-after.md) | [Up](README.md) | [Next](labs.md)
+[Prev](before-after.md) -- [Up](README.md) -- [Next](labs.md)
 

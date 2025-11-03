@@ -29,5 +29,5 @@ Buttons and their shortcuts are listed below.
 
 <hr>
 
-[Prev](variables.md) | [Up](README.md) | [Next](labs.md)
+[Prev](variables.md) -- [Up](README.md) -- [Next](labs.md)
 

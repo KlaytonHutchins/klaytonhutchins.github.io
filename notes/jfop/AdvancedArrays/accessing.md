@@ -46,5 +46,5 @@ arr2d[3][2] = 42;
 
 <hr>
 
-[Prev](arrays-of-arrays.md) | [Up](README.md) | [Next](for.md)
+[Prev](arrays-of-arrays.md) -- [Up](README.md) -- [Next](for.md)
 

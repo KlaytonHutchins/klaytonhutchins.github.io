@@ -25,5 +25,5 @@ The `Employee` class has all the `Person` fields, but the fields and methods onl
 
 <hr>
 
-[Prev](uml.md) | [Up](README.md) | [Next](methods.md)
+[Prev](uml.md) -- [Up](README.md) -- [Next](methods.md)
 

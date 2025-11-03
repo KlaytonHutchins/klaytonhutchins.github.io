@@ -97,5 +97,5 @@ This far more reliable than testing with the `toString()` value:
 
 <hr>
 
-[Prev](generatedValue.md) | [Up](README.md) | [Next](enumerated.md)
+[Prev](generatedValue.md) -- [Up](README.md) -- [Next](enumerated.md)
 

@@ -35,5 +35,5 @@ A quantifier specifies the number of occurrences of the item that precedes it:
 
 <hr>
 
-[Prev](assertions.md) | [Up](README.md) | [Next](1-labs.md)
+[Prev](assertions.md) -- [Up](README.md) -- [Next](1-labs.md)
 

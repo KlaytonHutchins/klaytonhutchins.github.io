@@ -73,5 +73,5 @@ Either of the two value expressions can include a ternary:
 
 <hr>
 
-[Prev](prePostIncrement.md) | [Up](README.md) | [Next](labs.md)
+[Prev](prePostIncrement.md) -- [Up](README.md) -- [Next](labs.md)
 

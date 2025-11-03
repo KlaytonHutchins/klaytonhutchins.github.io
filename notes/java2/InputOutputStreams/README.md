@@ -25,4 +25,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](OverviewofStreams.md)
+[Up](../README.md) -- [Next](OverviewofStreams.md)

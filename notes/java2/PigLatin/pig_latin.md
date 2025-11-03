@@ -22,5 +22,5 @@ Notice how "Igpay" is actually "Pig." Because the first character of pig is move
 
 <hr>
 
-[Prev](README.md) | [Up](README.md)
+[Prev](README.md) -- [Up](README.md)
 

@@ -14,4 +14,4 @@ In this chapter we will learn about another pillar of object-oriented programmin
 
 <hr>
 
-[Up](../README.md) | [Next](polymorphism.md)
+[Up](../README.md) -- [Next](polymorphism.md)

@@ -29,5 +29,5 @@ For these labs do not use any existing `java.lang.Math` static methods.
 
 <hr>
 
-[Prev](casting-hints.md) | [Up](README.md)
+[Prev](casting-hints.md) -- [Up](README.md)
 

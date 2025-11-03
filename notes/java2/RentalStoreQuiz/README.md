@@ -55,4 +55,4 @@ When you finish, push to Github.
 
 <hr>
 
-[Up](../README.md) | [Next](RentalStoreQuiz.zip)
+[Up](../README.md) -- [Next](RentalStoreQuiz.zip)

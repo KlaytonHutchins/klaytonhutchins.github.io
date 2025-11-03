@@ -77,5 +77,5 @@ In order for the _Persistence Unit_ to know about the _Entities_ it manages, we 
 
 <hr>
 
-[Prev](persistenceXml.md) | [Up](README.md) | [Next](mappingFields.md)
+[Prev](persistenceXml.md) -- [Up](README.md) -- [Next](mappingFields.md)
 

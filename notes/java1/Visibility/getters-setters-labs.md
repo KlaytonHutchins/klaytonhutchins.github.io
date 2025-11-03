@@ -26,5 +26,5 @@ In this lab we will improve the encapsulation of our `com.example.inheritance.la
 
 <hr>
 
-[Prev](getters-setters.md) | [Up](README.md)
+[Prev](getters-setters.md) -- [Up](README.md)
 

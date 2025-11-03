@@ -31,5 +31,5 @@ Highlight a statement and choose _Inspect_ to see the evaluation of the statemen
 
 <hr>
 
-[Prev](breakpoints.md) | [Up](README.md) | [Next](controls.md)
+[Prev](breakpoints.md) -- [Up](README.md) -- [Next](controls.md)
 

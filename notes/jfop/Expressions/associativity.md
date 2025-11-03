@@ -56,5 +56,5 @@ b = a + 7;
 
 <hr>
 
-[Prev](shortcircuit.md) | [Up](README.md) | [Next](precedence.md)
+[Prev](shortcircuit.md) -- [Up](README.md) -- [Next](precedence.md)
 

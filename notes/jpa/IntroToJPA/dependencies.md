@@ -84,5 +84,5 @@ We will be including these dependencies with Gradle.
 
 <hr>
 
-[Prev](whatIsJPA.md) | [Up](README.md) | [Next](persistenceXml.md)
+[Prev](whatIsJPA.md) -- [Up](README.md) -- [Next](persistenceXml.md)
 

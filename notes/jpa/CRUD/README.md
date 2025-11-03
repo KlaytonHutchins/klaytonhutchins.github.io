@@ -22,4 +22,4 @@ associated EntityManager.
 
 <hr>
 
-[Up](../README.md) | [Next](create.md)
+[Up](../README.md) -- [Next](create.md)

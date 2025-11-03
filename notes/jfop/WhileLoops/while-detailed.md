@@ -38,5 +38,5 @@ while (condition) {
 
 <hr>
 
-[Prev](while.md) | [Up](README.md) | [Next](while-steps.md)
+[Prev](while.md) -- [Up](README.md) -- [Next](while-steps.md)
 

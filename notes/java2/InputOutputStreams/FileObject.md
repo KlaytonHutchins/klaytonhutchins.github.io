@@ -57,5 +57,5 @@ Many `java.io` methods take `File` object parameters.
 
 <hr>
 
-[Prev](OverviewofStreams.md) | [Up](README.md) | [Next](BufferedReader.md)
+[Prev](OverviewofStreams.md) -- [Up](README.md) -- [Next](BufferedReader.md)
 

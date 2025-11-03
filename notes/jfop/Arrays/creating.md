@@ -36,5 +36,5 @@ int scores[7]; // WILL NOT COMPILE
 
 <hr>
 
-[Prev](declaring.md) | [Up](README.md) | [Next](defaults.md)
+[Prev](declaring.md) -- [Up](README.md) -- [Next](defaults.md)
 

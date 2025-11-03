@@ -24,5 +24,5 @@ Then add JUnit5 to the build path.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](test.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](test.md)
 

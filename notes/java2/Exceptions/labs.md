@@ -23,5 +23,5 @@ Solutions in `Exceptions/com.example.exceptions.solutions.shapes`
 
 <hr>
 
-[Prev](finally.md) | [Up](README.md)
+[Prev](finally.md) -- [Up](README.md)
 

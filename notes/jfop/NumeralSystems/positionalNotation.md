@@ -60,5 +60,5 @@ Solution: _NumeralSystems/com.example.numeralsystems.solutions/SkillDrills1.java
 
 <hr>
 
-[Prev](tallying.md) | [Up](README.md) | [Next](binOctDecHex.md)
+[Prev](tallying.md) -- [Up](README.md) -- [Next](binOctDecHex.md)
 

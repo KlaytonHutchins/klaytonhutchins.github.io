@@ -102,5 +102,5 @@ We use `@PathVariable` to specify options and behaviors for our request.
 
 <hr>
 
-[Prev](restController.md) | [Up](README.md) | [Next](labs.md)
+[Prev](restController.md) -- [Up](README.md) -- [Next](labs.md)
 

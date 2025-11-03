@@ -32,5 +32,5 @@ In addition to `sort()`, the `Collections` class has many other utility methods 
 
 <hr>
 
-[Prev](ArraysClass.md) | [Up](README.md) | [Next](labs.md)
+[Prev](ArraysClass.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -14,4 +14,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](referenceComparison.md)
+[Up](../README.md) -- [Next](referenceComparison.md)

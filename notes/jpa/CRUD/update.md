@@ -109,5 +109,5 @@ The following options can be used for complex logic in a DAO, though most of the
 
 <hr>
 
-[Prev](create.md) | [Up](README.md) | [Next](delete.md)
+[Prev](create.md) -- [Up](README.md) -- [Next](delete.md)
 

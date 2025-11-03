@@ -28,5 +28,5 @@ Package `HashMapInternals/com.example.hashmap.labs`
 
 <hr>
 
-[Prev](loadFactor.md) | [Up](README.md)
+[Prev](loadFactor.md) -- [Up](README.md)
 

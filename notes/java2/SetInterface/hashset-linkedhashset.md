@@ -137,5 +137,5 @@ public class SetTest {
 
 <hr>
 
-[Prev](set.md) | [Up](README.md) | [Next](iterator.md)
+[Prev](set.md) -- [Up](README.md) -- [Next](iterator.md)
 

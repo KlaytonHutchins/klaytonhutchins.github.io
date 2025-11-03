@@ -47,4 +47,4 @@ To turn in a project, you must push it to GitHub. You must include a README.md t
 
 <hr>
 
-[Up](../README.md) | [Next](projectSetup.md)
+[Up](../README.md) -- [Next](projectSetup.md)

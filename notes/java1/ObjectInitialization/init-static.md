@@ -65,5 +65,5 @@ Note: these are also called static _initializer_ blocks or just _static initiali
 
 <hr>
 
-[Prev](this-vs-this.md) | [Up](README.md) | [Next](init-instance.md)
+[Prev](this-vs-this.md) -- [Up](README.md) -- [Next](init-instance.md)
 

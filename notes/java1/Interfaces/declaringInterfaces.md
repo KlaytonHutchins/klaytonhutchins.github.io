@@ -62,5 +62,5 @@ They are typically used to publish constants or options related to the interface
 
 <hr>
 
-[Prev](interfaces.md) | [Up](README.md) | [Next](usingInterfaces.md)
+[Prev](interfaces.md) -- [Up](README.md) -- [Next](usingInterfaces.md)
 

@@ -35,5 +35,5 @@ Escape data using the JSTL Core tag library `out` tag, `<c:out value=""/>`.
 
 <hr>
 
-[Prev](formatting.md) | [Up](README.md) | [Next](labs.md)
+[Prev](formatting.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -90,5 +90,5 @@ The goal of encapsulation is to keep users from changing data you don't want the
 
 <hr>
 
-[Prev](visibility.md) | [Up](README.md) | [Next](getters-setters.md)
+[Prev](visibility.md) -- [Up](README.md) -- [Next](getters-setters.md)
 

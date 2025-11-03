@@ -19,4 +19,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](basicQueries.md)
+[Up](../README.md) -- [Next](basicQueries.md)

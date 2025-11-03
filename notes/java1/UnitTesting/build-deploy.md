@@ -65,5 +65,5 @@ We will implement automated testing by writing tests for our classes, which dete
 
 <hr>
 
-[Prev](testing.md) | [Up](README.md) | [Next](junit.md)
+[Prev](testing.md) -- [Up](README.md) -- [Next](junit.md)
 

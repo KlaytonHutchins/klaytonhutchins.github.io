@@ -24,4 +24,4 @@ Testing Java programs manually is costly and time consuming. We will introduce J
 
 <hr>
 
-[Up](../README.md) | [Next](testing.md)
+[Up](../README.md) -- [Next](testing.md)

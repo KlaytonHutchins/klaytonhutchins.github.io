@@ -72,5 +72,5 @@ The array is created inside a method, so why hasn't the array gone out of scope 
 
 <hr>
 
-[Prev](arrays.md) | [Up](README.md) | [Next](arrays-of-arrays.md)
+[Prev](arrays.md) -- [Up](README.md) -- [Next](arrays-of-arrays.md)
 

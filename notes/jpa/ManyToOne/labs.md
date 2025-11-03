@@ -28,5 +28,5 @@ For each of the following labs, update the appropriate JUnit test cases based on
 
 <hr>
 
-[Prev](addAndRemove.md) | [Up](README.md)
+[Prev](addAndRemove.md) -- [Up](README.md)
 

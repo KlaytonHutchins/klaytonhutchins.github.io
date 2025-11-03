@@ -46,5 +46,5 @@ mysql > desc Customer;
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](temporal.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](temporal.md)
 

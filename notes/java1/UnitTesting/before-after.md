@@ -72,5 +72,5 @@ Copy code from `TextConverterTests3` if you did not complete the previous drill.
 
 <hr>
 
-[Prev](assert.md) | [Up](README.md) | [Next](tdd.md)
+[Prev](assert.md) -- [Up](README.md) -- [Next](tdd.md)
 

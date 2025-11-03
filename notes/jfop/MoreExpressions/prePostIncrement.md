@@ -55,5 +55,5 @@ total = ++count; // Pre-increment matters.
 
 <hr>
 
-[Prev](operatorAssign.md) | [Up](README.md) | [Next](ternaryOperator.md)
+[Prev](operatorAssign.md) -- [Up](README.md) -- [Next](ternaryOperator.md)
 

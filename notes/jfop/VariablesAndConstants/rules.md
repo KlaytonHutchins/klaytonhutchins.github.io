@@ -26,5 +26,5 @@ We also want to make sure that variables are useful to ourselves and other devel
 
 <hr>
 
-[Prev](variables.md) | [Up](README.md) | [Next](literals.md)
+[Prev](variables.md) -- [Up](README.md) -- [Next](literals.md)
 

@@ -20,4 +20,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](testingDependencies.md)
+[Up](../README.md) -- [Next](testingDependencies.md)

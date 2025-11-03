@@ -34,5 +34,5 @@ public void testException() {
 
 <hr>
 
-[Prev](assertions.md) | [Up](README.md) | [Next](labs.md)
+[Prev](assertions.md) -- [Up](README.md) -- [Next](labs.md)
 

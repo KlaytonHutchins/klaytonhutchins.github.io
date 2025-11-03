@@ -36,5 +36,5 @@ Neptune, 4504000000, 49532
 
 <hr>
 
-[Prev](ClosingStreams.md) | [Up](README.md)
+[Prev](ClosingStreams.md) -- [Up](README.md)
 

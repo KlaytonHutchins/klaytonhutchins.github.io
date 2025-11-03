@@ -14,5 +14,5 @@ The `enum` declaration generates a new class behind the scenes.
 
 <hr>
 
-[Prev](enum.md) | [Up](README.md) | [Next](using.md)
+[Prev](enum.md) -- [Up](README.md) -- [Next](using.md)
 

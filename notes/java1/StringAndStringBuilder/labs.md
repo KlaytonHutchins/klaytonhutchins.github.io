@@ -24,5 +24,5 @@ print the requested information.
 
 <hr>
 
-[Prev](toString.md) | [Up](README.md)
+[Prev](toString.md) -- [Up](README.md)
 

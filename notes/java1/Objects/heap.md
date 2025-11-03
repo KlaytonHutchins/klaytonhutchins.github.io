@@ -39,5 +39,5 @@ Java manages the heap, so we never have to delete objects.
 
 <hr>
 
-[Prev](default-ctor.md) | [Up](README.md) | [Next](heap-image.md)
+[Prev](default-ctor.md) -- [Up](README.md) -- [Next](heap-image.md)
 

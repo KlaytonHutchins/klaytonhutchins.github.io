@@ -49,5 +49,5 @@ System.out.println( Boolean.TRUE );
 
 <hr>
 
-[Prev](Character.md) | [Up](README.md) | [Next](labs.md)
+[Prev](Character.md) -- [Up](README.md) -- [Next](labs.md)
 

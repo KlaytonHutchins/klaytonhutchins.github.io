@@ -32,4 +32,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](clients-and-servers.md)
+[Up](../README.md) -- [Next](clients-and-servers.md)

@@ -26,4 +26,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](SortingwithComparable.md)
+[Up](../README.md) -- [Next](SortingwithComparable.md)

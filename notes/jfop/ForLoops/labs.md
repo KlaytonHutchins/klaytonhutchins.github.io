@@ -36,5 +36,5 @@ This chapter includes exercises for you to work on both during the lab session i
 
 <hr>
 
-[Prev](for-when.md) | [Up](README.md)
+[Prev](for-when.md) -- [Up](README.md)
 

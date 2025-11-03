@@ -53,5 +53,5 @@ The returned `Object[]` would have the _min_ stored in index 0, _max_ in index 1
 
 <hr>
 
-[Prev](order.md) | [Up](README.md) | [Next](group.md)
+[Prev](order.md) -- [Up](README.md) -- [Next](group.md)
 

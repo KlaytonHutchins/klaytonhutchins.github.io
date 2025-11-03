@@ -32,5 +32,5 @@ You now have the code necessary to create servlets.
 
 <hr>
 
-[Prev](dynamic.md) | [Up](README.md) | [Next](servlet.md)
+[Prev](dynamic.md) -- [Up](README.md) -- [Next](servlet.md)
 

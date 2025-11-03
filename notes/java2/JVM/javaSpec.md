@@ -32,5 +32,5 @@ The JVM doesn't know the Java language - that's the Java Compiler's job.
 
 <hr>
 
-[Prev](jdk.md) | [Up](README.md) | [Next](labs.md)
+[Prev](jdk.md) -- [Up](README.md) -- [Next](labs.md)
 

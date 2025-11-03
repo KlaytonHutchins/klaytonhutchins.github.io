@@ -27,5 +27,5 @@ This is true for any code block, such as in an `if` statement.
 
 <hr>
 
-[Prev](while-steps.md) | [Up](README.md) | [Next](do-while.md)
+[Prev](while-steps.md) -- [Up](README.md) -- [Next](do-while.md)
 

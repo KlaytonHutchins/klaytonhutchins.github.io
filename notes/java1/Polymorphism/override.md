@@ -132,5 +132,5 @@ You will be adding a `public void executeJob(String data)` method to each class,
 
 <hr>
 
-[Prev](polymorphism.md) | [Up](README.md) | [Next](override-annotation.md)
+[Prev](polymorphism.md) -- [Up](README.md) -- [Next](override-annotation.md)
 

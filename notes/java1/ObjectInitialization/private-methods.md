@@ -20,5 +20,5 @@ In this way, we hide the details of the class and only show users of the class m
 
 <hr>
 
-[Prev](final.md) | [Up](README.md) | [Next](labs.md)
+[Prev](final.md) -- [Up](README.md) -- [Next](labs.md)
 

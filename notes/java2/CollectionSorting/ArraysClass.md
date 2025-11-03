@@ -57,5 +57,5 @@ System.out.println(Arrays.deepToString(animalArray));
 
 <hr>
 
-[Prev](SortingMaps.md) | [Up](README.md) | [Next](CollectionsClass.md)
+[Prev](SortingMaps.md) -- [Up](README.md) -- [Next](CollectionsClass.md)
 

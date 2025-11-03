@@ -51,5 +51,5 @@ private Gender gender;
 
 <hr>
 
-[Prev](temporal.md) | [Up](README.md) | [Next](labs.md)
+[Prev](temporal.md) -- [Up](README.md) -- [Next](labs.md)
 

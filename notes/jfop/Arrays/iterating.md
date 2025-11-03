@@ -65,5 +65,5 @@ System.out.println(arr); // [D@4e25154f
 
 <hr>
 
-[Prev](initializing.md) | [Up](README.md) | [Next](passing.md)
+[Prev](initializing.md) -- [Up](README.md) -- [Next](passing.md)
 

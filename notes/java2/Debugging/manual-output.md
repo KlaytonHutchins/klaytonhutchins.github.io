@@ -20,5 +20,5 @@ Once the print statements have served their purpose, you remove them and recompi
 
 <hr>
 
-[Prev](commenting.md) | [Up](README.md) | [Next](conditional-output.md)
+[Prev](commenting.md) -- [Up](README.md) -- [Next](conditional-output.md)
 

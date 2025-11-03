@@ -20,4 +20,4 @@ A key feature of Java is memory management. In this chapter we will learn what J
 
 <hr>
 
-[Up](../README.md) | [Next](objects-heap.md)
+[Up](../README.md) -- [Next](objects-heap.md)

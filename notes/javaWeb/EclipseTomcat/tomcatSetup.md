@@ -33,5 +33,5 @@
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](eclipseServerSetup.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](eclipseServerSetup.md)
 

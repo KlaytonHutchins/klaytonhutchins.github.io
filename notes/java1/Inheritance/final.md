@@ -35,5 +35,5 @@ public class FinalSubclass extends FinalClass {  // ERROR, does not compile
 
 <hr>
 
-[Prev](extends.md) | [Up](README.md) | [Next](uml.md)
+[Prev](extends.md) -- [Up](README.md) -- [Next](uml.md)
 

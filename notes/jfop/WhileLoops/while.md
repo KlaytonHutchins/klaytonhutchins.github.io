@@ -33,5 +33,5 @@ This class has two methods which are called from main. Write the code in the met
 
 <hr>
 
-[Prev](looping.md) | [Up](README.md) | [Next](while-detailed.md)
+[Prev](looping.md) -- [Up](README.md) -- [Next](while-detailed.md)
 

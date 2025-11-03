@@ -94,5 +94,5 @@ switch (grade) {
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](switch-break-default.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](switch-break-default.md)
 

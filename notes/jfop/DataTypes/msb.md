@@ -45,5 +45,5 @@ The `char` data type is not signed. There is no such thing as a negative charact
 
 <hr>
 
-[Prev](binary-math.md) | [Up](README.md) | [Next](primitives.md)
+[Prev](binary-math.md) -- [Up](README.md) -- [Next](primitives.md)
 

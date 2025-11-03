@@ -45,5 +45,5 @@ The behavior of the JVM is defined by the [Java Virtual Machine Specification](h
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](jre.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](jre.md)
 

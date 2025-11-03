@@ -39,5 +39,5 @@ In almost all cases you **DO NOT** want to delete any data from your database. D
 
 <hr>
 
-[Prev](update.md) | [Up](README.md) | [Next](labs.md)
+[Prev](update.md) -- [Up](README.md) -- [Next](labs.md)
 

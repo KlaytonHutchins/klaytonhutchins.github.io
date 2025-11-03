@@ -27,5 +27,5 @@ The combination of JVM, Java SE Platform, and various supporting files and utili
 
 <hr>
 
-[Prev](javaVirtualMachine.md) | [Up](README.md) | [Next](jdk.md)
+[Prev](javaVirtualMachine.md) -- [Up](README.md) -- [Next](jdk.md)
 

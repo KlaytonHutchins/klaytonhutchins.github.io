@@ -54,5 +54,5 @@ You may hear the word "arguments" in place of "parameters" - they are different 
 
 <hr>
 
-[Prev](parameters.md) | [Up](README.md) | [Next](local-variables.md)
+[Prev](parameters.md) -- [Up](README.md) -- [Next](local-variables.md)
 

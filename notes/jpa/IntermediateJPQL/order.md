@@ -34,5 +34,5 @@ List<Film> results = em.createQuery(query, Film.class).getResultList();
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](aggregates.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](aggregates.md)
 

@@ -74,5 +74,5 @@ It is possible to have BOTH REST and MVC controllers in one Spring project.
 
 <hr>
 
-[Prev](review.md) | [Up](README.md) | [Next](restEndpoints.md)
+[Prev](review.md) -- [Up](README.md) -- [Next](restEndpoints.md)
 

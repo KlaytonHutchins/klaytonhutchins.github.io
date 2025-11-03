@@ -36,5 +36,5 @@ We will create a new Dynamic Web Application which displays lotto numbers, and d
 
 <hr>
 
-[Prev](servlet.md) | [Up](README.md) | [Next](2-labs.md)
+[Prev](servlet.md) -- [Up](README.md) -- [Next](2-labs.md)
 

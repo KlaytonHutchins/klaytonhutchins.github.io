@@ -54,5 +54,5 @@ dependencies {
 
 <hr>
 
-[Prev](springBootIntegration.md) | [Up](README.md) | [Next](dao.md)
+[Prev](springBootIntegration.md) -- [Up](README.md) -- [Next](dao.md)
 

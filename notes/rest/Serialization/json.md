@@ -74,5 +74,5 @@ Instead, they will consume RESTful API's.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](javaAndJson.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](javaAndJson.md)
 

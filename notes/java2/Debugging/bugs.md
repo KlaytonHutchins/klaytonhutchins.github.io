@@ -15,5 +15,5 @@ Debugging is the process of finding the bugs in your program and fixing them.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](commenting.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](commenting.md)
 

@@ -72,5 +72,5 @@ public class OpAssign {
 
 <hr>
 
-[Prev](booleanExpressions.md) | [Up](README.md) | [Next](prePostIncrement.md)
+[Prev](booleanExpressions.md) -- [Up](README.md) -- [Next](prePostIncrement.md)
 

@@ -21,4 +21,4 @@ In this chapter, we will learn more about objects and classes, including reasons
 
 <hr>
 
-[Up](../README.md) | [Next](this-vs-this.md)
+[Up](../README.md) -- [Next](this-vs-this.md)

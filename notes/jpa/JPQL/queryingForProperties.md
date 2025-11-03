@@ -22,5 +22,5 @@ Notice that the second argument to `createQuery` is now `String.class` and the c
 
 <hr>
 
-[Prev](basicQueries.md) | [Up](README.md) | [Next](retrieveMultipleProperties.md)
+[Prev](basicQueries.md) -- [Up](README.md) -- [Next](retrieveMultipleProperties.md)
 

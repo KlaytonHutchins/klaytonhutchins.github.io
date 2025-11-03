@@ -52,5 +52,5 @@ org.opentest4j.MultipleFailuresError: Multiple Failures (2 failures)
 
 <hr>
 
-[Prev](display-name.md) | [Up](README.md) | [Next](exceptions.md)
+[Prev](display-name.md) -- [Up](README.md) -- [Next](exceptions.md)
 

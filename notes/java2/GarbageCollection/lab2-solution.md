@@ -32,5 +32,5 @@ It is eligible when the method finishes.
 
 <hr>
 
-[Prev](lab1-solution.md) | [Up](README.md)
+[Prev](lab1-solution.md) -- [Up](README.md)
 

@@ -73,5 +73,5 @@ catch (IOException e) {
 
 <hr>
 
-[Prev](FileObject.md) | [Up](README.md) | [Next](PrintWriterClass.md)
+[Prev](FileObject.md) -- [Up](README.md) -- [Next](PrintWriterClass.md)
 

@@ -60,5 +60,5 @@ public class PersistMultipleExample {
 
 <hr>
 
-[Prev](persistingWithForeignKeys.md) | [Up](README.md) | [Next](cascading.md)
+[Prev](persistingWithForeignKeys.md) -- [Up](README.md) -- [Next](cascading.md)
 

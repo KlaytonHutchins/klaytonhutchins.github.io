@@ -31,5 +31,5 @@ Integrating a JPA project into Spring Boot is simple.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](springBootIntegration.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](springBootIntegration.md)
 

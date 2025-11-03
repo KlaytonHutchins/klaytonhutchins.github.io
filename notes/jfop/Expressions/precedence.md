@@ -66,5 +66,5 @@ Imagine Java narrating this statement evaluation.
 
 <hr>
 
-[Prev](associativity.md) | [Up](README.md) | [Next](precedence-order.md)
+[Prev](associativity.md) -- [Up](README.md) -- [Next](precedence-order.md)
 

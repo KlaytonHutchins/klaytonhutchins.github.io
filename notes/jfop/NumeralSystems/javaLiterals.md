@@ -91,5 +91,5 @@ Solution: _NumeralSystems/com.example.numeralsystems.solutions.SkillDrills2.java
 
 <hr>
 
-[Prev](binOctDecHex.md) | [Up](README.md) | [Next](printf.md)
+[Prev](binOctDecHex.md) -- [Up](README.md) -- [Next](printf.md)
 

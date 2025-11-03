@@ -75,5 +75,5 @@ No matter how big the hash table, this computation and retrieval takes the same 
 
 <hr>
 
-[Prev](hashCode.md) | [Up](README.md) | [Next](mapEntry.md)
+[Prev](hashCode.md) -- [Up](README.md) -- [Next](mapEntry.md)
 

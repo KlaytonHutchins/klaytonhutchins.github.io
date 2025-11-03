@@ -16,4 +16,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](manyToMany.md)
+[Up](../README.md) -- [Next](manyToMany.md)

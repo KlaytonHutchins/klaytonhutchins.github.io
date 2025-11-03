@@ -89,5 +89,5 @@ Resource: https://docs.oracle.com/javase/tutorial/java/IandI/super.html
 
 <hr>
 
-[Prev](super-ctor.md) | [Up](README.md) | [Next](object.md)
+[Prev](super-ctor.md) -- [Up](README.md) -- [Next](object.md)
 

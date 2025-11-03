@@ -98,5 +98,5 @@ Eclipse is loaded with features that tend to be hidden deep beneath menu options
 
 <hr>
 
-[Prev](javaEditor.md) | [Up](README.md) | [Next](importingProjects.md)
+[Prev](javaEditor.md) -- [Up](README.md) -- [Next](importingProjects.md)
 

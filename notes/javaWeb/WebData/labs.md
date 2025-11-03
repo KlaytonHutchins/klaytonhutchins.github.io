@@ -54,5 +54,5 @@ In this lab you will create a Dynamic Web Project with a form to submit data, an
 
 <hr>
 
-[Prev](servlet-data.md) | [Up](README.md) | [Next](2-labs.md)
+[Prev](servlet-data.md) -- [Up](README.md) -- [Next](2-labs.md)
 

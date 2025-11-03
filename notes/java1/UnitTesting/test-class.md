@@ -75,5 +75,5 @@ Unit tests are especially useful when it comes time to _retest_ our code. We mus
 
 <hr>
 
-[Prev](junit.md) | [Up](README.md) | [Next](test-methods.md)
+[Prev](junit.md) -- [Up](README.md) -- [Next](test-methods.md)
 

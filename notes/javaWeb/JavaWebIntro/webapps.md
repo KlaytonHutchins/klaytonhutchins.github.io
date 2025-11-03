@@ -48,5 +48,5 @@ The application server runs the Web Container program.
 
 <hr>
 
-[Prev](clients-and-servers.md) | [Up](README.md) | [Next](java-webapp.md)
+[Prev](clients-and-servers.md) -- [Up](README.md) -- [Next](java-webapp.md)
 

@@ -155,5 +155,5 @@ By implementing interfaces, we can allow an object to inherit multiple _types_.
 
 <hr>
 
-[Prev](declaringInterfaces.md) | [Up](README.md) | [Next](usingInterfaces-labs.md)
+[Prev](declaringInterfaces.md) -- [Up](README.md) -- [Next](usingInterfaces-labs.md)
 

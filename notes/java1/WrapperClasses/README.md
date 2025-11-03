@@ -31,4 +31,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](wrapperClasses.md)
+[Up](../README.md) -- [Next](wrapperClasses.md)

@@ -30,5 +30,5 @@ Leonard Richardson developed a model that divides the principles of REST into 3 
 
 <hr>
 
-[Prev](hateoas.md) | [Up](README.md) | [Next](questions.md)
+[Prev](hateoas.md) -- [Up](README.md) -- [Next](questions.md)
 

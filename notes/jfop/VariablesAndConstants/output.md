@@ -38,5 +38,5 @@ System.out.println("char 5: " + c_5);
 
 <hr>
 
-[Prev](assign.md) | [Up](README.md) | [Next](labs.md)
+[Prev](assign.md) -- [Up](README.md) -- [Next](labs.md)
 

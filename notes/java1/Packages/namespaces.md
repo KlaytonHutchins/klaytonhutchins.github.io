@@ -21,5 +21,5 @@ In the filesystem, a directory is a namespace for filenames.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](introPackages.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](introPackages.md)
 

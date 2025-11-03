@@ -74,5 +74,5 @@ Never use `Controller` or `RestController` as a class name, e.g. `public class R
 
 <hr>
 
-[Prev](testing.md) | [Up](README.md) | [Next](mappingRequests.md)
+[Prev](testing.md) -- [Up](README.md) -- [Next](mappingRequests.md)
 

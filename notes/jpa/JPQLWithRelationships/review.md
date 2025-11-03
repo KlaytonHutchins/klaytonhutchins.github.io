@@ -45,5 +45,5 @@ List<Film> results =
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](fieldsThatAreObjects.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](fieldsThatAreObjects.md)
 

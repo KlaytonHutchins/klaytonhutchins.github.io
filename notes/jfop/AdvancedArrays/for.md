@@ -40,5 +40,5 @@ ints[3] = new int[4];
 
 <hr>
 
-[Prev](accessing.md) | [Up](README.md) | [Next](foreach.md)
+[Prev](accessing.md) -- [Up](README.md) -- [Next](foreach.md)
 

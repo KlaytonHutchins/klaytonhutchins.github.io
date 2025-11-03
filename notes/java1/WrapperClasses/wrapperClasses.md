@@ -38,5 +38,5 @@ These classes are in the `java.lang` package, so no need to import anything to u
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](wrapperMethods.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](wrapperMethods.md)
 

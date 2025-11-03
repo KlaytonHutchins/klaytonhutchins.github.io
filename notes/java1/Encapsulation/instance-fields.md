@@ -49,5 +49,5 @@ We can solve this by changing the _visibility_ of our fields.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](visibility.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](visibility.md)
 

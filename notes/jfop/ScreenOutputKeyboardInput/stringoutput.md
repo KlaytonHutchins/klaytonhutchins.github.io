@@ -34,5 +34,5 @@ System.out.println("" + 4 + 2);
 
 <hr>
 
-[Prev](formatting.md) | [Up](README.md) | [Next](input.md)
+[Prev](formatting.md) -- [Up](README.md) -- [Next](input.md)
 

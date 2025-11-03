@@ -20,5 +20,5 @@ Classes for these labs are in  `com.example.interfaces.labs.shapes`. We will cre
 
 <hr>
 
-[Prev](usingInterfaces.md) | [Up](README.md)
+[Prev](usingInterfaces.md) -- [Up](README.md)
 

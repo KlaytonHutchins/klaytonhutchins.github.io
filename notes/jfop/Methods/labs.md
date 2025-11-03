@@ -40,5 +40,5 @@
 
 <hr>
 
-[Prev](overloading.md) | [Up](README.md)
+[Prev](overloading.md) -- [Up](README.md)
 

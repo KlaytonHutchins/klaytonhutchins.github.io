@@ -40,5 +40,5 @@ A class which has no `package` declaration is part of the unnamed package, so ev
 
 <hr>
 
-[Prev](namespaces.md) | [Up](README.md) | [Next](creatingPackages.md)
+[Prev](namespaces.md) -- [Up](README.md) -- [Next](creatingPackages.md)
 

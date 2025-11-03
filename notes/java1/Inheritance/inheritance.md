@@ -17,5 +17,5 @@ Use inheritance when you want to avoid representing the same thing twice, in two
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](extends.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](extends.md)
 

@@ -42,5 +42,5 @@ void tearDown() {
 
 <hr>
 
-[Prev](test.md) | [Up](README.md) | [Next](display-name.md)
+[Prev](test.md) -- [Up](README.md) -- [Next](display-name.md)
 

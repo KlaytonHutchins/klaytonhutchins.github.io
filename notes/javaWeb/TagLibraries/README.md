@@ -21,4 +21,4 @@ Use JSP Expression Language and the JSP Standard Tag Library to generate HTML.
 
 <hr>
 
-[Up](../README.md) | [Next](jstl.md)
+[Up](../README.md) -- [Next](jstl.md)

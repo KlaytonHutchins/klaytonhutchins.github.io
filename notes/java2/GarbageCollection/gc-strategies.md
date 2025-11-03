@@ -19,5 +19,5 @@ All other objects are considered garbage, and can be deleted.
 
 <hr>
 
-[Prev](garbage-collection.md) | [Up](README.md) | [Next](finalize.md)
+[Prev](garbage-collection.md) -- [Up](README.md) -- [Next](finalize.md)
 

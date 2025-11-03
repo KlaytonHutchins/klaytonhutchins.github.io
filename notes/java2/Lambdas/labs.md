@@ -23,5 +23,5 @@ In these labs we will use the functional interface `Predicate` and lambda-relate
 
 <hr>
 
-[Prev](StandardFunctionalInterfaces.md) | [Up](README.md)
+[Prev](StandardFunctionalInterfaces.md) -- [Up](README.md)
 

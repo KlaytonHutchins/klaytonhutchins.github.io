@@ -22,5 +22,5 @@ Since they are not `abstract`, `static` methods don't change the interface's con
 
 <hr>
 
-[Prev](interfaceInheritance.md) | [Up](README.md) | [Next](defaultMethods.md)
+[Prev](interfaceInheritance.md) -- [Up](README.md) -- [Next](defaultMethods.md)
 

@@ -41,5 +41,5 @@ Use the `<c:forEach>` tag to iterate over arrays and collections.
 
 <hr>
 
-[Prev](conditionals.md) | [Up](README.md) | [Next](map-iteration.md)
+[Prev](conditionals.md) -- [Up](README.md) -- [Next](map-iteration.md)
 

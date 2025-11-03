@@ -90,5 +90,5 @@ It is not as important to declare your field or variable type as `List`, but it 
 
 <hr>
 
-[Prev](vector.md) | [Up](README.md) | [Next](labs.md)
+[Prev](vector.md) -- [Up](README.md) -- [Next](labs.md)
 

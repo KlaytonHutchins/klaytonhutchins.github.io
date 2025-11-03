@@ -25,5 +25,5 @@ for (int i=0; i < end; i++){
 
 <hr>
 
-[Prev](break-continue.md) | [Up](README.md) | [Next](labs.md)
+[Prev](break-continue.md) -- [Up](README.md) -- [Next](labs.md)
 

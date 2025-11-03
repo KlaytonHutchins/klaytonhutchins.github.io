@@ -22,5 +22,5 @@
 
 <hr>
 
-[Prev](break-continue.md) | [Up](README.md)
+[Prev](break-continue.md) -- [Up](README.md)
 

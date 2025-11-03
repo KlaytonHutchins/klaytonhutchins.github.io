@@ -27,5 +27,5 @@
 
 <hr>
 
-[Prev](grouping.md) | [Up](README.md)
+[Prev](grouping.md) -- [Up](README.md)
 

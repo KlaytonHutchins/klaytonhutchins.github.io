@@ -26,4 +26,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](InnerClasses.md)
+[Up](../README.md) -- [Next](InnerClasses.md)

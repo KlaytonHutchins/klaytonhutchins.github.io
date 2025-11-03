@@ -24,5 +24,5 @@ The _array variable_ itself must be initialized before use, but when the array i
 
 <hr>
 
-[Prev](creating.md) | [Up](README.md) | [Next](access.md)
+[Prev](creating.md) -- [Up](README.md) -- [Next](access.md)
 

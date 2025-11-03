@@ -53,5 +53,5 @@ We configure our DAOs with annotations so that _Spring Boot_ will manage them an
 
 <hr>
 
-[Prev](multiProject.md) | [Up](README.md) | [Next](springBootAndJPA.md)
+[Prev](multiProject.md) -- [Up](README.md) -- [Next](springBootAndJPA.md)
 

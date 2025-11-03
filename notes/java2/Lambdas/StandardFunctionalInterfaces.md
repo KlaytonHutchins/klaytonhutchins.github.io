@@ -100,5 +100,5 @@ for (String s : strings) {
 
 <hr>
 
-[Prev](predicate.md) | [Up](README.md) | [Next](labs.md)
+[Prev](predicate.md) -- [Up](README.md) -- [Next](labs.md)
 

@@ -54,5 +54,5 @@ for (s : stringArr){
 
 <hr>
 
-[Prev](nested-for.md) | [Up](README.md) | [Next](break-continue.md)
+[Prev](nested-for.md) -- [Up](README.md) -- [Next](break-continue.md)
 

@@ -45,5 +45,5 @@ System.out.println(twoThirty);
 
 <hr>
 
-[Prev](LocalDate.md) | [Up](README.md) | [Next](LocalDateTime.md)
+[Prev](LocalDate.md) -- [Up](README.md) -- [Next](LocalDateTime.md)
 

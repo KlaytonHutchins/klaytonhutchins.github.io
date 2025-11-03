@@ -40,5 +40,5 @@ Unchecking a breakpoint will disable it, so the debugger does not stop on that l
 
 <hr>
 
-[Prev](eclipse-debugger.md) | [Up](README.md) | [Next](breakpoints.md)
+[Prev](eclipse-debugger.md) -- [Up](README.md) -- [Next](breakpoints.md)
 

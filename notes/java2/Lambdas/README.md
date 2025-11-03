@@ -20,4 +20,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](innerClassesReview.md)
+[Up](../README.md) -- [Next](innerClassesReview.md)

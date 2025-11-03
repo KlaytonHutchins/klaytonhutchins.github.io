@@ -42,5 +42,5 @@ Java will not initialize the static members of a class until a program uses the 
 
 <hr>
 
-[Prev](init-instance.md) | [Up](README.md) | [Next](final.md)
+[Prev](init-instance.md) -- [Up](README.md) -- [Next](final.md)
 

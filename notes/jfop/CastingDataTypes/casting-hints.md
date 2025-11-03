@@ -41,5 +41,5 @@ String s = "" + d;
 
 <hr>
 
-[Prev](casting.md) | [Up](README.md) | [Next](labs.md)
+[Prev](casting.md) -- [Up](README.md) -- [Next](labs.md)
 

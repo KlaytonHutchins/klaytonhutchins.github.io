@@ -39,5 +39,5 @@ These labs require drawing references to objects on the heap.
 
 <hr>
 
-[Prev](understanding-gc.md) | [Up](README.md) | [Next](lab1-solution.md)
+[Prev](understanding-gc.md) -- [Up](README.md) -- [Next](lab1-solution.md)
 

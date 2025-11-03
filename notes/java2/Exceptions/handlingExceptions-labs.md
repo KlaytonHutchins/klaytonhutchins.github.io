@@ -28,5 +28,5 @@ The purpose of this lab is to handle or declare exceptions, and call methods whi
 
 <hr>
 
-[Prev](checkedExceptions.md) | [Up](README.md) | [Next](Throwable.md)
+[Prev](checkedExceptions.md) -- [Up](README.md) -- [Next](Throwable.md)
 

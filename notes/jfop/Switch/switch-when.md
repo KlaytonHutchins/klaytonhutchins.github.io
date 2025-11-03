@@ -61,5 +61,5 @@ You will use `if` much, much more than `switch`.
 
 <hr>
 
-[Prev](switch-break-default.md) | [Up](README.md) | [Next](labs.md)
+[Prev](switch-break-default.md) -- [Up](README.md) -- [Next](labs.md)
 

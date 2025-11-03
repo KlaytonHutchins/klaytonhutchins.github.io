@@ -18,5 +18,5 @@ Use `ShowSortedHits.java`, `AccessLogComparator.java`, and `access_log` as start
 
 <hr>
 
-[Prev](compiling.md) | [Up](README.md)
+[Prev](compiling.md) -- [Up](README.md)
 

@@ -84,5 +84,5 @@ Imagine we wanted to print the name of anyone that _is-a_ `Employee`.
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](override.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](override.md)
 

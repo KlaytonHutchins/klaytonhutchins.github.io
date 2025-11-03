@@ -28,4 +28,4 @@
 
 <hr>
 
-[Up](../README.md) | [Next](temporalData.md)
+[Up](../README.md) -- [Next](temporalData.md)

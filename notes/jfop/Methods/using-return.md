@@ -36,5 +36,5 @@ public static String buildHeader() {
 
 <hr>
 
-[Prev](return.md) | [Up](README.md) | [Next](parameters.md)
+[Prev](return.md) -- [Up](README.md) -- [Next](parameters.md)
 

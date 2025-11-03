@@ -99,5 +99,5 @@ In the _VideoStoreREST_ application, change the status code of the `AddressContr
 
 <hr>
 
-[Prev](statusCodes.md) | [Up](README.md) | [Next](semantics.md)
+[Prev](statusCodes.md) -- [Up](README.md) -- [Next](semantics.md)
 

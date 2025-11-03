@@ -39,4 +39,4 @@ If the player defeats three enemies, they retrieve the treasure and are victorio
 
 <hr>
 
-[Up](../README.md) | [Next](task1.md)
+[Up](../README.md) -- [Next](task1.md)

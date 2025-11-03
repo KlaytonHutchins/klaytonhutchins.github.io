@@ -67,5 +67,5 @@ This is because Java accepts all user input as a `String` and then tries to conv
 
 <hr>
 
-[Prev](stringoutput.md) | [Up](README.md) | [Next](labs.md)
+[Prev](stringoutput.md) -- [Up](README.md) -- [Next](labs.md)
 

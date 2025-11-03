@@ -22,5 +22,5 @@ You can specify options that control how a Regex is processed.
 
 <hr>
 
-[Prev](intro.md) | [Up](README.md) | [Next](wildcards.md)
+[Prev](intro.md) -- [Up](README.md) -- [Next](wildcards.md)
 

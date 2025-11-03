@@ -53,5 +53,5 @@ Java does not include either the class name or the `java` command itself in `arg
 
 <hr>
 
-[Prev](argsArray.md) | [Up](README.md) | [Next](argsInEclipse.md)
+[Prev](argsArray.md) -- [Up](README.md) -- [Next](argsInEclipse.md)
 

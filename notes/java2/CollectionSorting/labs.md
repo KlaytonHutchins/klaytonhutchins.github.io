@@ -25,5 +25,5 @@ Solutions: `com.example.sorting.solutions.labs`
 
 <hr>
 
-[Prev](CollectionsClass.md) | [Up](README.md)
+[Prev](CollectionsClass.md) -- [Up](README.md)
 

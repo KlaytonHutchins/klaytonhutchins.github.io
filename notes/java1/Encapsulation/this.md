@@ -77,5 +77,5 @@ public void setBalance(double balance) {
 
 <hr>
 
-[Prev](getters-setters.md) | [Up](README.md) | [Next](labs.md)
+[Prev](getters-setters.md) -- [Up](README.md) -- [Next](labs.md)
 

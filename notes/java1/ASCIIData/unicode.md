@@ -61,5 +61,5 @@ System.out.println(Character.toChars(0x1f0a1));
 
 <hr>
 
-[Prev](ascii.md) | [Up](README.md) | [Next](labs.md)
+[Prev](ascii.md) -- [Up](README.md) -- [Next](labs.md)
 

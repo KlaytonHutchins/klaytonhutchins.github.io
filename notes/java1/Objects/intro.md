@@ -45,5 +45,5 @@ double circum = Sphere3.calculateCircumference(15.0); // static method call
 
 <hr>
 
-[Prev](README.md) | [Up](README.md) | [Next](constructor.md)
+[Prev](README.md) -- [Up](README.md) -- [Next](constructor.md)
 

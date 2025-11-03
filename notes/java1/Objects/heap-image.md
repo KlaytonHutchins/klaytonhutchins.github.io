@@ -49,5 +49,5 @@ Note: we draw the heap's shape to remind us of its name, not because it has some
 
 <hr>
 
-[Prev](heap.md) | [Up](README.md) | [Next](public.md)
+[Prev](heap.md) -- [Up](README.md) -- [Next](public.md)
 

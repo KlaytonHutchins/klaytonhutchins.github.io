@@ -52,5 +52,5 @@ protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws Se
 
 <hr>
 
-[Prev](el.md) | [Up](README.md) | [Next](java-beans.md)
+[Prev](el.md) -- [Up](README.md) -- [Next](java-beans.md)
 

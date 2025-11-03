@@ -14,5 +14,5 @@
 
 <hr>
 
-[Prev](printf.md) | [Up](README.md)
+[Prev](printf.md) -- [Up](README.md)
 
