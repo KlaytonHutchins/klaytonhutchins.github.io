@@ -1,3 +1,8 @@
+---
+layout: default
+title: Queries with Nested Object
+---
+
 ## Queries with Nested Objects
 
 We are going to use the `Customer` and `Address` classes in our examples for this chapter. Up to this point we have a number of fields configured in our entities, including a few relationships.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `SortedSet` Interface and `TreeSet` Cla
+---
+
 ## `SortedSet` Interface and `TreeSet` Class
 
 `SortedSet` is a subinterface of `Set`, which guarantees that its elements will be **ordered**.

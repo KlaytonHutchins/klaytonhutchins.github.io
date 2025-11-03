@@ -1,3 +1,8 @@
+---
+layout: default
+title: Options
+---
+
 #### Options
 
 You can specify options that control how a Regex is processed.

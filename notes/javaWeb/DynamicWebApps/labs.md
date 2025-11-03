@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 We will create a new Dynamic Web Application which displays lotto numbers, and deploy it to Tomcat.
 

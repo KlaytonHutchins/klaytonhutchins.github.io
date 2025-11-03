@@ -1,3 +1,8 @@
+---
+layout: default
+title: Objects in Memory
+---
+
 ## Objects in Memory
 
 We know that declaring and assigning a primitive variable stores 0's and 1's in memory.

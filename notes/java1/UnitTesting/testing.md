@@ -1,3 +1,8 @@
+---
+layout: default
+title: Testing Java Application
+---
+
 ## Testing Java Applications
 
 So far, testing java applications has been a manual process.

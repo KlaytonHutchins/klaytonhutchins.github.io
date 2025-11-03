@@ -1,3 +1,8 @@
+---
+layout: default
+title: `ArrayList` - Size vs. Capacity
+---
+
 ## `ArrayList` - Size vs. Capacity
 
 The `size()` of an `ArrayList` is the number of elements in the list, _not_ the `length` of the internal array.

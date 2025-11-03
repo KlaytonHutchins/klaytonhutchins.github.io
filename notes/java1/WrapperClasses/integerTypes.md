@@ -1,3 +1,8 @@
+---
+layout: default
+title: Integer-type Wrapper
+---
+
 ## Integer-type Wrappers
 
 `Byte`, `Short`, `Integer`, and `Long` all encapsulate integer-type values.

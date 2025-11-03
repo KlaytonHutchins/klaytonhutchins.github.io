@@ -1,3 +1,8 @@
+---
+layout: default
+title: Variable Types Tell Java What to Do
+---
+
 ## Variable Types Tell Java What to Do
 
 If we can treat a `char` like an `int` and add to it, how does Java know to print out a character?

@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSP Expression Language Syntax
+---
+
 ## JSP Expression Language Syntax
 JSP Expression Language (JSP EL) allows us to present data from a servlet on the JSP page.
 

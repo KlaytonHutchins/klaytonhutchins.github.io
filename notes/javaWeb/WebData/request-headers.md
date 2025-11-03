@@ -1,3 +1,8 @@
+---
+layout: default
+title: HTTP Header
+---
+
 ## HTTP Headers
 HTTP defines four general categories of header:
   * General headers

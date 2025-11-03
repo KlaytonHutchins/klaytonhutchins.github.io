@@ -1,3 +1,8 @@
+---
+layout: default
+title: Aggregate
+---
+
 ## Aggregates
 As we learned in SQL, _aggregate functions_ can be used to distill a result set into in a single value.
 

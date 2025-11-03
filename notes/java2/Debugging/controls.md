@@ -1,3 +1,8 @@
+---
+layout: default
+title: Controlling Program Execution
+---
+
 ## Controlling Program Execution
 
 The Toolbar gives us control of executing the program.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Memory Management Strategie
+---
+
 ## Memory Management Strategies
 
 There are many strategies for garbage collection.

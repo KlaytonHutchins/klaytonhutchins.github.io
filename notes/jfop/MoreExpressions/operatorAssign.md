@@ -1,3 +1,8 @@
+---
+layout: default
+title: Assignment Operator
+---
+
 ## Assignment Operators
 
 It's very common to use the value of a variable in an expression, then assign the result of the expression back into the original variable.

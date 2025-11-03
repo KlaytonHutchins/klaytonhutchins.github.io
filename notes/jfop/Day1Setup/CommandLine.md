@@ -1,3 +1,8 @@
+---
+layout: default
+title: Set Up the Initial Development Environment
+---
+
 ## Set Up the Initial Development Environment
 
 You're going to use the command line to set up and use your initial development environment.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Add and Remove Method
+---
+
 ## Add and Remove Methods
 When an entity has a field that is a collection, we need to do a little extra work in addition to adding the basic get/set methods.
 

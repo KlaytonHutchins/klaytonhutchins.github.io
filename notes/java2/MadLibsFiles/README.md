@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project: Mad Lib
+---
+
 ## Project: Mad Libs
 
 We will be creating a Mad Libs game. The game reads a story from a file, and substitutes random words into the story.

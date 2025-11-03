@@ -1,3 +1,8 @@
+---
+layout: default
+title: Casting Data Type
+---
+
 ## Casting Data Types
 In this chapter we will discuss converting primitive data into other data types.
 

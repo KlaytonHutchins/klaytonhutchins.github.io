@@ -1,3 +1,8 @@
+---
+layout: default
+title: Import
+---
+
 ## Imports
 
 To use a class defined in another package we use its _fully-qualified class name_:

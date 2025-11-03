@@ -1,3 +1,8 @@
+---
+layout: default
+title: Commenting Out Code
+---
+
 ## Commenting Out Code
 
 One of the oldest debugging techniques is to comment out code.

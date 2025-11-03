@@ -1,3 +1,8 @@
+---
+layout: default
+title: Polymorphism in Java
+---
+
 ## Polymorphism in Java
 
 _Polymorphism_ is a term from biology, in which an organism can take many forms or stages.

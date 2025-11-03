@@ -1,3 +1,8 @@
+---
+layout: default
+title: `LocalDate`
+---
+
 ## `LocalDate`
 
 Use a `LocalDate` to represent a calendar date.

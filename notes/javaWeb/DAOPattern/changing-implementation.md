@@ -1,3 +1,8 @@
+---
+layout: default
+title: DAO Interface Advantage
+---
+
 ## DAO Interface Advantages
 
 A class that calls methods on a variable whose type is a DAO interface is not coupled with a specific DAO implementation class.

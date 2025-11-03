@@ -1,3 +1,8 @@
+---
+layout: default
+title: Grouping and Alternatives
+---
+
 ## Grouping and Alternatives
 
 `|` - match one of a list of pipe-separated alternatives

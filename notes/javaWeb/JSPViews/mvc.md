@@ -1,3 +1,8 @@
+---
+layout: default
+title: MVC Design Pattern
+---
+
 ## MVC Design Pattern
 
 ### Model 1

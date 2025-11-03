@@ -1,3 +1,8 @@
+---
+layout: default
+title: When to Use a `Map`
+---
+
 ## When to Use a `Map`
 
 The case for using a `Map` hinges on lookup: knowing something (a key) and using it to quickly find something else (a value).

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Xtreme 9 Lives!  :boom::metal::sunglasses:
+---
+
 ## Xtreme 9 Lives!  :boom::metal::sunglasses:
 
 To get some familiarity with Spring REST we are going to be creating a project called `Xtreme9Lives`.

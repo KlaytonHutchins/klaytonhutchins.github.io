@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using Data in Servlet
+---
+
 ## Using Data in Servlets
 
 The `HttpServletRequest` gives you information about the request, including the data passed in a query string or form.

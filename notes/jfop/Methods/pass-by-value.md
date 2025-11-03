@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pass-by-value
+---
+
 ## Pass-by-value
 
 Parameters are like local variables in that their scope is limited to the method's curly braces `{ }`.

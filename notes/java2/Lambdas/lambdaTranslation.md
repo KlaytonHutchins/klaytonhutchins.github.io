@@ -1,3 +1,8 @@
+---
+layout: default
+title: Translating Inner Classes to Lambda
+---
+
 ## Translating Inner Classes to Lambdas
 
 Note the similarities between the inner class and the lambda.

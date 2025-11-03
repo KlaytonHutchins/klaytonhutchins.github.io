@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visibility
+---
+
 ## Visibility
 
 A `.java` file can have at most one class that is declared `public`.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Some Objects You've Already Met
+---
+
 ## Some Objects You've Already Met
 
 We have been using objects in programs already.

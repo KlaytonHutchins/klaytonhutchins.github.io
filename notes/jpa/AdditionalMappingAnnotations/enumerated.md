@@ -1,3 +1,8 @@
+---
+layout: default
+title: `@Enumerated`
+---
+
 ## `@Enumerated`
 
 You may want to map a particular database column onto a Java *enum*.

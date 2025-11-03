@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSTL Conditional
+---
+
 ## JSTL Conditionals
 
 For a simple if statement, use the `<c:if>` tag.

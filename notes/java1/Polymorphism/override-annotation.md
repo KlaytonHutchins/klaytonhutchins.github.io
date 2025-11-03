@@ -1,3 +1,8 @@
+---
+layout: default
+title: `@Override`
+---
+
 ## `@Override`
 
 In Java 5, the designers of the language added the `@Override` annotation.

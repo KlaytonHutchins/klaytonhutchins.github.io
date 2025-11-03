@@ -1,3 +1,8 @@
+---
+layout: default
+title: Task 1: Class Design
+---
+
 ## Task 1: Class Design
 
 Before writing any code, you will design your application classes.

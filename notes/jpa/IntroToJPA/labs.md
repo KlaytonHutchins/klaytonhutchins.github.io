@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 ***NOTE:*** The following exercises ask you to build entities for some of your SQL tables. Not every column will have a corresponding field in the Entity after this lab. That is totally fine and will not cause any problems.

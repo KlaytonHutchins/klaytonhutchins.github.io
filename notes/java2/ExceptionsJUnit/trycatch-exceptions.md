@@ -1,3 +1,8 @@
+---
+layout: default
+title: Testing Exceptions with `try` and `catch`
+---
+
 ## Testing Exceptions with `try` and `catch`
 You can test for exceptions within a test method by using a try/catch block and the `fail` method.
 * The method under test _should_ throw an exception, so executing any line past the method is a failure.

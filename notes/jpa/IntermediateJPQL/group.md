@@ -1,3 +1,8 @@
+---
+layout: default
+title: Grouping
+---
+
 ## Grouping
 
 ### `GROUP BY`

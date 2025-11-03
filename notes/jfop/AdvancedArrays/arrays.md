@@ -1,3 +1,8 @@
+---
+layout: default
+title: Array Syntax
+---
+
 ## Array Syntax
 
 We use the `[]` operator to declare array variables, and the `new` operator to create an array object.

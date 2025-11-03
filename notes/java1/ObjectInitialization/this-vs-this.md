@@ -1,3 +1,8 @@
+---
+layout: default
+title: `this` vs. `this()`
+---
+
 ## `this` vs. `this()`
 
 We have seen how to use the reference `this` to allow an object to use its own fields and methods.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Float` and `Double`
+---
+
 ## `Float` and `Double`
 
 The `valueOf` method for these two wrappers ignores leading and trailing whitespace.

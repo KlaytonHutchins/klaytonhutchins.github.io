@@ -1,3 +1,8 @@
+---
+layout: default
+title: Labs
+---
+
 ## Labs ##
 Labs come with solutions that are related to this section's name. Solutions for these labs are in `simpleprograms/solutions`.
 

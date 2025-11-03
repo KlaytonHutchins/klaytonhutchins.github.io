@@ -1,3 +1,8 @@
+---
+layout: default
+title: Primitive Data Type
+---
+
 ## Primitive Data Types
 
 There are eight primitive data types in Java, each using a certain number of bytes of memory.

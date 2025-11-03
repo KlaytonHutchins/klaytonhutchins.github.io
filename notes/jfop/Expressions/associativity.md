@@ -1,3 +1,8 @@
+---
+layout: default
+title: Associativity
+---
+
 ## Associativity
 
 Java reads statements left to right. When it sees operators, it looks for data to use with the operators. _Associativity_ determines in which order a given operator looks for its operands.

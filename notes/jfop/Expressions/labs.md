@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In this set of labs we will write several programs to use expressions. There are many labs in this section. If you do not finish all of them, you can do so later.
 

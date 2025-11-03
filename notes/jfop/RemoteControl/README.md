@@ -1,3 +1,8 @@
+---
+layout: default
+title: Remote Control Simulator
+---
+
 ## Remote Control Simulator
 
 We are going to simulate a remote control. It will have buttons "0" to "9", "ON", and "OFF".

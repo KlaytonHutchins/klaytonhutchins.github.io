@@ -1,3 +1,8 @@
+---
+layout: default
+title: Importing Existing Java Code into Eclipse
+---
+
 ## Importing Existing Java Code into Eclipse
 
 To load existing Eclipse projects into your workspace, choose _File_ | _Import..._ | _General_ | _Existing Projects into Workspace_.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Java Development Kit
+---
+
 ## The Java Development Kit
 
 ![Java Development Kit (JDK)](images/jdk.png)

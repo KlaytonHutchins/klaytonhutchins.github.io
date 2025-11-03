@@ -1,3 +1,8 @@
+---
+layout: default
+title: Request and Response
+---
+
 ## Request and Response
 
 Recall that clients send requests to servers, and the data is translated using protocols.

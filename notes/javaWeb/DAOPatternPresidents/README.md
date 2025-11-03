@@ -1,3 +1,8 @@
+---
+layout: default
+title: Presidents Site with DAO
+---
+
 ## Presidents Site with DAO
 
 This project, `DAOPatternPresidents`, uses a `PresidentDAO` that connects to a database.

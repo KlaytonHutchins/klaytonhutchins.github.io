@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSP Data Model
+---
+
 ## JSP Data Model
 The JSP can display data that has been added to its _model_.
 

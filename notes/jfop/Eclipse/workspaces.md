@@ -1,3 +1,8 @@
+---
+layout: default
+title: Workspace
+---
+
 ## Workspaces
 
 To run, Eclipse requires a _workspace_ - a dedicated directory to store the files for your programming projects.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: A `for` Loop Diagram
+---
+
 ## A `for` Loop Diagram
 
 ```java

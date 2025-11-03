@@ -1,3 +1,8 @@
+---
+layout: default
+title: Enumerated Type
+---
+
 ##  Enumerated Types
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Task 2: Implementation
+---
+
 ## Task 2: Implementation
 
 Start by implementing the core classes - items and characters, for example.

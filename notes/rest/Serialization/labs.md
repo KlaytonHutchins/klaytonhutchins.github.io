@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 APIs respond with JSON representations of data.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Maven Dependencie
+---
+
 ## Maven Dependencies
 
 We can use Maven to manage our Java dependencies.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Servlets and `web.xml`
+---
+
 ## Servlets and `web.xml`
 
 Now that you have the servlet-api code, you can create a servlet.

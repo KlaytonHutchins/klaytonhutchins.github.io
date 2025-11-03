@@ -1,3 +1,8 @@
+---
+layout: default
+title: `switch` and Data Type
+---
+
 ## `switch` and Data Types
 
 Below is the list of primitives we can use in a `switch` statement.

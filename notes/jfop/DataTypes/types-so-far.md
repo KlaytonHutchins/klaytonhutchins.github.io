@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Types You've Used
+---
+
 ## Data Types You've Used
 
 So far we have used four of the eight _primitive_ Java data types.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 1. Create a *Store* entity with the following fields.  

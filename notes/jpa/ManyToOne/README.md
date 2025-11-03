@@ -1,3 +1,8 @@
+---
+layout: default
+title: `@ManyToOne`
+---
+
 ## `@ManyToOne`
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sending Data to Method
+---
+
 ## Sending Data to Methods
 
 You can send data to a method.

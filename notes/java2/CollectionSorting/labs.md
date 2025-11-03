@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In these labs we will use the interfaces and sorting methods from this chapter to sort data.
 

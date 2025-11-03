@@ -1,3 +1,8 @@
+---
+layout: default
+title: `@ManyToMany`
+---
+
 ## `@ManyToMany`
 
 Relational databases model many-to-many relationship through a join table.

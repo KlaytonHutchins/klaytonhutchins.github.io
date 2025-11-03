@@ -1,3 +1,8 @@
+---
+layout: default
+title: Conditionals: `switch`
+---
+
 ## Conditionals: `switch`
 
 ### Objectives

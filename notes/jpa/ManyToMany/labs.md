@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 1. Create a new entity and JUnit test for the _category_ table.

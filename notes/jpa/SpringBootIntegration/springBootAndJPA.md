@@ -1,3 +1,8 @@
+---
+layout: default
+title: Spring Boot and JPA
+---
+
 ## Spring Boot and JPA
 
 ### Entities and `EntityManager`

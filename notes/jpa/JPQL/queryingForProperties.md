@@ -1,3 +1,8 @@
+---
+layout: default
+title: Querying for Propertie
+---
+
 ## Querying for Properties
 
 In JPQL executing a statement like `SELECT s FROM Staff s` would retrieve the entire Staff entity with its properties.

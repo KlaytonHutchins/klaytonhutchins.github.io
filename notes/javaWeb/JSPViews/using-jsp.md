@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using JSP Page
+---
+
 ## Using JSP Pages
 Users do not request JSP pages the way they would request HTML pages.
 

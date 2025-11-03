@@ -1,3 +1,8 @@
+---
+layout: default
+title: Java Librarie
+---
+
 ## Java Libraries
 
 ### Day 1

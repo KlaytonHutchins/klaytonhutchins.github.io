@@ -1,3 +1,8 @@
+---
+layout: default
+title: More Lab
+---
+
 ## More Labs
 
 1. Create a calculator web application whose HTML form contains two text boxes for numeric input as well as add, subtract, multiply, and divide buttons.

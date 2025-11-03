@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `Map` Collection
+---
+
 ## The `Map` Collection
 
 `Map` is a data structure that allows you to store key-value pairs.

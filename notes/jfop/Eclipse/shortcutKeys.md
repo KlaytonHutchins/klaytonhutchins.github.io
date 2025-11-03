@@ -1,3 +1,8 @@
+---
+layout: default
+title: Shortcut Key Sequence
+---
+
 ## Shortcut Key Sequences
 
 `Ctrl-Space` - Content Assist

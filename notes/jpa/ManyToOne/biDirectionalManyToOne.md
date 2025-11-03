@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bi-directional `@ManyToOne`
+---
+
 ## Bi-directional `@ManyToOne`
 
 In a bi-directional, many-to-one relationship, the owning side is mapped just like its uni-directional counterpart.

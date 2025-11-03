@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Map` Implementation Class - `HashMap`
+---
+
 ## `Map` Implementation Class - `HashMap`
 
 To create a `Map`, we need an implementation class.

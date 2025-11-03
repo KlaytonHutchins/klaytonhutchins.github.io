@@ -1,3 +1,8 @@
+---
+layout: default
+title: `LinkedList`
+---
+
 ## `LinkedList`
 
 Recall that `ArrayList` maintains an internal array.

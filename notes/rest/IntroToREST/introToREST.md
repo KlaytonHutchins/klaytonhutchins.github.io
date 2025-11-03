@@ -1,3 +1,8 @@
+---
+layout: default
+title: What is REST
+---
+
 ## What is REST
 
 A RESTful web service allows a client to retrieve and manage _resources_ stored on a server.

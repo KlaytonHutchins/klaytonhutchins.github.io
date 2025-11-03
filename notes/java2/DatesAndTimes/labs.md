@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 We are going to modify classes to use Java 8's `LocalDate`.
 

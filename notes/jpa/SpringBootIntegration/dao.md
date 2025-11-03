@@ -1,3 +1,8 @@
+---
+layout: default
+title: Configuring the Data Access Object to Utilize Spring
+---
+
 ## Configuring the Data Access Object to Utilize Spring
 
 We configure our DAOs with annotations so that _Spring Boot_ will manage them and their dependencies.

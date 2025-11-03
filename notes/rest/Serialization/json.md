@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Serialization
+---
+
 ## Data Serialization
 
 ### Dependencies

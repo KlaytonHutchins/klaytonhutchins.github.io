@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 1. Create a program with a method that takes an `int` parameter.  The method should loop from 1 to that number, printing each number in hexadecimal, decimal, and octal. Call this method from `main`.

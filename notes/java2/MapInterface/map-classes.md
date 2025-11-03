@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Map` Implementation Classes - `Hashtable`, `LinkedHashMap`, and `TreeMap`
+---
+
 ## `Map` Implementation Classes - `Hashtable`, `LinkedHashMap`, and `TreeMap`
 
 ![Map family](images/map-classes.png)

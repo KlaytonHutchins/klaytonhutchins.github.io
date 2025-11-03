@@ -1,3 +1,8 @@
+---
+layout: default
+title: Java Web Application
+---
+
 ## Java Web Applications
 
 Java Web Applications consist of several types of files.

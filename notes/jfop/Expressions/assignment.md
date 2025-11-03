@@ -1,3 +1,8 @@
+---
+layout: default
+title: Assignment Expression
+---
+
 ## Assignment Expressions
 
 Assignment expressions assign data to a variable.

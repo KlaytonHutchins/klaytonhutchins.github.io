@@ -1,3 +1,8 @@
+---
+layout: default
+title: Request and Response Object
+---
+
 ## Request and Response Objects
 
 ### Objectives

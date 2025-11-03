@@ -1,3 +1,8 @@
+---
+layout: default
+title: JPA CRUD Homework
+---
+
 ## JPA CRUD Homework
 
 ### Application Overview

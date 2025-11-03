@@ -1,3 +1,8 @@
+---
+layout: default
+title: What is Debugging?
+---
+
 ## What is Debugging?
 
 The term _bug_ is used to describe an error in your program that makes it produce

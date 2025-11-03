@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 1. Create a class `RelationshipCRUDClient` in the `com.example.jpavideostore.client` package.

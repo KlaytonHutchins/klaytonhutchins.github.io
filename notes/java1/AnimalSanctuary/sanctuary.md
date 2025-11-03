@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creating the Sanctuary
+---
+
 ## Creating the Sanctuary
 
 There are many **Animal** s at the **Sanctuary**.

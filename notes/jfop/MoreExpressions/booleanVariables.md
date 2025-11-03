@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using Boolean Variable
+---
+
 ## Using Boolean Variables
 
 A variable of the `boolean` primitive type has one of only two possible values: `true` or `false`.

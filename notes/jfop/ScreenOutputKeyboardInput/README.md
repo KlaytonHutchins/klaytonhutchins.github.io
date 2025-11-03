@@ -1,3 +1,8 @@
+---
+layout: default
+title: Screen Output and Keyboard Input
+---
+
 ## Screen Output and Keyboard Input
 
 ### Objectives

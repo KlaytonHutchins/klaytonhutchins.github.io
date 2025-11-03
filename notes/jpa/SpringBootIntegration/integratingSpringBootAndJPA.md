@@ -1,3 +1,8 @@
+---
+layout: default
+title: Incorporating JPA into your Spring Boot Project
+---
+
 ## Incorporating JPA into your Spring Boot Project
 
 Integrating a JPA project into Spring Boot is simple.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project: Declaration of Independence
+---
+
 ## Project: Declaration of Independence
 
 Write a program to:

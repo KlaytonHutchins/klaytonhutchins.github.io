@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In these labs we will write test cases in existing test classes. Our test cases will call other classes' methods and ensure that those methods throw exceptions.
 

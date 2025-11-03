@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSP Expression Language
+---
+
 ## JSP Expression Language
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Array
+---
+
 ## Arrays
 
 ### Objectives

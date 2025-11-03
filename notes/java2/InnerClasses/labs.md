@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 Files for this lab are in `com.example.innerclasses.labs`.

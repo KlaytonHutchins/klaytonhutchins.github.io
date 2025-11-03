@@ -1,3 +1,8 @@
+---
+layout: default
+title: JavaServer Page
+---
+
 ## JavaServer Pages
 JavaServer Pages, or JSPs, are documents consisting of HTML as well as embedded Java code.
 * JSPs allows web developers to create dynamic content by combining HTML with JSP elements.

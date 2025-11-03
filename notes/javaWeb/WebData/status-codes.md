@@ -1,3 +1,8 @@
+---
+layout: default
+title: HTTP Status Code
+---
+
 ## HTTP Status Codes
 Responses from the server have a code indicating what happened.
 

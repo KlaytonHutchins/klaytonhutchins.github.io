@@ -1,3 +1,8 @@
+---
+layout: default
+title: UML Class Diagram
+---
+
 ## UML Class Diagram
 
 The class diagram is a static diagram which describes the class structure of an application.

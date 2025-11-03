@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mad Lib
+---
+
 ## Mad Libs
 
 We will be creating a Mad Libs game.

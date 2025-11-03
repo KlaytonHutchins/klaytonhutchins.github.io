@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 These labs have us working with Java's wrapper classes to demonstrate their utility, methods, and interaction with primitives.
 

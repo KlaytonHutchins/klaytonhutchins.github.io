@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reading and Storing Data
+---
+
 ## Reading and Storing Data
 
 We use the variable name and `[]` to access elements in an array, and tell Java which element inside the `[]`.

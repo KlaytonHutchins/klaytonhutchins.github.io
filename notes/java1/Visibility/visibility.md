@@ -1,3 +1,8 @@
+---
+layout: default
+title: Field and Method Visibility
+---
+
 ## Field and Method Visibility
 
 Recall how access modifiers determine which fields and methods a class can use.

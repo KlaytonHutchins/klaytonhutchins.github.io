@@ -1,3 +1,8 @@
+---
+layout: default
+title: Advanced Array
+---
+
 ## Advanced Arrays
 
 In this chapter we will be doing more with arrays.

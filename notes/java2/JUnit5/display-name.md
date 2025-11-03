@@ -1,3 +1,8 @@
+---
+layout: default
+title: Test Method Name
+---
+
 ## Test Method Names
 Below is the `AccountTest2` solution, with methods for setup and a single test.
 

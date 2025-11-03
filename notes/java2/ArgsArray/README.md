@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `args` Array
+---
+
 ## The `args` Array
 
 ### Objectives

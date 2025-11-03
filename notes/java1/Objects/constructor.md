@@ -1,3 +1,8 @@
+---
+layout: default
+title: Constructor
+---
+
 ## Constructors
 
 We have been creating objects using the `new` operator and the class name with `()`.

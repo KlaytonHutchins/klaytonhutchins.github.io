@@ -1,3 +1,8 @@
+---
+layout: default
+title: `List` Method
+---
+
 ## `List` Methods
 
 We have seen several `List` methods already:

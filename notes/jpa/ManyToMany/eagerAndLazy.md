@@ -1,3 +1,8 @@
+---
+layout: default
+title: Eager and Lazy Loading
+---
+
 ## Eager and Lazy Loading
 
 When you call find() to retrieve an entity, JPA will _eagerly_ (immediately) load data into scalar types, but defer loading data into collection types until the data is needed.

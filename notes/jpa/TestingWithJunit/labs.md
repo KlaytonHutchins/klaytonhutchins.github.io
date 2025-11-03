@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 In this lab you will build a JUnit test class for each of the entities we created in the introductory chapter. `Customer` and `Address` have already been completed in the previous _SkillDrills_.

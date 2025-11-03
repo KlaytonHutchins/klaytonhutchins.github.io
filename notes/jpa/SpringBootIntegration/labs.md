@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 You are going to be writing a number of request handlers in the `FilmController`, as well as adding some supporting methods in the `FilmDAO`. The goal is to have functional read operations for the *Film* entity so that a user can view a list of films (a master list) and, after selecting a film, see a detailed view of that film.

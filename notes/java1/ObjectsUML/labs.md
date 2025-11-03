@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 These labs require writing on paper or a whiteboard.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 A servlet in this lab uses a `StockProvider` object that queries a database. We need to load the database it uses.

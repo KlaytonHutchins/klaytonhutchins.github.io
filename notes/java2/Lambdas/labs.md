@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In these labs we will use the functional interface `Predicate` and lambda-related methods.
 

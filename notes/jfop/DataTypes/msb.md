@@ -1,3 +1,8 @@
+---
+layout: default
+title: Most Significant Bit
+---
+
 ## Most Significant Bit
 
 If part of determining a negative number is inverting the bits, how can Java determine if a number is positive or negative?

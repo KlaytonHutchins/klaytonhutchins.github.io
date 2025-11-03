@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 If an exercise below requires using your solution from a previous chapter, copy-paste code from your existing program into a new class. If you did not finish the program from the previous chapter, use the solution found in _reference_.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Exception
+---
+
 ## Introduction to Exceptions
 
 When a method encounters a condition in which it can't continue, it will throw an _exception_.

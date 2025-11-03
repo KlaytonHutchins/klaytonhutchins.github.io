@@ -1,3 +1,8 @@
+---
+layout: default
+title: Running JUnit tests with Gradle
+---
+
 ## Running JUnit tests with Gradle
 
 We can leverage our build tool, Gradle, to run our tests as part of the projects build process.

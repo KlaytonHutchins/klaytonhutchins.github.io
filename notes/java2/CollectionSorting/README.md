@@ -1,3 +1,8 @@
+---
+layout: default
+title: Collection Sorting and Tuning
+---
+
 ## Collection Sorting and Tuning
 
 ### Objectives

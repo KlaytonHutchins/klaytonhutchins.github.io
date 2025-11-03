@@ -1,3 +1,8 @@
+---
+layout: default
+title: Eclipse Java EE and Tomcat
+---
+
 ## Eclipse Java EE and Tomcat
 
 ### Objectives

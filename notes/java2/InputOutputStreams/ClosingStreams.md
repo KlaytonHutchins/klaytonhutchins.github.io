@@ -1,3 +1,8 @@
+---
+layout: default
+title: Closing Stream
+---
+
 ## Closing Streams
 
 Upon opening a stream, your program may acquire resources such as file handles or sockets.

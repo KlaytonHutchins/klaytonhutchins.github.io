@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSTL - Formatting
+---
+
 ## JSTL - Formatting
 
 JSTL provides a set of tags to assist with Internationalization (I18N) of your JSP documents.

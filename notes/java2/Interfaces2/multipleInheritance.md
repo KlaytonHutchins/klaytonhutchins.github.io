@@ -1,3 +1,8 @@
+---
+layout: default
+title: Multiple Inheritance
+---
+
 ## Multiple Inheritance
 
 In Object-Oriented languages, _multiple inheritance_ is the ability to inherit from more than one direct superclass.

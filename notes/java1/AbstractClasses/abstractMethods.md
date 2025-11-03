@@ -1,3 +1,8 @@
+---
+layout: default
+title: Abstract Method
+---
+
 ## Abstract Methods
 
 An `abstract` method has no body or implementation code.

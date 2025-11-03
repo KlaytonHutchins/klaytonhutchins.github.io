@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lambda Example
+---
+
 ## Lambda Examples
 
 The purpose of this lab is to practice creating lambda expressions.

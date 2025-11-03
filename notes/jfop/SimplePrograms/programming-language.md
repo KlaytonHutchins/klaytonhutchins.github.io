@@ -1,3 +1,8 @@
+---
+layout: default
+title: Programming Languages
+---
+
 ## Programming Languages ##
 Programs are written in a programming language.
 

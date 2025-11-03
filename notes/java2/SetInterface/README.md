@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `Set` Interface
+---
+
 ## The `Set` Interface
 
 ### Objectives

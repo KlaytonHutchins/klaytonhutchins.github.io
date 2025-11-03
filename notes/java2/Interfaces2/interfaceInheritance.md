@@ -1,3 +1,8 @@
+---
+layout: default
+title: Interface Inheritance
+---
+
 ## Interface Inheritance
 
 An interface can extend another interface.

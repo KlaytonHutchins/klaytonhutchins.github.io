@@ -1,3 +1,8 @@
+---
+layout: default
+title: HTTP and MVC
+---
+
 ## HTTP and MVC
 
 Before we move into REST, we need to review a few topics.

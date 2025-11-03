@@ -1,3 +1,8 @@
+---
+layout: default
+title: Caesar Cipher
+---
+
 ## Caesar Cipher
 
 ### Overview

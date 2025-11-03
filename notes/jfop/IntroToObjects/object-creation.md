@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creating Object
+---
+
 ## Creating Objects
 
 The `Sphere` class is a blueprint for creating `Sphere` objects.

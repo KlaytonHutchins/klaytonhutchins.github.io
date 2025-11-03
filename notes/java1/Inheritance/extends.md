@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `extends` Keyword
+---
+
 ## The `extends` Keyword
 
 Classes can inherit from other classes by using the `extends` keyword.

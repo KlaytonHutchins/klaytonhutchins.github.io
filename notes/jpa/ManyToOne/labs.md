@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 For each of the following labs, update the appropriate JUnit test cases based on the new relationships.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `finally`
+---
+
 ## `finally`
 
 A `try`/`catch` block optionally can be followed by a `finally` block.

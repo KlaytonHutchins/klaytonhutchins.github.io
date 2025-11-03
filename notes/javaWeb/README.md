@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dynamic Web Application
+---
+
 ## Dynamic Web Applications
 
 ### Objectives

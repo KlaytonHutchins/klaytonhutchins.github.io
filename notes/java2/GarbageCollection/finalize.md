@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `finalize` method
+---
+
 ## The `finalize` method
 
 If an object has a `finalize()` method, the JVM will invoke it just before the object is garbage collected.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Test Case
+---
+
 ## Test Cases
 Below is a test case, created using the default settings.
 

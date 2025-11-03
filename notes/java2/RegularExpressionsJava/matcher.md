@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Matcher Cla
+---
+
 ## The Matcher Class
 
 A `Matcher` object allows you to process the results of a regex pattern match

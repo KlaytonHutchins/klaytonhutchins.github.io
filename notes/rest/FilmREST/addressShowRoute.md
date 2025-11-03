@@ -1,3 +1,8 @@
+---
+layout: default
+title: Demo: Address Show Route
+---
+
 ## Demo: Address Show Route
 
 We have a list route working that returns all the addresses in our database. But what if we want a single address by its id?

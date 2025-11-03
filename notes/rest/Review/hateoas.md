@@ -1,3 +1,8 @@
+---
+layout: default
+title: HATEOAS - Hypertext As The Engine Of Application State
+---
+
 ## HATEOAS - Hypertext As The Engine Of Application State
 
 So far, our REST APIs return resource representations directly - JSON strings.

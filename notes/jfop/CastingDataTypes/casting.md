@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Cast Operator
+---
+
 ## The Cast Operator
 
 Conversions that will not happen implicitly can be forced by _casting_ a value or expression to a new data type.

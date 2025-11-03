@@ -1,3 +1,8 @@
+---
+layout: default
+title: Queries with Nested Collection
+---
+
 ## Queries with Nested Collections
 In the `@OneToMany` side of a relationship or either side of a `@ManyToMany`, our entity will contain a collection of objects.
 

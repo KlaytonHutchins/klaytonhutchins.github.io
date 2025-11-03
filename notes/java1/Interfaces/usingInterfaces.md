@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using Interface
+---
+
 ## Using Interfaces
 
 Descendants of a class that implements an interface are also implementation classes of that interface.

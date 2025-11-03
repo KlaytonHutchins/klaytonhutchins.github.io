@@ -1,3 +1,8 @@
+---
+layout: default
+title: ORDER and DISTINCT
+---
+
 ## ORDER and DISTINCT
 
 ### `DISTINCT`

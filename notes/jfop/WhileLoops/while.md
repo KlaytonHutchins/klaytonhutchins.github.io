@@ -1,3 +1,8 @@
+---
+layout: default
+title: `while` Loop
+---
+
 ## `while` Loops
 
 The `while` loop allows us to repeat a section of code as long as a condition is true.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: System Programs vs. Application Programs
+---
+
 ## System Programs vs. Application Programs ##
 * System programs are used by the computer for its own operations.
   * Operating system programs.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Anonymous Classe
+---
+
 ## Anonymous Classes
 
 ```java

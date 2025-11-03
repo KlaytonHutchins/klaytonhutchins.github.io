@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab - Improving Encapsulation
+---
+
 ## Lab - Improving Encapsulation
 
 In this lab we will improve the encapsulation of our `com.example.inheritance.labs.vehicles.Vehicle` hierarchy.

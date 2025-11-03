@@ -1,3 +1,8 @@
+---
+layout: default
+title: Interface
+---
+
 ## Interfaces
 
 In general an _interface_ defines how we can interact with a system.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hash Bucket
+---
+
 ## Hash Buckets
 
 A `HashMap` object maintains an internal array called a _hash table_ containing references to _map entries_ (sometimes called _nodes_.)

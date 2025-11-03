@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Java Virtual Machine
+---
+
 ## The Java Virtual Machine
 
 ### Objectives

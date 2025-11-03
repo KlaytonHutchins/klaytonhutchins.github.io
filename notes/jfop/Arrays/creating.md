@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creating an Array
+---
+
 ## Creating an Array
 
 Declaring an array variable does not create the array.

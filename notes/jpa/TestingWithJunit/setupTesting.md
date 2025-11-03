@@ -1,3 +1,8 @@
+---
+layout: default
+title: Test Setup
+---
+
 ## Test Setup
 
 We'll put our JUnit test cases in the same package (`com.example.jpavideostore.entities`) as the entity classes they test.

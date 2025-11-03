@@ -1,3 +1,8 @@
+---
+layout: default
+title: JUnit
+---
+
 ## JUnit
 
 _JUnit_ is a lightweight framework for automating unit testing in Java.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Day One System Setup
+---
+
 ## Day One System Setup
 
 ### Overview

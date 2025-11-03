@@ -1,3 +1,8 @@
+---
+layout: default
+title: Interface Field
+---
+
 ## Interface Fields
 
 An interface can declare fields, which are implicitly `public`, `static`, and `final`.

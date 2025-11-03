@@ -1,3 +1,8 @@
+---
+layout: default
+title: Generics and `ArrayList`
+---
+
 ## Generics and `ArrayList`
 
 ### Objectives

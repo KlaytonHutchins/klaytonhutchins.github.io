@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lord of the Object
+---
+
 ## Lord of the Objects
 
 ### Application Overview

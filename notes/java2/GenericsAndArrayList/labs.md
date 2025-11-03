@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In these labs we will use `ArrayList` to store and retrieve data, and as the internal storage for a data structure.
 

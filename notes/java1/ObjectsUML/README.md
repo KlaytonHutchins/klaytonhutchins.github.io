@@ -1,3 +1,8 @@
+---
+layout: default
+title: Drawing Objects and Their Relationship
+---
+
 ## Drawing Objects and Their Relationships
 
 ### Objectives

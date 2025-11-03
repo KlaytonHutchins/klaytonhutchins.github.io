@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In these labs we will practice using `equals` and `hashCode`.
 

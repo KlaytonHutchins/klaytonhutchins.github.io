@@ -1,3 +1,8 @@
+---
+layout: default
+title: Defining Parameter
+---
+
 ## Defining Parameters
 
 We can define methods to have multiple parameters in their parentheses.

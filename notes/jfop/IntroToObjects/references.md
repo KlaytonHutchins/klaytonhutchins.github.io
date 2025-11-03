@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reference Variable
+---
+
 ## Reference Variables
 
 `new` simply creates the object.

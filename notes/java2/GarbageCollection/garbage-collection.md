@@ -1,3 +1,8 @@
+---
+layout: default
+title: Garbage Collection
+---
+
 ## Garbage Collection
 
 Garbage collection is the process of looking at heap memory, identifying which objects are in use and which are not, and deleting the unused objects.

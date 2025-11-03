@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 We will change the `Car` class to use better encapsulation, and then fix a test class that uses `Car`. Finally, we will create a class that stores `Car` objects.
 

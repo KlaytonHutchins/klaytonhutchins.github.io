@@ -1,3 +1,8 @@
+---
+layout: default
+title: Labs 2
+---
+
 ## Labs 2
 
 ### Challenge: Match Email Addresses

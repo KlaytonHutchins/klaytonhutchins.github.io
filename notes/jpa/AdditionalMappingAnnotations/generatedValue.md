@@ -1,3 +1,8 @@
+---
+layout: default
+title: `@GeneratedValue`
+---
+
 ## `@GeneratedValue`
 Primary keys can be generated using a table, a sequence, or an identity column (if supported by the database).
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: JUnit 5
+---
+
 ## JUnit 5
 
 The release of JUnit version 5 included many features and changes, which we will highlight in this section.

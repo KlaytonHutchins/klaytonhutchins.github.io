@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `main` Method
+---
+
 ## The `main` Method
 
 Since your very first Java program you've written this method:

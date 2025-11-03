@@ -1,3 +1,8 @@
+---
+layout: default
+title: `for` Loops
+---
+
 ## `for` Loops ##
 
 Sometimes you need to repeat a section of code, and do so a certain number of times.

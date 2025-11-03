@@ -1,3 +1,8 @@
+---
+layout: default
+title: Returning Array References from Method
+---
+
 ## Returning Array References from Methods
 
 Many of the methods we have written have the return type of `void`.

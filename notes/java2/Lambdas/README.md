@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Lambda Expression
+---
+
 ### Introduction to Lambda Expressions
 
 ### Objectives

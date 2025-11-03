@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pig Latin Rule
+---
+
 ### Pig Latin Rules
 
 Most words in Pig Latin end in "ay." Use the rules below to translate normal English into Pig Latin.

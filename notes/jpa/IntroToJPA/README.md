@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to JPA
+---
+
 ## Introduction to JPA
 
 ### Objectives

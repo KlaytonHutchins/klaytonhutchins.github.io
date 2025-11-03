@@ -1,3 +1,8 @@
+---
+layout: default
+title: Polymorphism and Overriding
+---
+
 ## Polymorphism and Overriding
 In this chapter we will learn about another pillar of object-oriented programming, _polymorphism_, which allows us to give subclasses specialized behavior, but still inherit behavior from superclasses.
 

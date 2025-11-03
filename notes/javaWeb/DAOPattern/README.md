@@ -1,3 +1,8 @@
+---
+layout: default
+title: The DAO Design Pattern
+---
+
 ## The DAO Design Pattern
 
 ### Objectives

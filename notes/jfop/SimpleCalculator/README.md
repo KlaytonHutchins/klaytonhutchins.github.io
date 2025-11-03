@@ -1,3 +1,8 @@
+---
+layout: default
+title: Simple Calculator
+---
+
 ## Simple Calculator
 
 ### Example User Interaction

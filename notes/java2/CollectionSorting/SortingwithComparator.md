@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sorting with Comparator
+---
+
 ## Sorting with Comparator
 
 A class implementing `Comparable` has only one _natural sort order_: that which is defined by its `compareTo`.

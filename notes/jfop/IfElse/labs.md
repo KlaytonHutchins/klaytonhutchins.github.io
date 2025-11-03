@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 These labs require conditional logic. Refer to this section's content for examples. There are many labs in this section. If you do not finish all of them, you can do so later.
 

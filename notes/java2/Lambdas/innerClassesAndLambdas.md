@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lambda Expression
+---
+
 ## Lambda Expressions
 
 Java 8 introduced _lambda expressions_ to simplify programs.

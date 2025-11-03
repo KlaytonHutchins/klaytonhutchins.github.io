@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Entry with Exception
+---
+
 ## Data Entry with Exceptions
 We will simulate a data entry system where users are prompted to enter numeric data, which is saved. The system will handle invalid input, and allow the user to enter a secret ADMIN interface.
 

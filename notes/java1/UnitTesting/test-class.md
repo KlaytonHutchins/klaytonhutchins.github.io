@@ -1,3 +1,8 @@
+---
+layout: default
+title: Test Classe
+---
+
 ## Test Classes
 
 The role of a test class is to test the public (and sometimes protected) methods of a single class.

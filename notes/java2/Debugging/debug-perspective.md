@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Debug Perspective
+---
+
 ## The Debug Perspective
 
 The _Debug_ perspective contains tools for interacting with your paused program.

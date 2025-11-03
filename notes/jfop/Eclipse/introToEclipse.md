@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Eclipse
+---
+
 ## Introduction to Eclipse
 
 > #### Do This Now

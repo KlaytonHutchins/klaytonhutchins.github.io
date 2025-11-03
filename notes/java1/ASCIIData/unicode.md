@@ -1,3 +1,8 @@
+---
+layout: default
+title: Unicode
+---
+
 ## Unicode
 
 The Unicode standard uses the same character codes as ASCII (`A` is `65`), but is 2 bytes, so it can represent 65,536 distinct character codes. These include the alphabets for languages from around the world, a wide range of symbols, and so on.

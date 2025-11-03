@@ -1,3 +1,8 @@
+---
+layout: default
+title: Variable Naming Rule
+---
+
 ## Variable Naming Rules
 Java is a case-sensitive language.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: JPQL with Relationship
+---
+
 ## JPQL with Relationships
 
 ### Objectives

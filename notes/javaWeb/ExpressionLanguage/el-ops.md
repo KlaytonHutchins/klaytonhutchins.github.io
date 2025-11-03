@@ -1,3 +1,8 @@
+---
+layout: default
+title: JSP EL Operator
+---
+
 ## JSP EL Operators
 JSP EL is an entire language, complete with literals and operators.
 

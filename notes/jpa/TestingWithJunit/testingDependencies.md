@@ -1,3 +1,8 @@
+---
+layout: default
+title: JUnit Dependencie
+---
+
 ## JUnit Dependencies
 In order to test our entities, we must include JUnit in our project's dependencies.
 

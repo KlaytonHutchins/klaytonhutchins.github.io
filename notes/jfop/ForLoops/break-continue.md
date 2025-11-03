@@ -1,3 +1,8 @@
+---
+layout: default
+title: `break` and `continue` Statements
+---
+
 ## `break` and `continue` Statements ##
 
 We can change how a loop iterates.

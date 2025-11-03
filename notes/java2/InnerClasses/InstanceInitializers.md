@@ -1,3 +1,8 @@
+---
+layout: default
+title: Instance Initializer
+---
+
 ## Instance Initializers
 
 You would typically initialize data members of a class with a constructor.

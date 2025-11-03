@@ -1,3 +1,8 @@
+---
+layout: default
+title: Servlet Lab
+---
+
 ## Servlet Lab
 In this lab we will change the output of an existing dynamic webapp and deploy it to Tomcat.
 

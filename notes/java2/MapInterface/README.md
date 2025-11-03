@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `Map` Interface
+---
+
 ## The `Map` Interface
 
 Another member of the Java Collections Framework is the `Map` interface.

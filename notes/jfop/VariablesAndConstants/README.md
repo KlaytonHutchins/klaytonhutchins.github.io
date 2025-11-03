@@ -1,3 +1,8 @@
+---
+layout: default
+title: Variables and Constant
+---
+
 ## Variables and Constants
 
 ### Objectives

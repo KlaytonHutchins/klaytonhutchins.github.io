@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In this lab we will change our subclasses to use features of their superclasses.
 

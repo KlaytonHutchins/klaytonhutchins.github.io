@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creating Package
+---
+
 ## Creating Packages
 
 The `package` statement **must** be the first statement in your class.

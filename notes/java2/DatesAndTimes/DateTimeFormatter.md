@@ -1,3 +1,8 @@
+---
+layout: default
+title: `DateTimeFormatter`
+---
+
 ## `DateTimeFormatter`
 
 ### Formatting Dates and Times

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Logical Expression
+---
+
 ## Logical Expressions
 Logical expressions are combinations of relational expressions.
 

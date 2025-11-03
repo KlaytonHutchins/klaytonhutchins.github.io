@@ -1,3 +1,8 @@
+---
+layout: default
+title: Web Data and Dynamic Application
+---
+
 ## Web Data and Dynamic Applications
 
 We can send data to our Web Applications. In this chapter, we will learn how.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Cascading
+---
+
 ## Cascading
 Manually persisting multiple related entities is cumbersome. Thankfully, the JPA has a means of simplifying this process.
 

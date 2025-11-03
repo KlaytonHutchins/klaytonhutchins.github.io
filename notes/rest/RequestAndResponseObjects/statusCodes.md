@@ -1,3 +1,8 @@
+---
+layout: default
+title: HTTP Status code
+---
+
 ## HTTP Status codes
 
 Status codes give us information on the status of our request. There are five classes of HTTP response codes indicated by the first digit of the code.

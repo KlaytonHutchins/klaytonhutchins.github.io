@@ -1,3 +1,8 @@
+---
+layout: default
+title: Including JPA Project
+---
+
 ### Including JPA Projects
 
 Adding other projects as sub modules of our _Spring Boot_ project requires editing the `build.gradle` and `settings.gradle` files.

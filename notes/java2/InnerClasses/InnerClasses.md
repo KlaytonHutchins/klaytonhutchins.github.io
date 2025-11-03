@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inner Classe
+---
+
 ## Inner Classes
 
 Inner classes were established in Java 1.1 as **classes defined within other classes**.

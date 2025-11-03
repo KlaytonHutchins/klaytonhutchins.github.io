@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In this set of labs we will continue to use the `Drawable` interface from the [`java1/Interfaces`](../../java1/Interfaces/usingInterfaces-labs.md) project.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: String Methods That Use Regular Expression
+---
+
 ## String Methods That Use Regular Expressions
 
 The `String` class provides methods that use regular expressions.

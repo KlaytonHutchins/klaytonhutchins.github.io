@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 The purpose of this set of labs is to get familiar with `String` and `StringBuilder` - their methods and the difference between the two classes.
 

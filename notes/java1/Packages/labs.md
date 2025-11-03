@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 Going forward, we will stop using the default, unnamed package.  In fact, Eclipse warns us that its use is discouraged.

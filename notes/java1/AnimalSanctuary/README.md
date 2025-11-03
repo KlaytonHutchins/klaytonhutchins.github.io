@@ -1,3 +1,8 @@
+---
+layout: default
+title: Animal Sanctuary
+---
+
 ## Animal Sanctuary
 
 In this project we will be modeling an animal sanctuary, where animals live happy lives, and are cared for by an attendant - until things go wrong.

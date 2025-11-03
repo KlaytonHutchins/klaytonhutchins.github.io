@@ -1,3 +1,8 @@
+---
+layout: default
+title: Member Classe
+---
+
 ## Member Classes
 
 ```java

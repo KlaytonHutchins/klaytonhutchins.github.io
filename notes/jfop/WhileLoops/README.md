@@ -1,3 +1,8 @@
+---
+layout: default
+title: `while` Loop
+---
+
 ## `while` Loops
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Predicate<T>` Functional Interface
+---
+
 ## `Predicate<T>` Functional Interface
 Java 8 provides a number of functional interfaces as part of the `java.util.function` package.
 

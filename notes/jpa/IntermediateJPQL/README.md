@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermediate JPQL Querie
+---
+
 ## Intermediate JPQL Queries
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Accessing data from multiple table
+---
+
 ## Accessing data from multiple tables
 
 ### SQL JOINs

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Vector`
+---
+
 ## `Vector`
 
 The predecessor to `ArrayList` is `Vector`.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 We will now use use multidimensional arrays to group and use data.
 

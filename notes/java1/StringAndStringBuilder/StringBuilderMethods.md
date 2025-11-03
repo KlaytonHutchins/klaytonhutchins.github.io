@@ -1,3 +1,8 @@
+---
+layout: default
+title: `StringBuilder` Method
+---
+
 ## `StringBuilder` Methods
 
 `append` is `StringBuilder`'s workhorse for building text.

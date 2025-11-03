@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab 1 Solution
+---
+
 ## Lab 1 Solution
 After which line is the object at line `6` eligible for garbage collection.
 ```java

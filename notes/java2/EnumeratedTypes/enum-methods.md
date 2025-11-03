@@ -1,3 +1,8 @@
+---
+layout: default
+title: `enum` Method
+---
+
 ## `enum` Methods
 
 Every `enum` is a class, and every `enum` constant is an instance, so each has methods.

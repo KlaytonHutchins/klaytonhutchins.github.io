@@ -1,3 +1,8 @@
+---
+layout: default
+title: Working with Dates and Time
+---
+
 ## Working with Dates and Times
 
 The _presidents.tsv_ file includes fields with the first inauguration and end of term dates for each president (end of term is empty for the current president).

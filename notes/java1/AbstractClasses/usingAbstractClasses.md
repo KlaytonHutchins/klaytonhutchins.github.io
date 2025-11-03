@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using Abstract Classe
+---
+
 ## Using Abstract Classes
 
 Users of subclasses can declare variables and method parameters of the abstract class type, assigning references to concrete subclass objects.

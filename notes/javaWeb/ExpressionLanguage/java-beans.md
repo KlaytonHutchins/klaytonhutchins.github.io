@@ -1,3 +1,8 @@
+---
+layout: default
+title: JavaBean Propertie
+---
+
 ## JavaBean Properties
 Using JSP EL to display the `Stock` object calls its `toString()` method.
 

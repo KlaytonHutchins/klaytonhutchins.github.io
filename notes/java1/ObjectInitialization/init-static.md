@@ -1,3 +1,8 @@
+---
+layout: default
+title: Initializing Static Field
+---
+
 ## Initializing Static Fields
 
 When a program runs and uses a class, Java initializes the class's `static` fields.

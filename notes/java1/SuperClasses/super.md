@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using a Superclass's Methods and Field
+---
+
 ## Using a Superclass's Methods and Fields
 Recall that a class can use the `this` keyword to access its own methods and fields.
 ```java

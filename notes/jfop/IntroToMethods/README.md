@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Method
+---
+
 ## Introduction to Methods
 
 ### Objectives

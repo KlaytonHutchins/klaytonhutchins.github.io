@@ -1,3 +1,8 @@
+---
+layout: default
+title: Classes and Object
+---
+
 ## Classes and Objects
 
 The main points about classes and objects so far:

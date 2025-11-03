@@ -1,3 +1,8 @@
+---
+layout: default
+title: Array
+---
+
 ## Arrays
 
 An array is a collection of data items with a single variable name.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Eclipse - Dynamic Web Project
+---
+
 ## Eclipse - Dynamic Web Projects
 Eclipse provides the _Dynamic Web Project_  template for creating projects.
 * A Dynamic Web Project can run on Eclipse's Tomcat server.

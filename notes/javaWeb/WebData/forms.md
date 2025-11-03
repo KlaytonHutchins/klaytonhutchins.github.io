@@ -1,3 +1,8 @@
+---
+layout: default
+title: Form Data
+---
+
 ## Form Data
 An HTML form provides a mechanism for accepting user input in a browser and, when activated, generating and sending a query request to the web server.
 

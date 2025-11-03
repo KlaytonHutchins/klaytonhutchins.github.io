@@ -1,3 +1,8 @@
+---
+layout: default
+title: Expressions: Where the Work Gets Done
+---
+
 ## Expressions: Where the Work Gets Done
 
 _Statements_ are roughly equivalent to sentences in a language, and make up a complete instruction to the computer.

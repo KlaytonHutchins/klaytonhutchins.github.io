@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab - Creating a Class Hierarchy
+---
+
 ## Lab - Creating a Class Hierarchy
 
 This is an extended drill that we will use for the rest of the chapter.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: REST Endpoint
+---
+
 ## REST Endpoints
 
 The combination of a specific resource URI and an HTTP request method defines an _endpoint_ in a RESTful API.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inner Classes Review
+---
+
 ## Inner Classes Review
 
 Recall inner classes, which were classes within a class or method.

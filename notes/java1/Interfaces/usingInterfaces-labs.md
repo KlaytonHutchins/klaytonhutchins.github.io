@@ -1,3 +1,8 @@
+---
+layout: default
+title: Labs - Declaring and Using Interface
+---
+
 ## Labs - Declaring and Using Interfaces
 
 Classes for these labs are in  `com.example.interfaces.labs.shapes`. We will create and use an interface to give classes a common type and behavior.

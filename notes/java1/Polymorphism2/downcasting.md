@@ -1,3 +1,8 @@
+---
+layout: default
+title: Downcasting
+---
+
 ## Downcasting
 
 Casting down the inheritance tree is known as _downcasting_.

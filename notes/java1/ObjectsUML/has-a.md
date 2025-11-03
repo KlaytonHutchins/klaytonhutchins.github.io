@@ -1,3 +1,8 @@
+---
+layout: default
+title: Classes and Their Association
+---
+
 ## Classes and Their Associations
 
 It is often useful to draw several class diagrams, and show how they are associated.

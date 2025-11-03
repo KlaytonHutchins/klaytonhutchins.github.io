@@ -1,3 +1,8 @@
+---
+layout: default
+title: Field Initialization
+---
+
 ## Field Initialization
 
 Fields are given a default value when an object is created.

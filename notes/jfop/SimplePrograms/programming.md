@@ -1,3 +1,8 @@
+---
+layout: default
+title: Programming
+---
+
 ## Programming
 A computer program is a set of detailed instructions that tell a computer to
 perform some specific task.

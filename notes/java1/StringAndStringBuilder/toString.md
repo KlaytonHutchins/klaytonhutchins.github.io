@@ -1,3 +1,8 @@
+---
+layout: default
+title: Writing `toString()` Method
+---
+
 ## Writing `toString()` Methods
 
 Every object has a `toString` method, which is defined in `java.lang.Object`.

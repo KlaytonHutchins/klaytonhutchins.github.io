@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sorting List
+---
+
 ## Sorting Lists
 
 To sort a `List`, pass it to the `sort` method of the `java.util.Collections` class.

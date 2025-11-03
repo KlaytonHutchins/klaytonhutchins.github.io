@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Java Package
+---
+
 ## Introduction to Java Packages
 
 As our Java applications become more sophisticated and complex, we use more and more classes.

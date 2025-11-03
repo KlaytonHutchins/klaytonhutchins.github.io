@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Object.equals()`
+---
+
 ## `Object.equals()`
 
 Every class has an `equals()` method, because every class descends from `java.lang.Object`.

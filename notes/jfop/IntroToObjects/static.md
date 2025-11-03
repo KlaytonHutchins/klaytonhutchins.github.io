@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `static` Keyword
+---
+
 ## The `static` Keyword
 
 Up to now, we've seen the keyword `static` in front of all of our methods.

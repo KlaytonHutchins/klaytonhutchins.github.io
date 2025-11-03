@@ -1,3 +1,8 @@
+---
+layout: default
+title: More Expression
+---
+
 ## More Expressions
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Casting
+---
+
 ## Casting
 
 We have seen that a variable can refer to an object of its own type, or of a subclass type.

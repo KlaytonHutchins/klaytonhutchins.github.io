@@ -1,3 +1,8 @@
+---
+layout: default
+title: Objects on the Heap
+---
+
 ## Objects on the Heap
 When the JVM starts, memory is allocated for the _heap_.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Formatting Output
+---
+
 ## Formatting Output
 
 There are several _special characters_ that your program can output for some "special effects."

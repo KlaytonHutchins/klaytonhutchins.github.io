@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 1. Create a program with a `main` method. Declare and initialize an array for the days of the week, starting with Sunday.

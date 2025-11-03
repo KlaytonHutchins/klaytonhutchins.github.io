@@ -1,3 +1,8 @@
+---
+layout: default
+title: Positional Notation
+---
+
 ## Positional Notation
 
 We use _positional notation_ to represent numbers

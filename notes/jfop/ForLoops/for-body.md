@@ -1,3 +1,8 @@
+---
+layout: default
+title: `for` Loop Body
+---
+
 ## `for` Loop Body ##
 
 The first statement or first _code block_ after a `for` statement is considered its body.

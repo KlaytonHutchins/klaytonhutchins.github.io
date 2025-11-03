@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sorting and Filtering with Lambda
+---
+
 ## Sorting and Filtering with Lambdas
 
 1. Make a copy of your _PresidentAppInnerClasses.java_ (so you can keep the original for reference), and name the new copy _PresidentAppLambda.java_.

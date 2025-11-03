@@ -1,3 +1,8 @@
+---
+layout: default
+title: `switch` Statements: Multi-Way Decision
+---
+
 ## `switch` Statements: Multi-Way Decisions
 
 Sometimes we'll compare a value with several different values, and follow a different execution path depending on which value matches.

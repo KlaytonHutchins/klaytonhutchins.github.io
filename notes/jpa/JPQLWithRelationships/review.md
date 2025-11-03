@@ -1,3 +1,8 @@
+---
+layout: default
+title: JPQL Review
+---
+
 ## JPQL Review
 
 We saw that JPA has its own language for writing queries to the database. The major difference between SQL and JPQL is that JPQL is concerned with entities and their properties, not tables and their columns.

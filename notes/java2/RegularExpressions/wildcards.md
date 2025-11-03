@@ -1,3 +1,8 @@
+---
+layout: default
+title: Literals and Wild Cards
+---
+
 ## Literals and Wild Cards
 
 An ordinary letter or digit is interpreted literally (except when part of certain particular RE components... coming up)

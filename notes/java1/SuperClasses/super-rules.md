@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rules for `super()`
+---
+
 ## Rules for `super()`
 
 ### `super(...)` is Always Called

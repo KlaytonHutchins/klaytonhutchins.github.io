@@ -1,3 +1,8 @@
+---
+layout: default
+title: Regular Expressions in Java
+---
+
 ## Regular Expressions in Java
 
 Regular Expressions were added to Java in version 1.4.

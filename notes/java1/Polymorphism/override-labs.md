@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab - Using Polymorphism
+---
+
 ## Lab - Using Polymorphism
 
 In this lab we will use polymorphism to customize class behavior, and create methods to use this functionality.

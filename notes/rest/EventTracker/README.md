@@ -1,3 +1,8 @@
+---
+layout: default
+title: Event Tracker
+---
+
 ## Event Tracker
 
 ### Overview

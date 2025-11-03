@@ -1,3 +1,8 @@
+---
+layout: default
+title: ArrayList - Adding and Getting
+---
+
 ## ArrayList - Adding and Getting
 We do not use the `[]` operator with `ArrayList`.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Standard Functional Interface
+---
+
 ## Standard Functional Interfaces
 
 There are other useful interfaces in the `java.util.function` package.

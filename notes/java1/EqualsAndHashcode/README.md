@@ -1,3 +1,8 @@
+---
+layout: default
+title: Equals and Hashcode
+---
+
 ## Equals and Hashcode
 
 ### Objectives

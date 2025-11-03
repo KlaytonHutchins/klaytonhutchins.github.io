@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 Sets can only contain unique elements. In these labs we will examine and use this feature.
 

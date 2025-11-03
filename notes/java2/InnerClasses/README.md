@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inner Classe
+---
+
 ## Inner Classes
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Declaring an Interface
+---
+
 ## Declaring an Interface
 
 Like a class, an interface is declared in a `.java` file whose name matches the interface name.

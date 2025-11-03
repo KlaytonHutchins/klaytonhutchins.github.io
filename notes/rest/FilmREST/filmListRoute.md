@@ -1,3 +1,8 @@
+---
+layout: default
+title: Demo: Film List Route
+---
+
 ## Demo: Film List Route
 
 Lets try to add a route to retrieve a collection of films from out database.  

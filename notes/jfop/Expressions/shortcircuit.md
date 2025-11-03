@@ -1,3 +1,8 @@
+---
+layout: default
+title: Short-Circuit Operator
+---
+
 ## Short-Circuit Operators
 Both `&&` and `& ` evaluate to true only when both operands are _true_.
 

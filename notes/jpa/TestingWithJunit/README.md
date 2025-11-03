@@ -1,3 +1,8 @@
+---
+layout: default
+title: Testing Entities with JUnit
+---
+
 ## Testing Entities with JUnit
 
 ### Objectives

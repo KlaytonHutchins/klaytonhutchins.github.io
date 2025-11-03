@@ -1,3 +1,8 @@
+---
+layout: default
+title: Exception
+---
+
 ## Exceptions
 
 ### Objectives

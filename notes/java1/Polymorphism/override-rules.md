@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rules for Overriding
+---
+
 ## Rules for Overriding
 
 The compiler will perform checks to make sure our overrides are legal.

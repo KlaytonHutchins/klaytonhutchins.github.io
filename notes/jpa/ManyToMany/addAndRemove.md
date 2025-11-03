@@ -1,3 +1,8 @@
+---
+layout: default
+title: Add and Remove Method
+---
+
 ## Add and Remove Methods
 We have seen how we can create `add` and `remove` methods for `@ManyToOne` relationships. We can apply the same concept to `@ManyToMany`.
 

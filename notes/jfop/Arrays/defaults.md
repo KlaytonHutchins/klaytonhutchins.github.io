@@ -1,3 +1,8 @@
+---
+layout: default
+title: Array Element Default Value
+---
+
 ## Array Element Default Values
 
 When we create an array, Java fills it with default values.

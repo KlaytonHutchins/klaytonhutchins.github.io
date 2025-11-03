@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 1. Create a file *JPQLRelationshipsLab* in the `com.example.jpavideostore.client` package.
 

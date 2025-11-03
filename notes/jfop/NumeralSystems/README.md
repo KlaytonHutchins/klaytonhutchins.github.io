@@ -1,3 +1,8 @@
+---
+layout: default
+title: Numeral System
+---
+
 ## Numeral Systems
 
 ### Objectives

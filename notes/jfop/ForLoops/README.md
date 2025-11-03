@@ -1,3 +1,8 @@
+---
+layout: default
+title: `for` Loop
+---
+
 ## `for` Loops
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Counting in Binary
+---
+
 ## Counting in Binary
 
 In binary only two symbols are available, `0` and `1`.

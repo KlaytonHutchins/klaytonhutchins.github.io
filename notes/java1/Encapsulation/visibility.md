@@ -1,3 +1,8 @@
+---
+layout: default
+title: Visibility and Access Modifier
+---
+
 ## Visibility and Access Modifiers
 
 > #### visibility

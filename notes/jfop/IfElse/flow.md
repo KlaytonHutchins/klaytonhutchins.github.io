@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sequential Execution
+---
+
 ## Sequential Execution
 
 We have seen how our programs execute _sequentially_ in the order they appear in the source file, top-to-bottom, beginning-to-end.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 We are going to write your name to the screen using methods. Each method has a specific job and a name relating to that job.

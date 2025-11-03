@@ -1,3 +1,8 @@
+---
+layout: default
+title: Changing Instance Field
+---
+
 ## Changing Instance Fields
 
 We can initialize fields by passing arguments to a constructor.

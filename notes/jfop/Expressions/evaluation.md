@@ -1,3 +1,8 @@
+---
+layout: default
+title: Expression Evaluation: The Result
+---
+
 ## Expression Evaluation: The Result
 
 When an expression is executed, it will _evaluate_ to a single value, the result.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Precedence
+---
+
 ## Precedence
 
 When expressions contain more than one operator, Java must determine what to evaluate first. Each operator's _precedence_ determines which operator executes first.

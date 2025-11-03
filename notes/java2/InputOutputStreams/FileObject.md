@@ -1,3 +1,8 @@
+---
+layout: default
+title: `File` Object
+---
+
 ## `File` Object
 
 You can use a `File` object to represent the path and filename of file.

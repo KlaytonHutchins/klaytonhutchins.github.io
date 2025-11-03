@@ -1,3 +1,8 @@
+---
+layout: default
+title: Advanced For Loop
+---
+
 ## Advanced For Loops
 
 ### Objectives

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 For this lab we will accept user input and use information about the ASCII characters.
 

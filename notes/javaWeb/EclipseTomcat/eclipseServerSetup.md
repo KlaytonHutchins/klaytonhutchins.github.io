@@ -1,3 +1,8 @@
+---
+layout: default
+title: Configure Eclipse to integrate Tomcat
+---
+
 ## Configure Eclipse to integrate Tomcat
 
 * In Eclipse, go to the Java EE perspective.

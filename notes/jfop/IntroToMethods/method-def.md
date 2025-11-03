@@ -1,3 +1,8 @@
+---
+layout: default
+title: Method
+---
+
 ## Methods
 
 A _method_ is a section of code inside a class that allows us to tell the code to do something.

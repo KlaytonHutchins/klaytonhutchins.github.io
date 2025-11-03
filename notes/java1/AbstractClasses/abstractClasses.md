@@ -1,3 +1,8 @@
+---
+layout: default
+title: Abstract Classe
+---
+
 ## Abstract Classes
 
 A subclass inherits the methods of its superclass and can choose which methods to override.

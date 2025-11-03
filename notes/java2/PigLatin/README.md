@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project: Pig Latin
+---
+
 ## Project: Pig Latin
 
 ### Application Overview

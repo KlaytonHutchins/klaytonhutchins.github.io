@@ -1,3 +1,8 @@
+---
+layout: default
+title: Testing Endpoints with Postman
+---
+
 ## Testing Endpoints with Postman
 
 We can test `GET` endpoints directly in the browser.

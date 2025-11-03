@@ -1,3 +1,8 @@
+---
+layout: default
+title: `for` Loop Part
+---
+
 ## `for` Loop Parts
 
 `for` loops are useful for iteration because of the structure inside the parentheses.

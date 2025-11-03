@@ -1,3 +1,8 @@
+---
+layout: default
+title: `application.properties`
+---
+
 ## `application.properties`
 
 We must add configuration to `src/main/resources/application.properties` to connect Spring Boot to our database.

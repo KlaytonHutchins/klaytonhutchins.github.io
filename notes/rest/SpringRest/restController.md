@@ -1,3 +1,8 @@
+---
+layout: default
+title: REST Controller
+---
+
 ## REST Controllers
 
 Our Spring MVC controllers dealt with `GET` requests for views, as well as `POST` requests from forms.

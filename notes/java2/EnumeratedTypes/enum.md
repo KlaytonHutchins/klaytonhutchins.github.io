@@ -1,3 +1,8 @@
+---
+layout: default
+title: `enum` Type
+---
+
 ## `enum` Types
 
 `enum` is a data type (like `class` and `interface`) that allows a variable to be a **set of predefined constants**.

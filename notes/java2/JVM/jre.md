@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Java Runtime Environment
+---
+
 ## The Java Runtime Environment
 
 ![Java Runtime Environment (JRE)](images/jre.png)

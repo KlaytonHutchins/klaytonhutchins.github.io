@@ -1,3 +1,8 @@
+---
+layout: default
+title: The `printf()` Method
+---
+
 ## The `printf()` Method
 
 In addition to `println()`, `System.out` provides the `printf()` method to print formatted strings.

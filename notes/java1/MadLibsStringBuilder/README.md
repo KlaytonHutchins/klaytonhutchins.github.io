@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mad Lib
+---
+
 ## Mad Libs
 
 This application will prompt the user to enter a word that is either a noun, verb, or other part of speech.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `String` Method
+---
+
 ## `String` Methods
 
 Because text is so important, every Java developer is expected to develop thorough knowledge of the `String` class and its methods.

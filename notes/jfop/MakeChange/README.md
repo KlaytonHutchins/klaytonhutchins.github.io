@@ -1,3 +1,8 @@
+---
+layout: default
+title: Make Change (Cash Register)
+---
+
 ## Make Change (Cash Register)
 
 ### Overview

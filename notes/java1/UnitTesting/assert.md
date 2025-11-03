@@ -1,3 +1,8 @@
+---
+layout: default
+title: `assert` Method
+---
+
 ## `assert` Methods
 
 `assert` methods are methods JUnit executes to test whether the actual result of a method meets an expectation.

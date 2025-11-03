@@ -1,3 +1,8 @@
+---
+layout: default
+title: JPA
+---
+
 ## JPA
 
 ### Day 1

@@ -1,3 +1,8 @@
+---
+layout: default
+title: `while` Loops - Detail
+---
+
 ## `while` Loops - Details
 
 The basic syntax of a `while` loop looks like

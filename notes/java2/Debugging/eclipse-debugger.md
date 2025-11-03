@@ -1,3 +1,8 @@
+---
+layout: default
+title: Debugging in Eclipse
+---
+
 ## Debugging in Eclipse
 
 Debugging a program in Eclipse is almost the same as running a program.

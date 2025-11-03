@@ -1,3 +1,8 @@
+---
+layout: default
+title: JUnit and Exception
+---
+
 ## JUnit and Exceptions
 If a method is expected to throw an exception, we need to test that it does.
 

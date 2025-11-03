@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using `enum`
+---
+
 ## Using `enum`
 
 Access an `enum` constant using dot notation.

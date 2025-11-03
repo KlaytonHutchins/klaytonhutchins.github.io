@@ -1,3 +1,8 @@
+---
+layout: default
+title: Handling Command-Line Argument
+---
+
 ## Handling Command-Line Arguments
 
 Remember that an array is an object that must be constructed before use.

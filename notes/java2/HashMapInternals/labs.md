@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 In this lab we will use the debugger to examine changes in the `HashMap` class as we add data to it.
 

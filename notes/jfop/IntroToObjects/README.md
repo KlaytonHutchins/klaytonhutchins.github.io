@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction to Object
+---
+
 ## Introduction to Objects
 
 ### Objectives

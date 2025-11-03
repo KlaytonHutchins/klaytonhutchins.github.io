@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sorting with Comparable
+---
+
 ## Sorting with Comparable
 
 We sort things by comparing one to one another and deciding which comes before the next.

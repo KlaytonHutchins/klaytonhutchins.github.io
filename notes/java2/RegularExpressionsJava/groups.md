@@ -1,3 +1,8 @@
+---
+layout: default
+title: Capturing Group
+---
+
 ## Capturing Groups
 
 Use parentheses () in the pattern to define a captured group.

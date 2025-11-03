@@ -1,3 +1,8 @@
+---
+layout: default
+title: Primitives and Memory
+---
+
 ## Primitives and Memory
 
 Study the diagram below to remember how primitive data types are related, and how many bytes they each use.

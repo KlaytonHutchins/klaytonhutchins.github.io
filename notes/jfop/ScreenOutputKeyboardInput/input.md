@@ -1,3 +1,8 @@
+---
+layout: default
+title: Reading from the Keyboard
+---
+
 ## Reading from the Keyboard
 
 All programs can read input from the keyboard, which programmers call standard input, or "standard in."

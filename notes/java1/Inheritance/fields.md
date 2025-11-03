@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inheriting Field
+---
+
 ## Inheriting Fields
 
 Inheritance gives a child fields of the parent class.

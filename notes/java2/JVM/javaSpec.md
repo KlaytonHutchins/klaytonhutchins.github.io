@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Java Language Specification
+---
+
 ## The Java Language Specification
 
 The rules of the Java language are defined in the [Java Language Specification](https://docs.oracle.com/javase/specs/jls/se8/html/index.html) and are enforced by the Java Compiler, `javac`.

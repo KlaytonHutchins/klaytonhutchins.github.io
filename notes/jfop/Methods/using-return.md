@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using a Method's `return` value
+---
+
 ## Using a Method's `return` value
 
 When we call a method, we can use its `return` value by _assigning_ it to a variable.

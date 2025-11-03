@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 
 We will be adding to the `vehicles.Vehicle` hierarchy in this lab. If you did not finish the `Vehicle`, `Automobile`, `Truck`, or `Boat` classes, use the classes in `...solutions.vehicles`.

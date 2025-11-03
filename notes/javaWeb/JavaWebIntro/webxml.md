@@ -1,3 +1,8 @@
+---
+layout: default
+title: `web.xml` Configuration File
+---
+
 ## `web.xml` Configuration File
 
 `web.xml` is written in XML, e<strong>X</strong>tensible <strong>M</strong>arkup <strong>L</strong>anguage.

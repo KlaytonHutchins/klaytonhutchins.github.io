@@ -1,3 +1,8 @@
+---
+layout: default
+title: Simple Program
+---
+
 ## Simple Programs
 
 ### Objectives

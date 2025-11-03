@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tuning `HashMap`
+---
+
 ## Tuning `HashMap`
 
 ### Capacity and Load Factor

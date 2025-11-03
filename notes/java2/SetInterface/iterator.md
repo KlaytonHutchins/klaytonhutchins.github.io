@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Iterator` Explained
+---
+
 ## `Iterator` Explained
 `Iterator` is a sort of helper object that `Set` provides.
 

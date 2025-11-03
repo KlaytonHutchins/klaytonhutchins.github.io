@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inheritance
+---
+
 ## Inheritance
 
 _Inheritance_ allows you to create a new class that contains fields and methods of an existing class, and add additional fields and methods.

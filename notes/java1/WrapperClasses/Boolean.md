@@ -1,3 +1,8 @@
+---
+layout: default
+title: `Boolean`
+---
+
 ## `Boolean`
 
 `Boolean`'s `valueOf` returns one of two pre-constructed `Boolean` objects: `Boolean.TRUE` or `Boolean.FALSE`.

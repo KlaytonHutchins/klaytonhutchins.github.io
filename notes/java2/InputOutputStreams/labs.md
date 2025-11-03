@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lab
+---
+
 ## Labs
 The focus of this set of labs is reading, parsing, and writing files.
 

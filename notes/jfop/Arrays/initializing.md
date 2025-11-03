@@ -1,3 +1,8 @@
+---
+layout: default
+title: Array Initialization Shortcut
+---
+
 ## Array Initialization Shortcuts
 
 Java gives us a shortcut to both _create_ and _initialize_ an array.

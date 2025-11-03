@@ -1,3 +1,8 @@
+---
+layout: default
+title: Defining an `equals()` Method
+---
+
 ## Defining an `equals()` Method
 
 It's up to each class to decide what makes one object of a class "equal to" another object.

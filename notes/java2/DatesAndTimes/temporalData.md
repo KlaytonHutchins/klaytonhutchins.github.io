@@ -1,3 +1,8 @@
+---
+layout: default
+title: Temporal Data
+---
+
 ## Temporal Data
 
 Numbers and text are relatively easy to store and manipulate in a program.

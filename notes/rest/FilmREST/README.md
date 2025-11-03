@@ -1,3 +1,8 @@
+---
+layout: default
+title: DEMO: REST Video Store
+---
+
 ## DEMO: REST Video Store
 
 ### Objectives

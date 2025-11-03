@@ -1,3 +1,8 @@
+---
+layout: default
+title: State and Behavior
+---
+
 ## State and Behavior
 
 Recall the blueprint (class) for creating `Sphere` objects.

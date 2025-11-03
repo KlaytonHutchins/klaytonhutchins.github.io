@@ -1,3 +1,8 @@
+---
+layout: default
+title: ASCII and Unicode Data
+---
+
 ## ASCII and Unicode Data
 
 ### Objectives

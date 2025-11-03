@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction To RESTful Service
+---
+
 ## Introduction To RESTful Services
 
 ### Objectives
