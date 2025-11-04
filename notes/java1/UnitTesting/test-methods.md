@@ -3,7 +3,6 @@ layout: default
 title: Writing `@Test` Method
 ---
 
-## Writing `@Test` Methods
 
 A test class itself does not do anything. We need methods for JUnit to run.
 

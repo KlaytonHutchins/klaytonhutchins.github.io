@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Create a bi-directional, many-to-one relationship between *Rental* and *InventoryItem*.
 

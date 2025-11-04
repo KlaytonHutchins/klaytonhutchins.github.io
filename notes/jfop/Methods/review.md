@@ -3,7 +3,6 @@ layout: default
 title: Method Review
 ---
 
-## Method Review
 
 Remember that a method is a section of code in a class that allows us to tell code to do something.
 

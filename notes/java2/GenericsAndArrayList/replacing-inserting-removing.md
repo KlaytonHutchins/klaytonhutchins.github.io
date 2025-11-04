@@ -3,7 +3,6 @@ layout: default
 title: Replacing, Inserting, and Removing
 ---
 
-## Replacing, Inserting, and Removing
 We can do more than just add to the end of a list with `add(E)`, or see what is at an index with `get(index)`.
 
 We can change what is in the `ArrayList`.

@@ -3,7 +3,6 @@ layout: default
 title: CRUD with Relationship
 ---
 
-## CRUD with Relationships
 
 ### Objectives
 * Persist foreign keys in Objects.

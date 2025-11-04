@@ -3,7 +3,6 @@ layout: default
 title: Making Debugging Print Statements Conditional
 ---
 
-## Making Debugging Print Statements Conditional
 
 An annoyance of debugging with print statements is:
 

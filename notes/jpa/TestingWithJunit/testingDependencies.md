@@ -3,7 +3,6 @@ layout: default
 title: JUnit Dependencie
 ---
 
-## JUnit Dependencies
 In order to test our entities, we must include JUnit in our project's dependencies.
 
 Testing our entities will ensure that we have properly configured our JPA environment (in the `persistence.xml`) and annotated our entity classes correctly.

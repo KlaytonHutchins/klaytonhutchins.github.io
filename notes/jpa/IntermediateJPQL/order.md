@@ -3,7 +3,6 @@ layout: default
 title: ORDER and DISTINCT
 ---
 
-## ORDER and DISTINCT
 
 ### `DISTINCT`
 The `DISTINCT` keyword can be used to filter a result set for only unique values.

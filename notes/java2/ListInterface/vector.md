@@ -3,7 +3,6 @@ layout: default
 title: `Vector`
 ---
 
-## `Vector`
 
 The predecessor to `ArrayList` is `Vector`.
 * `ArrayList` is "roughly equivalent" to `Vector`.<sup>[1]</sup>

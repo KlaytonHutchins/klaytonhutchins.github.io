@@ -3,7 +3,6 @@ layout: default
 title: Rental Store Quiz
 ---
 
-## Rental Store Quiz
 
 You are going to create an application that models a film rental store. The store is hoping to grow its list of registered customers, and make lots of money. When a new customer comes in, the store gathers their first and last name, and updates the system with their data.
 

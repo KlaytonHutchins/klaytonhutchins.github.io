@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 We will now use use multidimensional arrays to group and use data.
 
 1. Write a program called `SBScores` to print out the teams and scores of the first ten Super Bowls. (Find these on the internet. Note that since you know the data values, using the 2d array shortcut is a great idea here.)

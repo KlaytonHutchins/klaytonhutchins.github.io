@@ -3,7 +3,6 @@ layout: default
 title: Promotion in Integer Arithmetic
 ---
 
-## Promotion in Integer Arithmetic
 
 Binary arithmetic operations (`+`, `%`, etc.) using `byte`, `short`, and `char` always promote the operands to `int`s, even if neither of the operands is an `int`.
 

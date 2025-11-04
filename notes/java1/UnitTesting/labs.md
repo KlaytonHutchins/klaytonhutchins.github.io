@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In this set of labs we will create JUnit test cases and use Test-Driven Development (TDD).
 
 1. Create a JUnit Test Case for the `com.example.unittesting.labs.Calculator` class, and use TDD to implement test methods and class functionality.

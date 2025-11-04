@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Eclipse
 ---
 
-## Introduction to Eclipse
 
 > #### Do This Now
 > Go to http://www.eclipse.org/downloads/packages/. Under _Desktop IDEs_ go to **Java EE**. Make sure you're looking at _Eclipse IDE for Java **EE** Developers_ and start the download for your operating system.

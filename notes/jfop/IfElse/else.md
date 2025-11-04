@@ -3,7 +3,6 @@ layout: default
 title: `if` and `else`
 ---
 
-## `if` and `else`
 
 We may want a set of statements to execute when an `if` condition is `false`.
 * Place an `else` after the `if` to do this.

@@ -3,7 +3,6 @@ layout: default
 title: The Pattern Cla
 ---
 
-## The Pattern Class
 
 Use `Pattern.compile(String regex)` to create a `Pattern` object.
 

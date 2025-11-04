@@ -3,7 +3,6 @@ layout: default
 title: Auto-increment
 ---
 
-## Auto-increment
 
 A very common case of the _operate-assign_ is to increase or decrease a number by one.
 

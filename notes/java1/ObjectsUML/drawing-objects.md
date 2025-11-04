@@ -3,7 +3,6 @@ layout: default
 title: Representing Objects with Diagram
 ---
 
-## Representing Objects with Diagrams
 
 Software is hard to visualize, especially when classes and their relationships become complex.
 

@@ -3,7 +3,6 @@ layout: default
 title: The WAR File
 ---
 
-## The WAR File
 
 You can package your application for distribution in a <strong>W</strong>eb <strong>AR</strong>chive (WAR) file.
 

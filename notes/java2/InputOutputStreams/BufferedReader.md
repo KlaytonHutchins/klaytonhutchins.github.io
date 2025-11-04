@@ -3,7 +3,6 @@ layout: default
 title: `BufferedReader`
 ---
 
-## `BufferedReader`
 
 One of the most common computer file types is the _text file_: a file whose character-string records are separated by newlines (or similar record separator.)
 

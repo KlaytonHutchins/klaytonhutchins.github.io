@@ -3,7 +3,6 @@ layout: default
 title: Request Mapping with Spring REST
 ---
 
-## Request Mapping with Spring REST
 
 ### CRUD with REST
 

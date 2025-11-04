@@ -3,7 +3,6 @@ layout: default
 title: Name Separator App
 ---
 
-## Name Separator App
 We will build an application to read a list of names, remove duplicate names, and group the names by first letter.
 
 ### Setup

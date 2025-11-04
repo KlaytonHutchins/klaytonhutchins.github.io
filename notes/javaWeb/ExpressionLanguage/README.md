@@ -3,7 +3,6 @@ layout: default
 title: JSP Expression Language
 ---
 
-## JSP Expression Language
 
 ### Objectives
 * Be able to add data to the JSP page's data model.

@@ -3,7 +3,6 @@ layout: default
 title: Enumerated Type
 ---
 
-##  Enumerated Types
 
 ### Objectives
 * Be able to declare a typesafe enumeration of values with the `enum` keyword.

@@ -3,7 +3,6 @@ layout: default
 title: Test-Driven Development (TDD)
 ---
 
-## Test-Driven Development (TDD)
 
 Test-driven Development (TDD) is a development process where (failing) unit tests are written _before_ a method's functionality is added.
 

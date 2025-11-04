@@ -3,7 +3,6 @@ layout: default
 title: The `List` Interface
 ---
 
-## The `List` Interface
 
 One of the collection types defined in the `java.util` package is `List`.
 

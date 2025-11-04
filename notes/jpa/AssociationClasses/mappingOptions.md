@@ -3,7 +3,6 @@ layout: default
 title: Mapping Options with Association Classe
 ---
 
-## Mapping Options with Association Classes
 
 We have already modeled the `@ManyToMany` relationship between *Film*
 and *Store* using `inventory_item` as the join table.

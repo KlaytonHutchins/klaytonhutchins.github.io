@@ -3,7 +3,6 @@ layout: default
 title: Bits and Byte
 ---
 
-### Bits and Bytes
 
 The smallest unit of memory Java uses is a `byte`.
 

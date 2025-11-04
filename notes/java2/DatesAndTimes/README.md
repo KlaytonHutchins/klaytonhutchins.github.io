@@ -3,7 +3,6 @@ layout: default
 title: Dates and Time
 ---
 
-## Dates and Times
 
 ### Objectives
 

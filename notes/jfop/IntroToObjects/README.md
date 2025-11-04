@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Object
 ---
 
-## Introduction to Objects
 
 ### Objectives
 * Explain how a class is used to create an object.

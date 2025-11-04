@@ -3,7 +3,6 @@ layout: default
 title: Deaf Grandma
 ---
 
-## Deaf Grandma
 
 ### Application Overview
 

@@ -3,7 +3,6 @@ layout: default
 title: Breakpoint
 ---
 
-## Breakpoints
 
 The debugger must reach a line with a breakpoint in order to pause the program (or even switch to the _Debug_ perspective).
 

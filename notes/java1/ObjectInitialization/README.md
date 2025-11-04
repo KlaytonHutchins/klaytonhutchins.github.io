@@ -3,7 +3,6 @@ layout: default
 title: Object Initialization
 ---
 
-## Object Initialization
 
 In this chapter, we will learn more about objects and classes, including reasons behind certain design decisions.
 

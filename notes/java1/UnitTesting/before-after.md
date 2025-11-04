@@ -3,7 +3,6 @@ layout: default
 title: `@Before` and `@After`
 ---
 
-## `@Before` and `@After`
 
 JUnit provides annotations that allow us to execute methods _before_ each test, and _after_ each test.
 

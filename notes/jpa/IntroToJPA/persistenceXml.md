@@ -3,7 +3,6 @@ layout: default
 title: The `persistence.xml`
 ---
 
-## The `persistence.xml`
 
 A persistence unit is a named set of entities (instances of POJOs annotated with `@Entity`) in your application, and the mapping of those entities to the database (Entity -> SQL and SQL -> Entity).
 

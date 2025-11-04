@@ -3,7 +3,6 @@ layout: default
 title: Three Ways of Creating Array
 ---
 
-## Three Ways of Creating Arrays
 
 To review, there are three ways of creating and initializing arrays.
 

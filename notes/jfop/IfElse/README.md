@@ -3,7 +3,6 @@ layout: default
 title: Conditionals: `if` and `else`
 ---
 
-## Conditionals: `if` and `else`
 
 ### Objectives
 * Use `if`, `else if`, and `else` to make runtime decisions in your code.

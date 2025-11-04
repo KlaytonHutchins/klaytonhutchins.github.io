@@ -3,7 +3,6 @@ layout: default
 title: Printing Variable
 ---
 
-## Printing Variables
 
 When you use a variable in an output statement, the value stored in the variable is printed.
 ```java

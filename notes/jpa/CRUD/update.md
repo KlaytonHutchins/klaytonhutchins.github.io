@@ -3,7 +3,6 @@ layout: default
 title: Update operation
 ---
 
-## Update operations
 
 ### Managed vs. Detached Entities
 

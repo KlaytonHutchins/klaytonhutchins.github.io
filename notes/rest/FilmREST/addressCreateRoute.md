@@ -3,7 +3,6 @@ layout: default
 title: Demo: Address Create Route
 ---
 
-## Demo: Address Create Route
 
 We can now retrieve all addresses and a single address by its id. Now lets try to create a new address and persist it to our database via a resource route.
 

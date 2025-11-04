@@ -3,7 +3,6 @@ layout: default
 title: Request and Response Object
 ---
 
-## Request and Response Objects
 
 ### Objectives
 * Understand basic HTTP status codes.

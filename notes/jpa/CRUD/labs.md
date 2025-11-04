@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Create a class `CRUDClient` in your `com.example.jpavideostore.client` package.
 

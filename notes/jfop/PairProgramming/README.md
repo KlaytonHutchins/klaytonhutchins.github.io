@@ -3,7 +3,6 @@ layout: default
 title: Pair Programming
 ---
 
-## Pair Programming
 
 ### Overview
 

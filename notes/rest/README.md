@@ -3,7 +3,6 @@ layout: default
 title: RESTful Service
 ---
 
-## RESTful Services
 
 *  [Introduction To RESTful Services](IntroToREST/README.md) 
 *  [Spring REST](SpringRest/README.md) 

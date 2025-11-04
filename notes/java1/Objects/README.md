@@ -3,7 +3,6 @@ layout: default
 title: Objects and Classe
 ---
 
-## Objects and Classes
 
 In this chapter, we will learn more about objects, such as better ways to use them, and where they are stored in memory.
 

@@ -3,7 +3,6 @@ layout: default
 title: `if` and `else if`
 ---
 
-## `if` and `else if`
 
 We may want to test additional conditions _only_ when a first one is not `true`. We can do this with `else if`.
 

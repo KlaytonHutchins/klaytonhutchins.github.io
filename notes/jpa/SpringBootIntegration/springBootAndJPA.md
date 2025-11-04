@@ -3,7 +3,6 @@ layout: default
 title: Spring Boot and JPA
 ---
 
-## Spring Boot and JPA
 
 ### Entities and `EntityManager`
 _Spring Boot_ scans your project's base package for any `@Entity` classes and adds them to its default _Persistence Unit_.

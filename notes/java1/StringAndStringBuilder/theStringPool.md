@@ -3,7 +3,6 @@ layout: default
 title: The String Pool
 ---
 
-## The String Pool
 
 When we call a `String` constructor with `new`, a new `String` object will always be created at runtime.
 

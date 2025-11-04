@@ -3,7 +3,6 @@ layout: default
 title: Lottery: NBA Draft
 ---
 
-## Lottery: NBA Draft
 
 ### Application Overview
 

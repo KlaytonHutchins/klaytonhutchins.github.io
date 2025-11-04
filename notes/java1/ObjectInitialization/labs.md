@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 We will be changing `ParkingLot` to improve encapsulation and implement some best practices we have learned here.
 

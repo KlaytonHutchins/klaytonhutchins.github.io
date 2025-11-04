@@ -3,7 +3,6 @@ layout: default
 title: MVC Design Pattern
 ---
 
-## MVC Design Pattern
 
 ### Model 1
 Early Java web applications had the JSP as the center of the app. Its responsibilities included:

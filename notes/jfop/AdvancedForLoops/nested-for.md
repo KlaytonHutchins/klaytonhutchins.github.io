@@ -3,7 +3,6 @@ layout: default
 title: Nested `for` Loop
 ---
 
-## Nested `for` Loops
 
 Recall that a for loop iterates a certain number of times.
 

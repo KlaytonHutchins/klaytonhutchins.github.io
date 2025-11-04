@@ -3,7 +3,6 @@ layout: default
 title: Anonymous Classes and Interface
 ---
 
-## Anonymous Classes and Interfaces
 Using anonymous classes with interfaces is different than a class, because the anonymous class is _implementing_ the interface.
 
 * The variable type will be the interface.

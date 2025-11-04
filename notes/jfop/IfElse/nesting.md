@@ -3,7 +3,6 @@ layout: default
 title: Nested Control Statement
 ---
 
-## Nested Control Statements
 
 When you put one control statement, such as an `if`, inside another control
 statement, you have created _nested control statements_.

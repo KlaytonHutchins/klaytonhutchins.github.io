@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 The `String` method `public String substring(int beginIndex, int endIndex)` returns a substring of a `String` instance. Create a new JUnit 5 (_JUnit Jupiter_) test case for this method, with test methods that:
 

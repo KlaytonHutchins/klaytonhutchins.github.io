@@ -3,7 +3,6 @@ layout: default
 title: Introduction
 ---
 
-## Introduction
 
 JUnit 5 is composed of several different modules.
 

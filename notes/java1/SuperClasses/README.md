@@ -3,7 +3,6 @@ layout: default
 title: Superclasse
 ---
 
-## Superclasses
 
 In this chapter we will use _inheritance_ to design classes based on other classes.
 

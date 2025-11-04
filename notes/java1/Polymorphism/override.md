@@ -3,7 +3,6 @@ layout: default
 title: Overriding Superclass Behavior
 ---
 
-## Overriding Superclass Behavior
 
 A subclass can define a method that overrides a method in the superclass.
 

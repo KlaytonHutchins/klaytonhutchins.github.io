@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 Sets can only contain unique elements. In these labs we will examine and use this feature.
 
 1. The file `names.txt` at the root of the `SetInterface` project contains many names. Create a program to:

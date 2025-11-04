@@ -3,7 +3,6 @@ layout: default
 title: The `Throwable` Hierarchy
 ---
 
-## The `Throwable` Hierarchy
 
 All exceptions descend from the `Throwable` class, which extends `Object`.
 

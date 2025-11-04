@@ -3,7 +3,6 @@ layout: default
 title: `LocalTime`
 ---
 
-## `LocalTime`
 
 `LocalTime` represents a 24-hour _wall-clock time_, encapsulating hour, minute, and second - with nanosecond precision.
 

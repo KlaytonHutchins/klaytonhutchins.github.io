@@ -3,7 +3,6 @@ layout: default
 title: For Loop - When and Why
 ---
 
-## For Loop - When and Why
 
 ### When to Use a `for` Loop
 

@@ -3,7 +3,6 @@ layout: default
 title: Association Classe
 ---
 
-## Association Classes
 
 ### Objectives
 * Map `Join Table`s as non-virtual entities.

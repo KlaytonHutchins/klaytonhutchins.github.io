@@ -3,7 +3,6 @@ layout: default
 title: Review
 ---
 
-## Review
 
 ### Objectives
 * Explain HATEOAS.

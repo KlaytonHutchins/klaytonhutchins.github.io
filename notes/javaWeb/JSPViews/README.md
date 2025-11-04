@@ -3,7 +3,6 @@ layout: default
 title: JSP View
 ---
 
-## JSP Views
 
 ### Objectives
 

@@ -3,7 +3,6 @@ layout: default
 title: Fibonacci Serie
 ---
 
-## Fibonacci Series
 
 The _Fibonacci series_ is a series of numbers in which the first two numbers are 0 and 1. Each subsequent number is the sum of the previous two. So, the third Fibonacci number is (0 + 1) = 1. The next is (1 + 1) = 2. Then (1 + 2) = 3. Then (2 + 3) = 5. Then (3 + 5) = 8. And so on. The Fibonacci series has many interesting mathematical properties and shows up in surprising places in nature.
 

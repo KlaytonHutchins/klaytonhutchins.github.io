@@ -3,7 +3,6 @@ layout: default
 title: Package Name
 ---
 
-## Package Names
 
 Many Java projects are not applications to be run by users, but libraries of classes to be used by other Java developers in their applications.
 

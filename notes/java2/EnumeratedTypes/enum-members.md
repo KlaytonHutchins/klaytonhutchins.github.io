@@ -3,7 +3,6 @@ layout: default
 title: `enum` Member
 ---
 
-## `enum` Members
 
 Since an `enum` is really a class, you are allowed to provide your own methods and fields in the `enum` declaration.
 

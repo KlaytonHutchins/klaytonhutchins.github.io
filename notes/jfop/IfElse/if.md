@@ -3,7 +3,6 @@ layout: default
 title: `if` Statement
 ---
 
-## `if` Statement
 
 We know `if` statements in everyday language. If some condition is true, an action follows.
 

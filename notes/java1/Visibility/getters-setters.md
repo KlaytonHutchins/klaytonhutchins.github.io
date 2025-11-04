@@ -3,7 +3,6 @@ layout: default
 title: Getters and Setter
 ---
 
-## Getters and Setters
 
 We add getters and setters to the _superclass_ to allow subclasses to access `private` superclass fields.
 

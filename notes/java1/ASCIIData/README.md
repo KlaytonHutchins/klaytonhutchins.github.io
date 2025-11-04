@@ -3,7 +3,6 @@ layout: default
 title: ASCII and Unicode Data
 ---
 
-## ASCII and Unicode Data
 
 ### Objectives
 * Understand and use the ASCII character set.

@@ -3,7 +3,6 @@ layout: default
 title: Understanding Garbage Collection
 ---
 
-## Understanding Garbage Collection
 
 Garbage collection is an important topic in Java, and can come up in interviews and exams.
 

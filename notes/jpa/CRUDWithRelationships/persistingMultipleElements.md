@@ -3,7 +3,6 @@ layout: default
 title: Persisting Multiple Entitie
 ---
 
-## Persisting Multiple Entities
 
 Persisting nested entities requires some additional effort.
 

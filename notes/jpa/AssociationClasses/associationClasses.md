@@ -3,7 +3,6 @@ layout: default
 title: Association Cla
 ---
 
-## Association Class
 
 You normally don't create an entity class for a join table.
 

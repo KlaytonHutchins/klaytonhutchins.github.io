@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In this lab we will change our subclasses to use features of their superclasses.
 
 This set of labs is short, but will be used in subsequent chapters to use other features of object-oriented programming.

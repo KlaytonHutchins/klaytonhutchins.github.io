@@ -3,7 +3,6 @@ layout: default
 title: Install and Configure Tomcat Web Container
 ---
 
-## Install and Configure Tomcat Web Container
 
 ### Download and install Tomcat 8.5
 

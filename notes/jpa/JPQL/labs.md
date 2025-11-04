@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Create a class in the `com.example.jpavideostore.client` package named `JPQLLab` (this is where you will complete the following steps).
 

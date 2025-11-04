@@ -3,7 +3,6 @@ layout: default
 title: Object-Oriented Programming in Java
 ---
 
-## Object-Oriented Programming in Java
 
 ### Setup
 

@@ -3,7 +3,6 @@ layout: default
 title: `Collections` Utility Method
 ---
 
-## `Collections` Utility Methods
 
 In addition to `sort()`, the `Collections` class has many other utility methods defined for working with lists.
 

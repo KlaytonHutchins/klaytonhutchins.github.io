@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 If you have not finished the drills in this chapter, copy the source from
 

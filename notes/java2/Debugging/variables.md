@@ -3,7 +3,6 @@ layout: default
 title: Examining Variable
 ---
 
-## Examining Variables
 
 There are several ways to examine the contents of variables.
 

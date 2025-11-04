@@ -3,7 +3,6 @@ layout: default
 title: Constant Fields and Variable
 ---
 
-## Constant Fields and Variables
 
 We can ensure a field or variable does not change by declaring it with the keyword `final`.
 

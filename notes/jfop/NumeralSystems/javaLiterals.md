@@ -3,7 +3,6 @@ layout: default
 title: Numeric Literals in Java
 ---
 
-## Numeric Literals in Java
 
 When we write a numeric literal in our code, Java interprets it as base-10 or decimal.
 

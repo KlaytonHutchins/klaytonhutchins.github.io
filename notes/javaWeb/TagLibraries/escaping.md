@@ -3,7 +3,6 @@ layout: default
 title: JSTL - Escaping Data
 ---
 
-## JSTL - Escaping Data
 
 The simple EL method of outputting data, `${object.member}`, is useful but can fail to display as desired in cases where data must be escaped (quotes, angle brackets, etc.).
 

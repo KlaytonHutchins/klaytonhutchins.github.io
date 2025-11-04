@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 This chapter includes exercises for you to work on both during the lab session in class, and later, on your own time.
 

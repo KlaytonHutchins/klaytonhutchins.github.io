@@ -3,7 +3,6 @@ layout: default
 title: Member Classe
 ---
 
-## Member Classes
 
 ```java
 public class TopLevel {

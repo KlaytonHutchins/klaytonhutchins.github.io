@@ -3,7 +3,6 @@ layout: default
 title: Web Application
 ---
 
-## Web Applications
 
 ### Objectives
 

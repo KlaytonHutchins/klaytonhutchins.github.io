@@ -3,7 +3,6 @@ layout: default
 title: Anonymous Classe
 ---
 
-## Anonymous Classes
 
 ```java
 public class OuterWithAnonymous {

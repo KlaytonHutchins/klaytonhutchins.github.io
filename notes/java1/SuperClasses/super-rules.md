@@ -3,7 +3,6 @@ layout: default
 title: Rules for `super()`
 ---
 
-## Rules for `super()`
 
 ### `super(...)` is Always Called
 When we don't write a call to `super()`, the compiler will try to add one.

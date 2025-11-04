@@ -3,7 +3,6 @@ layout: default
 title: Method
 ---
 
-## Methods
 
 ### Objectives
 * Use a method to calculate and return a value to its caller.

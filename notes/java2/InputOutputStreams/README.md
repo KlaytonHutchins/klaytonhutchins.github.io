@@ -3,7 +3,6 @@ layout: default
 title: Input/Output Stream
 ---
 
-## Input/Output Streams
 
 ### Objectives
 

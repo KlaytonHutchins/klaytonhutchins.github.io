@@ -3,7 +3,6 @@ layout: default
 title: Implicit Type Conversion
 ---
 
-## Implicit Type Conversions
 
 Java can convert data from one type to another.
 

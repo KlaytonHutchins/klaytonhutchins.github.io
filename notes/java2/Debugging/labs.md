@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Open `Debugging/com.example.debugging.labs.BuggyProgram`.
 

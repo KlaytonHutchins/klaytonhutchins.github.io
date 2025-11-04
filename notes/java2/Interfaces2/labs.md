@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In this set of labs we will continue to use the `Drawable` interface from the [`java1/Interfaces`](../../java1/Interfaces/usingInterfaces-labs.md) project.
 
 1. Create a new interface named `ThreeDPrintable` that extends `Drawable`, and declares a `void` method `threeDPrint`.  Create a class, `ThreeDModel`, that implements `ThreeDPrintable`.  Just use `println` statements in your method implementations.

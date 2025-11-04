@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Lambda Expression
 ---
 
-### Introduction to Lambda Expressions
 
 ### Objectives
 * Write lambda expressions to replace inner classes.

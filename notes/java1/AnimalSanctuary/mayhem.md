@@ -3,7 +3,6 @@ layout: default
 title: Stretch Goal : Mayhem
 ---
 
-## Stretch Goal : Mayhem
 Sometimes things go wrong. In the case of the Sanctuary, all the habitat doors open and the Carnivores are loose.
 
 Carnivores will visit other habitats and eat other Animals until one remains.

@@ -3,7 +3,6 @@ layout: default
 title: Jet
 ---
 
-## Jets
 
 ### Application Overview
 You are going to create a fleet of jets with different capabilities. Your application will be a menu to use your jets and access information about them.

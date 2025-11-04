@@ -3,7 +3,6 @@ layout: default
 title: Package
 ---
 
-## Packages
 
 ### Objectives
 * Use packages to organize your Java applications.

@@ -3,7 +3,6 @@ layout: default
 title: The `args` Array
 ---
 
-## The `args` Array
 
 Every program you run, Java or not, can be given a list of words on its command line.
 

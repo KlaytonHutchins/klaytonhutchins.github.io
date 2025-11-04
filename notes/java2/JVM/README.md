@@ -3,7 +3,6 @@ layout: default
 title: The Java Virtual Machine
 ---
 
-## The Java Virtual Machine
 
 ### Objectives
 * Distinguish between the Java Virtual Machine, the JRE, and the JDK.

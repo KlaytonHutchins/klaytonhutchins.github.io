@@ -3,7 +3,6 @@ layout: default
 title: Important Wrapper Class Method
 ---
 
-## Important Wrapper Class Methods
 
 The wrapper classes provide three important methods for converting data:
 

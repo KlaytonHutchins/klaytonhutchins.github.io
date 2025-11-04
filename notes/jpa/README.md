@@ -3,7 +3,6 @@ layout: default
 title: JPA
 ---
 
-## JPA
 
 ### Day 1
 *  [Introduction to JPA](IntroToJPA/README.md) 

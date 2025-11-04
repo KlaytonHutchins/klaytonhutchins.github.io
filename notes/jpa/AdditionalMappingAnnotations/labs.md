@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Add `@GeneratedValue` annotation to the `id` field of the following *Entities*:  
 

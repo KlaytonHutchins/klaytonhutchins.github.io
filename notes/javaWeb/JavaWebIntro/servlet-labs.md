@@ -3,7 +3,6 @@ layout: default
 title: Servlet Lab
 ---
 
-## Servlet Lab
 In this lab we will change the output of an existing dynamic webapp and deploy it to Tomcat.
 
 1. In `JavaWebIntro/src/main/webapp/index.html`, add a link to `inventory` with the text `List Inventory`.

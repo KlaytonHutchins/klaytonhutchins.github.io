@@ -3,7 +3,6 @@ layout: default
 title: When to Use a `switch` Control Statement
 ---
 
-## When to Use a `switch` Control Statement
 
 We can make `switch` statements into _if-then-else_ statements.
 

@@ -3,7 +3,6 @@ layout: default
 title: Tools to Debug Program
 ---
 
-## Tools to Debug Programs
 
 Programs called _debuggers_ help you follow the execution of your program without commenting out code or adding debugging print statements.
 

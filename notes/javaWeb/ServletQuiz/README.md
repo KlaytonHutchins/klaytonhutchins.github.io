@@ -3,7 +3,6 @@ layout: default
 title: Servlet Quiz
 ---
 
-## Servlet Quiz
 
 This quiz tests basic knowledge of HTML forms, passing data to Servlets, adding data to the JSP's model, and displaying the data using Expression Language.
 

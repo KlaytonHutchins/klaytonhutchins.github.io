@@ -3,7 +3,6 @@ layout: default
 title: `Set` Implementation Classes - `HashSet` and `LinkedHashSet`
 ---
 
-## `Set` Implementation Classes - `HashSet` and `LinkedHashSet`
 
 To create a `Set`, we need an implementation class.
 

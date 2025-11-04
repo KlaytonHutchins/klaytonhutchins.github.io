@@ -3,7 +3,6 @@ layout: default
 title: The `String` Cla
 ---
 
-## The `String` Class
 
 You've used `String` objects since your very first "Hello, World!" program.
 

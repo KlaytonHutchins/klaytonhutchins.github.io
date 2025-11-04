@@ -3,7 +3,6 @@ layout: default
 title: Grouping
 ---
 
-## Grouping
 
 ### `GROUP BY`
 We can group aggregate results using the `GROUP BY` keyword. This changes the default behavior of an aggregate returning a single result to instead return multiple results.

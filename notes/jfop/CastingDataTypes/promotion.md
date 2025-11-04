@@ -3,7 +3,6 @@ layout: default
 title: Promotion of Data Types in Arithmetic
 ---
 
-## Promotion of Data Types in Arithmetic
 
 When Java does arithmetic, it will promote operands to the largest or most precise common type.
 

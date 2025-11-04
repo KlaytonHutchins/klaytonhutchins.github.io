@@ -3,7 +3,6 @@ layout: default
 title: Casting Hint
 ---
 
-## Casting Hints
 
 ### Precedence
 

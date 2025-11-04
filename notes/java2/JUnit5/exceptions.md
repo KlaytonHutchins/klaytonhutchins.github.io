@@ -3,7 +3,6 @@ layout: default
 title: Testing Exception
 ---
 
-## Testing Exceptions
 
 The JUnit 4 way of testing exceptions involved adding `expected` to the `@Test` annotation, and allowing the exception to be thrown from the test method.
 

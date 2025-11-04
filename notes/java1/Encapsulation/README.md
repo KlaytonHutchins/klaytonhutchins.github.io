@@ -3,7 +3,6 @@ layout: default
 title: Encapsulation
 ---
 
-## Encapsulation
 
 ### Objectives
 

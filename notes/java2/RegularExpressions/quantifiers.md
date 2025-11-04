@@ -3,7 +3,6 @@ layout: default
 title: Quantifiers
 ---
 
-## Quantifiers
 
 A quantifier specifies the number of occurrences of the item that precedes it:
 

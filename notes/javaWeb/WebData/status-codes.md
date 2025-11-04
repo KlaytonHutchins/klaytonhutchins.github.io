@@ -3,7 +3,6 @@ layout: default
 title: HTTP Status Code
 ---
 
-## HTTP Status Codes
 Responses from the server have a code indicating what happened.
 
 _HTTP server status codes_ are three-digit numbers and categorized, with each category using a range of 100 possible codes.

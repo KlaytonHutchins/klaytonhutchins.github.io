@@ -3,7 +3,6 @@ layout: default
 title: `break` and `continue` Statement
 ---
 
-## `break` and `continue` Statements
 
 We can change how a loop iterates.
 

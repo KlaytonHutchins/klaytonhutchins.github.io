@@ -3,7 +3,6 @@ layout: default
 title: Input - Process - Output
 ---
 
-## Input - Process - Output
 Regardless of the type of application, a computer program almost always
 performs three basic functions:
 1. Input some data.

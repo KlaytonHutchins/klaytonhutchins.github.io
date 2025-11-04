@@ -3,7 +3,6 @@ layout: default
 title: Generic `<Types>`
 ---
 
-## Generic `<Types>`
 We use the `<>` type argument with `ArrayList` because `ArrayList` is a _generic type_.
 
 > #### generic type

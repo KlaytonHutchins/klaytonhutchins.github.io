@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In these labs we will use Maps to store and then retrieve data.
 
 1. The program `com.example.mapinterface.labs.AreaCodeLister` reads in `abbreviations.txt` and `areacodes.txt`. Modify that program so that it loads the data from these files into two `HashMap`s. Then, print out each area code followed by the full name of the state or province associated with it.

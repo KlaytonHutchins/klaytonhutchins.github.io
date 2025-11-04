@@ -3,7 +3,6 @@ layout: default
 title: Sorting Map
 ---
 
-## Sorting Maps
 
 A `TreeMap` sorts its _keys_, using their own natural sort order.
 

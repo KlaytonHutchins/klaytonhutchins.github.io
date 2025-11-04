@@ -3,7 +3,6 @@ layout: default
 title: Break and Continue With Enhanced For Loop
 ---
 
-## Break and Continue With Enhanced For Loops
 
 We can use the commands `break` and `continue` in enhanced `for` loops, just like we would in standard `for` loops.
 * `continue` will skip the rest of the loop body and advance to the next loop iteration.

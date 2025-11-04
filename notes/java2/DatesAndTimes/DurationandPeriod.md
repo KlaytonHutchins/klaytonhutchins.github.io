@@ -3,7 +3,6 @@ layout: default
 title: `Duration` and `Period`
 ---
 
-## `Duration` and `Period`
 
 The `java.time` API has two classes for representing time intervals: `Duration` and `Period`.
 

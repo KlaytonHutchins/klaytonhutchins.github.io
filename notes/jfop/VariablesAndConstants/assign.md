@@ -3,7 +3,6 @@ layout: default
 title: Assignment
 ---
 
-## Assignment
 
 Remember that _declaring_ a variable is creating the variable for your program to use.
 ```java

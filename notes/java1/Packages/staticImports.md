@@ -3,7 +3,6 @@ layout: default
 title: Static Import
 ---
 
-## Static Imports
 
 `import` makes the names of classes and other types from another package part of our current namespace, so we can use them without fully-qualifying them.
 

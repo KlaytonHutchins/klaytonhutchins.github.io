@@ -3,7 +3,6 @@ layout: default
 title: Java Librarie
 ---
 
-## Java Libraries
 
 ### Day 1
 *  [Generics and `ArrayList`](GenericsAndArrayList/README.md) 

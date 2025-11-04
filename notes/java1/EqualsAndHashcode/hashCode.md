@@ -3,7 +3,6 @@ layout: default
 title: `hashCode()`
 ---
 
-## `hashCode()`
 
 If you override `equals` you also need to override the `hashCode` method.
 

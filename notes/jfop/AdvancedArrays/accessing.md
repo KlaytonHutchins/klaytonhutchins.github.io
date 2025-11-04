@@ -3,7 +3,6 @@ layout: default
 title: Accessing Elements of Multidimensional Array
 ---
 
-## Accessing Elements of Multidimensional Arrays
 
 To access the elements of a two-dimensional array, we first tell Java which array we mean.
 ```java

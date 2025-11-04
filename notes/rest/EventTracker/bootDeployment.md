@@ -3,7 +3,6 @@ layout: default
 title: Deploying Spring Boot App
 ---
 
-## Deploying Spring Boot Apps
 
 ### A WAR-Packaged Spring Boot App
 

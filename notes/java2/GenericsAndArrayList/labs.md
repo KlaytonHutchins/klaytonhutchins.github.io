@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In these labs we will use `ArrayList` to store and retrieve data, and as the internal storage for a data structure.
 
 1. Write a program that contains an `ArrayList` of the names of the students in your class. Use a foreach loop to print out each name. (Do not copy-paste from an example.)

@@ -3,7 +3,6 @@ layout: default
 title: Variables - Single vs. Collection
 ---
 
-## Variables - Single vs. Collections
 
 Up to this point, we have been using variables that hold one piece of data.
 

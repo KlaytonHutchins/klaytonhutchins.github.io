@@ -3,7 +3,6 @@ layout: default
 title: Hiding Instance Field
 ---
 
-## Hiding Instance Fields
 
 Declaring an instance field with the same name as a visible superclass field is called _hiding_.
 

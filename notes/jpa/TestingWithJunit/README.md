@@ -3,7 +3,6 @@ layout: default
 title: Testing Entities with JUnit
 ---
 
-## Testing Entities with JUnit
 
 ### Objectives
 * Include the necessary dependencies for testing with JUnit.

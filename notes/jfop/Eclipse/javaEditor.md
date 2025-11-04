@@ -3,7 +3,6 @@ layout: default
 title: The Java Editor
 ---
 
-## The Java Editor
 
 The whole point of an IDE is to help us code faster so we spend less time and attention typing and more time thinking about the solutions we're creating.
 

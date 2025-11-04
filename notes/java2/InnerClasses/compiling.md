@@ -3,7 +3,6 @@ layout: default
 title: Compiling Inner Classe
 ---
 
-## Compiling Inner Classes
 
 The Java compiler compiles inner classes as normal classes, changing their names to ensure uniqueness and indicate scope, and usually adding some code to them to make them work as described.
 

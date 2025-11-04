@@ -3,7 +3,6 @@ layout: default
 title: Testing with JUnit
 ---
 
-## Testing with JUnit
 
 You can use JUnit to create test cases to validate your JPA mappings.
 

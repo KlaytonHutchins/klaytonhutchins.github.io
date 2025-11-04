@@ -3,7 +3,6 @@ layout: default
 title: Drawing Objects and Their Relationship
 ---
 
-## Drawing Objects and Their Relationships
 
 ### Objectives
 * Be able to model classes and static relationships between them, using UML.

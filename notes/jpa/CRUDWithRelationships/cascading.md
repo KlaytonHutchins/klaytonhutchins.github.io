@@ -3,7 +3,6 @@ layout: default
 title: Cascading
 ---
 
-## Cascading
 Manually persisting multiple related entities is cumbersome. Thankfully, the JPA has a means of simplifying this process.
 
 By default an *EntityManager* operation will not be applied to related entities.

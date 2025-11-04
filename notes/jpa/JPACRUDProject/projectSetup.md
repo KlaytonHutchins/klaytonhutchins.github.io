@@ -3,7 +3,6 @@ layout: default
 title: Project Setup
 ---
 
-## Project Setup
 
 
 #### Workspace Folder and Git Setup

@@ -3,7 +3,6 @@ layout: default
 title: Expression
 ---
 
-## Expressions
 
 ### Objectives
 * Explain how Java uses literals, variables, and operators to compute results.

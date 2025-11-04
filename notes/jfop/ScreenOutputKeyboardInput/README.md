@@ -3,7 +3,6 @@ layout: default
 title: Screen Output and Keyboard Input
 ---
 
-## Screen Output and Keyboard Input
 
 ### Objectives
 * Write program output using `System.out` and `System.err`.

@@ -3,7 +3,6 @@ layout: default
 title: The Java Virtual Machine
 ---
 
-## The Java Virtual Machine
 
 ![Java Virtual Machine (JVM)](images/jvm.png)
 

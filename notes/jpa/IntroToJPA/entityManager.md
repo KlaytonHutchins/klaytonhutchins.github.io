@@ -3,7 +3,6 @@ layout: default
 title: `EntityManager`
 ---
 
-## `EntityManager`s
 
 Use an *EntityManager* to retrieve or store an entity in the database.
 

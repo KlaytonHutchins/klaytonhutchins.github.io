@@ -3,7 +3,6 @@ layout: default
 title: Installing Eclipse
 ---
 
-## Installing Eclipse
 
 On some systems, installing Eclipse consists of nothing more than unzipping the download and creating a shortcut to the `eclipse` program.
 

@@ -3,7 +3,6 @@ layout: default
 title: `@OneToOne`
 ---
 
-## `@OneToOne`
 
 ### Objectives
 * Use the `@OneToOne` annotation to map uni-directional relationships between entities. 

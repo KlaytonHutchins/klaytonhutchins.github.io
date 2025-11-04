@@ -3,7 +3,6 @@ layout: default
 title: Spring Boot Integration
 ---
 
-## Spring Boot Integration
 
 ### Objectives
 * Import content from your JPA project into your Spring Boot project.

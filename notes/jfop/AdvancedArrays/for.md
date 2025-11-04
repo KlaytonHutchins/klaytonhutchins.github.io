@@ -3,7 +3,6 @@ layout: default
 title: Iterating Multidimensional Array
 ---
 
-## Iterating Multidimensional Arrays
 
 We iterate multidimensional arrays with nested `for` loops.
 

@@ -3,7 +3,6 @@ layout: default
 title: Java Fundamentals of Programming
 ---
 
-## Java Fundamentals of Programming
 
 ### Day 1
 

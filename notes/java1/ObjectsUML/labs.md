@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 These labs require writing on paper or a whiteboard.
 
 1. Create a class diagram to depict a `BankAccount`.

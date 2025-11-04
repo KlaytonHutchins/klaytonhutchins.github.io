@@ -3,7 +3,6 @@ layout: default
 title: The Default Constructor
 ---
 
-## The Default Constructor
 
 You may have noticed that our original `Sphere3` class did not have constructors defined, but we were able to call `Sphere3 sphere = new Sphere3();`.
 

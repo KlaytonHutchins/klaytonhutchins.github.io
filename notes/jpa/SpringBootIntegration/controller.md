@@ -3,7 +3,6 @@ layout: default
 title: Controller Configuration
 ---
 
-## Controller Configuration
 
 Spring Boot finds your controller by component-scanning the application's base package. It will autowire any dependencies, such as a DAO, provided it can find a satisfactory bean.
 

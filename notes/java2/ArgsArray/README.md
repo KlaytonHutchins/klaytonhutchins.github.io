@@ -3,7 +3,6 @@ layout: default
 title: The `args` Array
 ---
 
-## The `args` Array
 
 ### Objectives
 * Use the `args` array to pass values to a Java program from the command line.

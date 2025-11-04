@@ -3,7 +3,6 @@ layout: default
 title: Entity Relationship
 ---
 
-## Entity Relationships
 
 When you learned *Object Oriented Programming*, you saw how objects can contain other objects (or even collections of other objects) as fields.
 

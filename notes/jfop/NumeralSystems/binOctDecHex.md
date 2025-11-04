@@ -3,7 +3,6 @@ layout: default
 title: Numeral Systems for Programming
 ---
 
-## Numeral Systems for Programming
 
 There are a lot of systems in use besides base-10 or decimal:
 

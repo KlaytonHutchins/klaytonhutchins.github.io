@@ -3,7 +3,6 @@ layout: default
 title: Variables and Constant
 ---
 
-## Variables and Constants
 
 ### Objectives
 * Use Java's primitive data types to declare and use variables.

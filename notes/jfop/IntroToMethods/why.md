@@ -3,7 +3,6 @@ layout: default
 title: Why Use Methods?
 ---
 
-### Why Use Methods?
 
 Methods allow us to make our code shorter, more readable, and more maintainable.
 

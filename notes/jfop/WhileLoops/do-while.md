@@ -3,7 +3,6 @@ layout: default
 title: `do-while` Loops
 ---
 
-## `do-while` Loops ##
 
 The `do-while` loop is similar to the `while` loop, except the condition is placed _after_ the loop body.
 

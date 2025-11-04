@@ -3,7 +3,6 @@ layout: default
 title: POJO To JSON
 ---
 
-## POJO To JSON
 
 By default, when you use the `@ResponseBody` and `@Controller` annotations, or `@RestController`, Spring will look for the Jackson-Databind Library.
 

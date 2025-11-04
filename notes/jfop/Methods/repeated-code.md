@@ -3,7 +3,6 @@ layout: default
 title: Methods Instead of Repeating Code
 ---
 
-## Methods Instead of Repeating Code
 
 One of the best uses of methods is to avoid repeated code:
 

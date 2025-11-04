@@ -3,7 +3,6 @@ layout: default
 title: Manual Output in Code
 ---
 
-## Manual Output in Code
 
 Another tried-and-true debugging technique involves putting extra print statements in your program.
 

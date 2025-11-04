@@ -3,7 +3,6 @@ layout: default
 title: Data Type
 ---
 
-## Data Types
 
 Data can be different _types_, because different pieces of data represent different things.
 

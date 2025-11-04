@@ -3,7 +3,6 @@ layout: default
 title: Literal
 ---
 
-## Literals
 
 _Literals_ are pieces of data whose value cannot change (whereas variables represent those values).
 

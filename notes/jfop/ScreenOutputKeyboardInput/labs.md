@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Write a program that prompts the user for a list of five integers. Place each of the numbers in a separate variable, then:
    1. Print each of the numbers separated by a space.

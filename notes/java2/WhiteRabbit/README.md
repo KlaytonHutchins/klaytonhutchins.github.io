@@ -3,7 +3,6 @@ layout: default
 title: Project: White Rabbit
 ---
 
-## Project: White Rabbit
 
 The most successful video games are those with short-, medium-, and long-term goals.
 

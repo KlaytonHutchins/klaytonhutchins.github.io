@@ -3,7 +3,6 @@ layout: default
 title: Lambdas and Interface
 ---
 
-## Lambdas and Interfaces
 
 Lambdas are based on interfaces, and the compiler relies on _context_ to determine what a lambda means.
 

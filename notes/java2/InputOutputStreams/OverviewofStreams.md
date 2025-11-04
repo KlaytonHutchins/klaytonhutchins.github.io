@@ -3,7 +3,6 @@ layout: default
 title: Overview of Stream
 ---
 
-## Overview of Streams
 
 Input and output (I/O) between a Java program and outside systems is conducted through _streams_, which are ordered sequences of data.
   

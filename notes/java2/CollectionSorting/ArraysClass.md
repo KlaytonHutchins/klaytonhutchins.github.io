@@ -3,7 +3,6 @@ layout: default
 title: Sorting Array
 ---
 
-## Sorting Arrays
 
 Arrays don't have a `sort` method, and can't be passed to methods like `Collections.sort` because they aren't `List` implementations.
 

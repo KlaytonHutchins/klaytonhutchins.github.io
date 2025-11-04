@@ -3,7 +3,6 @@ layout: default
 title: Debugging Program
 ---
 
-## Debugging Programs
 In this chapter we will look at ways to find errors in our code, including the Eclipse Debugger.
 
 ### Objectives

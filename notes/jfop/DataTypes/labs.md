@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 There is already a `labs` package in the project for this chapter.
 

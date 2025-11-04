@@ -3,7 +3,6 @@ layout: default
 title: Java Servlet
 ---
 
-## Java Servlets
 
 A Java Servlet is a class that extends `javax.servlet.http.HttpServlet`.
 

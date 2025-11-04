@@ -3,7 +3,6 @@ layout: default
 title: Keys and `hashCode`
 ---
 
-## Keys and `hashCode`
 
 A _key_/_value_ entry in a `Map` establishes a meaningful relation between the key object and the value object.
 

@@ -3,7 +3,6 @@ layout: default
 title: `@ManyToMany`
 ---
 
-## `@ManyToMany`
 
 ### Objectives
 * Map many-to-many relationships between entities.

@@ -3,7 +3,6 @@ layout: default
 title: Exception
 ---
 
-## Exceptions
 
 ### Objectives
 * Use `try`/`catch` blocks to handle exceptions.

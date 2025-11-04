@@ -3,7 +3,6 @@ layout: default
 title: Numeral System
 ---
 
-## Numeral Systems
 
 ### Objectives
 * Understand the basis for commonly-used numeral systems.

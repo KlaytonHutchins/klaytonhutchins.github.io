@@ -3,7 +3,6 @@ layout: default
 title: More Lab
 ---
 
-## More Labs
 Now we will create another Dynamic Web Application to display a randomly generated name.
 
 1. Create a Dynamic Web Project called `NameChooser`.

@@ -3,7 +3,6 @@ layout: default
 title: Map Entrie
 ---
 
-## Map Entries
 
 A `HashMap` may need to store multiple entries (nodes) in a single bucket.
 

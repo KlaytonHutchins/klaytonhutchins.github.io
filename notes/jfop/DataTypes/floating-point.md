@@ -3,7 +3,6 @@ layout: default
 title: Floating Point Literal
 ---
 
-## Floating Point Literals
 
 When Java sees a numeric literal with a `.`, such as `0.0`, it assumes it is seeing a `double`, and range is less important.
 

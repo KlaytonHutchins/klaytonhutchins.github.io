@@ -3,7 +3,6 @@ layout: default
 title: Order of Initialization
 ---
 
-## Order of Initialization
 
 Java defines the order in which it initializes fields in a class.
 

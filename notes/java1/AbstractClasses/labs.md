@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 We will explore abstract classes, and create a class hierarchy where common fields are encapsulated in an abstract parent class. 
 
 1. `AbstractClasses/com.example.abstractclasses.labs.vehicles`

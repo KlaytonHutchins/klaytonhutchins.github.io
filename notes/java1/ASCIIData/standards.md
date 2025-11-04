@@ -3,7 +3,6 @@ layout: default
 title: Standard
 ---
 
-## Standards
 
 Computer and software designers follow many agreed-upon conventions so that their products will all operate together:
 

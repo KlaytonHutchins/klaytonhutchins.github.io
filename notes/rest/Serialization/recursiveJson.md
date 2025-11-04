@@ -3,7 +3,6 @@ layout: default
 title: Dealing with Recursive JSON
 ---
 
-## Dealing with Recursive JSON
 
 We can get into situations where our objects have other objects nested within them.
 

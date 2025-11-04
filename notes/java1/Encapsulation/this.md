@@ -3,7 +3,6 @@ layout: default
 title: The `this` Keyword
 ---
 
-## The `this` Keyword
 
 Every object has a reference to itself: `this`.
 

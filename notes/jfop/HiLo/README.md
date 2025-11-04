@@ -3,7 +3,6 @@ layout: default
 title: Hi/Lo
 ---
 
-## Hi/Lo
 
 ### Overview
 

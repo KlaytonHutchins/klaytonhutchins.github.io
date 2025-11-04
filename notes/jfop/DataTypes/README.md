@@ -3,7 +3,6 @@ layout: default
 title: Data Types in Java
 ---
 
-## Data Types in Java
 
 ### Objectives
 * Understand binary addition.

@@ -3,7 +3,6 @@ layout: default
 title: The Primitive-Type Wrapper Classe
 ---
 
-## The Primitive-Type Wrapper Classes
 
 ### Objectives
 

@@ -3,7 +3,6 @@ layout: default
 title: Web Application
 ---
 
-## Web Applications
 
 Client-server requests for _static_ (unchanging) HTML pages are simple.
 

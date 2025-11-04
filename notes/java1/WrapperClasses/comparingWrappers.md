@@ -3,7 +3,6 @@ layout: default
 title: Comparing Wrapper Object
 ---
 
-## Comparing Wrapper Objects
 
 We can use `==` to compare primitives of compatible types.
 

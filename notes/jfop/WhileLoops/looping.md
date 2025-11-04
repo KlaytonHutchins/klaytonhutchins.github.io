@@ -3,7 +3,6 @@ layout: default
 title: Looping
 ---
 
-## Looping
 
 Programs execute _sequentially_, or line-by-line.
 

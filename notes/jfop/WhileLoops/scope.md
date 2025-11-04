@@ -3,7 +3,6 @@ layout: default
 title: Scope
 ---
 
-## Scope
 
 Code blocks define _scope_, which is where a variable is available:
 

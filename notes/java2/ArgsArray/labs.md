@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Write a new Java program.  In its `main` check to see if exactly one argument was passed on the command line and if not, exit with an appropriate message.
 

@@ -3,7 +3,6 @@ layout: default
 title: Screen Output
 ---
 
-## Screen Output
 
 The simplest way a program can communicate with its user is to print data on the screen.
 

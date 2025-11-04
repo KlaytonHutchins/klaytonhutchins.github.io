@@ -3,7 +3,6 @@ layout: default
 title: `break` and `continue` Statements
 ---
 
-## `break` and `continue` Statements ##
 
 We can change how a loop iterates.
 > Sometimes we may want a single iteration, or the entire loop itself, to end early.

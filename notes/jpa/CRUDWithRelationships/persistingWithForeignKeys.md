@@ -3,7 +3,6 @@ layout: default
 title: Setting Foreign Keys with JPA
 ---
 
-## Setting Foreign Keys with JPA
 We are going to use the _Film_ and _Language_ tables and entities for this example.
 
 ![Film Table](images/film.png)  

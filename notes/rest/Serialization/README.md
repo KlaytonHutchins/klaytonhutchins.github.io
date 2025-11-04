@@ -3,7 +3,6 @@ layout: default
 title: Data Serialization
 ---
 
-## Data Serialization
 
 ### Objectives
 * Be able to convert data from Java objects to json.

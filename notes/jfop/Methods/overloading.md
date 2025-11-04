@@ -3,7 +3,6 @@ layout: default
 title: Method Overloading
 ---
 
-## Method Overloading
 
 We cannot have two methods in the same class with the same signature.
 

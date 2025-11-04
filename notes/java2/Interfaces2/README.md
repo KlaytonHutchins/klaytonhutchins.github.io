@@ -3,7 +3,6 @@ layout: default
 title: Intermediate Interface
 ---
 
-## Intermediate Interfaces
 
 This chapter explains some of the details of Java interfaces, including inheritance, fields, and `static` and `default` methods .
 

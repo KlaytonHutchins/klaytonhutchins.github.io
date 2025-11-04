@@ -3,7 +3,6 @@ layout: default
 title: `for` Loop
 ---
 
-## `for` Loops
 
 ### Objectives
 * Use Java's `for` loop to execute code a certain number of times.

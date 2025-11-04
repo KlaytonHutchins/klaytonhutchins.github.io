@@ -3,7 +3,6 @@ layout: default
 title: Richardson Maturity Model
 ---
 
-## Richardson Maturity Model
 
 Up to this point we have discussed REST is a very broad sense. There are however specific guidelines associated with properly implementing RESTful protocols.
 

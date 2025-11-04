@@ -3,7 +3,6 @@ layout: default
 title: Dynamic Web Applications in Eclipse
 ---
 
-## Dynamic Web Applications in Eclipse
 
 ### Objectives
 

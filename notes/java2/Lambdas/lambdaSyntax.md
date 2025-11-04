@@ -3,7 +3,6 @@ layout: default
 title: Lambda Rules and Syntax
 ---
 
-## Lambda Rules and Syntax
 
 The rules for lambdas are similar to inner classes, with some exceptions.
 

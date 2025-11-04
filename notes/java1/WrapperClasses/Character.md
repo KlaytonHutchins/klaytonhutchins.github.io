@@ -3,7 +3,6 @@ layout: default
 title: `Character`
 ---
 
-## `Character`
 
 A `Character` object encapsulates a single Unicode `char` value.
 

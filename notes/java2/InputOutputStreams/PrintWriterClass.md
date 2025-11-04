@@ -3,7 +3,6 @@ layout: default
 title: `PrintStream` and `PrintWriter`
 ---
 
-## `PrintStream` and `PrintWriter`
 
 You've been using `PrintStream` since your first "Hello, World" program: `System.out` and `System.err` are `PrintStream` objects.
 

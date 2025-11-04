@@ -3,7 +3,6 @@ layout: default
 title: The `Object` Cla
 ---
 
-## The `Object` Class
 Ultimately, every class in Java descends from `java.lang.Object`.
 
 ![Everything is-a Object](images/inheritanceObject.png)

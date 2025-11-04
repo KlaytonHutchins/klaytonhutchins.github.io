@@ -3,7 +3,6 @@ layout: default
 title: Short-Circuit Operator
 ---
 
-## Short-Circuit Operators
 Both `&&` and `& ` evaluate to true only when both operands are _true_.
 
 `||` and `|` evaluate to true if either is _true_.

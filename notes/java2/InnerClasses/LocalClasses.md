@@ -3,7 +3,6 @@ layout: default
 title: Local Classe
 ---
 
-## Local Classes
 
 ```java
 public class OuterWithLocal {

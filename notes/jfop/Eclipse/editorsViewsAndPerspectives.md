@@ -3,7 +3,6 @@ layout: default
 title: Editors, Views, and Perspective
 ---
 
-## Editors, Views, and Perspectives
 
 You use an _Editor_ to enter text into Eclipse.
 

@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 The focus of this set of labs is reading, parsing, and writing files.
 
 1. Create a class named `SearchEmployees` that searches through the file _employee.txt_ for the pattern "manager", and prints out any lines that match the pattern. (Hint: You can search through a string for a substring using the `indexOf` or `contains` methods in the `String` class.)

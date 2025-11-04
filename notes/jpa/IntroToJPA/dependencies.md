@@ -3,7 +3,6 @@ layout: default
 title: Dependencie
 ---
 
-## Dependencies
 
 The dependencies and overall Gradle build will be different for a JPA project vs what we have done with web applications.
 

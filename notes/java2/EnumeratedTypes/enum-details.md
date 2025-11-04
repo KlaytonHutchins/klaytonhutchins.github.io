@@ -3,7 +3,6 @@ layout: default
 title: `enum` Detail
 ---
 
-## `enum` Details
 
 The `enum` declaration generates a new class behind the scenes.
 

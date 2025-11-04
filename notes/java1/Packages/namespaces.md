@@ -3,7 +3,6 @@ layout: default
 title: Namespace
 ---
 
-## Namespaces
 
 In a Java method, each variable name can be declared only once.
 

@@ -3,7 +3,6 @@ layout: default
 title: JPA CRUD Homework
 ---
 
-## JPA CRUD Homework
 
 ### Application Overview
 This weeks homework is going to perform simple CRUD on a single table database of your choosing.

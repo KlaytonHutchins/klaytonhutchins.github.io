@@ -3,7 +3,6 @@ layout: default
 title: The Programming Process
 ---
 
-## The Programming Process ##
 The programmer performs several steps when writing a computer program.
 1. Write the source code for your program.
 2. Compile the source code with an appropriate compiler.

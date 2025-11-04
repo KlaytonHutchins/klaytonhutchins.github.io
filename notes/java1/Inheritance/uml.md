@@ -3,7 +3,6 @@ layout: default
 title: UML and `extends`
 ---
 
-## UML and `extends`
 
 In a UML class diagram, we use the "generalization" arrow to represent a class extending another class.
 

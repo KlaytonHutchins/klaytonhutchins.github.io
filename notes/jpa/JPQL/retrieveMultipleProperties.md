@@ -3,7 +3,6 @@ layout: default
 title: Retrieving Multiple Propertie
 ---
 
-## Retrieving Multiple Properties
 
 If you would like to retrieve more than one property, but still not the entire object, you can comma-separate the requested properties within a SELECT statement.
 

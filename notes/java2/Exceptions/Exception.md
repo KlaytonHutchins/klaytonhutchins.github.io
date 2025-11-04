@@ -3,7 +3,6 @@ layout: default
 title: The Exception Cla
 ---
 
-## The Exception Class
 
 An exception is a Java object whose type and state describe the problem that caused it to be thrown.
 

@@ -3,7 +3,6 @@ layout: default
 title: Inheriting Method
 ---
 
-## Inheriting Methods
 
 Not only does a subclass inherit the superclass's _fields_, it also inherits the superclass's _methods_.
 * The methods exist in the superclass, but the subclass can call them.

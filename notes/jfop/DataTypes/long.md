@@ -3,7 +3,6 @@ layout: default
 title: `long` for Large Number
 ---
 
-## `long` for Large Numbers
 
 When Java sees a whole number, it assumes it is looking at an `int`.
 

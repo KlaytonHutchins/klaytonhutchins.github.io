@@ -3,7 +3,6 @@ layout: default
 title: Demo: Address List Route
 ---
 
-## Demo: Address List Route
 
 Up to this point we haven't interacted with a database using Spring REST. Remember the _JPAVideoStore_ project we created during JPA week? We are going to use this pre-configured backend to create some resource routes for _Address_ and _Actor_ objects.
 

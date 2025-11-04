@@ -3,7 +3,6 @@ layout: default
 title: Testing Exceptions with JUnit
 ---
 
-## Testing Exceptions with JUnit
 This chapter focuses on using JUnit to test that methods throw Exceptions when expected.
 
 ### Objectives

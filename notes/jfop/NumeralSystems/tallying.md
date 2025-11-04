@@ -3,7 +3,6 @@ layout: default
 title: Counting and Tallying
 ---
 
-## Counting and Tallying
 
 The simplest way to record a count of something is to just make a mark for each thing counted.
 

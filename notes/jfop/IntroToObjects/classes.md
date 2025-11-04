@@ -3,7 +3,6 @@ layout: default
 title: Classe
 ---
 
-## Classes
 
 So far, all of our classes have been a collection of methods - self-contained programs that do some type of processing, which Java can run because there is a `public static void main(String[] args)` method.
 

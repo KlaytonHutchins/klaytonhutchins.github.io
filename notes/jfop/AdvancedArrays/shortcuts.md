@@ -3,7 +3,6 @@ layout: default
 title: Multidimensional Array Shortcut
 ---
 
-## Multidimensional Array Shortcuts
 
 We know how to declare and instantiate a single array.
 

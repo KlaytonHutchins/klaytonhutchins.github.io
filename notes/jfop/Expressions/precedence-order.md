@@ -3,7 +3,6 @@ layout: default
 title: Precedence Order
 ---
 
-## Precedence Order
 
 Below is the precedence table for operators we have seen so far.
 

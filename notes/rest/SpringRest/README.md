@@ -3,7 +3,6 @@ layout: default
 title: Spring REST
 ---
 
-## Spring REST
 
 Spring Rest is an annotation based web framework that simplifies the process of creating RESTful web services. They key difference between REST and MVC is the way the controller handles the HTTP response. 
 

@@ -3,7 +3,6 @@ layout: default
 title: Starting a Project
 ---
 
-## Starting a Project
 
 Before you can edit any Java code, you must first create a _project_.
 

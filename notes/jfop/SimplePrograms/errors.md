@@ -3,7 +3,6 @@ layout: default
 title: Compiler Errors and Runtime Errors
 ---
 
-## Compiler Errors and Runtime Errors ##
 _Compiler errors_ are generated during the compilation of your program.
 * These are mistakes that you've made in using the syntax and grammar of
 the language; the compiler can't understand your instructions.

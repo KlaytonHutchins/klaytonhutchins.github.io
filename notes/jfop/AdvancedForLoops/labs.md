@@ -3,7 +3,6 @@ layout: default
 title: Labs
 ---
 
-## Labs ##
 
 1. Write a program that declares an array of five integers, `int[] numbers = { 28, 33, 55, 21, 35 };`. Use a `for` loop to determine the smallest and largest number in the array, and print them.
 

@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Write a program with a method that calculates a power — a base number raised to the power of an exponent. The method should take two parameters: a double (the base) and an int (the exponent). The method should return a double: the base raised to the power of the exponent. In the `main` method, prompt the user to enter the base and the exponent; use the method to perform the calculation; then print the result returned by the method. (Do not use `Math.pow(double, double)` in your solution.)
 

@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Relationship
 ---
 
-## Introduction to Relationships
 
 ### Objectives
 * Describe the purpose of mapping relationships in JPA.

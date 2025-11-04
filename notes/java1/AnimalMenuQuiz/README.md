@@ -3,7 +3,6 @@ layout: default
 title: Animal Menu Quiz
 ---
 
-### Animal Menu Quiz
 
 This quiz requires you to add code to the `AnimalsApp` class. There are 6 requirements listed in the class. You will
 

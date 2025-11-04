@@ -3,7 +3,6 @@ layout: default
 title: Casting and Precedence
 ---
 
-## Casting and Precedence
 
 We can try to cast _and_ call a method in a single line, but we have to be careful.
 

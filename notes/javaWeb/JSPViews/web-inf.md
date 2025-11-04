@@ -3,7 +3,6 @@ layout: default
 title: The `WEB-INF` Directory
 ---
 
-## The `WEB-INF` Directory
 So far we have used JSP pages from the `WEB-INF` directory.
 
 ```java

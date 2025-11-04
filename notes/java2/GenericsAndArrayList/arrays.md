@@ -3,7 +3,6 @@ layout: default
 title: Arrays Revisited
 ---
 
-## Arrays Revisited
 
 Before discussing other collections in Java, recall these facts about arrays.
 

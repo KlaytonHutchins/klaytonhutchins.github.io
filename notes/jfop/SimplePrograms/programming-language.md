@@ -3,7 +3,6 @@ layout: default
 title: Programming Languages
 ---
 
-## Programming Languages ##
 Programs are written in a programming language.
 
 A programming language is a set of instructions that another program can read. It consists of keywords (vocabulary) and the order in which they make sense (syntax).

@@ -3,7 +3,6 @@ layout: default
 title: Autoboxing
 ---
 
-## Autoboxing
 
 Java will automatically convert a primitive type to a wrapper object.
 

@@ -3,7 +3,6 @@ layout: default
 title: Memory and Java
 ---
 
-## Memory and Java
 
 To process data, a computer must bring the data into its _memory_.
 

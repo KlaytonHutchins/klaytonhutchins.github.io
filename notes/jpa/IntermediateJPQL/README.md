@@ -3,7 +3,6 @@ layout: default
 title: Intermediate JPQL Querie
 ---
 
-## Intermediate JPQL Queries
 
 ### Objectives
 * Use SQL predicates in JPQL queries.

@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Replace the `@Controller` annotation for `TestController` with `@RestController`, and remove `@ResponseBody` from the `ping` method.
 

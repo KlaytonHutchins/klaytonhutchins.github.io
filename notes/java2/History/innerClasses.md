@@ -3,7 +3,6 @@ layout: default
 title: Sorting and Filtering with Inner Classe
 ---
 
-## Sorting and Filtering with Inner Classes
 
 ### Objectives
 * Use member classes, local classes, and anonymous classes for sorting and filtering lists.

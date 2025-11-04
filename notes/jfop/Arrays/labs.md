@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Create a program with a `main` method. Declare and initialize an array for the days of the week, starting with Sunday.
    1. Print the days in order, but do not print Saturday and Sunday. Your logic should exclude these days by checking the array index.

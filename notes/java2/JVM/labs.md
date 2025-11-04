@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Browse to your JDK's installation location, also known as _JAVA\_HOME_.  On MacOS, it's usually _/Library/Java/JavaVirtualMachines/jdk1.**M**.**N**\_**P**.jdk/Contents/Home/_, where M, N, and P are the major, minor, and patch version numbers of your installed JDK.
 

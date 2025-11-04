@@ -3,7 +3,6 @@ layout: default
 title: Simple Program
 ---
 
-## Simple Programs
 
 ### Objectives
 * Write a simple program in Java.

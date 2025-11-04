@@ -3,7 +3,6 @@ layout: default
 title: Data Access Object
 ---
 
-### Data Access Objects
 
 A Data Access Object, or _DAO_, is an object that provides access to some kind of persistent storage, like a file or database.
 * The DAO provides specific functionality (methods) without exposing details of what the methods do (like read a file, or store rows in a database).

@@ -3,7 +3,6 @@ layout: default
 title: Entity Classe
 ---
 
-## Entity Classes
 
 An entity is a *Plain Old Java Object* (POJO) whose fields represent a row in a database table.
 

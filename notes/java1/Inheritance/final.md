@@ -3,7 +3,6 @@ layout: default
 title: `final` Classe
 ---
 
-## `final` Classes
 
 We can use the keyword `final` on a class so that other classes will not be able to extend it.
 

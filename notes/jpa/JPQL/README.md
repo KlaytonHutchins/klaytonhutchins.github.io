@@ -3,7 +3,6 @@ layout: default
 title: Using JPQL
 ---
 
-## Using JPQL
 
 ### Objectives
 * See how JPQL and SQL syntax differs.  

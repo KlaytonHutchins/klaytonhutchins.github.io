@@ -3,7 +3,6 @@ layout: default
 title: Building and Deploying Software
 ---
 
-## Building and Deploying Software
 
 The cycle of building and deploying software is usually split into several stages.
 

@@ -3,7 +3,6 @@ layout: default
 title: Labs 1
 ---
 
-## Labs 1
 
 ### Challenge: Match Phone Numbers
 

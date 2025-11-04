@@ -3,7 +3,6 @@ layout: default
 title: Inheritance
 ---
 
-## Inheritance
 
 _Inheritance_ allows you to create a new class that contains fields and methods of an existing class, and add additional fields and methods.
 * The class you inherit from is often called the _superclass_, and the inheriting class is the _subclass_.

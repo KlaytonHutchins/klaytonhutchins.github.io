@@ -3,7 +3,6 @@ layout: default
 title: Lottery: Powerball
 ---
 
-## Lottery: Powerball
 
 Reuse your ping pong ball and hopper classes from the NBA Draft project to simulate a Powerball drawing.
 

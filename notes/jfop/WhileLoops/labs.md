@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 If an exercise below requires using your solution from a previous chapter, copy-paste code from your existing program into a new class. If you did not finish the program from the previous chapter, use the solution found in _reference_.
 
 1. Using your temperature conversion program from the section `IfElse`, create a new class named `IfCelsFahrLoop`. It will prompt the user to convert temperatures 5 times. (Hint: be careful of where you close your `Scanner`. This should be one of the last things the program does.)

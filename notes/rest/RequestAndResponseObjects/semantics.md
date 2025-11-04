@@ -3,7 +3,6 @@ layout: default
 title: REST Semantic
 ---
 
-## REST Semantics
 
 When we implement REST over HTTP, we use the combination of resource URIs, HTTP verbs, response codes, request and response headers, and entity bodies to implement REST semantics.
 

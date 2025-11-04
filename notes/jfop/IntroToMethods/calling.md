@@ -3,7 +3,6 @@ layout: default
 title: Calling Method
 ---
 
-## Calling Methods
 
 Call a method within the same class by using its name and parentheses, followed by a semicolon.
 

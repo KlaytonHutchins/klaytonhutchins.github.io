@@ -3,7 +3,6 @@ layout: default
 title: Array vs. `ArrayList`
 ---
 
-## Array vs. `ArrayList`
 
 Arrays and `ArrayList`s are very similar.
 * In fact, an `ArrayList` contains an array for storing elements.

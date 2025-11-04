@@ -3,7 +3,6 @@ layout: default
 title: Conditionals: `switch`
 ---
 
-## Conditionals: `switch`
 
 ### Objectives
 * Use `switch` to choose an execution path based on a value.

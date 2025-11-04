@@ -3,7 +3,6 @@ layout: default
 title: Visibility and Access Modifier
 ---
 
-## Visibility and Access Modifiers
 
 > #### visibility
 > Which classes can access a class, or the fields and methods of a class.

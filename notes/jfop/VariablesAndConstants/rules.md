@@ -3,7 +3,6 @@ layout: default
 title: Variable Naming Rule
 ---
 
-## Variable Naming Rules
 Java is a case-sensitive language.
 
 In a single program, the following variable names would all refer to different variables:

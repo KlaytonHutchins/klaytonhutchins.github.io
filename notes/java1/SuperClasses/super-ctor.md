@@ -3,7 +3,6 @@ layout: default
 title: Constructors and Inheritance
 ---
 
-## Constructors and Inheritance
 Recall that a class can call its own constructors using `this()`.
 
 ```java

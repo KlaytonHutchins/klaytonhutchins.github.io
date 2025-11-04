@@ -3,7 +3,6 @@ layout: default
 title: JSTL - Map Iteration
 ---
 
-## JSTL - Map Iteration
 You can also use `<c:forEach>` to iterate over Maps.
 
 * With a Map, the `var` attribute represents a map entry - a key/value pair.

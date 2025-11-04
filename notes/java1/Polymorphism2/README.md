@@ -3,7 +3,6 @@ layout: default
 title: Polymorphism and Casting
 ---
 
-## Polymorphism and Casting
 In this chapter we will continue learning about _polymorphism_, using the _IS-A_ relationship to cast object references.
 
 ### Objectives

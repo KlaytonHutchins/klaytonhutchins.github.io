@@ -3,7 +3,6 @@ layout: default
 title: JSP Standard Tag Library
 ---
 
-## JSP Standard Tag Library
 
 The JSP Standard Tag Library (JSTL) was developed to encapsulate common functionality, such as conditionals and iteration, into reusable actions.
 

@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 These labs are designed to use a `switch` statement.
 
 

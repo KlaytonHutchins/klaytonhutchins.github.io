@@ -3,7 +3,6 @@ layout: default
 title: History
 ---
 
-## History
 
 [Starter Code: `History/com.example.history`:](resources/History.zip)
 

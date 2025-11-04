@@ -3,7 +3,6 @@ layout: default
 title: JPQL with Relationship
 ---
 
-## JPQL with Relationships
 
 ### Objectives
 * Use JPQL to traverse relationships that exist in our entities.

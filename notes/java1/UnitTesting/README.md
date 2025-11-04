@@ -3,7 +3,6 @@ layout: default
 title: Introduction to JUnit
 ---
 
-## Introduction to JUnit
 
 Testing Java programs manually is costly and time consuming. We will introduce JUnit to allow us to write Java classes to test our Java code.
 

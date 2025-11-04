@@ -3,7 +3,6 @@ layout: default
 title: Create operation
 ---
 
-## Create operations
 
 Up to now we have only been executing READ operations against out database. We have leveraged the `em.find` and `em.createQuery` methods provided to us by the _EntityManager_ to perform these operations.
 

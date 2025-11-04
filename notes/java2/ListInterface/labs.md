@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In these labs we will use the `List` interface with implementation classes.
 
 1. Write a program that uses `Math.random()` to build a `List` of `10` integers between `10` and `100` (inclusive) and prints them to the screen.

@@ -3,7 +3,6 @@ layout: default
 title: Regular Expressions
 ---
 
-## Regular Expressions
 
 ### Objectives
 

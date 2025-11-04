@@ -3,7 +3,6 @@ layout: default
 title: Foreach Loops for Iterating Array
 ---
 
-## Foreach Loops for Iterating Arrays
 
 The "advanced for" or "foreach" loop is even better for iterating multidimensional arrays.
 

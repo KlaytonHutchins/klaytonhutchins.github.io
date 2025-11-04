@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In this lab we will use exceptions to validate user input.
 
 Starter code in `Exceptions/com.example.exceptions.labs.shapes`.

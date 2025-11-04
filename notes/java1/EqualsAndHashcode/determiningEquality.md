@@ -3,7 +3,6 @@ layout: default
 title: Determining Equality
 ---
 
-## Determining Equality
 
 It's up to each class's designer to determine what it means for an instance to be "equal to" another object, by coding the comparisons used in the class's `equals` method.
 

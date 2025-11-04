@@ -3,7 +3,6 @@ layout: default
 title: `private` Method
 ---
 
-## `private` Methods
 
 Sometimes we may restrict the visibility of a method to `private`.
 

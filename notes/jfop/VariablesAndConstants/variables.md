@@ -3,7 +3,6 @@ layout: default
 title: Variable
 ---
 
-## Variables
 
 A _variable_ is data that has a **name** and represents a **changing value** — the data in the variable may vary as the program runs.
 

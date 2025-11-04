@@ -3,7 +3,6 @@ layout: default
 title: Food Truck
 ---
 
-## Food Trucks
 
 ### Overview
 

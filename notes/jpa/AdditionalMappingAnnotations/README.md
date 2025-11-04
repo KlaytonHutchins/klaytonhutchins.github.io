@@ -3,7 +3,6 @@ layout: default
 title: Additional Mapping Annotation
 ---
 
-## Additional Mapping Annotations
 
 ### Objectives
 * Specify a primary key generation strategy with the

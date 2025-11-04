@@ -3,7 +3,6 @@ layout: default
 title: Request Data
 ---
 
-## Request Data
 
 We can send data in an HTTP request as key-value pairs.
 

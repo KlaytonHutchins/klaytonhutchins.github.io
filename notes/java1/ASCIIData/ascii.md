@@ -3,7 +3,6 @@ layout: default
 title: ASCII
 ---
 
-## ASCII
 
 The ASCII character set is a standard defining, for character data, which bit-patterns represent which letters, numerals, and punctuation marks.
 

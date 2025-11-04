@@ -3,7 +3,6 @@ layout: default
 title: `HttpServletRequest` and `HttpServletResponse`
 ---
 
-## `HttpServletRequest` and `HttpServletResponse`
 
 `HttpServletRequest` and `HttpServletResponse` are Java object representations of the requests received by your servlet and the subsequent response.
 

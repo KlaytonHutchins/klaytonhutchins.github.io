@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 In this lab you will create a Dynamic Web Project with a form to submit data, and a servlet to handle that data and return a response.
 

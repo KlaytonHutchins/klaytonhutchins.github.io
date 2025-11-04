@@ -3,7 +3,6 @@ layout: default
 title: Mapping Entity Attribute
 ---
 
-## Mapping Entity Attributes
 
 By default, JPA will attempt to access columns on your table based on the names of the fields you create.
 

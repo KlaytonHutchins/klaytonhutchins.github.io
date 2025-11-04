@@ -3,7 +3,6 @@ layout: default
 title: Eclipse Java EE and Tomcat
 ---
 
-## Eclipse Java EE and Tomcat
 
 ### Objectives
 * Install the Tomcat 8.5 application server.

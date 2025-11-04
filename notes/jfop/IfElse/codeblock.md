@@ -3,7 +3,6 @@ layout: default
 title: Code Block
 ---
 
-## Code Blocks
 
 If we want the `if` statement to control more than one statement, we use a code block.
 

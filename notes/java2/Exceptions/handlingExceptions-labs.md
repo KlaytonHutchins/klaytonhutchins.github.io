@@ -3,7 +3,6 @@ layout: default
 title: Labs - Handling Exception
 ---
 
-## Labs - Handling Exceptions
 The purpose of this lab is to handle or declare exceptions, and call methods which every exception has.
 
 `com.example.exceptions.labs.ExceptionsLab`

@@ -3,7 +3,6 @@ layout: default
 title: Local Variable
 ---
 
-## Local Variables
 
 Parameters are variables that hold values for the data a caller passes.
 

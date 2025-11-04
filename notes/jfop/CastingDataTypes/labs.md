@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 For these labs do not use any existing `java.lang.Math` static methods.
 

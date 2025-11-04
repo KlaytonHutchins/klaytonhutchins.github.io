@@ -3,7 +3,6 @@ layout: default
 title: Equals and Hashcode
 ---
 
-## Equals and Hashcode
 
 ### Objectives
 * Define meaningful `equals` methods for your objects.

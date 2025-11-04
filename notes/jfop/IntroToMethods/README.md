@@ -3,7 +3,6 @@ layout: default
 title: Introduction to Method
 ---
 
-## Introduction to Methods
 
 ### Objectives
 * Use methods to make your code more modular.

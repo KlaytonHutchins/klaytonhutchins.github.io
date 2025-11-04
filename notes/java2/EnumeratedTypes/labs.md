@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 `Rank` and `Suit` are available in the `solutions.cards` package. Use them to create the classes in these labs. Be sure to copy-paste them into the package where you create your new classes.
 

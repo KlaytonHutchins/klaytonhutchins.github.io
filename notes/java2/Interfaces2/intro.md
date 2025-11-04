@@ -3,7 +3,6 @@ layout: default
 title: Smart Home - Part 2
 ---
 
-## Smart Home - Part 2
 
 An interface declares the methods a _concrete class_ (one which we can use to create a `new` object) must have.
 

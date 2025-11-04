@@ -3,7 +3,6 @@ layout: default
 title: Logical Expression
 ---
 
-## Logical Expressions
 Logical expressions are combinations of relational expressions.
 
 A logical expression compares two true/false values and results in a single true/false value.

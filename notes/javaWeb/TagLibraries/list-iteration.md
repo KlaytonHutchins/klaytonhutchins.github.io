@@ -3,7 +3,6 @@ layout: default
 title: JSTL - List Iteration
 ---
 
-## JSTL - List Iteration
 
 Use the `<c:forEach>` tag to iterate over arrays and collections.
 

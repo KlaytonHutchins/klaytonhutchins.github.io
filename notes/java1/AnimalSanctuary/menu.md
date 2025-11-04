@@ -3,7 +3,6 @@ layout: default
 title: Stretch Goal : Menu
 ---
 
-## Stretch Goal : Menu
 Add a menu to allow users to:
 * Start Attendant rounds
 * Add an Animal

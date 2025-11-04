@@ -3,7 +3,6 @@ layout: default
 title: Boolean Expression
 ---
 
-## Boolean Expressions
 
 You can pass a boolean expression to a method.
 

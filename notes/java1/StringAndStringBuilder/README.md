@@ -3,7 +3,6 @@ layout: default
 title: String and StringBuilder
 ---
 
-## String and StringBuilder
 
 ### Objectives
 

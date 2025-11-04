@@ -3,7 +3,6 @@ layout: default
 title: The `ArrayList` Cla
 ---
 
-## The `ArrayList` Class
 
 The `java.util.ArrayList` class is a resizable array.
 * It uses zero-based positional indexes.

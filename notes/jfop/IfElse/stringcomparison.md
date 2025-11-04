@@ -3,7 +3,6 @@ layout: default
 title: Comparing Strings in Java
 ---
 
-## Comparing Strings in Java
 
 Be careful comparing Strings in a control flow statement.
 

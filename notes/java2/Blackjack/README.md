@@ -3,7 +3,6 @@ layout: default
 title: Blackjack
 ---
 
-## Blackjack
 
 ### Application Overview
 

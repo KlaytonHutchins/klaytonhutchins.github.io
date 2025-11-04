@@ -3,7 +3,6 @@ layout: default
 title: Tag Librarie
 ---
 
-## Tag Libraries
 
 ### Objectives
 Use JSP Expression Language and the JSP Standard Tag Library to generate HTML.

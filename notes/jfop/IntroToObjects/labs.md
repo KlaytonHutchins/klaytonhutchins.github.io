@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. We will be creating and testing a class to model a Car.
    1. Create a `Car` class. It will have fields for

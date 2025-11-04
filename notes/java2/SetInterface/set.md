@@ -3,7 +3,6 @@ layout: default
 title: The `Set` Interface
 ---
 
-## The `Set` Interface
 
 `Set` is an interface in the `java.util` package.
 

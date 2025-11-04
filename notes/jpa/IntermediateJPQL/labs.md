@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Create a file `IntermediateJPQLLab` in the `com.example.videostore.client` package.
 

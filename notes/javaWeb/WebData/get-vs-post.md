@@ -3,7 +3,6 @@ layout: default
 title: `GET` vs. `POST`
 ---
 
-## `GET` vs. `POST`
 
 So far, the only difference between `GET` and `POST` has been how the data is sent:
 

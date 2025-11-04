@@ -3,7 +3,6 @@ layout: default
 title: Tic Tac Toe
 ---
 
-### Tic Tac Toe
 
 #### Overview
 

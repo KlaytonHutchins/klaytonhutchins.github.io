@@ -3,7 +3,6 @@ layout: default
 title: What is JPA?
 ---
 
-## What is JPA?
 
 JPA stands for Java Persistence API. The Java Persistence API is a persistence mechanism which can be used in Java SE and Spring applications.
 

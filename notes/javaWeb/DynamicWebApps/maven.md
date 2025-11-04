@@ -3,7 +3,6 @@ layout: default
 title: Maven Dependencie
 ---
 
-## Maven Dependencies
 
 We can use Maven to manage our Java dependencies.
 * `HttpServlet` is not a core Java library, so we have to get its class files.

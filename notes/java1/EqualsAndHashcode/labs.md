@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In these labs we will practice using `equals` and `hashCode`.
 
 1. The `RGBColor` class has three integer fields.  Add an `equals` method to `RGBColor` so the tests shown in `TestColor` come out correctly based on the values of the three integer fields.

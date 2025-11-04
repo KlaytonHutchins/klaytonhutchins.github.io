@@ -3,7 +3,6 @@ layout: default
 title: Array
 ---
 
-## Arrays
 
 ### Objectives
 * Define array variables to refer to array objects.

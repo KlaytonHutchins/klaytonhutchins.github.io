@@ -3,7 +3,6 @@ layout: default
 title: Enhanced For Loop
 ---
 
-## Enhanced For Loops
 
 Java 5.0 added the _enhanced for loop_ to make it easier to step through a
 collection, such as an array.

@@ -3,7 +3,6 @@ layout: default
 title: `for` Loop Part
 ---
 
-## `for` Loop Parts
 
 `for` loops are useful for iteration because of the structure inside the parentheses.
 * The parentheses of a `for` loop contain three expressions, separated by two semicolons, `;`.

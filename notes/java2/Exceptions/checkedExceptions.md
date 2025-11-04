@@ -3,7 +3,6 @@ layout: default
 title: Checked Exception
 ---
 
-## Checked Exceptions
 
 ### Unchecked Exceptions
 

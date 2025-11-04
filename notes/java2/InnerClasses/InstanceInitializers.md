@@ -3,7 +3,6 @@ layout: default
 title: Instance Initializer
 ---
 
-## Instance Initializers
 
 You would typically initialize data members of a class with a constructor.
   * An anonymous class cannot provide constructors, since it has no class name.

@@ -3,7 +3,6 @@ layout: default
 title: Reference Variable
 ---
 
-## Reference Variables
 
 `new` simply creates the object.
 * To use the object we need a variable to actually refer to it.

@@ -3,7 +3,6 @@ layout: default
 title: Query Parameter
 ---
 
-## Query Parameters
 
 Substitute values for embedded JPQL placeholders with the `setParameter` method.
 

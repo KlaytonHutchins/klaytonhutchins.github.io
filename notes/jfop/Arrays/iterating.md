@@ -3,7 +3,6 @@ layout: default
 title: Iterating Array
 ---
 
-## Iterating Arrays
 
 `for` loops are made for iterating through arrays.
 

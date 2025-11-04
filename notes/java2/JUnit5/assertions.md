@@ -3,7 +3,6 @@ layout: default
 title: Assertion
 ---
 
-## Assertions
 
 The `Assertions` class contains `static` methods for use in test cases.
 * This class is in the `org.junit.jupiter.api` package.

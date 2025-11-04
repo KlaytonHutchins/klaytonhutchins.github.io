@@ -3,7 +3,6 @@ layout: default
 title: `@GeneratedValue`
 ---
 
-## `@GeneratedValue`
 Primary keys can be generated using a table, a sequence, or an identity column (if supported by the database).
 
 When creating new entity objects, it is important to notify the persistence provider as to whether it should use your current id value for the INSERT, or depend upon a generation strategy instead.

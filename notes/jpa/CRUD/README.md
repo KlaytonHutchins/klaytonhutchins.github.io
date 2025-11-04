@@ -3,7 +3,6 @@ layout: default
 title: Create-Update-Delete Operation
 ---
 
-## Create-Update-Delete Operations
 
 ### Objectives
 * Commit and rollback changes using an EntityTransaction

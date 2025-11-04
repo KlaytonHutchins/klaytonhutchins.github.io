@@ -3,7 +3,6 @@ layout: default
 title: Clients, Servers, and Host
 ---
 
-## Clients, Servers, and Hosts
 
 We have seen how web browsers make requests, and web servers return data.
 * The browser knows how to read the data and display it as an HTML page.

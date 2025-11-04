@@ -3,7 +3,6 @@ layout: default
 title: Representation
 ---
 
-## Representations
 
 REST clients and servers retrieve and transmit _representations_ of resource state.
 

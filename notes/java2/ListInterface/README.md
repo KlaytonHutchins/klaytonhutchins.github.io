@@ -3,7 +3,6 @@ layout: default
 title: The `List` Interface
 ---
 
-## The `List` Interface
 
 ### Objectives
 

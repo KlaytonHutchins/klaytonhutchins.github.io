@@ -3,7 +3,6 @@ layout: default
 title: Delete operation
 ---
 
-## Delete operations
 
 Call *EntityManager*'s `remove` on a managed entity to `DELETE` the corresponding row in the database on the next commit.
 

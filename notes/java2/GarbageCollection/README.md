@@ -3,7 +3,6 @@ layout: default
 title: Garbage Collection
 ---
 
-## Garbage Collection
 A key feature of Java is memory management. In this chapter we will learn what Java does when our objects are no longer in use.
 
 ### Topics

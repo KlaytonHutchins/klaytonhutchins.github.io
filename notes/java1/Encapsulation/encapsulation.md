@@ -3,7 +3,6 @@ layout: default
 title: Encapsulation
 ---
 
-## Encapsulation
 
 One of the most important features of Object-Oriented Programming is `encapsulation`.
 

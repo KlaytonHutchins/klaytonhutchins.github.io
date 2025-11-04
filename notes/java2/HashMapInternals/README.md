@@ -3,7 +3,6 @@ layout: default
 title: `HashMap` Internal
 ---
 
-## `HashMap` Internals
 
 ### Objectives
 * Explain how a `HashMap` stores and retreives key-value pairs.

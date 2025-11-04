@@ -3,7 +3,6 @@ layout: default
 title: Relational Expression
 ---
 
-## Relational Expressions
 
 Relational expressions test a relationship between two data items.
 * These expressions evaluate to a _boolean_ value: a `true` or `false`.

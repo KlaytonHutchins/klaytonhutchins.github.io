@@ -3,7 +3,6 @@ layout: default
 title: Interface
 ---
 
-## Interfaces
 
 This chapter is an overview of Java interfaces. We will go into more detail in later chapters.
 

@@ -3,7 +3,6 @@ layout: default
 title: Imagining the Heap
 ---
 
-## Imagining the Heap
 
 It is useful to draw the heap when thinking about objects and references.
 

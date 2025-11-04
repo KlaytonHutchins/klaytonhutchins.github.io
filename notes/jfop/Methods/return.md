@@ -3,7 +3,6 @@ layout: default
 title: Returning Values from Method
 ---
 
-## Returning Values from Methods
 
 Methods can do more than just separate code: they can also _return_ data to the methods that call them.
 

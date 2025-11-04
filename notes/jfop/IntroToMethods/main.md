@@ -3,7 +3,6 @@ layout: default
 title: The `main` Method
 ---
 
-## The `main` Method
 
 We have been using `public static void main(String[] args)` in our programs. This `main` method is a special method that the `java` command knows to look for in order to run a program.
 

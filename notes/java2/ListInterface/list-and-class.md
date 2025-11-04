@@ -3,7 +3,6 @@ layout: default
 title: Using `List` - Best Practice
 ---
 
-## Using `List` - Best Practices
 
 We can use the interface `List` anywhere we have used `ArrayList`, _except_ when creating an instance; then we have to create a `new` implementation class instance.
 

@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 
 1. Write a program with a non-static method that opens the file `regex_quotes.txt` and reads it one line at a time.  Have it pass each line to a method that prints the line if it begins with a hyphen (`-`).
 

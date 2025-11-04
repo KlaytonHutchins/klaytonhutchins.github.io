@@ -3,7 +3,6 @@ layout: default
 title: Comparing Reference
 ---
 
-## Comparing References
 
 The `==` operator compares the values in variables.
 

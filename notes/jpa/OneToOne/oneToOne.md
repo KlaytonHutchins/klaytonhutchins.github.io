@@ -3,7 +3,6 @@ layout: default
 title: `@OneToOne`
 ---
 
-## `@OneToOne`
 
 Use the `@OneToOne` annotation to describe a one-to-one relationship.
 

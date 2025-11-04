@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 For this lab we will accept user input and use information about the ASCII characters.
 
 1. Write a program to prompt the user for a String and check if the String meets certain conditions.

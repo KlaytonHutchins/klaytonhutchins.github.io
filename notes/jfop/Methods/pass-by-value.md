@@ -3,7 +3,6 @@ layout: default
 title: Pass-by-value
 ---
 
-## Pass-by-value
 
 Parameters are like local variables in that their scope is limited to the method's curly braces `{ }`.
 * The difference is that a parameter will always be initialized with data from a caller.

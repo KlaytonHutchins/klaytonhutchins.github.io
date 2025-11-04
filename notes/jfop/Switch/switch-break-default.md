@@ -3,7 +3,6 @@ layout: default
 title: `break;` and `default:` in `switch` Statement
 ---
 
-## `break;` and `default:` in `switch` Statements
 
 When the `switch` finds a matching `case` value, it enters that `case` and begins executing statements.
 

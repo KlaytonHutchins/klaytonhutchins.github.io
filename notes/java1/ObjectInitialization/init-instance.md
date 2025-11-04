@@ -3,7 +3,6 @@ layout: default
 title: Initializing Instance Field
 ---
 
-## Initializing Instance Fields
 
 We often put code to initialize instance fields in constructors, or when we declare a field.
 

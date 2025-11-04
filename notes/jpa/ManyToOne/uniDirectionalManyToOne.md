@@ -3,7 +3,6 @@ layout: default
 title: Uni directional `@ManyToOne`
 ---
 
-## Uni directional `@ManyToOne`
 
 Use the `@ManyToOne` annotation in conjunction with `@JoinColumn` to describe a many-to-one relationship.
 

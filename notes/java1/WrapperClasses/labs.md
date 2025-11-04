@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 These labs have us working with Java's wrapper classes to demonstrate their utility, methods, and interaction with primitives.
 
 1. Write a program with two variables, one of type `double` and one `Double`.  Assign each of them the value `0.0 / 0.0` and print the results.

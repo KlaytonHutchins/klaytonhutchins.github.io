@@ -3,7 +3,6 @@ layout: default
 title: Introducing Regular Expressions
 ---
 
-## Introducing Regular Expressions
 
 ### Patterns
 

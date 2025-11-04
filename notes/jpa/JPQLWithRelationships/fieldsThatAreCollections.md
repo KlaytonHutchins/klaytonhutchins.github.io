@@ -3,7 +3,6 @@ layout: default
 title: Queries with Nested Collection
 ---
 
-## Queries with Nested Collections
 In the `@OneToMany` side of a relationship or either side of a `@ManyToMany`, our entity will contain a collection of objects.
 
 We are going to use the `Film` and `Actor` classes in our examples for this chapter.

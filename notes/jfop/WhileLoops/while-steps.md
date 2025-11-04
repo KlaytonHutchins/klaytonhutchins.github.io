@@ -3,7 +3,6 @@ layout: default
 title: Steps in a `while` Loop
 ---
 
-## Steps in a `while` Loop
 
 ```
 while (condition) {

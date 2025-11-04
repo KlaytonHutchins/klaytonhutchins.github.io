@@ -3,7 +3,6 @@ layout: default
 title: Wrapper Classe
 ---
 
-## Wrapper Classes
 
 For each of the eight primitive data types, the Java API provides a _wrapper class_ whose objects encapsulate values of that type.
 

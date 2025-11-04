@@ -3,7 +3,6 @@ layout: default
 title: Declaring and Assigning Primitive Value
 ---
 
-## Declaring and Assigning Primitive Values
 
 When we declare and initialize primitive variables, they have to be in the range of that data type.
 * Otherwise we will get a compiler error.

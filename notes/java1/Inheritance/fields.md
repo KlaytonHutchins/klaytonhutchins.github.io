@@ -3,7 +3,6 @@ layout: default
 title: Inheriting Field
 ---
 
-## Inheriting Fields
 
 Inheritance gives a child fields of the parent class.
 * The parent class's fields are _passed down_ to the child; the child _inherits_ them from the parent class.

@@ -3,7 +3,6 @@ layout: default
 title: Infinite Loops
 ---
 
-## Infinite Loops ##
 
 An _infinite loop_ is one that doesn't know when to stop; it loops forever.
 

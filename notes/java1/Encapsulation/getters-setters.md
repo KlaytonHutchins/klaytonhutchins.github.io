@@ -3,7 +3,6 @@ layout: default
 title: Getters and Setter
 ---
 
-## Getters and Setters
 
 A `get` method provides access to a field.
 

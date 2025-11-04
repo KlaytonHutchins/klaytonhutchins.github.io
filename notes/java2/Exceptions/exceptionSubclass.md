@@ -3,7 +3,6 @@ layout: default
 title: `Exception`s and Inheritance
 ---
 
-## `Exception`s and Inheritance
 
 ### Catching Exceptions in a Hierarchy
 

@@ -3,7 +3,6 @@ layout: default
 title: Generics and `ArrayList`
 ---
 
-## Generics and `ArrayList`
 
 ### Objectives
 * Be able to use the `ArrayList` class.

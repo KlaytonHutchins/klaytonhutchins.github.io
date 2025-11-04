@@ -3,7 +3,6 @@ layout: default
 title: Variable Arguments Array
 ---
 
-## Variable Arguments Arrays
 
 Java has a feature where we can define a method to take a variable number of arguments.
 

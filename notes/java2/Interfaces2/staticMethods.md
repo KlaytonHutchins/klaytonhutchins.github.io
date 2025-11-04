@@ -3,7 +3,6 @@ layout: default
 title: Static Interface Method
 ---
 
-## Static Interface Methods
 
 Starting with Java 8, it's possible for an `interface` to provide an implemented `static` method.
 

@@ -3,7 +3,6 @@ layout: default
 title: Throwing Your Own Exception
 ---
 
-## Throwing Your Own Exceptions
 
 You can create an `Exception`, or any other `Throwable`, like you create any object: using the `new` operator with the `Exception` constructor.
 

@@ -3,7 +3,6 @@ layout: default
 title: Temporal Data
 ---
 
-## Temporal Data
 
 Databases support temporal data types such as `DATE` (calendar date), `TIME` (clock time), and `DATETIME` (combined date and time).
 

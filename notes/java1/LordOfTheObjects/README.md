@@ -3,7 +3,6 @@ layout: default
 title: Lord of the Object
 ---
 
-## Lord of the Objects
 
 ### Application Overview
 We are going to make a game! Well, as much of a game as you can make in the terminal. You may scoff, but some pretty awesome games were made way before the PC era with only text input. Don't believe me? Check out [Zork][zork].

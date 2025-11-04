@@ -3,7 +3,6 @@ layout: default
 title: `if` Syntax
 ---
 
-## `if` Syntax
 
 ```java
 if ( expression )

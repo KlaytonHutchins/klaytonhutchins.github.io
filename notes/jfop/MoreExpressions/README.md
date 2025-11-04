@@ -3,7 +3,6 @@ layout: default
 title: More Expression
 ---
 
-## More Expressions
 
 ### Objectives
 * Correctly determine how an expression will evaluate at runtime.

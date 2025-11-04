@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 In this lab we will add our own servlet to the web application, and change the existing servlet to display a link that leads to the new servlet.
 
 1. Create a servlet named `GoodbyeServlet` in the `...labs` package.

@@ -3,7 +3,6 @@ layout: default
 title: A `for` Loop Diagram
 ---
 
-## A `for` Loop Diagram
 
 ```java
 for (i = 0; i < 20; i++){

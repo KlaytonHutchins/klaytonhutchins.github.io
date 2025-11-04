@@ -3,7 +3,6 @@ layout: default
 title: Interface Default Method
 ---
 
-## Interface Default Methods
 
 Java 8 also introduced _default methods_: non-static, concrete methods defined in interfaces.
 

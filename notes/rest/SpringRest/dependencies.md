@@ -3,7 +3,6 @@ layout: default
 title: Spring MVC vs. Spring REST
 ---
 
-## Spring MVC vs. Spring REST
 
 ### Dependencies
 

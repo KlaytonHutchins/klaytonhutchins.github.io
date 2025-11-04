@@ -3,7 +3,6 @@ layout: default
 title: Data Serialization
 ---
 
-## Data Serialization
 
 ### Dependencies
 Spring Boot's `Web` dependency pack includes the Jackson Library jar files.

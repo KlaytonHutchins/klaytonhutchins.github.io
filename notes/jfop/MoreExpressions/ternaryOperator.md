@@ -3,7 +3,6 @@ layout: default
 title: The Ternary Conditional Operator
 ---
 
-## The Ternary Conditional Operator
 
 The _conditional operator_, `?:`, uses a boolean expression to determine which of two values to yield.
 

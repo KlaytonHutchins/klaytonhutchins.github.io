@@ -3,7 +3,6 @@ layout: default
 title: The `StringBuilder` Cla
 ---
 
-## The `StringBuilder` Class
 
 Often we build text dynamically in our code resulting in a `String` made from other variables and string literals.
 

@@ -3,7 +3,6 @@ layout: default
 title: Spring Boot Integration
 ---
 
-## Spring Boot Integration
 
 ### Additional Dependencies
 

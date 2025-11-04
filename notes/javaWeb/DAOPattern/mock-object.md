@@ -3,7 +3,6 @@ layout: default
 title: Mock Objects for Testing
 ---
 
-## Mock Objects for Testing
 
 Systems can quickly become complex, with objects depending on many other objects.
 

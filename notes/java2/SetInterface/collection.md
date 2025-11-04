@@ -3,7 +3,6 @@ layout: default
 title: `Collection` Superinterface
 ---
 
-## `Collection` Superinterface
 `Collection` is the parent interface of `Set` and `List`.
   * `Set` describes a group of _unique_ elements.
   * `List` describes an _ordered_ group of elements.

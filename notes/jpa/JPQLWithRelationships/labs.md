@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 1. Create a file *JPQLRelationshipsLab* in the `com.example.jpavideostore.client` package.
 
 1. Create a file *JPQLRelationshipsTests* in the `test` src folder, and configure it as a JUnit test file.

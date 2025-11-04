@@ -3,7 +3,6 @@ layout: default
 title: Web App Path and Structure
 ---
 
-## Web App Path and Structure
 
 ### Context Path
 Each web application is addressed with a context path.

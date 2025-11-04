@@ -3,7 +3,6 @@ layout: default
 title: Passing Arrays to Method
 ---
 
-## Passing Arrays to Methods
 
 We know that java is _pass-by-value_, meaning that data is copied to the method parameters when we pass it to a method.
 

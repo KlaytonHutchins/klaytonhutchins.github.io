@@ -3,7 +3,6 @@ layout: default
 title: Lab
 ---
 
-## Labs
 For each of the following labs, update the appropriate JUnit test cases based on the new relationships.
 
 **Note:** To test all of the mappings you are about to create, add to your existing JUnit test classes. When you change a relationship, update a JUnit test.

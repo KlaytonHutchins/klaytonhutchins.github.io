@@ -3,7 +3,6 @@ layout: default
 title: Labs
 ---
 
-## Labs ##
 Labs come with solutions that are related to this section's name. Solutions for these labs are in `simpleprograms/solutions`.
 
 For organizing the labs add a `labs` folder inside the `simpleprograms` folder. You can create all your new classes in this `simpleprograms/labs` folder.

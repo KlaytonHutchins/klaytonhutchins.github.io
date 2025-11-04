@@ -3,7 +3,6 @@ layout: default
 title: DAO Component
 ---
 
-## DAO Components
 
 The DAO pattern typically uses three components.
 

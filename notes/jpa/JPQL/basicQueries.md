@@ -3,7 +3,6 @@ layout: default
 title: Basic Queries with JPQL
 ---
 
-## Basic Queries with JPQL
 
 _Java Persistence Query Language_ (JPQL) is a SQL-like syntax for querying the database.
 

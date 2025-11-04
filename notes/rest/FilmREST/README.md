@@ -3,7 +3,6 @@ layout: default
 title: DEMO: REST Video Store
 ---
 
-## DEMO: REST Video Store
 
 ### Objectives
 * Write CRUD routes for `Address` and `Film` entities while adhering to RESTful principles.

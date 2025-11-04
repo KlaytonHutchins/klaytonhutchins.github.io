@@ -3,7 +3,6 @@ layout: default
 title: Dynamic Web Application
 ---
 
-## Dynamic Web Applications
 
 ### Objectives
 * Understand the purpose of a dynamic web application.

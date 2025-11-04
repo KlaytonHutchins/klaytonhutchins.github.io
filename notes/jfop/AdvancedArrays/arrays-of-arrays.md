@@ -3,7 +3,6 @@ layout: default
 title: Arrays of Array
 ---
 
-## Arrays of Arrays
 
 Since arrays themselves are objects, we can have arrays of arrays.
 

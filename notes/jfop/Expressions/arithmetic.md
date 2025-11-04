@@ -3,7 +3,6 @@ layout: default
 title: Arithmetic Expression
 ---
 
-## Arithmetic Expressions
 
 Arithmetic expressions translate mathematical formulas into computer
 instructions.

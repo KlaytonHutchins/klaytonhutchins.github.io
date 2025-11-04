@@ -3,7 +3,6 @@ layout: default
 title: Creating an Array
 ---
 
-## Creating an Array
 
 Declaring an array variable does not create the array.
 * It simply tells Java the variable will point to an array.

@@ -3,7 +3,6 @@ layout: default
 title: Declaring an Array
 ---
 
-## Declaring an Array
 
 When we declare variables, we must declare the _type_ and _name_.
 

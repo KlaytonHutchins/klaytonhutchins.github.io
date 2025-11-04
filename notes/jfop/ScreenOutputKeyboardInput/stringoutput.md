@@ -3,7 +3,6 @@ layout: default
 title: String Output
 ---
 
-## String Output
 
 We have seen how the `+` sign between `String` variables or literals _concatenates_ them.
 

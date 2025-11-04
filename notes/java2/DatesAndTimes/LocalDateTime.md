@@ -3,7 +3,6 @@ layout: default
 title: Date-Times and `Instant`
 ---
 
-## Date-Times and `Instant`
 
 `LocalDateTime` encapsulates both date and time information, with no time zone.
 
