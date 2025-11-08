@@ -494,4 +494,4 @@ Since `.git/hooks` is not tracked, share hooks via:
 
 <hr>
 
-[Up](README.md) -- [Previous](gitUndoing.md) -- [Next](gitCommands.md)
+[Previous](gitUndoing.md) -- [Up](README.md) -- [Next](gitCommands.md)

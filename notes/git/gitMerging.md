@@ -515,4 +515,4 @@ Merging is a fundamental Git operation that integrates changes from different br
 
 <hr>
 
-[Up](README.md) -- [Previous](gitBranching.md) -- [Next](gitRemotes.md)
+[Previous](gitBranching.md) -- [Up](README.md) -- [Next](gitRemotes.md)

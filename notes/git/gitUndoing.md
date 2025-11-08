@@ -390,4 +390,4 @@ Always prioritize safety: commit often, use branches for experiments, and prefer
 
 <hr>
 
-[Up](README.md) -- [Previous](gitRemotes.md) -- [Next](gitAdvanced.md)
+[Previous](gitRemotes.md) -- [Up](README.md) -- [Next](gitAdvanced.md)

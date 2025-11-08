@@ -699,4 +699,4 @@ git push origin <branch>    # Push branch to remote
 
 <hr>
 
-[Up](README.md) -- [Previous](gitCommitting.md) -- [Next](gitMerging.md)
+[Previous](gitCommitting.md) -- [Up](README.md) -- [Next](gitMerging.md)

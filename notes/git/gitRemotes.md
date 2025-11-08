@@ -477,4 +477,4 @@ git checkout -b local-branch origin/remote-branch
 
 <hr>
 
-[Up](README.md) -- [Previous](gitMerging.md) -- [Next](gitUndoing.md)
+[Previous](gitMerging.md) -- [Up](README.md) -- [Next](gitUndoing.md)

@@ -501,4 +501,4 @@ git restore --staged <file> # Unstage file (Git 2.23+)
 
 <hr>
 
-[Up](README.md) -- [Previous](gitRepositories.md) -- [Next](gitBranching.md)
+[Previous](gitRepositories.md) -- [Up](README.md) -- [Next](gitBranching.md)

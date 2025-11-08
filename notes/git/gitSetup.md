@@ -559,4 +559,4 @@ Your Git configuration is stored in plain text files, so you can always edit the
 
 <hr>
 
-[Up](README.md) -- [Previous](gitBasics.md) -- [Next](gitRepositories.md)
+[Previous](gitBasics.md) -- [Up](README.md) -- [Next](gitRepositories.md)

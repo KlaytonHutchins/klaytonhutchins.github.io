@@ -382,4 +382,4 @@ GitHub maintains a collection of useful `.gitignore` templates for different pro
 
 <hr>
 
-[Up](README.md) -- [Previous](gitSetup.md) -- [Next](gitCommitting.md)
+[Previous](gitSetup.md) -- [Up](README.md) -- [Next](gitCommitting.md)
