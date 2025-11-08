@@ -17,6 +17,8 @@ title: Notes / Technologies
 
 *  [Docker](docker/README.md)
 
+*  [Git](git/README.md)
+
 #### Java Programming
 
 *  [Java Fundamentals & OOP](jfop/README.md)
